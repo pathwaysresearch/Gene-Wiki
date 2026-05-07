@@ -1,0 +1,392 @@
+# Wiki Index
+
+Master catalog — 376 pages · last rebuilt 2026-05-07
+
+## Extracted Concepts (220)
+
+- [[concepts/academic-brain-drain-in-ai|Academic Brain Drain in AI]] — The academic brain drain in AI refers to the significant migration of leading researchers and talent from academic insti
+- [[concepts/agentic-era|Agentic Era]] — The Agentic Era describes a fundamental shift in organizational structure and management driven by AI. This new model ch
+- [[concepts/ai-adoption-imperative|AI Adoption Imperative]] — Karim Lakhani argues that for most companies, adopting AI and digital technologies into their core functions is not a ch
+- [[concepts/ai-adoption-strategy|AI Adoption Strategy]] — A successful AI adoption strategy should be built on the principle of AI as a complementary technology. The vision shoul
+- [[concepts/ai-adoption|AI Adoption]] — AI adoption is the integration of artificial intelligence technologies to reshape how organizations operate, compete, an
+- [[concepts/ai-agent|AI Agent]] — An AI Agent is defined as a tool distinct from a standard application, characterized by its ability to follow a user acr
+- [[concepts/ai-agents|AI Agents]] — AI agents are described as a form of artificial intelligence that can act autonomously to perform tasks. They represent 
+- [[concepts/ai-as-a-complementary-technology|AI as a Complementary Technology]] — This approach advocates for viewing and designing AI not as a tool to mimic or replace human experts, but as a technolog
+- [[concepts/ai-as-a-teammate|AI as a Teammate]] — The concept of "AI as a Teammate" describes the evolution of artificial intelligence's role in the workplace from a simp
+- [[concepts/ai-augmented-customer-service|AI-Augmented Customer Service]] — A common and established application of AI in customer service is the use of chatbots on company websites. These automat
+- [[concepts/ai-consciousness|AI Consciousness]] — The core of the discussion revolves around whether machines can be or will become conscious. The text highlights the unc
+- [[concepts/ai-cyborg-experience|AI Cyborg Experience]] — The AI cyborg experience describes consumer experiences that arise from the integration of artificial intelligence solut
+- [[concepts/ai-delegation-experience|AI Delegation Experience]] — A 'delegation experience' is one in which consumers involve an AI solution in a production process to perform tasks they
+- [[concepts/ai-driven-human-skill-gap|AI-Driven Human Skill Gap]] — As AI evolves from a simple assistant to a complex agent, it is fundamentally redefining what "intelligence" means in a 
+- [[concepts/ai-factories|AI Factories]] — An AI Factory is a business model structured around several key components. The text identifies these as a robust data p
+- [[concepts/ai-factory|AI Factory]] — The AI factory is a model that creates a virtuous cycle between user engagement, data collection, algorithm design, pred
+- [[concepts/ai-first-strategy|AI First Strategy]] — An "AI First" strategy represents a fundamental strategic shift for a company, moving Artificial Intelligence from a per
+- [[concepts/ai-for-ideation-and-creativity|AI for Ideation and Creativity]] — This application of AI centers on leveraging the technology to improve the "effectiveness piece" of work. The goal is to
+- [[concepts/ai-for-ideation|AI for Ideation]] — AI for Ideation involves using artificial intelligence systems as a collaborative partner in creative processes like bra
+- [[concepts/ai-impact-on-human-identity|AI's Impact on Human Identity]] — The development and diffusion of AI raises fundamental questions about how humans perceive themselves. Beyond the instru
+- [[concepts/ai-implementation-strategy|AI Implementation Strategy]] — A successful AI implementation requires a "meet in the middle" approach that combines two forces. The identification of 
+- [[concepts/ai-in-music-creation|AI in Music Creation]] — The use of AI in music represents a significant evolution in creative technology, enabling new workflows for artists, pr
+- [[concepts/ai-negotiation-bots|AI Negotiation Bots]] — AI negotiation bots are a specific application of artificial intelligence designed to conduct negotiations with other ag
+- [[concepts/ai-powered-coaching|AI-Powered Coaching]] — AI-powered coaching is a method for delivering personalized guidance and support to learners at scale. It leverages AI t
+- [[concepts/ai-regulation|AI Regulation]] — The text argues that AI needs to be regulated because the companies that control it are poised to become extremely power
+- [[concepts/ai-role-in-creativity|AI's Role in Creativity]] — The central question surrounding AI in creative industries is whether it will augment and enable creative workers or dis
+- [[concepts/ai-superhighway|AI Superhighway]] — The "AI Superhighway" is a strategic concept that reframes Grammarly's mission from being a grammar-focused tool to a co
+- [[concepts/ai-tool-provider-competition|AI Tool-Provider Competition]] — Unlike traditional tools, where the manufacturer and the user operate in separate markets, AI creates a new competitive 
+- [[concepts/ai-winters|AI Winters]] — The AI winters were periods in the history of AI research that saw a significant decline in funding and interest. These 
+- [[concepts/ais-impact-on-the-system-of-work|AI's Impact on the System of Work]] — This concept, based on the analysis of Sangeet Paul Choudary, posits that focusing solely on whether AI augments or disp
+- [[concepts/algorithmic-bias-and-fairness|Algorithmic Bias and Fairness]] — A key risk for companies is that their algorithms may be fair on average across a population but unfair to specific indi
+- [[concepts/algorithmic-bias|Algorithmic Bias]] — Algorithmic bias occurs when automated systems embed and perpetuate societal biases present in the data they are trained
+- [[concepts/algorithmic-bill-of-rights|Algorithmic Bill of Rights]] — The text argues that today's digital landscape, dominated by powerful algorithmic systems, demands a set of protections 
+- [[concepts/algorithmic-dehumanization|Algorithmic Dehumanization]] — Algorithmic dehumanization is an ethical issue that emerges when algorithms are used for making significant decisions ab
+- [[concepts/algorithmic-echo-chambers|Algorithmic Echo Chambers]] — The formation of echo chambers is closely linked to psychological concepts such as selective exposure, confirmation bias
+- [[concepts/algorithmic-management|Algorithmic Management]] — Algorithmic management refers to the deployment of algorithms and automated systems to direct, monitor, and evaluate emp
+- [[concepts/algorithmic-recommendations|Algorithmic Recommendations]] — Algorithmic recommendations are suggestions generated by automated systems to influence user choices. The text provides 
+- [[concepts/algorithmic-transparency|Algorithmic Transparency]] — Transparency plays a crucial role in building trust between users and algorithms. It involves informing users about what
+- [[concepts/anomaly-detection|Anomaly Detection]] — Anomaly detection is a type of unsupervised learning algorithm that identifies outliers in a dataset. The algorithm exam
+- [[concepts/api|Application Programming Interface (API)]] — In the context of an AI factory's data platform, APIs serve as the consistent interfaces through which applications acce
+- [[concepts/architectural-inertia|Architectural Inertia]] — Architectural inertia is the resistance that constrains an organization and hampers its response to change, particularly
+- [[concepts/architectural-innovation|Architectural Innovation]] — As defined in a 1990 paper by Rebecca Henderson and Kim Clark, architectural innovations are those that require changing
+- [[concepts/architecture-of-work|Architecture of Work]] — The concept of the "architecture of work" argues that focusing on whether an individual will be replaced by AI is a fram
+- [[concepts/artificial-general-intelligence|Artificial General Intelligence (AGI)]] — Artificial General Intelligence (AGI) is defined, from an academic perspective, as a system that possesses human-level c
+- [[concepts/artificial-intelligence|Artificial Intelligence]] — Artificial Intelligence (AI) is a term now commonly used to refer to the automation of interactions with customers and t
+- [[concepts/association-rule-mining|Association Rule Mining]] — Association rule mining is a broad category of unsupervised learning where algorithms look for the frequency and probabi
+- [[concepts/attention-economy|Attention Economy]] — The attention economy is a term used to describe the business model of many consumer-side big tech companies, especially
+- [[concepts/augmentation-vs-replacement-framework|Augmentation vs. Replacement Framework]] — This perspective frames AI primarily as a tool for efficiency and cost-saving. In this view, which Stefano Puntoni descr
+- [[concepts/automation-of-marketing-and-consumption|Automation of Marketing and Consumption]] — The automation of marketing and consumption is a central theme, described as a growing diffusion of automation in the ma
+- [[concepts/automation-of-repetitive-tasks|Automation of Repetitive Tasks]] — The text posits that a primary function of AI will be to free humans from repetitive and uninteresting tasks, allowing t
+- [[concepts/autonomous-decision-making-algorithms|Autonomous Decision-Making Algorithms]] — Autonomous decision-making algorithms are systems, particularly in AI and machine learning, that operate and make choice
+- [[concepts/belief-estimation|Belief Estimation]] — Belief estimation is the use of an AI model, such as an LLM, to approximate or replicate the stated beliefs of a populat
+- [[concepts/better-than-average-effect|Better-Than-Average Effect]] — The 'better-than-average effect' is a psychological phenomenon where individuals tend to believe they are more skilled o
+- [[concepts/bias-against-novelty|Bias Against Novelty]] — Bias against novelty is the tendency within scientific funding and evaluation systems to disfavor ideas that are new and
+- [[concepts/black-box-algorithms|Black Box Algorithms]] — The term "black box" refers to the challenge of understanding and trusting complex algorithms whose decision-making proc
+- [[concepts/blockchain|Blockchain]] — Blockchain is a maturing technology whose various components may be increasingly unbundled and tailored to fill a range 
+- [[concepts/bridging|Bridging (in networks)]] — Bridging is a business strategy where a firm connects multiple networks, often with different types of participants and 
+- [[concepts/business-architecture-in-the-age-of-ai|Business Architecture (in the age of AI)]] — As described by Karim Lakhani in his book "Competing in the Age of AI," business architecture refers to the foundational
+- [[concepts/business-model-transformation-with-ai|Business Model Transformation with AI]] — A business model consists of two core components: the way a company creates value for customers and the way it captures 
+- [[concepts/business-model|Business Model]] — A firm's business model is defined as the way it promises to create and capture value. It encompasses the company's core
+- [[concepts/change-as-a-skill|Change as a Skill]] — "Change as a Skill" is the concept that the ability to manage and undergo change is not just a temporary project but a c
+- [[concepts/change-management-in-ai-transformation|Change Management in AI Transformation]] — According to analysis by Karim Lakhani, a successful AI-driven digital transformation is composed of two distinct parts.
+- [[concepts/changing-role-of-the-cmo|Changing Role of the CMO]] — The role of the Chief Marketing Officer (CMO) has been undergoing a significant transformation, a trend that predates th
+- [[concepts/classification-experience|Classification Experience]] — The Classification Experience is a key part of the Consumer AI Experience framework, arising from the "predicting" capab
+- [[concepts/clinical-trials-of-ai|Clinical Trials of AI]] — "Clinical trials of AI" is a research framework for rigorously evaluating the impact of artificial intelligence on worke
+- [[concepts/cluster-analysis|Cluster Analysis]] — Cluster analysis is a type of unsupervised learning used to find meaningful groupings in data. The text illustrates this
+- [[concepts/clustered-networks|Clustered Networks]] — A clustered network is one that is grouped around individual local clusters, such as specific urban locations. In such a
+- [[concepts/cognitive-flexibility|Cognitive Flexibility]] — Cognitive flexibility is one of two primary pathways to creativity identified in a well-established model from social ps
+- [[concepts/collaborative-filtering-algorithms|Collaborative Filtering Algorithms]] — Collaborative filtering algorithms, such as those used by Amazon for product suggestions, operate by ingesting huge amou
+- [[concepts/collaborative-learning-model|Collaborative Learning Model]] — As described by Professor Karim Lakhani, the collaborative participants in a learning model is an educational approach w
+- [[concepts/collective-wisdom|Collective Wisdom]] — In the age of AI, new operating models are binding firms together across industries, countries, and markets, creating co
+- [[concepts/complementary-ai-framework|Complementary AI Framework]] — The central tenet of the Complementary AI Framework is to view artificial intelligence as a technology that enhances, ra
+- [[concepts/conscious-ai|Conscious AI]] — The text asserts that building conscious AI is 'clearly yes' possible in principle, as there is nothing 'spooky or myste
+- [[concepts/consumer-ai-experience|Consumer AI Experience]] — The Consumer AI Experience is a customer-centric framework for understanding artificial intelligence. It shifts the focu
+- [[concepts/contextual-value-of-tasks|Contextual Value of Tasks]] — A task's contextual value is its importance and relevance within a specific organizational or systemic context. This is 
+- [[concepts/cost-of-cognition|Cost of Cognition]] — The "cost of cognition" is a concept articulated by Karim Lakhani to describe the economic and operational resources req
+- [[concepts/customer-sentiment-analysis|Customer Sentiment Analysis]] — Customer sentiment analysis is a tool used to understand customer opinions from unstructured data. It automates the proc
+- [[concepts/data-capture-experience|Data Capture Experience]] — The Data Capture Experience is a core component of the broader Consumer AI Experience framework. It pertains to consumer
+- [[concepts/data-moats|Data Moats]] — A data moat is a strategic advantage created when an AI company provides value to users in exchange for their data. This
+- [[concepts/data-platform|Data Platform]] — A state-of-the-art data platform is the foundation for an "AI factory," providing a structure for software developers to
+- [[concepts/data-preparation|Data Preparation]] — Before data can be used to build an effective AI factory, it must be gathered and prepared, which is a challenging proce
+- [[concepts/data-wall-for-ai-training|Data Wall (for AI Training)]] — The "data wall" is a concept describing the imminent obstacle for training large AI models, which are predicted to have 
+- [[concepts/decision-driven-analytics|Decision-Driven Analytics]] — Decision-Driven Analytics is a process framework arguing that to make good decisions with data, one must start from the 
+- [[concepts/deep-learning|Deep Learning]] — Deep learning was one of the significant algorithmic innovations that drove the renewed success and resurgence of machin
+- [[concepts/deskilling-from-ai|Deskilling (from AI)]] — Deskilling is the process by which reliance on technology to perform certain tasks leads to the loss of the human abilit
+- [[concepts/deskilling|Deskilling]] — Deskilling is a phenomenon where the introduction of a new technology leads to the atrophy of skills that were previousl
+- [[concepts/digital-addiction|Digital Addiction]] — Digital addiction is a phenomenon where a user's engagement with an online platform becomes compulsive and difficult to 
+- [[concepts/digital-amplification|Digital Amplification]] — Digital Amplification refers to the way algorithms embedded in large-scale digital operating models can vastly increase 
+- [[concepts/digital-neighborhoods|Digital Neighborhoods]] — Digital neighborhoods are virtual environments that help online businesses organize and promote their products or servic
+- [[concepts/digital-operating-model|Digital Operating Model]] — A digital operating model represents a new kind of firm architecture designed to release the full potential of digital n
+- [[concepts/digital-transformation|Digital Transformation]] — Digital transformation is characterized as an "inexorable engine of systemwide transformation" fueled by the continuous 
+- [[concepts/digital-twins|Digital Twins]] — Within the context of market research, digital twins are described as a specific and advanced form of simulation. The te
+- [[concepts/direct-network-effects|Direct Network Effects]] — Direct network effects are a form of network effect where users directly value the presence of other users within the sa
+- [[concepts/divers-vs-runners-dichotomy|Divers vs. Runners Dichotomy]] — Stefano Puntoni introduces the 'Divers vs. Runners' dichotomy as a model to explain the sharp divide often observed betw
+- [[concepts/dominant-design|Dominant Design]] — As explained by Rahul Kapoor, a dominant design is a specific technology architecture that achieves widespread market do
+- [[concepts/dory-and-pulse|Dory and Pulse]] — Dory and Pulse is a specific two-part process described as a "golden ritual" used within a company to structure meetings
+- [[concepts/durable-skills|Durable Skills]] — Durable skills are abilities that are not easily automated and do not quickly become obsolete, in contrast to perishable
+- [[concepts/dynamic-nature-of-the-firm|Dynamic Nature of the Firm]] — The text critiques the common view of the firm as a stable entity into which AI is simply integrated to perform tasks mo
+- [[concepts/environmental-cost-of-ai|Environmental Cost of AI]] — Beneath the promise of AI's potential lies the spiralling cost of its infrastructure, encompassing monetary, environment
+- [[concepts/ethical-ai-and-fat-ml|Ethical AI and FAT ML]] — Ethical AI is an emerging field concerned with embedding ethical notions and principles into artificial intelligence sys
+- [[concepts/experimentation-and-sandboxing-for-ai|Experimentation and Sandboxing for AI]] — Experimentation and sandboxing is a proactive strategy for corporate AI adoption recommended by Karim Lakhani. It involv
+- [[concepts/expert-systems|Expert Systems]] — Expert systems represent an early approach in artificial intelligence. These systems were designed to be effective for n
+- [[concepts/explainability|Explainability]] — The unpredictability inherent in advanced, resilient AI systems necessitates a focus on explainability. As these algorit
+- [[concepts/exponential-organizations|Exponential Organizations]] — Exponential Organizations are a model for companies, typically digital and AI-native, that can sustain exponential growt
+- [[concepts/exponential-vs-linear-adoption-gap|Exponential vs. Linear Adoption Gap]] — The Exponential vs. Linear Adoption Gap is a strategic challenge highlighted by Karim Lakhani, describing the growing di
+- [[concepts/filter-bubble|Filter Bubble]] — A filter bubble is a phenomenon, particularly prevalent in social media and news feeds, where algorithms create a person
+- [[concepts/filter-bubbles|Filter Bubbles]] — A filter bubble is described as a significant concern related to AI, where the system filters out viewpoints that a user
+- [[concepts/frictionless-systems|Frictionless Systems]] — The text describes frictionless systems as a feature of the digital age, where economic, social, and political activitie
+- [[concepts/general-purpose-technology|General Purpose Technology]] — A General Purpose Technology (GPT) is a technology that has the power to change the world and humanity forever. Unlike s
+- [[concepts/generative-ai-business-effects|Generative AI Business Effects]] — As articulated by Karim Lakhani, the impact of generative AI on businesses can be categorized into three distinct effect
+- [[concepts/generative-ai-in-art|Generative AI in Art]] — Generative AI in art can operate by performing deep statistical analysis on an artist's existing body of work. As exempl
+- [[concepts/generative-ai-in-market-research|Generative AI in Market Research]] — The text argues that the conversation around GenAI in market research should shift from a narrow focus on efficiency and
+- [[concepts/generative-ai-in-r-d|Generative AI in R&D]] — The same generative AI technologies, specifically diffusion models, that are used for creative content generation like p
+- [[concepts/generative-ai-productivity-paradox|Generative AI Productivity Paradox]] — The Generative AI Productivity Paradox refers to the phenomenon where, despite significant interest and widespread adopt
+- [[concepts/generative-ai|Generative AI]] — Generative AI (genAI) refers to advanced algorithms designed to create new content, including text, images, audio, or vi
+- [[concepts/governance-framework-for-ai|Governance Framework for AI]] — A governance framework for AI, as described in the text, is a structured approach for overseeing automated decisions to 
+- [[concepts/hallucinations-ai|Hallucinations (AI)]] — In the context of Large Language Models (LLMs), "hallucinations" are defined as the generation of factually inaccurate s
+- [[concepts/hard-problem-of-consciousness|The Hard Problem of Consciousness]] — The hard problem of consciousness is explicitly defined in the text as the challenge of understanding "how certain physi
+- [[concepts/homophily|Homophily]] — Homophily is a principle describing the social tendency for individuals to be drawn to and form connections with others 
+- [[concepts/human-ai-collaboration|Human-AI Collaboration]] — The central idea of Human-AI Collaboration is to view and design AI as a complementary technology to human expertise. Th
+- [[concepts/human-ai-complementation|Human-AI Complementation]] — Human-AI Complementation is a strategic approach to career and organizational development in the age of artificial intel
+- [[concepts/human-ai-interaction-models|Human-AI Interaction Models]] — This approach has historically dominated the discussion around AI, focusing on how to take the human out of the equation
+- [[concepts/human-exceptionalism|Human Exceptionalism]] — The text describes a recent and fascinating shift in the discourse surrounding human exceptionalism in both popular and 
+- [[concepts/human-flourishing-ai-paradigm|Human Flourishing (AI Paradigm)]] — Proposed by Stefano Puntoni, the "human flourishing" paradigm is an alternative to the "human replacement" mindset. It r
+- [[concepts/human-impact-of-ai|Human Impact of AI]] — The human impact of AI is an area of study that analyzes the consequences of deploying artificial intelligence technolog
+- [[concepts/human-in-the-loop|Human in the Loop]] — The "human in the loop" model proposes that while routine or "grunt work" can be outsourced to AI, a human must remain a
+- [[concepts/human-replacement-ai-mindset|Human Replacement (AI Mindset)]] — A mindset for AI development, described by Stefano Puntoni as prevalent in the tech sector, is that of "human replacemen
+- [[concepts/humanized-ai-narrative|Humanized AI Narrative]] — The text identifies the 'Humanized AI Narrative' as the sociological starting point for social experiences with AI. It i
+- [[concepts/humans-as-managers-of-agents|Humans as Managers of Agents]] — Proposed by Shishir Mehrotra, this concept suggests that the role of humans in an AI-driven workplace will evolve to be 
+- [[concepts/humans-with-ai-thesis|Humans with AI Thesis]] — The "Humans with AI" thesis, as articulated by Karim Lakhani, posits that the primary threat to employment is not artifi
+- [[concepts/ideation-roles-for-llms|Ideation Roles for LLMs]] — "Ideation roles" are introduced as metaphors that clarify the functions Large Language Models (LLMs) can perform in crea
+- [[concepts/identity-motives-in-consumption|Identity Motives in Consumption]] — Identity motives in consumption refer to the drive to make purchasing decisions based on the desire to be a certain kind
+- [[concepts/identity-threat-from-ai|Identity Threat (from AI)]] — An identity threat from AI is a specific form of psychological threat that occurs when a worker perceives that an artifi
+- [[concepts/indirect-network-effects|Indirect Network Effects]] — Indirect network effects occur on multisided platforms or networks where there are at least two distinct user groups. Th
+- [[concepts/information-fiduciary|Information Fiduciary]] — An information fiduciary is defined as a person or business that deals in information and has an obligation to act in a 
+- [[concepts/intelligence-vs-consciousness-distinction|Intelligence vs. Consciousness Distinction]] — The text draws a sharp line between intelligence and consciousness, defining them as fundamentally different kinds of ph
+- [[concepts/internet-of-things|Internet of Things (IoT)]] — The Internet of Things (IoT) refers to a class of product innovations where physical objects are embedded with technolog
+- [[concepts/j-curve-of-productivity|J-Curve of Productivity]] — The J-Curve of Productivity is a pattern observed when new technologies, such as AI, are implemented in an organization.
+- [[concepts/jagged-technological-frontier|Jagged Technological Frontier]] — The "jagged technological frontier" is a term used to characterize the performance profile of AI systems. It signifies t
+- [[concepts/job-augmentation|Job Augmentation]] — Job augmentation is a key effect of AI on the labor market, distinct from simple job replacement. Instead of eliminating
+- [[concepts/just-in-time-insights|Just-in-Time Insights]] — Just-in-time insights refer to the ability to gain actionable knowledge from data quickly enough to act upon it while it
+- [[concepts/keystone-strategy|Keystone Strategy]] — A keystone strategy is a business approach centered on aligning a company's internal operations and external relationshi
+- [[concepts/labeling-bias|Labeling Bias]] — Labeling bias is a specific type of bias that is introduced into an AI system during the data labeling or tagging phase.
+- [[concepts/large-language-models|Large Language Models]] — Large Language Models (LLMs) are a form of artificial intelligence that users can employ to automate elements of various
+- [[concepts/learning-effects|Learning Effects]] — Learning effects capture the value that is added by increasing the amount of data flowing through a network. This data c
+- [[concepts/llm-augmented-persuasion|LLM-Augmented Persuasion]] — The text describes how Large Language Models (LLMs) can increase the perceived originality and creativity of ideas by au
+- [[concepts/llm-generated-impact-scores|LLM-Generated Impact Scores]] — The text suggests that LLM-generated “impact scores" could be a useful tool for editors seeking to predict whether a sub
+- [[concepts/lottery-based-funding-system|Lottery-Based Funding System]] — Proposed by Karim Lakhani, a lottery-based funding system is designed to counteract a fundamental bias against novelty i
+- [[concepts/machine-decisions|Machine Decisions]] — Machine decisions, also referred to as automated decisions, are choices and judgments made by AI and machine learning al
+- [[concepts/machine-intelligence|Machine Intelligence]] — Machine intelligence is presented as a critical tool for scaling business operations, customer acquisition, servicing, a
+- [[concepts/marketplace-metacognition|Marketplace Metacognition]] — Marketplace metacognition is a theoretical lens for understanding how consumers perceive and interact with intelligent a
+- [[concepts/mass-production|Mass Production]] — Mass production is built on concepts like specialization, focus, and standardization. These principles allow manufacturi
+- [[concepts/metaphorical-ideation-roles|Metaphorical Ideation Roles]] — Metaphorical Ideation Roles is a framework for thinking about different ways to use Generative AI in the ideation proces
+- [[concepts/microsoft-ai-principles|Microsoft AI Principles]] — Microsoft, through a collaboration between its research and CELA (Corporate, External, and Legal Affairs) teams, establi
+- [[concepts/mindful-friction|Mindful Friction]] — Mindful friction is the concept of consciously choosing to perform tasks manually rather than outsourcing everything to 
+- [[concepts/model-first-approach|Model-First Approach]] — A model-first approach to building products is a strategy where the design process begins with and is centered on the AI
+- [[concepts/multihoming|Multihoming]] — Multihoming occurs when participants of a network or platform concurrently use two or more competing services. For examp
+- [[concepts/multimodal-data|Multimodal Data]] — Multimodal data refers to datasets that incorporate multiple forms of information beyond just text. As described in the 
+- [[concepts/nadellas-law|Nadella's Law]] — Nadella's Law is a term coined to describe the accelerated pace of innovation in computing efficiency during the current
+- [[concepts/natural-language-processing|Natural Language Processing]] — Natural Language Processing (NLP) is a technique within AI used to make sense of unstructured data. According to Stefano
+- [[concepts/nature-x-nurture|Nature × Nurture]] — The concept of Nature × Nurture represents the scientific consensus that neither genetics (nature) nor our environment (
+- [[concepts/network-clustering|Network Clustering]] — Network clustering is a phenomenon that, along with multihoming, can serve as a check on the power of dominant platform 
+- [[concepts/network-effects|Network Effects]] — Network effects describe the value that is added by increasing the number of connections within and across networks. A s
+- [[concepts/not-all-creativity-is-worth-saving|Not All Creativity Is Worth Saving]] — This concept, presented as a key takeaway from David Droga, challenges the sentimental notion that all creative jobs mus
+- [[concepts/notifications-and-gamification|Notifications and Gamification]] — Notifications and gamification are popular design approaches used by product designers to increase user engagement with 
+- [[concepts/one-person-unicorn-company|One-Person Unicorn Company]] — The one-person unicorn company is a forward-looking concept describing a new type of company that venture capital invest
+- [[concepts/open-source-software|Open Source Software]] — Open source software is software made available for free and licensed under terms like the GNU Public License (GPL). The
+- [[concepts/operating-model|Operating Model]] — An operating model is defined as the way a firm delivers value to its customers. It encompasses all the systems, process
+- [[concepts/organizational-inertia|Organizational Inertia]] — As organizations expand in scale or scope, managerial processes can stop working well, leading to inefficiency and even 
+- [[concepts/perception-as-a-construction|Perception as a Construction]] — Neuroscientist Anil Seth explains that the world we experience is a form of "construction" created by the brain. He clar
+- [[concepts/platform-openness-dilemma|Platform Openness Dilemma]] — Platform companies must balance the competing needs for openness and control. An open platform can foster a large ecosys
+- [[concepts/possibility-space|Possibility Space]] — The concept of "possibility space" is central to the discussion by Valenzuela and colleagues (2024) on the psychological
+- [[concepts/predictability-resilience-paradox|Predictability-Resilience Paradox]] — The Predictability-Resilience Paradox describes a fundamental trade-off in the design of AI systems. On one hand, system
+- [[concepts/predictive-ai|Predictive AI]] — Predictive AI is a form of artificial intelligence that makes predictions and is then plugged into various tasks. This t
+- [[concepts/preference-driven-analytics|Preference-Driven Analytics]] — Preference-Driven Analytics is a phenomenon where the personal wishes and desires of a decision-maker begin to shape the
+- [[concepts/preferential-attachment|Preferential Attachment]] — Preferential attachment is a principle that describes how connections evolve in a growing network. It posits that new co
+- [[concepts/productive-struggle|Productive Struggle]] — Productive struggle is a learning process where a student is encouraged to actively work through a difficult problem on 
+- [[concepts/productivity-in-llm-ideation|Productivity (in LLM Ideation)]] — Productivity, in the context of LLM-assisted ideation, refers to the strategy of generating more ideas within a narrow d
+- [[concepts/recommendation-algorithms|Recommendation Algorithms]] — Recommendation algorithms are pervasive, shaping many aspects of modern life. They influence the products people conside
+- [[concepts/recommender-systems|Recommender Systems]] — Recommender systems are described as one of the most important use cases for algorithms in serving consumers, acting as 
+- [[concepts/redesign-of-education-with-ai|Redesign of Education with AI]] — The integration of AI into education presents an opportunity to move beyond traditional models and redesign how students
+- [[concepts/redundant-algorithmic-systems|Redundant Algorithmic Systems]] — Redundant algorithmic systems are designed to address the unpredictability of machine learning by employing multiple, co
+- [[concepts/reimagining-human-potential-in-the-ai-era|Reimagining Human Potential in the AI Era]] — This concept, as explored in the 'Creative Intelligence' podcast, addresses the fundamental shift in understanding human
+- [[concepts/reinforcement-learning-risks|Reinforcement Learning Risks]] — Reinforcement learning algorithms operate by creating and learning from their own self-generated data. While this can be
+- [[concepts/reinforcement-learning|Reinforcement Learning]] — Reinforcement learning is an approach to AI where a software agent learns by interacting with an environment. The agent 
+- [[concepts/retrieval-augmented-generation|Retrieval-Augmented Generation]] — Retrieval-augmented generation is a technique used to enhance the outputs of Large Language Models (LLMs) by supplementi
+- [[concepts/scaling|Scaling]] — As a company’s customer and employee count grow, scaling poses new challenges where activities that worked well in a sta
+- [[concepts/science-of-science|Science of Science]] — The 'science of science' is a research field that analyzes how science gets done. Karim Lakhani's work in this area expl
+- [[concepts/self-determination-theory-in-ai-context|Self-Determination Theory (in AI Context)]] — Self-Determination Theory is a classic psychology framework which posits that human well-being emerges from three fundam
+- [[concepts/self-determination-theory|Self-Determination Theory]] — Self-Determination Theory is a classic psychology framework which posits that human well-being emerges from three fundam
+- [[concepts/semantic-breadth-in-llm-ideation|Semantic Breadth (in LLM Ideation)]] — Semantic breadth is an ideation strategy that aims to generate ideas spanning more diverse semantic categories. This app
+- [[concepts/semantic-breadth|Semantic Breadth]] — Semantic breadth refers to the ability of Large Language Models (LLMs) to generate a diverse range of ideas by connectin
+- [[concepts/skill-generalization|Skill Generalization]] — Skill generalization is the transformation of a specialized skill, previously the domain of a dedicated professional, in
+- [[concepts/skill-replacing-vs-skill-allowing-automation|Skill-Replacing vs. Skill-Allowing Automation]] — Skill-replacing automation is a type of automation framed as taking care of a task entirely for a user, such as a cookin
+- [[concepts/socratic-conversation|Socratic Conversation]] — A Socratic conversation is a dialogue-based teaching method that guides a student toward understanding through a series 
+- [[concepts/solow-paradox|Solow Paradox]] — The Solow Paradox is a concept articulated by Nobel laureate Robert Solow in the mid-1980s to describe the apparent cont
+- [[concepts/stages-of-operating-model-transformation|Stages of Operating Model Transformation]] — Research on how firms develop AI-centered capabilities shows that they follow a natural sequence of stages in their jour
+- [[concepts/stimulus-sampling|Stimulus Sampling]] — Stimulus sampling is a methodological solution in experimental research aimed at addressing the problem of confounding v
+- [[concepts/strategic-collisions|Strategic Collisions]] — The text defines a strategic collision as a competitive dynamic that arises when firms from previously separate industri
+- [[concepts/substrate-independence-of-consciousness|Substrate-Independence of Consciousness]] — The text identifies a "deeper question" that is critical to the topic of AI consciousness: whether consciousness is depe
+- [[concepts/supervised-machine-learning|Supervised Machine Learning]] — Supervised machine learning is a process where an algorithm learns from labeled data—that is, data with validated, known
+- [[concepts/synthetic-data|Synthetic Data]] — Synthetic data is presented as a key tool enabled by Generative AI for market research. Its primary purpose is to serve 
+- [[concepts/team-rituals|Team Rituals]] — Team rituals are unique, structured processes that great teams employ to foster a specific and effective culture. The co
+- [[concepts/technological-deskilling|Technological Deskilling]] — The text presents deskilling not as a new phenomenon unique to AI, but as a consistent consequence of technological adva
+- [[concepts/the-actor-llm-ideation-role|The Actor (LLM Ideation Role)]] — "The Actor" is a specific ideation role where an LLM is used to imitate a consumer, allowing a researcher to "interview"
+- [[concepts/the-replaced-consumer|The Replaced Consumer]] — 'The Replaced Consumer' is a psychological perspective on the experience of AI delegation. The core idea is that the mer
+- [[concepts/the-six-cs-of-skills|The Six C's of Skills]] — The Six C's of Skills is a framework mentioned in the text that categorizes essential abilities into six areas: Content,
+- [[concepts/thin-product-thick-model|Thin Product, Thick Model]] — The "Thin Product, Thick Model" approach is a strategy for building AI-native products, also referred to as a "model-fir
+- [[concepts/threat-opportunity-time-gap|Threat-Opportunity Time Gap]] — The Threat-Opportunity Time Gap is a concept describing the natural delay between the perception of a new technology's t
+- [[concepts/transformer-architecture|Transformer Architecture]] — The Transformer is a novel neural network architecture that relies on a self-attention mechanism to process input data. 
+- [[concepts/transformer-models|Transformer Models]] — Transformer models are a type of neural network architecture that has become the foundation for most modern large langua
+- [[concepts/transhumanism|Transhumanism]] — The text defines transhumanist ideas as those which 'emphasize technological progress as an unstoppable force that alter
+- [[concepts/turing-test|Turing Test (Imitation Game)]] — The Turing Test, also referred to as the 'imitation game,' is a method for assessing a machine's intelligence based on i
+- [[concepts/unanticipated-consequences|Unanticipated Consequences]] — The text highlights the "Law of Unanticipated Consequences," a principle stating that decisions and actions often produc
+- [[concepts/use-case-specific-ai|Use-Case Specific AI]] — The text clarifies that the current reality of AI is not "general AI" but rather "very use case specific AI technologies
+- [[concepts/user-control-in-algorithmic-systems|User Control in Algorithmic Systems]] — The author argues for a necessary balance between user control and the efficiency of algorithmic performance. Giving use
+- [[concepts/user-control-in-automation|User Control in Automation]] — The concept of user control in automation posits that user confidence in automated systems is enhanced when people are g
+- [[concepts/value-capture|Value Capture]] — Value capture refers to the ability of a business to appropriate a portion of the value it creates for its user network.
+- [[concepts/weak-ai|Weak AI]] — Weak AI refers to artificial intelligence that is not a perfect replica of a human being but is specialized to perform s
+- [[concepts/workflow-re-engineering|Workflow Re-engineering]] — Workflow re-engineering is the practice of fundamentally rethinking and redesigning business processes in light of AI ca
+
+## Extracted Entities (106)
+
+- [[entities/a-humans-guide-to-machine-intelligence|A Human’s Guide to Machine Intelligence]] — "A Human’s Guide to Machine Intelligence" is a book authored by Kartik Hosanagar. He introduces the book at the beginnin
+- [[entities/accenture-song|Accenture Song]] — Accenture Song is identified as the creative agency of the global consulting firm Accenture. It is led by CEO David Drog
+- [[entities/airbnb|Airbnb]] — Airbnb is an online platform that connects people who want to rent out their homes with people who are looking for accom
+- [[entities/alan-turing|Alan Turing]] — Alan Turing is identified in the text as the figure who became famous, or 'more widely known,' for proposing the 'imitat
+- [[entities/algorithmic-accountability-act-of-2019|Algorithmic Accountability Act of 2019]] — The Algorithmic Accountability Act of 2019 is a proposed piece of legislation in the United States designed to regulate 
+- [[entities/alibaba|Alibaba]] — Alibaba is a major technology firm that operates in e-commerce, retail, and other sectors. The text highlights it as a "
+- [[entities/alphago-zero|AlphaGo Zero]] — AlphaGo Zero is a successor to the original AlphaGo system, also developed by Google's DeepMind. It represents a more ad
+- [[entities/alphago|AlphaGo]] — AlphaGo is a program developed by Google designed to play the complex two-player strategy game of Go. It gained fame for
+- [[entities/amazon-com|Amazon.com]] — Amazon.com is an e-commerce platform presented in the text as a familiar and relatable example of how algorithms drive d
+- [[entities/amazon|Amazon]] — Amazon poses a formidable challenge to traditional firms, especially in the retail industry, due to its convenience, low
+- [[entities/andrej-karpathy|Andrej Karpathy]] — Andrej Karpathy is identified as the creator of a key technical resource for understanding the inner workings of large l
+- [[entities/andrew-ng|Andrew Ng]] — Andrew Ng is presented as a key figure in making AI knowledge accessible. He is associated with two major online educati
+- [[entities/anil-seth|Anil Seth]] — Anil Seth is a professor at the University of Sussex, a neuroscientist, a TED speaker, and the author of the book "Being
+- [[entities/ant-financial|Ant Financial]] — Ant Financial originated from Alipay, a payment platform created by Alibaba in 2004 to solve the trust problem for its e
+- [[entities/ant-group|Ant Group]] — Ant Group is presented as a prime example of a company that has reimagined business operations at scale, achieving expon
+- [[entities/apache-struts|Apache Struts]] — Apache Struts is an open-source software framework used by companies to create enterprise applications. It is a widely u
+- [[entities/arts-and-machine-intelligence-program|Arts and Machine Intelligence (AMI) program]] — The Arts and Machine Intelligence (AMI) program is an initiative by Google designed to explore the intersection of art a
+- [[entities/autocomplete-google|Autocomplete (Google)]] — The autocomplete feature was created by Google software engineer Kevin Gibbs in 2004, initially as a side project to pre
+- [[entities/azure|Azure]] — Prior to 2011, Azure had been run as a separate, autonomous organization within Microsoft. This structure caused signifi
+- [[entities/bas|Bas]] — Bas is a Grammy-nominated and multi-platinum recording artist affiliated with Dreamville Records, J. Cole's label. He pa
+- [[entities/beauty-ai|Beauty.AI]] — Beauty.AI was an international beauty contest staged in 2016 by a Russian company called Youth Laboratories. The contest
+- [[entities/bezos-mandate|Bezos Mandate]] — The Bezos Mandate refers to an email sent by Amazon's CEO, Jeff Bezos, to all development teams in 2002. The directive w
+- [[entities/blooms-two-sigma-problem|Bloom's Two Sigma Problem]] — Bloom's Two Sigma Problem, also referred to as Bloom's two sigma study, is an educational finding originating from resea
+- [[entities/book-artificial-intelligence-a-modern-approach|Artificial Intelligence: A Modern Approach]] — "Artificial Intelligence: A Modern Approach" by Russell & Norvig (4th ed., 2020) is described as the definitive universi
+- [[entities/book-competing-in-the-age-of-ai|Competing in the Age of AI]] — "Competing in the Age of AI" (2020) by Marco Iansiti and Karim R. Lakhani of Harvard Business School (HBS) is recommende
+- [[entities/book-deep-learning|Deep Learning (book)]] — The book "Deep Learning" (2016) by Goodfellow, Bengio, and Courville is positioned as the "technical bible for neural ne
+- [[entities/boston-consulting-group|Boston Consulting Group (BCG)]] — The Boston Consulting Group (BCG) is a global management consulting firm. The text highlights it as a workplace where ma
+- [[entities/brian-valentine|Brian Valentine]] — Brian Valentine is a software executive who formerly worked at Microsoft, where he had overseen successful releases of m
+- [[entities/cade-metz|Cade Metz]] — Cade Metz is a technology correspondent with The New York Times, where his reporting covers artificial intelligence, rob
+- [[entities/cambridge-analytica|Cambridge Analytica]] — Cambridge Analytica was a data analytics firm that gained notoriety for its role in a major Facebook data privacy scanda
+- [[entities/chatgpt|ChatGPT]] — The text provides several examples of ChatGPT's advanced capabilities in a business education context. It shows the mode
+- [[entities/coda|Coda]] — Coda is a business productivity platform created by founder and former CEO Shishir Mehrotra. It is described as a tool t
+- [[entities/competing-in-the-age-of-ai|Competing in the Age of AI]] — "Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World" is a book authored by H
+- [[entities/creative-intelligence-podcast|Creative Intelligence (Podcast)]] — "Creative Intelligence" is a podcast hosted by Kartik Hosanagar, a professor at the Wharton School. The podcast is assoc
+- [[entities/creative-intelligence|Creative Intelligence]] — "Creative Intelligence" is a biweekly technology podcast hosted by Karthik Hosanagar, the John C. Hower Professor at the
+- [[entities/david-droga|David Droga]] — David Droga is a prominent figure in the advertising and creative industries, identified as the founder of the "legendar
+- [[entities/david-maslach|David Maslach]] — Dr. David Maslach is a research professor of entrepreneurship and the host of the discussion with Karim Lakhani. He is t
+- [[entities/deep-blue|Deep Blue]] — Deep Blue was a chess-playing computer whose significance in AI research is compared to the role of fruit flies in genet
+- [[entities/deep-seek|Deep Seek]] — Deep Seek is an AI company based in China that is part of the global AI development landscape, which the text notes is c
+- [[entities/deepmind|DeepMind]] — DeepMind is identified in the text as Google's AI research team. It is positioned at the forefront of significant breakt
+- [[entities/demis-hassabis|Demis Hassabis]] — Demis Hassabis is the founder of the AI lab DeepMind and is portrayed as a researcher who is not a conventional modeler 
+- [[entities/derek-ali|Derek Ali]] — Derek Ali is a highly respected, Grammy Award-winning sound engineer, introduced by Karim Lakhani as the recording engin
+- [[entities/digital-data-and-design-institute|Digital, Data, and Design (D^3) Institute]] — The Digital, Data, and Design (D^3) Institute is a research institute launched at Harvard Business School by Karim Lakha
+- [[entities/digital-data-design-institute|Digital, Data & Design (D^3) Institute at Harvard]] — The Digital, Data & Design (D^3) Institute at Harvard is a research center founded and chaired by Professor Karim R. Lak
+- [[entities/droga5|Droga5]] — Droga5 is a creative agency founded by David Droga. In the context of the discussion, it is referred to as a "legendary 
+- [[entities/dutch-east-india-company|Dutch East India Company]] — Founded in 1602, the Dutch East India Company is presented as possibly the first modern corporation. It was formed from 
+- [[entities/eightfold|Eightfold]] — Eightfold is identified in the text as a portfolio company that applies automation and AI to the recruiting industry. It
+- [[entities/engineears|EngineEars]] — EngineEars is a technology company founded by sound engineer Derek Ali. The platform is designed to provide comprehensiv
+- [[entities/equifax-data-breach-2017|Equifax Data Breach (2017)]] — The 2017 data breach at Equifax is presented as a significant case study in corporate security failures. According to th
+- [[entities/equifax|Equifax]] — Equifax is a credit-reporting company that, under the leadership of CEO Richard Smith starting in 2005, transformed from
+- [[entities/erasmus-university|Erasmus University]] — Erasmus University is an institution of higher education located in the city of Rotterdam in the Netherlands.
+- [[entities/fidelity-investments|Fidelity Investments]] — Fidelity Investments is a major financial services company that undertook a significant initiative to integrate artifici
+- [[entities/garry-kasparov|Garry Kasparov]] — Garry Kasparov is a world chess champion whose match against the AI computer Deep Blue is a significant event in the his
+- [[entities/generate-biomedicines|Generate Biomedicines]] — Generate Biomedicines is a company that operates at the intersection of artificial intelligence and biology. It is menti
+- [[entities/genius-makers|Genius Makers]] — "Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the World" is a book authored by New York Times re
+- [[entities/geoffrey-hinton|Geoffrey Hinton]] — Geoffrey Hinton is presented as a central protagonist in the story of modern AI and a key figure in Cade Metz's book "Ge
+- [[entities/gnu-public-license|GNU Public License (GPL)]] — The GNU Public License, or GPL, is a specific license under which open source software is made available for free. It is
+- [[entities/google-deepmind|Google's DeepMind]] — Google's DeepMind is an AI research institution responsible for significant breakthroughs in machine intelligence.
+- [[entities/google|Google]] — Google is a major technology company whose practices in algorithmic ad-targeting are discussed as a case study in the ch
+- [[entities/grammarly|Grammarly]] — Grammarly is a technology company, led by CEO Shishir Mehrotra, that is undergoing a significant strategic reinvention. 
+- [[entities/harvard-business-analytics-program|Harvard Business Analytics Program]] — The Harvard Business Analytics Program is an educational offering from Harvard. The program produced a "Meet Your Profes
+- [[entities/joscha-bach|Joscha Bach]] — Joscha Bach is an AI and cognitive science researcher whose ideas on consciousness are discussed in the text (where his 
+- [[entities/kai-fu-lee|Kai-Fu Lee]] — Kai-Fu Lee is identified in the text as an eminent computer scientist and technology investor. He is presented as an inf
+- [[entities/karim-lakhani|Karim Lakhani]] — Karim Lakhani is a faculty member at Harvard Business School (HBS), where he has taught for 17 years as of the time of t
+- [[entities/karim-r-lakhani|Karim R. Lakhani]] — Karim R. Lakhani is the Dorothy & Michael Hintze Professor of Business Administration at Harvard Business School. He is 
+- [[entities/karthik-hosanagar|Karthik Hosanagar]] — Karthik Hosanagar is the John C. Hower Professor at the Wharton School, Faculty Co-Director of Wharton Human-AI Research
+- [[entities/kartik-hosanagar|Kartik Hosanagar]] — Kartik Hosanagar is a professor at the Wharton School and the host of the podcast "Creative Intelligence." His work focu
+- [[entities/khan-academy|Khan Academy]] — Khan Academy is a nonprofit organization founded on the principle that in sectors like education, the decision-makers, p
+- [[entities/khanmigo|Khanmigo]] — For students, Khanmigo acts as a personal tutor that engages them in a "Socratic conversation" when they have a question
+- [[entities/kurt-delbene|Kurt DelBene]] — Kurt DelBene, an executive with extensive product experience, was convinced by Satya Nadella to return to Microsoft in 2
+- [[entities/large-language-models|Large Language Models]] — Large Language Models (LLMs) are described as the most popular and well-studied class of generative AI models. Their pri
+- [[entities/linux|Linux]] — Linux is cited as a major success story of the open source software movement. It is an operating system that has gained 
+- [[entities/luddite-movement|Luddite Movement]] — The Luddite movement is described as an early response to the technological changes of the Industrial Revolution. It eme
+- [[entities/marco-iansiti|Marco Iansiti]] — Marco Iansiti is the David Sarnoff Professor of Business Administration at Harvard Business School. At the school, he al
+- [[entities/microsoft|Microsoft]] — Before the transformation led by CEO Satya Nadella, Microsoft was considered a 'tired company' whose growth had stalled.
+- [[entities/napster|Napster]] — Napster was a service that emerged roughly 25 years ago which made the sharing and discovery of music highly convenient 
+- [[entities/netflix|Netflix]] — Netflix uses extensive behavioral data to personalize the user experience. By tracking actions like when viewers pause, 
+- [[entities/nils-nilsson|Nils Nilsson]] — Nils Nilsson was an influential figure in the field of artificial intelligence who contributed to the vision of general-
+- [[entities/nilsson|Nilsson]] — Nilsson is an AI researcher whose vision for the future of artificial intelligence is centered on practical, real-world 
+- [[entities/nokia|Nokia]] — Nokia was a leading mobile phone manufacturer that operated as a great product company, optimized to produce laser-focus
+- [[entities/ocado|Ocado]] — Ocado's core technological journey has been the continuous automation of its operating processes, particularly within it
+- [[entities/openai|OpenAI]] — OpenAI is the company behind the generative AI product ChatGPT. It has been developing its series of large language mode
+- [[entities/peloton|Peloton]] — Peloton is a fitness company that provides a high-end stationary bike featuring a large HD touchscreen. This screen allo
+- [[entities/r3ciprocity-project|R3ciprocity Project]] — The R3ciprocity Project is a software platform developed by Dr. David Maslach. It was born from the idea that there was 
+- [[entities/rahul-kapoor|Rahul Kapoor]] — Rahul Kapoor is the chairperson of the management department at Wharton. He contributes to the AI discussion by drawing 
+- [[entities/rakuten|Rakuten]] — Rakuten is a company mentioned in the context of organizational adaptation and change management. The discussion highlig
+- [[entities/rene-descartes|René Descartes]] — René Descartes was a French scientist and philosopher mentioned as a key intellectual influence in the 'Creative Intelli
+- [[entities/rodney-brooks|Rodney Brooks]] — Rodney Brooks is an AI researcher known for his critique of the prevailing focus of AI development on symbolic games.
+- [[entities/sangeet-paul-choudary|Sangeet Paul Choudary]] — Sangeet Paul Choudary is an author featured on the Creative Intelligence podcast. His work focuses on the systemic impac
+- [[entities/satya-nadella|Satya Nadella]] — When Satya Nadella took over as CEO, Microsoft was described as a 'tired company' that had stagnated after its period of
+- [[entities/shein|Shein]] — Shein is described as an AI-generated design company and a two-sided platform. On one side, it accumulates and engages c
+- [[entities/shishir-mehrotra|Shishir Mehrotra]] — Shishir Mehrotra is the CEO of Grammarly. His professional background includes founding and leading the business product
+- [[entities/stefano-puntoni|Stefano Puntoni]] — Stefano Puntoni is the Sebastian S. Kresge Professor of Marketing at The Wharton School, University of Pennsylvania. He 
+- [[entities/superhuman|Superhuman]] — Superhuman is an email application that is highlighted as a great example of a modern AI-powered tool. It is discussed i
+- [[entities/tay-chatbot|Tay (chatbot)]] — Tay was an AI-powered chatbot introduced by Microsoft on Twitter in 2016. It was designed to engage with users in a pers
+- [[entities/tencent|Tencent]] — Founded in Shenzhen in 1998, Tencent is one of the companies behind the major "collisions" between digital technology an
+- [[entities/tensorflow|TensorFlow]] — TensorFlow is described as a "now almost ubiquitous machine learning framework." It is presented as a key product that i
+- [[entities/tesla-autopilot|Tesla Autopilot]] — Tesla Autopilot is an advanced driver-assistance system featured in the company's vehicles. The text discusses it in the
+- [[entities/the-next-rembrandt|The Next Rembrandt]] — "The Next Rembrandt" was created approximately 350 years after the artist's death using artificial intelligence. Scienti
+- [[entities/the-wharton-school|The Wharton School]] — The Wharton School is the business school of the University of Pennsylvania. It is the academic home of Stefano Puntoni,
+- [[entities/uber|Uber]] — Uber's platform exhibits indirect network effects, where riders value a large number of drivers and vice versa. However,
+- [[entities/walmart|Walmart]] — Founded by Sam Walton in 1962, Walmart has historically been a leader in leveraging technology within a traditional reta
+- [[entities/wechat|WeChat]] — WeChat is an app created by Tencent that allows users to transfer money instantly, digitally, and securely. Its use is w
+- [[entities/wharton|The Wharton School]] — The Wharton School is a prominent business school where Stefano Puntoni is a professor. It serves as a setting for devel
+- [[entities/yann-lecun|Yann LeCun]] — Yann LeCun is a significant figure in the AI field, identified as a good friend of Geoffrey Hinton going back decades. H
+- [[entities/yodle|Yodle]] — Yodle was a marketing platform designed to help small, hyperlocal businesses advertise on Google and other digital platf
+
+## Query-Synthesized Pages (0)
+
+<!-- No synthesized pages yet -->
+
+## RAG Stubs (50)
+
+- [[stubs/stub-342-the-secrets-to-high-ai-adoption-with-stefano-puntoni-professor-at-wharton-ij|342 The Secrets To High Ai Adoption With Stefano Puntoni Professor At Wharton]] — This is an episode of DataCamp's Data Framed podcast (published 2026-01-19) featuring Stefano Puntoni, Sebastian S. Kres
+- [[stubs/stub-a-humans-guide-to-machine-intelligence-pdf|A Human's Guide to Machine Intelligence PDF]] — Written by Kartik Hosanagar, this book examines how algorithms are shaping human lives and decision-making, and how indi
+- [[stubs/stub-ai-and-the-new-rules-of-leadership-sneak-peek-with-karim-lakhani-ujgl5cw8vuw|AI and the New Rules of Leadership — Sneak Peek with Karim Lakhani]] — This is a short teaser video from the HBS Club of the GCC featuring Harvard Professor Karim Lakhani, previewing an upcom
+- [[stubs/stub-ai-needs-clinical-trials-harvards-findings-on-democratization-karim-r-lakhani-te|AI Needs Clinical Trials: Harvard's Findings on Democratization | Karim R. Lakhani | TEDxBoston]] — Harvard Business School professor Karim R. Lakhani presents research from Harvard's Digital Data Design Institute on con
+- [[stubs/stub-ai-wont-replace-humansbut-humans-with-ai-will-replace-humans-without-ai-kngr99lo|AI Won't Replace Humans—But Humans With AI Will Replace Humans Without AI]] — This is an interview from Harvard Business Review's "The New World of Work" video series (August 2023), in which HBR edi
+- [[stubs/stub-ai|AI]] — This source is a composite document covering two main areas: (1) a skills cluster guide for AI, Data & Analytics within 
+- [[stubs/stub-being-human-in-age-of-ai|Being Human In Age Of Ai]] — This source is an introduction to a JACR (Journal of the Association for Consumer Research) special issue on the Automat
+- [[stubs/stub-business-technology-and-innovation-with-ai-faculty-speak-vishal-karungulam-xdr-f|Business Technology And Innovation With Ai Faculty Speak Vishal Karungulam Xdr Fspx1U]] — This is a faculty speak video by Vishal Karungulam, published by ISB Online, introducing the Certificate Programme in Bu
+- [[stubs/stub-business-technology-innovation-with-ai-faculty-speak-vishal-karungulam-2lv9sxfyz|Business Technology Innovation With Ai Faculty Speak Vishal Karungulam 2Lv9Sxfyzgw]] — This video features Vishal Karungulam, Clinical Assistant Professor at ISB, discussing the Business Technology & Innovat
+- [[stubs/stub-can-ai-be-conscious-anil-seth-on-sentient-machines-86mpompfiwk|Can AI Be Conscious? Anil Seth on Sentient Machines]] — This episode of Creative Intelligence features a conversation between host Kartik Hosanagar (Wharton School professor an
+- [[stubs/stub-competing-in-the-age-of-ai-expert-karim-lakhani-from-d3-at-harvard-business-scho|Competing in the Age of AI — Karim Lakhani, D³ at Harvard Business School]] — Harvard Business School professor Karim Lakhani presents a talk on competing in the age of AI, drawing on his research t
+- [[stubs/stub-competing-in-the-age-of-ai-marco-iansiti-and-karim-r-lakhani-xhm5ckwig0|Competing In The Age Of Ai Marco Iansiti And Karim R Lakhani Xhm5Ckwig0]] — This is a presentation by Harvard Business School Professors Marco Iansiti and Karim R. Lakhani discussing their book "C
+- [[stubs/stub-competing-in-the-age-of-ai-strategy-and-leadership-when-algorithms-and-networks-|Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World]] — This book by Marco Iansiti and Karim R. Lakhani (Harvard Business Review Press, 2020) examines how artificial intelligen
+- [[stubs/stub-consumers-and-artificial-intelligence|Consumers And Artificial Intelligence]] — This is a 2021 article published in the *Journal of Marketing* (Vol. 85, Issue 1) by Stefano Puntoni, Rebecca Walker Rec
+- [[stubs/stub-creativity-in-ai-with-music-derek-ali-bas-karim-lakhani-leading-with-ai-session-|Creativity In Ai With Music Derek Ali Bas Karim Lakhani Leading With Ai Session Lcrw1Hktcfw]] — This is a recorded session from the Harvard Business School AI Institute's "Leading with AI" series (June 2024) featurin
+- [[stubs/stub-digital-transformation-strategy-become-an-ai-company-with-hbs-prof-karim-lakha-e|Digital Transformation Strategy Become An Ai Company With Hbs Prof Karim Lakha Exmnqbstf7Q]] — HBS Professor Karim Lakhani discusses how established organizations can develop enterprise AI and digital transformation
+- [[stubs/stub-empowering-scientists-lottery-based-funding-system-karim-lakhani-harvard-busines|Empowering Scientists Lottery Based Funding System Karim Lakhani Harvard Busines Ez3Hqcfwu9E]] — A conversation between Dr. David Maslach (R3ciprocity Project) and Professor Karim Lakhani (Harvard Business School) exp
+- [[stubs/stub-from-fear-to-adoption-stefano-puntoni-on-fixing-ai-in-the-workplace-the-data-chi|From Fear To Adoption Stefano Puntoni On Fixing Ai In The Workplace The Data Chi 4Lsw V8Nf5K]] — Wharton Professor Stefano Puntoni joins Cindi Howson on The Data Chief to discuss why AI adoption in the workplace is fa
+- [[stubs/stub-how-ai-changes-the-entire-system-of-work-not-just-your-job-sangeet-paul-choudary|How AI Changes the Entire System of Work (Not Just Your Job) – Sangeet Paul Choudary]] — In this episode of the Creative Intelligence podcast, Sangeet Paul Choudary joins host Kartik Hosanagar to argue that AI
+- [[stubs/stub-how-ai-is-reshaping-education-with-sal-khan-fnjb69rdcyg|How AI Is Reshaping Education With Sal Khan]] — This is the series premiere of the "Creative Intelligence" podcast hosted by Kartik Hosanagar (Wharton professor and AI 
+- [[stubs/stub-how-ai-is-rewriting-the-rules-of-business-feat-prof-karim-lakhani-74ggobgerue|How AI Is Rewriting the Rules of Business (Feat. Prof. Karim Lakhani)]] — In this episode of Brew Markets (Episode 50, aired October 24, 2025), host Ann Barry interviews Harvard Professor Karim 
+- [[stubs/stub-how-gen-ai-is-revolutionizing-market-research-with-stefano-puntoni-hj3ey-e3svy|How Gen AI Is Revolutionizing Market Research With Stefano Puntoni]] — Stefano Puntoni (Co-Director, Wharton Human-AI Research) and Nick Graham (Founder, Vertemis) discuss how generative AI s
+- [[stubs/stub-ideation-with-generative-ai-insights-from-whartons-dr-stefano-puntoni-6e1r8wt-1h|Ideation With Generative AI: Insights from Wharton's Dr. Stefano Puntoni]] — Dr. Stefano Puntoni of The Wharton School discusses his research on using generative AI for creative ideation in consume
+- [[stubs/stub-ideation-with-generative-ai-published-75dccafd-9c43-46f5-9f56-06a11da7a7cf|Ideation With Generative Ai (Published) 75Dccafd 9C43 46F5 9F56 06A11Da7A7Cf]] — This academic paper by Julian De Freitas, Gideon Nave, and Stefano Puntoni explores the use of generative AI (genAI), pa
+- [[stubs/stub-karim-lakhani-knowledge-base|Karim Lakhani Knowledge Base]] — This is a comprehensive knowledge base compiling the articles, publications, and interviews of Karim Lakhani, a Harvard 
+- [[stubs/stub-karthik-hosanagar-knowledge-base|Karthik Hosanagar Knowledge Base]] — This knowledge base compiles articles, publications, podcast episodes, and social media posts by Kartik Hosanagar, the J
+- [[stubs/stub-kartik-hosanagar-when-ai-runs-the-show-how-algorithms-shape-our-daily-choices-ep|Kartik Hosanagar | When AI Runs the Show: How Algorithms Shape Our Daily Choices | Ep 21]] — This is Episode 21 of The IJK Podcast (June 2025), in which host Imad Jack Karam interviews Professor Kartik Hosanagar o
+- [[stubs/stub-keynote-speaker-kartik-hosanagar-presented-by-speakerscom-artificial-intelligenc|Keynote Speaker Kartik Hosanagar Presented By Speakerscom Artificial Intelligenc Hv8Iskgfd9C]] — Kartik Hosanagar, Wharton School professor and author of *A Human's Guide to Machine Intelligence*, presents a keynote t
+- [[stubs/stub-keynote-stefano-puntoni-the-wharton-school-on-ai-platforms-and-the-fow-at-reshap|Keynote: Stefano Puntoni (The Wharton School) — AI, Platforms, and the Future of Work at Reshaping Work 2025]] — Stefano Puntoni of The Wharton School delivers a keynote at Reshaping Work 2025 examining how AI and digital platforms a
+- [[stubs/stub-llms-and-alleviating-loneliness-with-dr-stefano-puntoni-ewohruzgsgo|LLMs and Alleviating Loneliness with Dr. Stefano Puntoni]] — This is a podcast episode from The Neural Network (published 2024-10-27) featuring Dr. Stefano Puntoni, a professor of m
+- [[stubs/stub-meet-your-professor-karim-lakhani-3fxd636yto8|Meet Your Professor Karim Lakhani 3Fxd636Yto8]] — This is a short introductory video from the Harvard Business Analytics Program featuring Professor Karim Lakhani discuss
+- [[stubs/stub-not-all-creativity-is-worth-saving-with-david-droga-kzs60wmlwwg|Not All Creativity Is Worth Saving With David Droga]] — This episode of Creative Intelligence features host Kartik Hosanagar (Wharton professor) in conversation with David Drog
+- [[stubs/stub-playing-offense-and-defense-in-the-age-of-ai-with-shishir-mehrotra-4v8ipuv5age|Playing Offense And Defense In The Age Of Ai With Shishir Mehrotra 4V8Ipuv5Age]] — In this episode of Creative Intelligence, host Kartik Hosanagar (Wharton professor) interviews Shishir Mehrotra — CEO of
+- [[stubs/stub-professor-stefano-puntoni-speaks-on-how-ai-is-changing-human-identity-mkpund-pfn|Professor Stefano Puntoni Speaks On How Ai Is Changing Human Identity]] — Professor Stefano Puntoni delivers a talk at Ahmedabad University exploring how rapid advances in artificial intelligenc
+- [[stubs/stub-reskilling-for-an-ai-era-with-keith-ferrazzi-and-gautam-tambay-wws-3jyihxu|Reskilling for an AI Era with Keith Ferrazzi and Gautam Tambay]] — This episode of the Creative Intelligence podcast, hosted by Wharton professor Kartik Hosanagar, features a conversation
+- [[stubs/stub-rethinking-the-ai-stack-data-agentic-ai-and-organizational-design-wharton-global|Rethinking the AI Stack: Data, Agentic AI, and Organizational Design – Wharton Global Forum]] — A panel discussion from the 2025 Wharton Global Forum in San Francisco, moderated by Kartik Hosanagar, featuring leaders
+- [[stubs/stub-rise-of-ai-how-ai-shapes-human-identity-wharton-prof-stefano-puntoni-ripple-effe|Rise of AI: How AI Shapes Human Identity — Wharton Prof. Stefano Puntoni (Ripple Effect Podcast)]] — This is a Knowledge at Wharton Ripple Effect podcast episode (May 2023) featuring Wharton marketing professor Stefano Pu
+- [[stubs/stub-rise-of-ai-how-do-we-coexist-with-algorithms-kartik-hosanagar-ripple-effect-podc|Rise of AI: How Do We Coexist with Algorithms? | Kartik Hosanagar — Ripple Effect Podcast]] — Wharton professor Kartik Hosanagar discusses the rapid acceleration of AI development and its transformative implication
+- [[stubs/stub-scaling-through-machine-intelligence-and-data-science-oqgqrco4we0|Scaling Through Machine Intelligence And Data Science Oqgqrco4We0]] — This is a Wharton Scale School event (the ninth in the series) hosted at the Wharton San Francisco campus, focused on ho
+- [[stubs/stub-stefano-puntoni-decision-driven-analytics-talks-at-google-mvee-jedth8|Stefano Puntoni | Decision-Driven Analytics | Talks at Google]] — Professor Stefano Puntoni of The Wharton School discusses his book "Decision-Driven Analytics: Leveraging Human Intellig
+- [[stubs/stub-stefano-puntoni-knowledge-base|Stefano Puntoni Knowledge Base]] — This knowledge base compiles articles, publications, and podcast appearances by Stefano Puntoni, a Wharton professor foc
+- [[stubs/stub-the-founding-fathers-of-modern-ai-with-cade-metz-lknojlnfsne|The Founding Fathers Of Modern Ai With Cade Metz Lknojlnfsne]] — This is a conversation between Wharton professor Kartik Hosanagar and New York Times reporter Cade Metz, author of *Geni
+- [[stubs/stub-the-rise-of-ai-an-alternative-to-human-replacement-spbtoslojk|The Rise Of Ai An Alternative To Human Replacement Spbtoslojk]] — This is a conversation with Stefano Puntoni, AI at Wharton faculty co-director, discussing how to reframe the dominant "
+- [[stubs/stub-the-rise-of-ai-creating-a-dominant-design-fke5fzr5fag|The Rise Of Ai Creating A Dominant Design Fke5Fzr5Fag]] — This is a conversation between Wharton professors Rahul Kapoor (management department chairperson) and Stefano Puntoni (
+- [[stubs/stub-this-is-what-ai-native-actually-looks-like-in-finance-feat-karim-lakhani-dfugiyp|This Is What AI-Native Actually Looks Like In Finance (Feat. Karim Lakhani)]] — This Brew Markets video explores what an "AI-native" financial firm looks like, featuring discussion with Karim Lakhani 
+- [[stubs/stub-understanding-ai-kartik-hosanagar-0ff9ni0kutu|Understanding AI | Kartik Hosanagar]] — This is a CGTN America interview (2024) with Kartik Hosanagar, Professor and Co-Director of AI at Wharton (University of
+- [[stubs/stub-vishal-karungulam-knowledge-base|Vishal Karungulam Knowledge Base]] — This knowledge base compiles articles, publications, podcast appearances, and LinkedIn posts by or about Vishal Karungul
+- [[stubs/stub-welcome-to-creative-intelligence-gkgbp4txoi8|Welcome To Creative Intelligence Gkgbp4Txoi8]] — This is a short trailer/teaser video for "Creative Intelligence," a new podcast hosted by Kartik Hosanagar, Faculty Co-D
+- [[stubs/stub-wharton-professor-stefano-puntoni-offers-insights-on-generative-ai-and-customer-|Wharton Professor Stefano Puntoni Offers Insights On Generative Ai And Customer Experience]] — Wharton marketing professor Stefano Puntoni discusses the impact of generative AI on business and customer experience (C
+- [[stubs/stub-what-happens-if-you-ignore-ai-adoption-in-your-organization-faculty-qa-cvfeedy2s|What Happens If You Ignore AI Adoption In Your Organization — Faculty Q&A]] — This is a faculty Q&A video from HBS Online featuring Harvard Business School Professor Karim Lakhani, exploring the con

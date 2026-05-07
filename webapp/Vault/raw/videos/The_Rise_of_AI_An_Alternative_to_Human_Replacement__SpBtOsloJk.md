@@ -1,0 +1,11 @@
+# The Rise of AI: An Alternative to Human Replacement
+
+**Channel:** Wharton Magazine   |   **Date:** 2024-03-21   |   **URL:** https://www.youtube.com/watch?v=_SpBtOsloJk
+
+## Description
+
+Stefano Puntoni, AI at Wharton faculty co-director, on how to shift the “human or AI” mindset and achieve “human flourishing” by incorporating the technology into organizational workflows. This conversation was filmed during Inside Wharton Magazine, an event for alumni held in Wharton’s WAVE classroom to mark the launch of the Fall/Winter 2023 issue. Moderated by Wharton Magazine editor-in-chief Richard Rys.
+
+## Transcript
+
+Stefano Puntoni: Right now, a lot of the conversations that you hear around AI have this flavor of human replacement. And a lot of that comes from the fact that in the tech sector, the natural way of thinking about AI is say, see a human doing a task, figure out how it does it so that then we can have a machine doing it. And so that's kind of mindset I call it human or AI. And I think as a business school, what we can do is to take a different perspective and say, we want to understand how we're going to use AI in organizations, in workflows, in functions. And to do that, you need to have an understanding of business. You can't do it just as an engineer or computer scientist. And as such then we have the ability to maybe shift the conversation and talk about human and AI. And maybe flipping from this theme of human replacement, say maybe a theme of human flourishing, a place where humans are doing better work, more meaningful work. They have a, they're more productive, they create more economic wealth and potentially a lot of other good things that we want in society, rather than this kind of like often quite negative theme around, you know, people being replaced and people being obsolete and so forth. We as a business school be uniquely positioned, I think, to inform that conversation, which I think is maybe one of the most important conversations going on in society today.
