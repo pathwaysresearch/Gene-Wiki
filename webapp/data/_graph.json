@@ -4981,6 +4981,23 @@
         "rag-stub"
       ],
       "path": "wiki\\stubs\\stub-what-happens-if-you-ignore-ai-adoption-in-your-organization-faculty-qa-cvfeedy2s.md"
+    },
+    "genai-impact-on-hr-functions": {
+      "type": "synthesized",
+      "title": "GenAI's Impact on Human Resources: A Function-by-Function Framework",
+      "aliases": [
+        "GenAI and HR",
+        "AI Impact on Human Resources",
+        "Generative AI HR Framework"
+      ],
+      "tags": [
+        "human-resources",
+        "ai-strategy",
+        "future-of-work",
+        "organizational-change",
+        "workforce-management"
+      ],
+      "path": "wiki/synthesized/genai-impact-on-hr-functions.md"
     }
   },
   "edges": [
@@ -9773,6 +9790,36 @@
       "from": "index",
       "to": "stubs/stub-what-happens-if-you-ignore-ai-adoption-in-your-organization-faculty-qa-cvfeedy2s",
       "type": "references"
+    },
+    {
+      "from": "genai-impact-on-hr-functions",
+      "to": "ais-impact-on-the-system-of-work",
+      "type": "extends"
+    },
+    {
+      "from": "genai-impact-on-hr-functions",
+      "to": "augmentation-vs-replacement-framework",
+      "type": "extends"
+    },
+    {
+      "from": "genai-impact-on-hr-functions",
+      "to": "architecture-of-work",
+      "type": "extends"
+    },
+    {
+      "from": "genai-impact-on-hr-functions",
+      "to": "stub-how-ai-changes-the-entire-system-of-work-not-just-your-job-sangeet-paul-choudary",
+      "type": "synthesized_from"
+    },
+    {
+      "from": "genai-impact-on-hr-functions",
+      "to": "stub-keynote-stefano-puntoni-the-wharton-school-on-ai-platforms-and-the-fow-at-reshap",
+      "type": "synthesized_from"
+    },
+    {
+      "from": "genai-impact-on-hr-functions",
+      "to": "self-determination-theory-in-ai-context",
+      "type": "applies"
     }
   ]
 }

@@ -390,3 +390,5 @@ Master catalog — 376 pages · last rebuilt 2026-05-07
 - [[stubs/stub-welcome-to-creative-intelligence-gkgbp4txoi8|Welcome To Creative Intelligence Gkgbp4Txoi8]] — This is a short trailer/teaser video for "Creative Intelligence," a new podcast hosted by Kartik Hosanagar, Faculty Co-D
 - [[stubs/stub-wharton-professor-stefano-puntoni-offers-insights-on-generative-ai-and-customer-|Wharton Professor Stefano Puntoni Offers Insights On Generative Ai And Customer Experience]] — Wharton marketing professor Stefano Puntoni discusses the impact of generative AI on business and customer experience (C
 - [[stubs/stub-what-happens-if-you-ignore-ai-adoption-in-your-organization-faculty-qa-cvfeedy2s|What Happens If You Ignore AI Adoption In Your Organization — Faculty Q&A]] — This is a faculty Q&A video from HBS Online featuring Harvard Business School Professor Karim Lakhani, exploring the con
+
+- [[synthesized/genai-impact-on-hr-functions|GenAI's Impact on Human Resources: A Function-by-Function Framework]] — synthesized from query
