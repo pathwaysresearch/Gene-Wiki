@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**Danny** — a dual-LLM knowledge chatbot for a domain expert (currently Prof. Deepa Mani, ISB). Two Claude agents collaborate on every query: one navigates and maintains the wiki (WIKI_LLM, Sonnet), one synthesises the answer (MAIN_LLM, Opus). Source knowledge lives in two tiers: a structured wiki (`Vault/wiki/`) and a FAISS-backed RAG database (`data/chunks.json`).
+**Gene** — a dual-LLM knowledge chatbot for a domain expert (currently Prof. Deepa Mani, ISB). Two Claude agents collaborate on every query: one navigates and maintains the wiki (WIKI_LLM, Claude Sonnet 4.6), one synthesises the answer (MAIN_LLM, Claude Opus 4.6). Source knowledge lives in two tiers: a structured wiki (`Vault/wiki/`) and a FAISS-backed RAG database (`data/chunks.json`).
 
 Deployed as: **Flask backend on Google Cloud Run** + **static frontend on Vercel**.
 
@@ -20,6 +20,8 @@ pip install -r requirements.txt
 cp .env.example .env          # fill ANTHROPIC_API_KEY, GEMINI_API_KEY, GITHUB_TOKEN
 python webapp/api/index2.py --serve
 # Open http://localhost:5001
+# Optional: override models at startup
+python webapp/api/index2.py --serve --model1 claude-sonnet-4-6 --model2 claude-opus-4-6
 ```
 
 ### Interactive REPL (no browser)
@@ -38,9 +40,25 @@ python webapp/api/index2.py --rebuild-graph
 python webapp/api/index2.py --build-wiki-index
 ```
 
+### Running tests
+```bash
+pytest                                                          # all tests
+pytest -m "not requires_api and not requires_model and not slow"  # fast offline (no GPU/keys)
+pytest tests/test_kb.py                                         # single file
+pytest tests/test_kb.py::test_some_function                     # single test
+```
+
+Test markers (defined in `pytest.ini`):
+- `requires_api` — needs live `ANTHROPIC_API_KEY` / `GEMINI_API_KEY`
+- `requires_model` — needs real BERT/Gemma weights in `webapp/models/`
+- `slow` — slower tests involving mocked HTTP round-trips
+
+`tests/conftest.py` stubs heavy libs (`torch`, `faiss`, `fastembed`, `llama_cpp`) at collection time so the vast majority of tests run without any GPU or model files.
+
 ### Ingest workflow (run in order when adding new source material)
 ```bash
 python scripts/ingest.py --scan                         # preview new files
+python scripts/ingest.py --process Vault/raw/books/X.md # process a single file
 python scripts/ingest.py --process-all                  # chunk + embed into data/chunks.json
 python scripts/tag_blooms.py                            # tag new chunks (skips already-tagged)
 python scripts/extract_entities.py --all                # LLM-generate wiki concept/entity pages
@@ -60,6 +78,7 @@ python scripts/graph.py --traverse <slug>
 ### Bloom's taxonomy tagging
 ```bash
 python scripts/tag_blooms.py                  # tag only untagged chunks
+python scripts/tag_blooms.py --skip-gemma     # BERT only (sentence-split, no Gemma — faster)
 python scripts/tag_blooms.py --reset          # strip all bloom tags, re-tag from scratch
 python scripts/tag_blooms.py --rethreshold    # recompute labels from stored confidences
                                               # (no inference — instant; edit BLOOMS_TUNED_THRESHOLDS first)
@@ -175,13 +194,13 @@ Body text...
 
 ## LLM Roles (Strict Separation)
 
-### WIKI_LLM (Sonnet — navigation + maintenance)
+### WIKI_LLM (Claude Sonnet 4.6 — navigation + maintenance)
 - Never talks to the user.
 - Given BM25 top-5 pages + `index.md` + user query: decides if context is sufficient or calls tools.
 - Tools: `read_page(slug)`, `graph_traverse(slug, hops, max_nodes)`
 - When `should_wiki_update: true` from MAIN_LLM: calls `update_wiki` asynchronously.
 
-### MAIN_LLM (Opus — answer synthesis)
+### MAIN_LLM (Claude Opus 4.6 — answer synthesis)
 - Talks to the user exclusively.
 - Escalation ladder (stops as soon as solid): wiki pages only → `rag_search` → general knowledge.
 - Always emits structured metadata at end of stream: `{ sources, new_synthesis, should_wiki_update }`.
