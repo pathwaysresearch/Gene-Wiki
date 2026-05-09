@@ -4997,43 +4997,130 @@
         "organizational-change",
         "workforce-management"
       ],
-      "path": "wiki/synthesized/genai-impact-on-hr-functions.md"
+      "path": "wiki\\synthesized\\genai-impact-on-hr-functions.md"
     },
-    "beginner-ai-video-learning-path": {
-      "type": "synthesized",
-      "title": "Beginner AI Video Learning Path: A Three-Tier Scaffolding",
+    "ai-factory-model": {
+      "type": "concept",
+      "title": "AI Factory Model",
       "aliases": [
-        "AI Beginner Videos",
-        "Getting Started with AI Videos",
-        "AI Learning Scaffold"
+        "AI Factory Model"
       ],
       "tags": [
-        "ai-education",
-        "beginner-resources",
-        "learning-path",
-        "generative-ai",
-        "video-resources",
-        "bloom-taxonomy"
+        "ai-operations",
+        "process-redesign",
+        "organizational-model"
       ],
-      "path": "wiki/synthesized/beginner-ai-video-learning-path.md"
+      "path": "wiki\\concepts\\ai-factory-model.md"
     },
-    "3blue1brown-neural-network-visual-explainer": {
-      "type": "synthesized",
-      "title": "3Blue1Brown 'But What Is a Neural Network?' — Tier 2 Visual Intuition Explainer",
+    "ai-governance-operating-model": {
+      "type": "concept",
+      "title": "AI Governance Operating Model",
       "aliases": [
-        "3Blue1Brown Neural Network",
-        "But What Is a Neural Network",
-        "Neural Network Visual Explainer"
+        "AI Governance Operating Model"
       ],
       "tags": [
-        "ai-education",
-        "neural-networks",
-        "visual-learning",
-        "beginner-resources",
-        "learning-path",
-        "deep-learning"
+        "ai-governance",
+        "operating-model",
+        "risk-management"
       ],
-      "path": "wiki/synthesized/3blue1brown-neural-network-visual-explainer.md"
+      "path": "wiki\\concepts\\ai-governance-operating-model.md"
+    },
+    "ai-risk-layers": {
+      "type": "unknown",
+      "title": "AI Risk Layers",
+      "aliases": [],
+      "tags": [],
+      "path": "wiki\\concepts\\ai-risk-layers.md"
+    },
+    "centaur-collaboration-pattern": {
+      "type": "concept",
+      "title": "Centaur Collaboration Pattern",
+      "aliases": [
+        "Centaur Collaboration Pattern"
+      ],
+      "tags": [
+        "human-ai-interaction",
+        "collaboration-model",
+        "workflow-design"
+      ],
+      "path": "wiki\\concepts\\centaur-collaboration-pattern.md"
+    },
+    "cost-reduction-vs-capability-expansion-posture": {
+      "type": "unknown",
+      "title": "Cost-Reduction vs. Capability-Expansion Posture",
+      "aliases": [],
+      "tags": [],
+      "path": "wiki\\concepts\\cost-reduction-vs-capability-expansion-posture.md"
+    },
+    "cyborg-collaboration-pattern": {
+      "type": "concept",
+      "title": "Cyborg Collaboration Pattern",
+      "aliases": [
+        "Cyborg Collaboration Pattern"
+      ],
+      "tags": [
+        "human-ai-interaction",
+        "collaboration-model",
+        "workflow-design"
+      ],
+      "path": "wiki\\concepts\\cyborg-collaboration-pattern.md"
+    },
+    "homogenization-risk": {
+      "type": "concept",
+      "title": "Homogenization Risk",
+      "aliases": [
+        "Homogenization Risk"
+      ],
+      "tags": [
+        "ai-risk",
+        "business-model",
+        "strategic-risk"
+      ],
+      "path": "wiki\\concepts\\homogenization-risk.md"
+    },
+    "jagged-frontier": {
+      "type": "concept",
+      "title": "Jagged Frontier",
+      "aliases": [
+        "Jagged Frontier"
+      ],
+      "tags": [
+        "ai-capabilities",
+        "human-ai-interaction",
+        "ai-limitations"
+      ],
+      "path": "wiki\\concepts\\jagged-frontier.md"
+    },
+    "prediction-vs-judgment-decomposition": {
+      "type": "concept",
+      "title": "Prediction-vs-Judgment Decomposition",
+      "aliases": [
+        "Prediction-vs-Judgment Decomposition"
+      ],
+      "tags": [
+        "ai-impact",
+        "work-redesign",
+        "framework"
+      ],
+      "path": "wiki\\concepts\\prediction-vs-judgment-decomposition.md"
+    },
+    "log": {
+      "type": "unknown",
+      "title": "Log",
+      "aliases": [],
+      "tags": [],
+      "path": "wiki\\log.md"
+    },
+    "stub-jpmc-outline-v1": {
+      "type": "stub",
+      "title": "Jpmc Outline V1",
+      "aliases": [
+        "Jpmc Outline V1"
+      ],
+      "tags": [
+        "rag-stub"
+      ],
+      "path": "wiki\\stubs\\stub-jpmc-outline-v1.md"
     }
   },
   "edges": [
@@ -9858,34 +9945,114 @@
       "type": "applies"
     },
     {
-      "from": "beginner-ai-video-learning-path",
-      "to": "andrej-karpathy",
-      "type": "extends"
+      "from": "ai-factory-model",
+      "to": "prediction-vs-judgment-decomposition",
+      "type": "is_enabled_by"
     },
     {
-      "from": "beginner-ai-video-learning-path",
-      "to": "stub-competing-in-the-age-of-ai-expert-karim-lakhani-from-d3-at-harvard-business-scho",
-      "type": "synthesized_from"
+      "from": "ai-governance-operating-model",
+      "to": "ai-risk-layers",
+      "type": "utilizes"
     },
     {
-      "from": "beginner-ai-video-learning-path",
-      "to": "generative-ai",
-      "type": "extends"
+      "from": "ai-risk-layers",
+      "to": "ai-governance-operating-model",
+      "type": "references"
     },
     {
-      "from": "3blue1brown-neural-network-visual-explainer",
-      "to": "beginner-ai-video-learning-path",
-      "type": "extends"
+      "from": "centaur-collaboration-pattern",
+      "to": "cyborg-collaboration-pattern",
+      "type": "contrasts_with"
     },
     {
-      "from": "3blue1brown-neural-network-visual-explainer",
-      "to": "deep-learning",
-      "type": "extends"
+      "from": "centaur-collaboration-pattern",
+      "to": "jagged-frontier",
+      "type": "is_a_response_to"
     },
     {
-      "from": "3blue1brown-neural-network-visual-explainer",
-      "to": "transformer-models",
-      "type": "extends"
+      "from": "cyborg-collaboration-pattern",
+      "to": "centaur-collaboration-pattern",
+      "type": "contrasts_with"
+    },
+    {
+      "from": "cyborg-collaboration-pattern",
+      "to": "jagged-frontier",
+      "type": "is_a_response_to"
+    },
+    {
+      "from": "jagged-frontier",
+      "to": "centaur-collaboration-pattern",
+      "type": "informs_choice_of"
+    },
+    {
+      "from": "jagged-frontier",
+      "to": "cyborg-collaboration-pattern",
+      "type": "informs_choice_of"
+    },
+    {
+      "from": "prediction-vs-judgment-decomposition",
+      "to": "automate-augment-innovate-leave-alone-framework",
+      "type": "informs"
+    },
+    {
+      "from": "prediction-vs-judgment-decomposition",
+      "to": "ai-factory-model",
+      "type": "enables"
+    },
+    {
+      "from": "index",
+      "to": "synthesized/genai-impact-on-hr-functions",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ai-factory-model",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ai-governance-operating-model",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ai-risk-layers",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/centaur-collaboration-pattern",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/cost-reduction-vs-capability-expansion-posture",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/cyborg-collaboration-pattern",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/homogenization-risk",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/jagged-frontier",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/prediction-vs-judgment-decomposition",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "stubs/stub-jpmc-outline-v1",
+      "type": "references"
     }
   ]
 }

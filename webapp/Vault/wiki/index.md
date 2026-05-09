@@ -1,8 +1,8 @@
 # Wiki Index
 
-Master catalog — 376 pages · last rebuilt 2026-05-07
+Master catalog — 389 pages · last rebuilt 2026-05-09
 
-## Extracted Concepts (220)
+## Extracted Concepts (229)
 
 - [[concepts/academic-brain-drain-in-ai|Academic Brain Drain in AI]] — The academic brain drain in AI refers to the significant migration of leading researchers and talent from academic insti
 - [[concepts/agentic-era|Agentic Era]] — The Agentic Era describes a fundamental shift in organizational structure and management driven by AI. This new model ch
@@ -19,16 +19,19 @@ Master catalog — 376 pages · last rebuilt 2026-05-07
 - [[concepts/ai-delegation-experience|AI Delegation Experience]] — A 'delegation experience' is one in which consumers involve an AI solution in a production process to perform tasks they
 - [[concepts/ai-driven-human-skill-gap|AI-Driven Human Skill Gap]] — As AI evolves from a simple assistant to a complex agent, it is fundamentally redefining what "intelligence" means in a 
 - [[concepts/ai-factories|AI Factories]] — An AI Factory is a business model structured around several key components. The text identifies these as a robust data p
+- [[concepts/ai-factory-model|AI Factory Model]] — The AI Factory Model represents a systematic approach to integrating AI into an organization, moving beyond isolated pro
 - [[concepts/ai-factory|AI Factory]] — The AI factory is a model that creates a virtuous cycle between user engagement, data collection, algorithm design, pred
 - [[concepts/ai-first-strategy|AI First Strategy]] — An "AI First" strategy represents a fundamental strategic shift for a company, moving Artificial Intelligence from a per
 - [[concepts/ai-for-ideation-and-creativity|AI for Ideation and Creativity]] — This application of AI centers on leveraging the technology to improve the "effectiveness piece" of work. The goal is to
 - [[concepts/ai-for-ideation|AI for Ideation]] — AI for Ideation involves using artificial intelligence systems as a collaborative partner in creative processes like bra
+- [[concepts/ai-governance-operating-model|AI Governance Operating Model]] — The central challenge in creating an AI Governance Operating Model is to design a system that is simultaneously 'fast en
 - [[concepts/ai-impact-on-human-identity|AI's Impact on Human Identity]] — The development and diffusion of AI raises fundamental questions about how humans perceive themselves. Beyond the instru
 - [[concepts/ai-implementation-strategy|AI Implementation Strategy]] — A successful AI implementation requires a "meet in the middle" approach that combines two forces. The identification of 
 - [[concepts/ai-in-music-creation|AI in Music Creation]] — The use of AI in music represents a significant evolution in creative technology, enabling new workflows for artists, pr
 - [[concepts/ai-negotiation-bots|AI Negotiation Bots]] — AI negotiation bots are a specific application of artificial intelligence designed to conduct negotiations with other ag
 - [[concepts/ai-powered-coaching|AI-Powered Coaching]] — AI-powered coaching is a method for delivering personalized guidance and support to learners at scale. It leverages AI t
 - [[concepts/ai-regulation|AI Regulation]] — The text argues that AI needs to be regulated because the companies that control it are poised to become extremely power
+- [[concepts/ai-risk-layers|AI Risk Layers]] — This concept provides a structured map for understanding the complex risk and regulatory landscape for AI in financial s
 - [[concepts/ai-role-in-creativity|AI's Role in Creativity]] — The central question surrounding AI in creative industries is whether it will augment and enable creative workers or dis
 - [[concepts/ai-superhighway|AI Superhighway]] — The "AI Superhighway" is a strategic concept that reframes Grammarly's mission from being a grammar-focused tool to a co
 - [[concepts/ai-tool-provider-competition|AI Tool-Provider Competition]] — Unlike traditional tools, where the manufacturer and the user operate in separate markets, AI creates a new competitive 
@@ -64,6 +67,7 @@ Master catalog — 376 pages · last rebuilt 2026-05-07
 - [[concepts/business-architecture-in-the-age-of-ai|Business Architecture (in the age of AI)]] — As described by Karim Lakhani in his book "Competing in the Age of AI," business architecture refers to the foundational
 - [[concepts/business-model-transformation-with-ai|Business Model Transformation with AI]] — A business model consists of two core components: the way a company creates value for customers and the way it captures 
 - [[concepts/business-model|Business Model]] — A firm's business model is defined as the way it promises to create and capture value. It encompasses the company's core
+- [[concepts/centaur-collaboration-pattern|Centaur Collaboration Pattern]] — The Centaur pattern is a model for human-AI collaboration defined by clean handoffs between the human and the AI system.
 - [[concepts/change-as-a-skill|Change as a Skill]] — "Change as a Skill" is the concept that the ability to manage and undergo change is not just a temporary project but a c
 - [[concepts/change-management-in-ai-transformation|Change Management in AI Transformation]] — According to analysis by Karim Lakhani, a successful AI-driven digital transformation is composed of two distinct parts.
 - [[concepts/changing-role-of-the-cmo|Changing Role of the CMO]] — The role of the Chief Marketing Officer (CMO) has been undergoing a significant transformation, a trend that predates th
@@ -80,7 +84,9 @@ Master catalog — 376 pages · last rebuilt 2026-05-07
 - [[concepts/consumer-ai-experience|Consumer AI Experience]] — The Consumer AI Experience is a customer-centric framework for understanding artificial intelligence. It shifts the focu
 - [[concepts/contextual-value-of-tasks|Contextual Value of Tasks]] — A task's contextual value is its importance and relevance within a specific organizational or systemic context. This is 
 - [[concepts/cost-of-cognition|Cost of Cognition]] — The "cost of cognition" is a concept articulated by Karim Lakhani to describe the economic and operational resources req
+- [[concepts/cost-reduction-vs-capability-expansion-posture|Cost-Reduction vs. Capability-Expansion Posture]] — When AI technology dramatically collapses the cost of a core input like prediction, organizations face a strategic choic
 - [[concepts/customer-sentiment-analysis|Customer Sentiment Analysis]] — Customer sentiment analysis is a tool used to understand customer opinions from unstructured data. It automates the proc
+- [[concepts/cyborg-collaboration-pattern|Cyborg Collaboration Pattern]] — The Cyborg pattern is a model for human-AI collaboration where the human and the AI system are enmeshed in the process t
 - [[concepts/data-capture-experience|Data Capture Experience]] — The Data Capture Experience is a core component of the broader Consumer AI Experience framework. It pertains to consumer
 - [[concepts/data-moats|Data Moats]] — A data moat is a strategic advantage created when an AI company provides value to users in exchange for their data. This
 - [[concepts/data-platform|Data Platform]] — A state-of-the-art data platform is the foundation for an "AI factory," providing a structure for software developers to
@@ -122,6 +128,7 @@ Master catalog — 376 pages · last rebuilt 2026-05-07
 - [[concepts/governance-framework-for-ai|Governance Framework for AI]] — A governance framework for AI, as described in the text, is a structured approach for overseeing automated decisions to 
 - [[concepts/hallucinations-ai|Hallucinations (AI)]] — In the context of Large Language Models (LLMs), "hallucinations" are defined as the generation of factually inaccurate s
 - [[concepts/hard-problem-of-consciousness|The Hard Problem of Consciousness]] — The hard problem of consciousness is explicitly defined in the text as the challenge of understanding "how certain physi
+- [[concepts/homogenization-risk|Homogenization Risk]] — Homogenization risk is a specific, systemic risk associated with the broad adoption of AI. It is defined as the potentia
 - [[concepts/homophily|Homophily]] — Homophily is a principle describing the social tendency for individuals to be drawn to and form connections with others 
 - [[concepts/human-ai-collaboration|Human-AI Collaboration]] — The central idea of Human-AI Collaboration is to view and design AI as a complementary technology to human expertise. Th
 - [[concepts/human-ai-complementation|Human-AI Complementation]] — Human-AI Complementation is a strategic approach to career and organizational development in the age of artificial intel
@@ -142,6 +149,7 @@ Master catalog — 376 pages · last rebuilt 2026-05-07
 - [[concepts/intelligence-vs-consciousness-distinction|Intelligence vs. Consciousness Distinction]] — The text draws a sharp line between intelligence and consciousness, defining them as fundamentally different kinds of ph
 - [[concepts/internet-of-things|Internet of Things (IoT)]] — The Internet of Things (IoT) refers to a class of product innovations where physical objects are embedded with technolog
 - [[concepts/j-curve-of-productivity|J-Curve of Productivity]] — The J-Curve of Productivity is a pattern observed when new technologies, such as AI, are implemented in an organization.
+- [[concepts/jagged-frontier|Jagged Frontier]] — The Jagged Frontier describes the unpredictable and inconsistent capability boundary of modern AI systems. The text emph
 - [[concepts/jagged-technological-frontier|Jagged Technological Frontier]] — The "jagged technological frontier" is a term used to characterize the performance profile of AI systems. It signifies t
 - [[concepts/job-augmentation|Job Augmentation]] — Job augmentation is a key effect of AI on the labor market, distinct from simple job replacement. Instead of eliminating
 - [[concepts/just-in-time-insights|Just-in-Time Insights]] — Just-in-time insights refer to the ability to gain actionable knowledge from data quickly enough to act upon it while it
@@ -177,6 +185,7 @@ Master catalog — 376 pages · last rebuilt 2026-05-07
 - [[concepts/platform-openness-dilemma|Platform Openness Dilemma]] — Platform companies must balance the competing needs for openness and control. An open platform can foster a large ecosys
 - [[concepts/possibility-space|Possibility Space]] — The concept of "possibility space" is central to the discussion by Valenzuela and colleagues (2024) on the psychological
 - [[concepts/predictability-resilience-paradox|Predictability-Resilience Paradox]] — The Predictability-Resilience Paradox describes a fundamental trade-off in the design of AI systems. On one hand, system
+- [[concepts/prediction-vs-judgment-decomposition|Prediction-vs-Judgment Decomposition]] — Prediction-vs-Judgment Decomposition is an analytical method used to understand the impact of AI on work. It operates by
 - [[concepts/predictive-ai|Predictive AI]] — Predictive AI is a form of artificial intelligence that makes predictions and is then plugged into various tasks. This t
 - [[concepts/preference-driven-analytics|Preference-Driven Analytics]] — Preference-Driven Analytics is a phenomenon where the personal wishes and desires of a decision-maker begin to shape the
 - [[concepts/preferential-attachment|Preferential Attachment]] — Preferential attachment is a principle that describes how connections evolve in a growing network. It posits that new co
@@ -334,11 +343,13 @@ Master catalog — 376 pages · last rebuilt 2026-05-07
 - [[entities/yann-lecun|Yann LeCun]] — Yann LeCun is a significant figure in the AI field, identified as a good friend of Geoffrey Hinton going back decades. H
 - [[entities/yodle|Yodle]] — Yodle was a marketing platform designed to help small, hyperlocal businesses advertise on Google and other digital platf
 
-## Query-Synthesized Pages (0)
+## Query-Synthesized Pages (3)
 
-<!-- No synthesized pages yet -->
+- [[synthesized/3blue1brown-neural-network-visual-explainer|3Blue1Brown 'But What Is a Neural Network?' — Tier 2 Visual Intuition Explainer]] — The 3Blue1Brown video 'But what is a neural network?' is widely regarded as the gold standard for visual, intuition-firs
+- [[synthesized/beginner-ai-video-learning-path|Beginner AI Video Learning Path: A Three-Tier Scaffolding]] — For a beginner trying to orient themselves in the AI landscape, the sheer volume of available video content can be paral
+- [[synthesized/genai-impact-on-hr-functions|GenAI's Impact on Human Resources: A Function-by-Function Framework]] — Generative AI is not simply automating discrete HR tasks — it is restructuring the entire logic of how human resources f
 
-## RAG Stubs (50)
+## RAG Stubs (51)
 
 - [[stubs/stub-342-the-secrets-to-high-ai-adoption-with-stefano-puntoni-professor-at-wharton-ij|342 The Secrets To High Ai Adoption With Stefano Puntoni Professor At Wharton]] — This is an episode of DataCamp's Data Framed podcast (published 2026-01-19) featuring Stefano Puntoni, Sebastian S. Kres
 - [[stubs/stub-a-humans-guide-to-machine-intelligence-pdf|A Human's Guide to Machine Intelligence PDF]] — Written by Kartik Hosanagar, this book examines how algorithms are shaping human lives and decision-making, and how indi
@@ -364,6 +375,7 @@ Master catalog — 376 pages · last rebuilt 2026-05-07
 - [[stubs/stub-how-gen-ai-is-revolutionizing-market-research-with-stefano-puntoni-hj3ey-e3svy|How Gen AI Is Revolutionizing Market Research With Stefano Puntoni]] — Stefano Puntoni (Co-Director, Wharton Human-AI Research) and Nick Graham (Founder, Vertemis) discuss how generative AI s
 - [[stubs/stub-ideation-with-generative-ai-insights-from-whartons-dr-stefano-puntoni-6e1r8wt-1h|Ideation With Generative AI: Insights from Wharton's Dr. Stefano Puntoni]] — Dr. Stefano Puntoni of The Wharton School discusses his research on using generative AI for creative ideation in consume
 - [[stubs/stub-ideation-with-generative-ai-published-75dccafd-9c43-46f5-9f56-06a11da7a7cf|Ideation With Generative Ai (Published) 75Dccafd 9C43 46F5 9F56 06A11Da7A7Cf]] — This academic paper by Julian De Freitas, Gideon Nave, and Stefano Puntoni explores the use of generative AI (genAI), pa
+- [[stubs/stub-jpmc-outline-v1|Jpmc Outline V1]] — This document is a detailed curriculum outline for a JPMC (JPMorgan Chase) AI Leadership program, structured into multip
 - [[stubs/stub-karim-lakhani-knowledge-base|Karim Lakhani Knowledge Base]] — This is a comprehensive knowledge base compiling the articles, publications, and interviews of Karim Lakhani, a Harvard 
 - [[stubs/stub-karthik-hosanagar-knowledge-base|Karthik Hosanagar Knowledge Base]] — This knowledge base compiles articles, publications, podcast episodes, and social media posts by Kartik Hosanagar, the J
 - [[stubs/stub-kartik-hosanagar-when-ai-runs-the-show-how-algorithms-shape-our-daily-choices-ep|Kartik Hosanagar | When AI Runs the Show: How Algorithms Shape Our Daily Choices | Ep 21]] — This is Episode 21 of The IJK Podcast (June 2025), in which host Imad Jack Karam interviews Professor Kartik Hosanagar o
@@ -390,9 +402,3 @@ Master catalog — 376 pages · last rebuilt 2026-05-07
 - [[stubs/stub-welcome-to-creative-intelligence-gkgbp4txoi8|Welcome To Creative Intelligence Gkgbp4Txoi8]] — This is a short trailer/teaser video for "Creative Intelligence," a new podcast hosted by Kartik Hosanagar, Faculty Co-D
 - [[stubs/stub-wharton-professor-stefano-puntoni-offers-insights-on-generative-ai-and-customer-|Wharton Professor Stefano Puntoni Offers Insights On Generative Ai And Customer Experience]] — Wharton marketing professor Stefano Puntoni discusses the impact of generative AI on business and customer experience (C
 - [[stubs/stub-what-happens-if-you-ignore-ai-adoption-in-your-organization-faculty-qa-cvfeedy2s|What Happens If You Ignore AI Adoption In Your Organization — Faculty Q&A]] — This is a faculty Q&A video from HBS Online featuring Harvard Business School Professor Karim Lakhani, exploring the con
-
-- [[synthesized/genai-impact-on-hr-functions|GenAI's Impact on Human Resources: A Function-by-Function Framework]] — synthesized from query
-
-- [[synthesized/beginner-ai-video-learning-path|Beginner AI Video Learning Path: A Three-Tier Scaffolding]] — synthesized from query
-
-- [[synthesized/3blue1brown-neural-network-visual-explainer|3Blue1Brown 'But What Is a Neural Network?' — Tier 2 Visual Intuition Explainer]] — synthesized from query
