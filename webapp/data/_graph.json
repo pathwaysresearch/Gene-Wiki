@@ -4998,6 +4998,24 @@
         "workforce-management"
       ],
       "path": "wiki/synthesized/genai-impact-on-hr-functions.md"
+    },
+    "beginner-ai-video-learning-path": {
+      "type": "synthesized",
+      "title": "Beginner AI Video Learning Path: A Three-Tier Scaffolding",
+      "aliases": [
+        "AI Beginner Videos",
+        "Getting Started with AI Videos",
+        "AI Learning Scaffold"
+      ],
+      "tags": [
+        "ai-education",
+        "beginner-resources",
+        "learning-path",
+        "generative-ai",
+        "video-resources",
+        "bloom-taxonomy"
+      ],
+      "path": "wiki/synthesized/beginner-ai-video-learning-path.md"
     }
   },
   "edges": [
@@ -9820,6 +9838,21 @@
       "from": "genai-impact-on-hr-functions",
       "to": "self-determination-theory-in-ai-context",
       "type": "applies"
+    },
+    {
+      "from": "beginner-ai-video-learning-path",
+      "to": "andrej-karpathy",
+      "type": "extends"
+    },
+    {
+      "from": "beginner-ai-video-learning-path",
+      "to": "stub-competing-in-the-age-of-ai-expert-karim-lakhani-from-d3-at-harvard-business-scho",
+      "type": "synthesized_from"
+    },
+    {
+      "from": "beginner-ai-video-learning-path",
+      "to": "generative-ai",
+      "type": "extends"
     }
   ]
 }

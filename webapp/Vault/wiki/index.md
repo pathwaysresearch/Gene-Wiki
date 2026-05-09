@@ -392,3 +392,5 @@ Master catalog — 376 pages · last rebuilt 2026-05-07
 - [[stubs/stub-what-happens-if-you-ignore-ai-adoption-in-your-organization-faculty-qa-cvfeedy2s|What Happens If You Ignore AI Adoption In Your Organization — Faculty Q&A]] — This is a faculty Q&A video from HBS Online featuring Harvard Business School Professor Karim Lakhani, exploring the con
 
 - [[synthesized/genai-impact-on-hr-functions|GenAI's Impact on Human Resources: A Function-by-Function Framework]] — synthesized from query
+
+- [[synthesized/beginner-ai-video-learning-path|Beginner AI Video Learning Path: A Three-Tier Scaffolding]] — synthesized from query
