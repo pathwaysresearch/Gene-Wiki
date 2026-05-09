@@ -1,5 +1,47 @@
 {
   "nodes": {
+    "academic-brain-drain-in-ai": {
+      "type": "concept",
+      "title": "Academic Brain Drain in AI",
+      "aliases": [
+        "Academic Brain Drain in AI"
+      ],
+      "tags": [
+        "academia",
+        "computer-science",
+        "ai-research",
+        "talent-management"
+      ],
+      "path": "wiki\\concepts\\academic-brain-drain-in-ai.md"
+    },
+    "agentic-era": {
+      "type": "concept",
+      "title": "Agentic Era",
+      "aliases": [
+        "Agentic Era"
+      ],
+      "tags": [
+        "organizational-design",
+        "future-of-work",
+        "ai-agents",
+        "management"
+      ],
+      "path": "wiki\\concepts\\agentic-era.md"
+    },
+    "ai-adoption-imperative": {
+      "type": "concept",
+      "title": "AI Adoption Imperative",
+      "aliases": [
+        "AI Adoption Imperative"
+      ],
+      "tags": [
+        "business-strategy",
+        "digital-transformation",
+        "ai-adoption",
+        "competitive-advantage"
+      ],
+      "path": "wiki\\concepts\\ai-adoption-imperative.md"
+    },
     "ai-adoption-strategy": {
       "type": "concept",
       "title": "AI Adoption Strategy",
@@ -13,6 +55,51 @@
         "change-management"
       ],
       "path": "wiki\\concepts\\ai-adoption-strategy.md"
+    },
+    "ai-adoption": {
+      "type": "concept",
+      "title": "AI Adoption",
+      "aliases": [
+        "AI Adoption"
+      ],
+      "tags": [
+        "strategy",
+        "organizational-change",
+        "technology"
+      ],
+      "path": "wiki\\concepts\\ai-adoption.md"
+    },
+    "ai-agent": {
+      "type": "concept",
+      "title": "AI Agent",
+      "aliases": [
+        "AI Agent"
+      ],
+      "tags": [
+        "artificial-intelligence",
+        "software-architecture",
+        "future-of-work"
+      ],
+      "path": "wiki\\concepts\\ai-agent.md"
+    },
+    "ai-agents": {
+      "type": "concept",
+      "title": "AI Agents",
+      "aliases": [
+        "AI Agents"
+      ],
+      "tags": [
+        "autonomous-systems",
+        "future-of-work",
+        "no-code",
+        "ai-capabilities",
+        "automation",
+        "consumer-tech",
+        "ai",
+        "productivity",
+        "software-agents"
+      ],
+      "path": "wiki\\concepts\\ai-agents.md"
     },
     "ai-as-a-complementary-technology": {
       "type": "concept",
@@ -29,6 +116,145 @@
         "organizational-strategy"
       ],
       "path": "wiki\\concepts\\ai-as-a-complementary-technology.md"
+    },
+    "ai-as-a-teammate": {
+      "type": "concept",
+      "title": "AI as a Teammate",
+      "aliases": [
+        "AI as a Teammate"
+      ],
+      "tags": [
+        "human-ai-collaboration",
+        "future-of-work",
+        "organizational-design"
+      ],
+      "path": "wiki\\concepts\\ai-as-a-teammate.md"
+    },
+    "ai-augmented-customer-service": {
+      "type": "concept",
+      "title": "AI-Augmented Customer Service",
+      "aliases": [
+        "AI-Augmented Customer Service"
+      ],
+      "tags": [
+        "customer-service",
+        "business-process",
+        "automation",
+        "generative-ai"
+      ],
+      "path": "wiki\\concepts\\ai-augmented-customer-service.md"
+    },
+    "ai-consciousness": {
+      "type": "concept",
+      "title": "AI Consciousness",
+      "aliases": [
+        "AI Consciousness"
+      ],
+      "tags": [
+        "artificial-intelligence",
+        "philosophy-of-mind",
+        "neuroscience"
+      ],
+      "path": "wiki\\concepts\\ai-consciousness.md"
+    },
+    "ai-cyborg-experience": {
+      "type": "concept",
+      "title": "AI Cyborg Experience",
+      "aliases": [
+        "AI Cyborg Experience"
+      ],
+      "tags": [
+        "consumer-behavior",
+        "human-computer-interaction",
+        "artificial-intelligence",
+        "transhumanism"
+      ],
+      "path": "wiki\\concepts\\ai-cyborg-experience.md"
+    },
+    "ai-delegation-experience": {
+      "type": "concept",
+      "title": "AI Delegation Experience",
+      "aliases": [
+        "AI Delegation Experience"
+      ],
+      "tags": [
+        "consumer-psychology",
+        "human-ai-interaction",
+        "ai-experience"
+      ],
+      "path": "wiki\\concepts\\ai-delegation-experience.md"
+    },
+    "ai-driven-human-skill-gap": {
+      "type": "concept",
+      "title": "AI-Driven Human Skill Gap",
+      "aliases": [
+        "AI-Driven Human Skill Gap"
+      ],
+      "tags": [
+        "ai",
+        "future-of-work",
+        "skills-gap",
+        "human-resources"
+      ],
+      "path": "wiki\\concepts\\ai-driven-human-skill-gap.md"
+    },
+    "ai-factories": {
+      "type": "concept",
+      "title": "AI Factories",
+      "aliases": [
+        "AI Factories"
+      ],
+      "tags": [
+        "ai-business-model",
+        "digital-transformation",
+        "operating-model"
+      ],
+      "path": "wiki\\concepts\\ai-factories.md"
+    },
+    "ai-factory-model": {
+      "type": "concept",
+      "title": "AI Factory Model",
+      "aliases": [
+        "AI Factory Model"
+      ],
+      "tags": [
+        "ai-operations",
+        "process-redesign",
+        "organizational-model"
+      ],
+      "path": "wiki\\concepts\\ai-factory-model.md"
+    },
+    "ai-factory": {
+      "type": "concept",
+      "title": "AI Factory",
+      "aliases": [
+        "AI Factory"
+      ],
+      "tags": [
+        "ai-strategy",
+        "business-model",
+        "data-science",
+        "ai-infrastructure",
+        "data-platform",
+        "machine-learning",
+        "operating-model",
+        "data-engineering",
+        "organizational-design"
+      ],
+      "path": "wiki\\concepts\\ai-factory.md"
+    },
+    "ai-first-strategy": {
+      "type": "concept",
+      "title": "AI First Strategy",
+      "aliases": [
+        "AI First Strategy"
+      ],
+      "tags": [
+        "corporate-strategy",
+        "ai",
+        "operating-model"
+      ],
+      "path": "wiki\\concepts\\ai-first-strategy.md"
     },
     "ai-for-ideation-and-creativity": {
       "type": "concept",
@@ -59,191 +285,57 @@
       ],
       "path": "wiki\\concepts\\ai-for-ideation.md"
     },
-    "augmentation-vs-replacement-framework": {
+    "ai-governance-operating-model": {
       "type": "concept",
-      "title": "Augmentation vs. Replacement Framework",
+      "title": "AI Governance Operating Model",
       "aliases": [
-        "Augmentation vs. Replacement Framework"
+        "AI Governance Operating Model"
       ],
       "tags": [
-        "ai-strategy",
-        "corporate-culture",
-        "innovation"
+        "ai-governance",
+        "operating-model",
+        "risk-management"
       ],
-      "path": "wiki\\concepts\\augmentation-vs-replacement-framework.md"
+      "path": "wiki\\concepts\\ai-governance-operating-model.md"
     },
-    "complementary-ai-framework": {
+    "ai-impact-on-human-identity": {
       "type": "concept",
-      "title": "Complementary AI Framework",
+      "title": "AI's Impact on Human Identity",
       "aliases": [
-        "Complementary AI Framework"
+        "AI's Impact on Human Identity"
       ],
       "tags": [
-        "ai-strategy",
-        "human-computer-interaction",
-        "ai-adoption"
-      ],
-      "path": "wiki\\concepts\\complementary-ai-framework.md"
-    },
-    "deskilling-from-ai": {
-      "type": "concept",
-      "title": "Deskilling (from AI)",
-      "aliases": [
-        "Deskilling (from AI)"
-      ],
-      "tags": [
-        "ai-impact",
-        "skills-development",
-        "education",
-        "future-of-work"
-      ],
-      "path": "wiki\\concepts\\deskilling-from-ai.md"
-    },
-    "deskilling": {
-      "type": "concept",
-      "title": "Deskilling",
-      "aliases": [
-        "Deskilling"
-      ],
-      "tags": [
-        "technology-impact",
-        "future-of-work",
-        "skills-development",
-        "generative-ai",
-        "societal-impact",
-        "technology-criticism"
-      ],
-      "path": "wiki\\concepts\\deskilling.md"
-    },
-    "human-ai-collaboration": {
-      "type": "concept",
-      "title": "Human-AI Collaboration",
-      "aliases": [
-        "Human-AI Collaboration"
-      ],
-      "tags": [
-        "ai-adoption",
-        "strategy",
-        "human-computer-interaction",
-        "organizational-behavior"
-      ],
-      "path": "wiki\\concepts\\human-ai-collaboration.md"
-    },
-    "identity-threat-from-ai": {
-      "type": "concept",
-      "title": "Identity Threat (from AI)",
-      "aliases": [
-        "Identity Threat (from AI)"
-      ],
-      "tags": [
+        "sociology",
         "psychology",
-        "ai-adoption",
-        "future-of-work",
-        "workforce-management",
+        "ai-ethics"
+      ],
+      "path": "wiki\\concepts\\ai-impact-on-human-identity.md"
+    },
+    "ai-implementation-strategy": {
+      "type": "concept",
+      "title": "AI Implementation Strategy",
+      "aliases": [
+        "AI Implementation Strategy"
+      ],
+      "tags": [
+        "ai-strategy",
+        "digital-transformation",
         "change-management"
       ],
-      "path": "wiki\\concepts\\identity-threat-from-ai.md"
+      "path": "wiki\\concepts\\ai-implementation-strategy.md"
     },
-    "self-determination-theory-in-ai-context": {
+    "ai-in-music-creation": {
       "type": "concept",
-      "title": "Self-Determination Theory (in AI Context)",
+      "title": "AI in Music Creation",
       "aliases": [
-        "Self-Determination Theory (in AI Context)"
+        "AI in Music Creation"
       ],
       "tags": [
-        "psychology",
-        "ai-adoption",
-        "organizational-behavior"
+        "generative-ai",
+        "music-production",
+        "creative-process"
       ],
-      "path": "wiki\\concepts\\self-determination-theory-in-ai-context.md"
-    },
-    "self-determination-theory": {
-      "type": "concept",
-      "title": "Self-Determination Theory",
-      "aliases": [
-        "Self-Determination Theory"
-      ],
-      "tags": [
-        "psychology",
-        "ai-adoption",
-        "well-being",
-        "workforce-management"
-      ],
-      "path": "wiki\\concepts\\self-determination-theory.md"
-    },
-    "technological-deskilling": {
-      "type": "concept",
-      "title": "Technological Deskilling",
-      "aliases": [
-        "Technological Deskilling"
-      ],
-      "tags": [
-        "sociology-of-technology",
-        "ai-ethics",
-        "future-of-work",
-        "skills-development",
-        "skills-gap",
-        "generative-ai"
-      ],
-      "path": "wiki\\concepts\\technological-deskilling.md"
-    },
-    "threat-opportunity-time-gap": {
-      "type": "concept",
-      "title": "Threat-Opportunity Time Gap",
-      "aliases": [
-        "Threat-Opportunity Time Gap"
-      ],
-      "tags": [
-        "technology-adoption",
-        "labor-economics",
-        "ai-impact"
-      ],
-      "path": "wiki\\concepts\\threat-opportunity-time-gap.md"
-    },
-    "stefano-puntoni": {
-      "type": "entity",
-      "title": "Stefano Puntoni",
-      "aliases": [
-        "Stefano Puntoni"
-      ],
-      "tags": [
-        "academic",
-        "marketing-professor",
-        "ai-researcher",
-        "wharton",
-        "ai-psychology",
-        "researcher",
-        "professor",
-        "ai-expert",
-        "business-strategy"
-      ],
-      "path": "wiki\\entities\\stefano-puntoni.md"
-    },
-    "the-wharton-school": {
-      "type": "entity",
-      "title": "The Wharton School",
-      "aliases": [
-        "The Wharton School"
-      ],
-      "tags": [
-        "university",
-        "business-school",
-        "research-institution"
-      ],
-      "path": "wiki\\entities\\the-wharton-school.md"
-    },
-    "wharton": {
-      "type": "entity",
-      "title": "The Wharton School",
-      "aliases": [
-        "The Wharton School"
-      ],
-      "tags": [
-        "business-school",
-        "university",
-        "education"
-      ],
-      "path": "wiki\\entities\\wharton.md"
+      "path": "wiki\\concepts\\ai-in-music-creation.md"
     },
     "ai-negotiation-bots": {
       "type": "concept",
@@ -258,6 +350,81 @@
       ],
       "path": "wiki\\concepts\\ai-negotiation-bots.md"
     },
+    "ai-powered-coaching": {
+      "type": "concept",
+      "title": "AI-Powered Coaching",
+      "aliases": [
+        "AI-Powered Coaching"
+      ],
+      "tags": [
+        "edtech",
+        "workforce-development",
+        "ai-applications",
+        "personalized-learning"
+      ],
+      "path": "wiki\\concepts\\ai-powered-coaching.md"
+    },
+    "ai-regulation": {
+      "type": "concept",
+      "title": "AI Regulation",
+      "aliases": [
+        "AI Regulation"
+      ],
+      "tags": [
+        "policy",
+        "governance",
+        "ai-ethics"
+      ],
+      "path": "wiki\\concepts\\ai-regulation.md"
+    },
+    "ai-risk-layers": {
+      "type": "unknown",
+      "title": "AI Risk Layers",
+      "aliases": [],
+      "tags": [],
+      "path": "wiki\\concepts\\ai-risk-layers.md"
+    },
+    "ai-role-in-creativity": {
+      "type": "concept",
+      "title": "AI's Role in Creativity",
+      "aliases": [
+        "AI's Role in Creativity"
+      ],
+      "tags": [
+        "artificial-intelligence",
+        "creativity",
+        "advertising",
+        "future-of-work"
+      ],
+      "path": "wiki\\concepts\\ai-role-in-creativity.md"
+    },
+    "ai-superhighway": {
+      "type": "concept",
+      "title": "AI Superhighway",
+      "aliases": [
+        "AI Superhighway"
+      ],
+      "tags": [
+        "ai-strategy",
+        "product-vision",
+        "productivity-software"
+      ],
+      "path": "wiki\\concepts\\ai-superhighway.md"
+    },
+    "ai-tool-provider-competition": {
+      "type": "concept",
+      "title": "AI Tool-Provider Competition",
+      "aliases": [
+        "AI Tool-Provider Competition"
+      ],
+      "tags": [
+        "ai-strategy",
+        "competitive-dynamics",
+        "business-models",
+        "platform-economy"
+      ],
+      "path": "wiki\\concepts\\ai-tool-provider-competition.md"
+    },
     "ai-winters": {
       "type": "concept",
       "title": "AI Winters",
@@ -270,6 +437,32 @@
         "technology-cycles"
       ],
       "path": "wiki\\concepts\\ai-winters.md"
+    },
+    "ais-impact-on-the-system-of-work": {
+      "type": "concept",
+      "title": "AI's Impact on the System of Work",
+      "aliases": [
+        "AI's Impact on the System of Work"
+      ],
+      "tags": [
+        "future-of-work",
+        "ai-strategy",
+        "organizational-change"
+      ],
+      "path": "wiki\\concepts\\ais-impact-on-the-system-of-work.md"
+    },
+    "algorithmic-bias-and-fairness": {
+      "type": "concept",
+      "title": "Algorithmic Bias and Fairness",
+      "aliases": [
+        "Algorithmic Bias and Fairness"
+      ],
+      "tags": [
+        "ai-ethics",
+        "risk-management",
+        "ai-governance"
+      ],
+      "path": "wiki\\concepts\\algorithmic-bias-and-fairness.md"
     },
     "algorithmic-bias": {
       "type": "concept",
@@ -329,664 +522,6 @@
       ],
       "path": "wiki\\concepts\\algorithmic-echo-chambers.md"
     },
-    "algorithmic-transparency": {
-      "type": "concept",
-      "title": "Algorithmic Transparency",
-      "aliases": [
-        "Algorithmic Transparency"
-      ],
-      "tags": [
-        "ai-ethics",
-        "explainable-ai",
-        "ai-trust",
-        "user-experience"
-      ],
-      "path": "wiki\\concepts\\algorithmic-transparency.md"
-    },
-    "autonomous-decision-making-algorithms": {
-      "type": "concept",
-      "title": "Autonomous Decision-Making Algorithms",
-      "aliases": [
-        "Autonomous Decision-Making Algorithms"
-      ],
-      "tags": [
-        "ai",
-        "algorithms",
-        "risk-management"
-      ],
-      "path": "wiki\\concepts\\autonomous-decision-making-algorithms.md"
-    },
-    "better-than-average-effect": {
-      "type": "concept",
-      "title": "Better-Than-Average Effect",
-      "aliases": [
-        "Better-Than-Average Effect"
-      ],
-      "tags": [
-        "cognitive-bias",
-        "psychology",
-        "human-computer-interaction",
-        "ai-trust"
-      ],
-      "path": "wiki\\concepts\\better-than-average-effect.md"
-    },
-    "black-box-algorithms": {
-      "type": "concept",
-      "title": "Black Box Algorithms",
-      "aliases": [
-        "Black Box Algorithms"
-      ],
-      "tags": [
-        "machine-learning",
-        "ai-ethics",
-        "explainable-ai"
-      ],
-      "path": "wiki\\concepts\\black-box-algorithms.md"
-    },
-    "deep-learning": {
-      "type": "concept",
-      "title": "Deep Learning",
-      "aliases": [
-        "Deep Learning"
-      ],
-      "tags": [
-        "machine-learning",
-        "neural-networks",
-        "big-data"
-      ],
-      "path": "wiki\\concepts\\deep-learning.md"
-    },
-    "digital-neighborhoods": {
-      "type": "concept",
-      "title": "Digital Neighborhoods",
-      "aliases": [
-        "Digital Neighborhoods"
-      ],
-      "tags": [
-        "e-commerce",
-        "digital-marketing",
-        "online-business"
-      ],
-      "path": "wiki\\concepts\\digital-neighborhoods.md"
-    },
-    "expert-systems": {
-      "type": "concept",
-      "title": "Expert Systems",
-      "aliases": [
-        "Expert Systems"
-      ],
-      "tags": [
-        "ai-history",
-        "symbolic-ai",
-        "knowledge-representation"
-      ],
-      "path": "wiki\\concepts\\expert-systems.md"
-    },
-    "explainability": {
-      "type": "concept",
-      "title": "Explainability",
-      "aliases": [
-        "Explainability"
-      ],
-      "tags": [
-        "explainable-ai",
-        "ai-ethics",
-        "trust-in-ai"
-      ],
-      "path": "wiki\\concepts\\explainability.md"
-    },
-    "homophily": {
-      "type": "concept",
-      "title": "Homophily",
-      "aliases": [
-        "Homophily"
-      ],
-      "tags": [
-        "social-science",
-        "network-theory",
-        "algorithms"
-      ],
-      "path": "wiki\\concepts\\homophily.md"
-    },
-    "nature-x-nurture": {
-      "type": "concept",
-      "title": "Nature × Nurture",
-      "aliases": [
-        "Nature × Nurture"
-      ],
-      "tags": [
-        "psychology",
-        "genetics",
-        "sociology"
-      ],
-      "path": "wiki\\concepts\\nature-x-nurture.md"
-    },
-    "notifications-and-gamification": {
-      "type": "concept",
-      "title": "Notifications and Gamification",
-      "aliases": [
-        "Notifications and Gamification"
-      ],
-      "tags": [
-        "ux-design",
-        "user-engagement",
-        "digital-psychology"
-      ],
-      "path": "wiki\\concepts\\notifications-and-gamification.md"
-    },
-    "predictability-resilience-paradox": {
-      "type": "concept",
-      "title": "Predictability-Resilience Paradox",
-      "aliases": [
-        "Predictability-Resilience Paradox"
-      ],
-      "tags": [
-        "ai-design",
-        "machine-learning",
-        "explainable-ai"
-      ],
-      "path": "wiki\\concepts\\predictability-resilience-paradox.md"
-    },
-    "recommendation-algorithms": {
-      "type": "concept",
-      "title": "Recommendation Algorithms",
-      "aliases": [
-        "Recommendation Algorithms"
-      ],
-      "tags": [
-        "algorithms",
-        "machine-learning",
-        "user-behavior"
-      ],
-      "path": "wiki\\concepts\\recommendation-algorithms.md"
-    },
-    "redundant-algorithmic-systems": {
-      "type": "concept",
-      "title": "Redundant Algorithmic Systems",
-      "aliases": [
-        "Redundant Algorithmic Systems"
-      ],
-      "tags": [
-        "ai-safety",
-        "system-design",
-        "machine-learning"
-      ],
-      "path": "wiki\\concepts\\redundant-algorithmic-systems.md"
-    },
-    "reinforcement-learning-risks": {
-      "type": "concept",
-      "title": "Reinforcement Learning Risks",
-      "aliases": [
-        "Reinforcement Learning Risks"
-      ],
-      "tags": [
-        "reinforcement-learning",
-        "ai-safety",
-        "unpredictability"
-      ],
-      "path": "wiki\\concepts\\reinforcement-learning-risks.md"
-    },
-    "unanticipated-consequences": {
-      "type": "concept",
-      "title": "Unanticipated Consequences",
-      "aliases": [
-        "Unanticipated Consequences"
-      ],
-      "tags": [
-        "technology-impact",
-        "systems-thinking",
-        "ethics"
-      ],
-      "path": "wiki\\concepts\\unanticipated-consequences.md"
-    },
-    "user-control-in-algorithmic-systems": {
-      "type": "concept",
-      "title": "User Control in Algorithmic Systems",
-      "aliases": [
-        "User Control in Algorithmic Systems"
-      ],
-      "tags": [
-        "human-computer-interaction",
-        "ui-ux",
-        "trust-in-ai"
-      ],
-      "path": "wiki\\concepts\\user-control-in-algorithmic-systems.md"
-    },
-    "user-control-in-automation": {
-      "type": "concept",
-      "title": "User Control in Automation",
-      "aliases": [
-        "User Control in Automation"
-      ],
-      "tags": [
-        "automation",
-        "user-experience",
-        "ai-trust",
-        "design-principles"
-      ],
-      "path": "wiki\\concepts\\user-control-in-automation.md"
-    },
-    "alphago": {
-      "type": "entity",
-      "title": "AlphaGo",
-      "aliases": [
-        "AlphaGo"
-      ],
-      "tags": [
-        "google",
-        "artificial-intelligence",
-        "machine-learning",
-        "go-game",
-        "ai-program",
-        "deepmind"
-      ],
-      "path": "wiki\\entities\\alphago.md"
-    },
-    "autocomplete-google": {
-      "type": "entity",
-      "title": "Autocomplete (Google)",
-      "aliases": [
-        "Autocomplete (Google)"
-      ],
-      "tags": [
-        "google",
-        "search-engine",
-        "technology-feature"
-      ],
-      "path": "wiki\\entities\\autocomplete-google.md"
-    },
-    "deep-blue": {
-      "type": "entity",
-      "title": "Deep Blue",
-      "aliases": [
-        "Deep Blue"
-      ],
-      "tags": [
-        "ai-system",
-        "computer",
-        "chess"
-      ],
-      "path": "wiki\\entities\\deep-blue.md"
-    },
-    "garry-kasparov": {
-      "type": "entity",
-      "title": "Garry Kasparov",
-      "aliases": [
-        "Garry Kasparov"
-      ],
-      "tags": [
-        "person",
-        "chess-player"
-      ],
-      "path": "wiki\\entities\\garry-kasparov.md"
-    },
-    "google-deepmind": {
-      "type": "entity",
-      "title": "Google's DeepMind",
-      "aliases": [
-        "Google's DeepMind"
-      ],
-      "tags": [
-        "ai-lab",
-        "research-institution",
-        "google"
-      ],
-      "path": "wiki\\entities\\google-deepmind.md"
-    },
-    "google": {
-      "type": "entity",
-      "title": "Google",
-      "aliases": [
-        "Google"
-      ],
-      "tags": [
-        "company",
-        "technology",
-        "case-study"
-      ],
-      "path": "wiki\\entities\\google.md"
-    },
-    "nils-nilsson": {
-      "type": "entity",
-      "title": "Nils Nilsson",
-      "aliases": [
-        "Nils Nilsson"
-      ],
-      "tags": [
-        "ai-researcher",
-        "general-ai"
-      ],
-      "path": "wiki\\entities\\nils-nilsson.md"
-    },
-    "nilsson": {
-      "type": "entity",
-      "title": "Nilsson",
-      "aliases": [
-        "Nilsson"
-      ],
-      "tags": [
-        "person",
-        "ai-researcher"
-      ],
-      "path": "wiki\\entities\\nilsson.md"
-    },
-    "rodney-brooks": {
-      "type": "entity",
-      "title": "Rodney Brooks",
-      "aliases": [
-        "Rodney Brooks"
-      ],
-      "tags": [
-        "person",
-        "ai-researcher",
-        "critic"
-      ],
-      "path": "wiki\\entities\\rodney-brooks.md"
-    },
-    "tesla-autopilot": {
-      "type": "entity",
-      "title": "Tesla Autopilot",
-      "aliases": [
-        "Tesla Autopilot"
-      ],
-      "tags": [
-        "tesla",
-        "autonomous-vehicles",
-        "technology-safety"
-      ],
-      "path": "wiki\\entities\\tesla-autopilot.md"
-    },
-    "academic-brain-drain-in-ai": {
-      "type": "concept",
-      "title": "Academic Brain Drain in AI",
-      "aliases": [
-        "Academic Brain Drain in AI"
-      ],
-      "tags": [
-        "academia",
-        "computer-science",
-        "ai-research",
-        "talent-management"
-      ],
-      "path": "wiki\\concepts\\academic-brain-drain-in-ai.md"
-    },
-    "agentic-era": {
-      "type": "concept",
-      "title": "Agentic Era",
-      "aliases": [
-        "Agentic Era"
-      ],
-      "tags": [
-        "organizational-design",
-        "future-of-work",
-        "ai-agents",
-        "management"
-      ],
-      "path": "wiki\\concepts\\agentic-era.md"
-    },
-    "ai-adoption-imperative": {
-      "type": "concept",
-      "title": "AI Adoption Imperative",
-      "aliases": [
-        "AI Adoption Imperative"
-      ],
-      "tags": [
-        "business-strategy",
-        "digital-transformation",
-        "ai-adoption",
-        "competitive-advantage"
-      ],
-      "path": "wiki\\concepts\\ai-adoption-imperative.md"
-    },
-    "ai-adoption": {
-      "type": "concept",
-      "title": "AI Adoption",
-      "aliases": [
-        "AI Adoption"
-      ],
-      "tags": [
-        "strategy",
-        "organizational-change",
-        "technology"
-      ],
-      "path": "wiki\\concepts\\ai-adoption.md"
-    },
-    "ai-agent": {
-      "type": "concept",
-      "title": "AI Agent",
-      "aliases": [
-        "AI Agent"
-      ],
-      "tags": [
-        "artificial-intelligence",
-        "software-architecture",
-        "future-of-work"
-      ],
-      "path": "wiki\\concepts\\ai-agent.md"
-    },
-    "ai-agents": {
-      "type": "concept",
-      "title": "AI Agents",
-      "aliases": [
-        "AI Agents"
-      ],
-      "tags": [
-        "autonomous-systems",
-        "future-of-work",
-        "no-code",
-        "ai-capabilities",
-        "automation",
-        "consumer-tech",
-        "ai",
-        "productivity",
-        "software-agents"
-      ],
-      "path": "wiki\\concepts\\ai-agents.md"
-    },
-    "ai-as-a-teammate": {
-      "type": "concept",
-      "title": "AI as a Teammate",
-      "aliases": [
-        "AI as a Teammate"
-      ],
-      "tags": [
-        "human-ai-collaboration",
-        "future-of-work",
-        "organizational-design"
-      ],
-      "path": "wiki\\concepts\\ai-as-a-teammate.md"
-    },
-    "ai-augmented-customer-service": {
-      "type": "concept",
-      "title": "AI-Augmented Customer Service",
-      "aliases": [
-        "AI-Augmented Customer Service"
-      ],
-      "tags": [
-        "customer-service",
-        "business-process",
-        "automation",
-        "generative-ai"
-      ],
-      "path": "wiki\\concepts\\ai-augmented-customer-service.md"
-    },
-    "ai-consciousness": {
-      "type": "concept",
-      "title": "AI Consciousness",
-      "aliases": [
-        "AI Consciousness"
-      ],
-      "tags": [
-        "artificial-intelligence",
-        "philosophy-of-mind",
-        "neuroscience"
-      ],
-      "path": "wiki\\concepts\\ai-consciousness.md"
-    },
-    "ai-factories": {
-      "type": "concept",
-      "title": "AI Factories",
-      "aliases": [
-        "AI Factories"
-      ],
-      "tags": [
-        "ai-business-model",
-        "digital-transformation",
-        "operating-model"
-      ],
-      "path": "wiki\\concepts\\ai-factories.md"
-    },
-    "ai-factory": {
-      "type": "concept",
-      "title": "AI Factory",
-      "aliases": [
-        "AI Factory"
-      ],
-      "tags": [
-        "ai-strategy",
-        "business-model",
-        "data-science",
-        "ai-infrastructure",
-        "data-platform",
-        "machine-learning",
-        "operating-model",
-        "data-engineering",
-        "organizational-design"
-      ],
-      "path": "wiki\\concepts\\ai-factory.md"
-    },
-    "ai-first-strategy": {
-      "type": "concept",
-      "title": "AI First Strategy",
-      "aliases": [
-        "AI First Strategy"
-      ],
-      "tags": [
-        "corporate-strategy",
-        "ai",
-        "operating-model"
-      ],
-      "path": "wiki\\concepts\\ai-first-strategy.md"
-    },
-    "ai-impact-on-human-identity": {
-      "type": "concept",
-      "title": "AI's Impact on Human Identity",
-      "aliases": [
-        "AI's Impact on Human Identity"
-      ],
-      "tags": [
-        "sociology",
-        "psychology",
-        "ai-ethics"
-      ],
-      "path": "wiki\\concepts\\ai-impact-on-human-identity.md"
-    },
-    "ai-implementation-strategy": {
-      "type": "concept",
-      "title": "AI Implementation Strategy",
-      "aliases": [
-        "AI Implementation Strategy"
-      ],
-      "tags": [
-        "ai-strategy",
-        "digital-transformation",
-        "change-management"
-      ],
-      "path": "wiki\\concepts\\ai-implementation-strategy.md"
-    },
-    "ai-in-music-creation": {
-      "type": "concept",
-      "title": "AI in Music Creation",
-      "aliases": [
-        "AI in Music Creation"
-      ],
-      "tags": [
-        "generative-ai",
-        "music-production",
-        "creative-process"
-      ],
-      "path": "wiki\\concepts\\ai-in-music-creation.md"
-    },
-    "ai-powered-coaching": {
-      "type": "concept",
-      "title": "AI-Powered Coaching",
-      "aliases": [
-        "AI-Powered Coaching"
-      ],
-      "tags": [
-        "edtech",
-        "workforce-development",
-        "ai-applications",
-        "personalized-learning"
-      ],
-      "path": "wiki\\concepts\\ai-powered-coaching.md"
-    },
-    "ai-regulation": {
-      "type": "concept",
-      "title": "AI Regulation",
-      "aliases": [
-        "AI Regulation"
-      ],
-      "tags": [
-        "policy",
-        "governance",
-        "ai-ethics"
-      ],
-      "path": "wiki\\concepts\\ai-regulation.md"
-    },
-    "ai-superhighway": {
-      "type": "concept",
-      "title": "AI Superhighway",
-      "aliases": [
-        "AI Superhighway"
-      ],
-      "tags": [
-        "ai-strategy",
-        "product-vision",
-        "productivity-software"
-      ],
-      "path": "wiki\\concepts\\ai-superhighway.md"
-    },
-    "ai-tool-provider-competition": {
-      "type": "concept",
-      "title": "AI Tool-Provider Competition",
-      "aliases": [
-        "AI Tool-Provider Competition"
-      ],
-      "tags": [
-        "ai-strategy",
-        "competitive-dynamics",
-        "business-models",
-        "platform-economy"
-      ],
-      "path": "wiki\\concepts\\ai-tool-provider-competition.md"
-    },
-    "ais-impact-on-the-system-of-work": {
-      "type": "concept",
-      "title": "AI's Impact on the System of Work",
-      "aliases": [
-        "AI's Impact on the System of Work"
-      ],
-      "tags": [
-        "future-of-work",
-        "ai-strategy",
-        "organizational-change"
-      ],
-      "path": "wiki\\concepts\\ais-impact-on-the-system-of-work.md"
-    },
-    "algorithmic-bias-and-fairness": {
-      "type": "concept",
-      "title": "Algorithmic Bias and Fairness",
-      "aliases": [
-        "Algorithmic Bias and Fairness"
-      ],
-      "tags": [
-        "ai-ethics",
-        "risk-management",
-        "ai-governance"
-      ],
-      "path": "wiki\\concepts\\algorithmic-bias-and-fairness.md"
-    },
     "algorithmic-management": {
       "type": "concept",
       "title": "Algorithmic Management",
@@ -1000,6 +535,33 @@
         "ai-ethics"
       ],
       "path": "wiki\\concepts\\algorithmic-management.md"
+    },
+    "algorithmic-recommendations": {
+      "type": "concept",
+      "title": "Algorithmic Recommendations",
+      "aliases": [
+        "Algorithmic Recommendations"
+      ],
+      "tags": [
+        "recommendation-engine",
+        "e-commerce",
+        "machine-learning"
+      ],
+      "path": "wiki\\concepts\\algorithmic-recommendations.md"
+    },
+    "algorithmic-transparency": {
+      "type": "concept",
+      "title": "Algorithmic Transparency",
+      "aliases": [
+        "Algorithmic Transparency"
+      ],
+      "tags": [
+        "ai-ethics",
+        "explainable-ai",
+        "ai-trust",
+        "user-experience"
+      ],
+      "path": "wiki\\concepts\\algorithmic-transparency.md"
     },
     "anomaly-detection": {
       "type": "concept",
@@ -1121,6 +683,19 @@
       ],
       "path": "wiki\\concepts\\attention-economy.md"
     },
+    "augmentation-vs-replacement-framework": {
+      "type": "concept",
+      "title": "Augmentation vs. Replacement Framework",
+      "aliases": [
+        "Augmentation vs. Replacement Framework"
+      ],
+      "tags": [
+        "ai-strategy",
+        "corporate-culture",
+        "innovation"
+      ],
+      "path": "wiki\\concepts\\augmentation-vs-replacement-framework.md"
+    },
     "automation-of-marketing-and-consumption": {
       "type": "concept",
       "title": "Automation of Marketing and Consumption",
@@ -1134,6 +709,34 @@
       ],
       "path": "wiki\\concepts\\automation-of-marketing-and-consumption.md"
     },
+    "automation-of-repetitive-tasks": {
+      "type": "concept",
+      "title": "Automation of Repetitive Tasks",
+      "aliases": [
+        "Automation of Repetitive Tasks"
+      ],
+      "tags": [
+        "automation",
+        "artificial-intelligence",
+        "future-of-work",
+        "customer-support",
+        "recruiting"
+      ],
+      "path": "wiki\\concepts\\automation-of-repetitive-tasks.md"
+    },
+    "autonomous-decision-making-algorithms": {
+      "type": "concept",
+      "title": "Autonomous Decision-Making Algorithms",
+      "aliases": [
+        "Autonomous Decision-Making Algorithms"
+      ],
+      "tags": [
+        "ai",
+        "algorithms",
+        "risk-management"
+      ],
+      "path": "wiki\\concepts\\autonomous-decision-making-algorithms.md"
+    },
     "belief-estimation": {
       "type": "concept",
       "title": "Belief Estimation",
@@ -1146,6 +749,46 @@
         "ai-capabilities"
       ],
       "path": "wiki\\concepts\\belief-estimation.md"
+    },
+    "better-than-average-effect": {
+      "type": "concept",
+      "title": "Better-Than-Average Effect",
+      "aliases": [
+        "Better-Than-Average Effect"
+      ],
+      "tags": [
+        "cognitive-bias",
+        "psychology",
+        "human-computer-interaction",
+        "ai-trust"
+      ],
+      "path": "wiki\\concepts\\better-than-average-effect.md"
+    },
+    "bias-against-novelty": {
+      "type": "concept",
+      "title": "Bias Against Novelty",
+      "aliases": [
+        "Bias Against Novelty"
+      ],
+      "tags": [
+        "cognitive-bias",
+        "peer-review",
+        "science-funding"
+      ],
+      "path": "wiki\\concepts\\bias-against-novelty.md"
+    },
+    "black-box-algorithms": {
+      "type": "concept",
+      "title": "Black Box Algorithms",
+      "aliases": [
+        "Black Box Algorithms"
+      ],
+      "tags": [
+        "machine-learning",
+        "ai-ethics",
+        "explainable-ai"
+      ],
+      "path": "wiki\\concepts\\black-box-algorithms.md"
     },
     "blockchain": {
       "type": "concept",
@@ -1213,6 +856,19 @@
       ],
       "path": "wiki\\concepts\\business-model.md"
     },
+    "centaur-collaboration-pattern": {
+      "type": "concept",
+      "title": "Centaur Collaboration Pattern",
+      "aliases": [
+        "Centaur Collaboration Pattern"
+      ],
+      "tags": [
+        "human-ai-interaction",
+        "collaboration-model",
+        "workflow-design"
+      ],
+      "path": "wiki\\concepts\\centaur-collaboration-pattern.md"
+    },
     "change-as-a-skill": {
       "type": "concept",
       "title": "Change as a Skill",
@@ -1240,6 +896,34 @@
         "ai-strategy"
       ],
       "path": "wiki\\concepts\\change-management-in-ai-transformation.md"
+    },
+    "changing-role-of-the-cmo": {
+      "type": "concept",
+      "title": "Changing Role of the CMO",
+      "aliases": [
+        "Changing Role of the CMO"
+      ],
+      "tags": [
+        "cmo",
+        "marketing",
+        "leadership",
+        "artificial-intelligence"
+      ],
+      "path": "wiki\\concepts\\changing-role-of-the-cmo.md"
+    },
+    "classification-experience": {
+      "type": "concept",
+      "title": "Classification Experience",
+      "aliases": [
+        "Classification Experience"
+      ],
+      "tags": [
+        "consumer-behavior",
+        "algorithmic-bias",
+        "personalization",
+        "artificial-intelligence"
+      ],
+      "path": "wiki\\concepts\\classification-experience.md"
     },
     "clinical-trials-of-ai": {
       "type": "concept",
@@ -1311,6 +995,19 @@
       ],
       "path": "wiki\\concepts\\collaborative-filtering-algorithms.md"
     },
+    "collaborative-learning-model": {
+      "type": "concept",
+      "title": "Collaborative Learning Model",
+      "aliases": [
+        "Collaborative Learning Model"
+      ],
+      "tags": [
+        "pedagogy",
+        "educational-theory",
+        "participant-centered-learning"
+      ],
+      "path": "wiki\\concepts\\collaborative-learning-model.md"
+    },
     "collective-wisdom": {
       "type": "concept",
       "title": "Collective Wisdom",
@@ -1325,6 +1022,19 @@
       ],
       "path": "wiki\\concepts\\collective-wisdom.md"
     },
+    "complementary-ai-framework": {
+      "type": "concept",
+      "title": "Complementary AI Framework",
+      "aliases": [
+        "Complementary AI Framework"
+      ],
+      "tags": [
+        "ai-strategy",
+        "human-computer-interaction",
+        "ai-adoption"
+      ],
+      "path": "wiki\\concepts\\complementary-ai-framework.md"
+    },
     "conscious-ai": {
       "type": "concept",
       "title": "Conscious AI",
@@ -1337,6 +1047,19 @@
         "neuromorphic-computing"
       ],
       "path": "wiki\\concepts\\conscious-ai.md"
+    },
+    "consumer-ai-experience": {
+      "type": "concept",
+      "title": "Consumer AI Experience",
+      "aliases": [
+        "Consumer AI Experience"
+      ],
+      "tags": [
+        "consumer-behavior",
+        "artificial-intelligence",
+        "marketing-framework"
+      ],
+      "path": "wiki\\concepts\\consumer-ai-experience.md"
     },
     "contextual-value-of-tasks": {
       "type": "concept",
@@ -1352,6 +1075,26 @@
       ],
       "path": "wiki\\concepts\\contextual-value-of-tasks.md"
     },
+    "cost-of-cognition": {
+      "type": "concept",
+      "title": "Cost of Cognition",
+      "aliases": [
+        "Cost of Cognition"
+      ],
+      "tags": [
+        "economic-theory",
+        "ai-impact",
+        "business-models"
+      ],
+      "path": "wiki\\concepts\\cost-of-cognition.md"
+    },
+    "cost-reduction-vs-capability-expansion-posture": {
+      "type": "unknown",
+      "title": "Cost-Reduction vs. Capability-Expansion Posture",
+      "aliases": [],
+      "tags": [],
+      "path": "wiki\\concepts\\cost-reduction-vs-capability-expansion-posture.md"
+    },
     "customer-sentiment-analysis": {
       "type": "concept",
       "title": "Customer Sentiment Analysis",
@@ -1364,6 +1107,47 @@
         "nlp"
       ],
       "path": "wiki\\concepts\\customer-sentiment-analysis.md"
+    },
+    "cyborg-collaboration-pattern": {
+      "type": "concept",
+      "title": "Cyborg Collaboration Pattern",
+      "aliases": [
+        "Cyborg Collaboration Pattern"
+      ],
+      "tags": [
+        "human-ai-interaction",
+        "collaboration-model",
+        "workflow-design"
+      ],
+      "path": "wiki\\concepts\\cyborg-collaboration-pattern.md"
+    },
+    "data-capture-experience": {
+      "type": "concept",
+      "title": "Data Capture Experience",
+      "aliases": [
+        "Data Capture Experience"
+      ],
+      "tags": [
+        "consumer-behavior",
+        "data-privacy",
+        "artificial-intelligence",
+        "psychology"
+      ],
+      "path": "wiki\\concepts\\data-capture-experience.md"
+    },
+    "data-moats": {
+      "type": "concept",
+      "title": "Data Moats",
+      "aliases": [
+        "Data Moats"
+      ],
+      "tags": [
+        "competitive-advantage",
+        "data-strategy",
+        "machine-learning",
+        "business-model"
+      ],
+      "path": "wiki\\concepts\\data-moats.md"
     },
     "data-platform": {
       "type": "concept",
@@ -1404,6 +1188,63 @@
       ],
       "path": "wiki\\concepts\\data-wall-for-ai-training.md"
     },
+    "decision-driven-analytics": {
+      "type": "concept",
+      "title": "Decision-Driven Analytics",
+      "aliases": [
+        "Decision-Driven Analytics"
+      ],
+      "tags": [
+        "analytics",
+        "decision-making",
+        "business-strategy",
+        "framework"
+      ],
+      "path": "wiki\\concepts\\decision-driven-analytics.md"
+    },
+    "deep-learning": {
+      "type": "concept",
+      "title": "Deep Learning",
+      "aliases": [
+        "Deep Learning"
+      ],
+      "tags": [
+        "machine-learning",
+        "neural-networks",
+        "big-data"
+      ],
+      "path": "wiki\\concepts\\deep-learning.md"
+    },
+    "deskilling-from-ai": {
+      "type": "concept",
+      "title": "Deskilling (from AI)",
+      "aliases": [
+        "Deskilling (from AI)"
+      ],
+      "tags": [
+        "ai-impact",
+        "skills-development",
+        "education",
+        "future-of-work"
+      ],
+      "path": "wiki\\concepts\\deskilling-from-ai.md"
+    },
+    "deskilling": {
+      "type": "concept",
+      "title": "Deskilling",
+      "aliases": [
+        "Deskilling"
+      ],
+      "tags": [
+        "technology-impact",
+        "future-of-work",
+        "skills-development",
+        "generative-ai",
+        "societal-impact",
+        "technology-criticism"
+      ],
+      "path": "wiki\\concepts\\deskilling.md"
+    },
     "digital-addiction": {
       "type": "concept",
       "title": "Digital Addiction",
@@ -1429,6 +1270,19 @@
         "misinformation"
       ],
       "path": "wiki\\concepts\\digital-amplification.md"
+    },
+    "digital-neighborhoods": {
+      "type": "concept",
+      "title": "Digital Neighborhoods",
+      "aliases": [
+        "Digital Neighborhoods"
+      ],
+      "tags": [
+        "e-commerce",
+        "digital-marketing",
+        "online-business"
+      ],
+      "path": "wiki\\concepts\\digital-neighborhoods.md"
     },
     "digital-operating-model": {
       "type": "concept",
@@ -1489,6 +1343,13 @@
       ],
       "path": "wiki\\concepts\\direct-network-effects.md"
     },
+    "divers-vs-runners-dichotomy": {
+      "type": "unknown",
+      "title": "Divers vs. Runners Dichotomy",
+      "aliases": [],
+      "tags": [],
+      "path": "wiki\\concepts\\divers-vs-runners-dichotomy.md"
+    },
     "dominant-design": {
       "type": "concept",
       "title": "Dominant Design",
@@ -1543,6 +1404,34 @@
       ],
       "path": "wiki\\concepts\\dynamic-nature-of-the-firm.md"
     },
+    "environmental-cost-of-ai": {
+      "type": "concept",
+      "title": "Environmental Cost of AI",
+      "aliases": [
+        "Environmental Cost of AI"
+      ],
+      "tags": [
+        "ai",
+        "esg",
+        "sustainability",
+        "technology-economics"
+      ],
+      "path": "wiki\\concepts\\environmental-cost-of-ai.md"
+    },
+    "ethical-ai-and-fat-ml": {
+      "type": "concept",
+      "title": "Ethical AI and FAT ML",
+      "aliases": [
+        "Ethical AI and FAT ML"
+      ],
+      "tags": [
+        "artificial-intelligence",
+        "machine-learning",
+        "ethics",
+        "fairness"
+      ],
+      "path": "wiki\\concepts\\ethical-ai-and-fat-ml.md"
+    },
     "experimentation-and-sandboxing-for-ai": {
       "type": "concept",
       "title": "Experimentation and Sandboxing for AI",
@@ -1556,6 +1445,32 @@
         "use-case-development"
       ],
       "path": "wiki\\concepts\\experimentation-and-sandboxing-for-ai.md"
+    },
+    "expert-systems": {
+      "type": "concept",
+      "title": "Expert Systems",
+      "aliases": [
+        "Expert Systems"
+      ],
+      "tags": [
+        "ai-history",
+        "symbolic-ai",
+        "knowledge-representation"
+      ],
+      "path": "wiki\\concepts\\expert-systems.md"
+    },
+    "explainability": {
+      "type": "concept",
+      "title": "Explainability",
+      "aliases": [
+        "Explainability"
+      ],
+      "tags": [
+        "explainable-ai",
+        "ai-ethics",
+        "trust-in-ai"
+      ],
+      "path": "wiki\\concepts\\explainability.md"
     },
     "exponential-organizations": {
       "type": "concept",
@@ -1722,6 +1637,19 @@
       ],
       "path": "wiki\\concepts\\generative-ai.md"
     },
+    "governance-framework-for-ai": {
+      "type": "concept",
+      "title": "Governance Framework for AI",
+      "aliases": [
+        "Governance Framework for AI"
+      ],
+      "tags": [
+        "ai-ethics",
+        "regulation",
+        "risk-management"
+      ],
+      "path": "wiki\\concepts\\governance-framework-for-ai.md"
+    },
     "hallucinations-ai": {
       "type": "concept",
       "title": "Hallucinations (AI)",
@@ -1747,6 +1675,59 @@
         "neuroscience"
       ],
       "path": "wiki\\concepts\\hard-problem-of-consciousness.md"
+    },
+    "homogenization-risk": {
+      "type": "concept",
+      "title": "Homogenization Risk",
+      "aliases": [
+        "Homogenization Risk"
+      ],
+      "tags": [
+        "ai-risk",
+        "business-model",
+        "strategic-risk"
+      ],
+      "path": "wiki\\concepts\\homogenization-risk.md"
+    },
+    "homophily": {
+      "type": "concept",
+      "title": "Homophily",
+      "aliases": [
+        "Homophily"
+      ],
+      "tags": [
+        "social-science",
+        "network-theory",
+        "algorithms"
+      ],
+      "path": "wiki\\concepts\\homophily.md"
+    },
+    "human-ai-collaboration": {
+      "type": "concept",
+      "title": "Human-AI Collaboration",
+      "aliases": [
+        "Human-AI Collaboration"
+      ],
+      "tags": [
+        "ai-adoption",
+        "strategy",
+        "human-computer-interaction",
+        "organizational-behavior"
+      ],
+      "path": "wiki\\concepts\\human-ai-collaboration.md"
+    },
+    "human-ai-complementation": {
+      "type": "concept",
+      "title": "Human-AI Complementation",
+      "aliases": [
+        "Human-AI Complementation"
+      ],
+      "tags": [
+        "artificial-intelligence",
+        "future-of-work",
+        "strategy"
+      ],
+      "path": "wiki\\concepts\\human-ai-complementation.md"
     },
     "human-ai-interaction-models": {
       "type": "unknown",
@@ -1781,6 +1762,19 @@
       ],
       "path": "wiki\\concepts\\human-flourishing-ai-paradigm.md"
     },
+    "human-impact-of-ai": {
+      "type": "concept",
+      "title": "Human Impact of AI",
+      "aliases": [
+        "Human Impact of AI"
+      ],
+      "tags": [
+        "artificial-intelligence",
+        "behavioral-science",
+        "sociology"
+      ],
+      "path": "wiki\\concepts\\human-impact-of-ai.md"
+    },
     "human-in-the-loop": {
       "type": "concept",
       "title": "Human in the Loop",
@@ -1806,6 +1800,20 @@
         "organizational-theory"
       ],
       "path": "wiki\\concepts\\human-replacement-ai-mindset.md"
+    },
+    "humanized-ai-narrative": {
+      "type": "concept",
+      "title": "Humanized AI Narrative",
+      "aliases": [
+        "Humanized AI Narrative"
+      ],
+      "tags": [
+        "sociology-of-technology",
+        "human-ai-interaction",
+        "anthropomorphism",
+        "ai-ethics"
+      ],
+      "path": "wiki\\concepts\\humanized-ai-narrative.md"
     },
     "humans-as-managers-of-agents": {
       "type": "concept",
@@ -1848,6 +1856,34 @@
       ],
       "path": "wiki\\concepts\\ideation-roles-for-llms.md"
     },
+    "identity-motives-in-consumption": {
+      "type": "concept",
+      "title": "Identity Motives in Consumption",
+      "aliases": [
+        "Identity Motives in Consumption"
+      ],
+      "tags": [
+        "consumer-psychology",
+        "marketing",
+        "consumption"
+      ],
+      "path": "wiki\\concepts\\identity-motives-in-consumption.md"
+    },
+    "identity-threat-from-ai": {
+      "type": "concept",
+      "title": "Identity Threat (from AI)",
+      "aliases": [
+        "Identity Threat (from AI)"
+      ],
+      "tags": [
+        "psychology",
+        "ai-adoption",
+        "future-of-work",
+        "workforce-management",
+        "change-management"
+      ],
+      "path": "wiki\\concepts\\identity-threat-from-ai.md"
+    },
     "indirect-network-effects": {
       "type": "concept",
       "title": "Indirect Network Effects",
@@ -1887,6 +1923,19 @@
       ],
       "path": "wiki\\concepts\\intelligence-vs-consciousness-distinction.md"
     },
+    "internet-of-things": {
+      "type": "concept",
+      "title": "Internet of Things (IoT)",
+      "aliases": [
+        "Internet of Things (IoT)"
+      ],
+      "tags": [
+        "technology",
+        "consumer-behavior",
+        "product-management"
+      ],
+      "path": "wiki\\concepts\\internet-of-things.md"
+    },
     "j-curve-of-productivity": {
       "type": "concept",
       "title": "J-Curve of Productivity",
@@ -1900,6 +1949,19 @@
         "business-process"
       ],
       "path": "wiki\\concepts\\j-curve-of-productivity.md"
+    },
+    "jagged-frontier": {
+      "type": "concept",
+      "title": "Jagged Frontier",
+      "aliases": [
+        "Jagged Frontier"
+      ],
+      "tags": [
+        "ai-capabilities",
+        "human-ai-interaction",
+        "ai-limitations"
+      ],
+      "path": "wiki\\concepts\\jagged-frontier.md"
     },
     "jagged-technological-frontier": {
       "type": "concept",
@@ -2023,6 +2085,58 @@
       ],
       "path": "wiki\\concepts\\llm-generated-impact-scores.md"
     },
+    "lottery-based-funding-system": {
+      "type": "concept",
+      "title": "Lottery-Based Funding System",
+      "aliases": [
+        "Lottery-Based Funding System"
+      ],
+      "tags": [
+        "science-funding",
+        "innovation-policy",
+        "research-methods"
+      ],
+      "path": "wiki\\concepts\\lottery-based-funding-system.md"
+    },
+    "machine-decisions": {
+      "type": "concept",
+      "title": "Machine Decisions",
+      "aliases": [
+        "Machine Decisions"
+      ],
+      "tags": [
+        "artificial-intelligence",
+        "automation",
+        "decision-making"
+      ],
+      "path": "wiki\\concepts\\machine-decisions.md"
+    },
+    "machine-intelligence": {
+      "type": "concept",
+      "title": "Machine Intelligence",
+      "aliases": [
+        "Machine Intelligence"
+      ],
+      "tags": [
+        "artificial-intelligence",
+        "automation",
+        "data-science"
+      ],
+      "path": "wiki\\concepts\\machine-intelligence.md"
+    },
+    "marketplace-metacognition": {
+      "type": "concept",
+      "title": "Marketplace Metacognition",
+      "aliases": [
+        "Marketplace Metacognition"
+      ],
+      "tags": [
+        "consumer-psychology",
+        "theory",
+        "human-ai-interaction"
+      ],
+      "path": "wiki\\concepts\\marketplace-metacognition.md"
+    },
     "mass-production": {
       "type": "concept",
       "title": "Mass Production",
@@ -2145,6 +2259,19 @@
       ],
       "path": "wiki\\concepts\\natural-language-processing.md"
     },
+    "nature-x-nurture": {
+      "type": "concept",
+      "title": "Nature × Nurture",
+      "aliases": [
+        "Nature × Nurture"
+      ],
+      "tags": [
+        "psychology",
+        "genetics",
+        "sociology"
+      ],
+      "path": "wiki\\concepts\\nature-x-nurture.md"
+    },
     "network-clustering": {
       "type": "concept",
       "title": "Network Clustering",
@@ -2174,6 +2301,33 @@
         "digital-economy"
       ],
       "path": "wiki\\concepts\\network-effects.md"
+    },
+    "not-all-creativity-is-worth-saving": {
+      "type": "concept",
+      "title": "Not All Creativity Is Worth Saving",
+      "aliases": [
+        "Not All Creativity Is Worth Saving"
+      ],
+      "tags": [
+        "creativity",
+        "automation",
+        "future-of-work",
+        "media-industry"
+      ],
+      "path": "wiki\\concepts\\not-all-creativity-is-worth-saving.md"
+    },
+    "notifications-and-gamification": {
+      "type": "concept",
+      "title": "Notifications and Gamification",
+      "aliases": [
+        "Notifications and Gamification"
+      ],
+      "tags": [
+        "ux-design",
+        "user-engagement",
+        "digital-psychology"
+      ],
+      "path": "wiki\\concepts\\notifications-and-gamification.md"
     },
     "one-person-unicorn-company": {
       "type": "concept",
@@ -2268,6 +2422,32 @@
       ],
       "path": "wiki\\concepts\\possibility-space.md"
     },
+    "predictability-resilience-paradox": {
+      "type": "concept",
+      "title": "Predictability-Resilience Paradox",
+      "aliases": [
+        "Predictability-Resilience Paradox"
+      ],
+      "tags": [
+        "ai-design",
+        "machine-learning",
+        "explainable-ai"
+      ],
+      "path": "wiki\\concepts\\predictability-resilience-paradox.md"
+    },
+    "prediction-vs-judgment-decomposition": {
+      "type": "concept",
+      "title": "Prediction-vs-Judgment Decomposition",
+      "aliases": [
+        "Prediction-vs-Judgment Decomposition"
+      ],
+      "tags": [
+        "ai-impact",
+        "work-redesign",
+        "framework"
+      ],
+      "path": "wiki\\concepts\\prediction-vs-judgment-decomposition.md"
+    },
     "predictive-ai": {
       "type": "concept",
       "title": "Predictive AI",
@@ -2279,6 +2459,20 @@
         "ai-types"
       ],
       "path": "wiki\\concepts\\predictive-ai.md"
+    },
+    "preference-driven-analytics": {
+      "type": "concept",
+      "title": "Preference-Driven Analytics",
+      "aliases": [
+        "Preference-Driven Analytics"
+      ],
+      "tags": [
+        "analytics",
+        "cognitive-bias",
+        "decision-making",
+        "risk"
+      ],
+      "path": "wiki\\concepts\\preference-driven-analytics.md"
     },
     "preferential-attachment": {
       "type": "concept",
@@ -2320,6 +2514,19 @@
       ],
       "path": "wiki\\concepts\\productivity-in-llm-ideation.md"
     },
+    "recommendation-algorithms": {
+      "type": "concept",
+      "title": "Recommendation Algorithms",
+      "aliases": [
+        "Recommendation Algorithms"
+      ],
+      "tags": [
+        "algorithms",
+        "machine-learning",
+        "user-behavior"
+      ],
+      "path": "wiki\\concepts\\recommendation-algorithms.md"
+    },
     "recommender-systems": {
       "type": "concept",
       "title": "Recommender Systems",
@@ -2347,6 +2554,46 @@
       ],
       "path": "wiki\\concepts\\redesign-of-education-with-ai.md"
     },
+    "redundant-algorithmic-systems": {
+      "type": "concept",
+      "title": "Redundant Algorithmic Systems",
+      "aliases": [
+        "Redundant Algorithmic Systems"
+      ],
+      "tags": [
+        "ai-safety",
+        "system-design",
+        "machine-learning"
+      ],
+      "path": "wiki\\concepts\\redundant-algorithmic-systems.md"
+    },
+    "reimagining-human-potential-in-the-ai-era": {
+      "type": "concept",
+      "title": "Reimagining Human Potential in the AI Era",
+      "aliases": [
+        "Reimagining Human Potential in the AI Era"
+      ],
+      "tags": [
+        "philosophy",
+        "artificial-intelligence",
+        "creativity",
+        "human-potential"
+      ],
+      "path": "wiki\\concepts\\reimagining-human-potential-in-the-ai-era.md"
+    },
+    "reinforcement-learning-risks": {
+      "type": "concept",
+      "title": "Reinforcement Learning Risks",
+      "aliases": [
+        "Reinforcement Learning Risks"
+      ],
+      "tags": [
+        "reinforcement-learning",
+        "ai-safety",
+        "unpredictability"
+      ],
+      "path": "wiki\\concepts\\reinforcement-learning-risks.md"
+    },
     "reinforcement-learning": {
       "type": "concept",
       "title": "Reinforcement Learning",
@@ -2371,6 +2618,59 @@
         "prompt-engineering"
       ],
       "path": "wiki\\concepts\\retrieval-augmented-generation.md"
+    },
+    "scaling": {
+      "type": "concept",
+      "title": "Scaling",
+      "aliases": [
+        "Scaling"
+      ],
+      "tags": [
+        "business-strategy",
+        "growth",
+        "automation"
+      ],
+      "path": "wiki\\concepts\\scaling.md"
+    },
+    "science-of-science": {
+      "type": "concept",
+      "title": "Science of Science",
+      "aliases": [
+        "Science of Science"
+      ],
+      "tags": [
+        "metascience",
+        "sociology-of-science",
+        "innovation-studies"
+      ],
+      "path": "wiki\\concepts\\science-of-science.md"
+    },
+    "self-determination-theory-in-ai-context": {
+      "type": "concept",
+      "title": "Self-Determination Theory (in AI Context)",
+      "aliases": [
+        "Self-Determination Theory (in AI Context)"
+      ],
+      "tags": [
+        "psychology",
+        "ai-adoption",
+        "organizational-behavior"
+      ],
+      "path": "wiki\\concepts\\self-determination-theory-in-ai-context.md"
+    },
+    "self-determination-theory": {
+      "type": "concept",
+      "title": "Self-Determination Theory",
+      "aliases": [
+        "Self-Determination Theory"
+      ],
+      "tags": [
+        "psychology",
+        "ai-adoption",
+        "well-being",
+        "workforce-management"
+      ],
+      "path": "wiki\\concepts\\self-determination-theory.md"
     },
     "semantic-breadth-in-llm-ideation": {
       "type": "concept",
@@ -2544,6 +2844,22 @@
       ],
       "path": "wiki\\concepts\\team-rituals.md"
     },
+    "technological-deskilling": {
+      "type": "concept",
+      "title": "Technological Deskilling",
+      "aliases": [
+        "Technological Deskilling"
+      ],
+      "tags": [
+        "sociology-of-technology",
+        "ai-ethics",
+        "future-of-work",
+        "skills-development",
+        "skills-gap",
+        "generative-ai"
+      ],
+      "path": "wiki\\concepts\\technological-deskilling.md"
+    },
     "the-actor-llm-ideation-role": {
       "type": "concept",
       "title": "The Actor (LLM Ideation Role)",
@@ -2557,6 +2873,19 @@
         "qualitative-methods"
       ],
       "path": "wiki\\concepts\\the-actor-llm-ideation-role.md"
+    },
+    "the-replaced-consumer": {
+      "type": "concept",
+      "title": "The Replaced Consumer",
+      "aliases": [
+        "The Replaced Consumer"
+      ],
+      "tags": [
+        "consumer-psychology",
+        "human-ai-interaction",
+        "identity-threat"
+      ],
+      "path": "wiki\\concepts\\the-replaced-consumer.md"
     },
     "the-six-cs-of-skills": {
       "type": "concept",
@@ -2585,6 +2914,19 @@
       ],
       "path": "wiki\\concepts\\thin-product-thick-model.md"
     },
+    "threat-opportunity-time-gap": {
+      "type": "concept",
+      "title": "Threat-Opportunity Time Gap",
+      "aliases": [
+        "Threat-Opportunity Time Gap"
+      ],
+      "tags": [
+        "technology-adoption",
+        "labor-economics",
+        "ai-impact"
+      ],
+      "path": "wiki\\concepts\\threat-opportunity-time-gap.md"
+    },
     "transformer-architecture": {
       "type": "concept",
       "title": "Transformer Architecture",
@@ -2598,6 +2940,32 @@
       ],
       "path": "wiki\\concepts\\transformer-architecture.md"
     },
+    "transformer-models": {
+      "type": "concept",
+      "title": "Transformer Models",
+      "aliases": [
+        "Transformer Models"
+      ],
+      "tags": [
+        "ai",
+        "neural-networks",
+        "nlp"
+      ],
+      "path": "wiki\\concepts\\transformer-models.md"
+    },
+    "transhumanism": {
+      "type": "concept",
+      "title": "Transhumanism",
+      "aliases": [
+        "Transhumanism"
+      ],
+      "tags": [
+        "philosophy",
+        "sociology-of-technology",
+        "ai-ethics"
+      ],
+      "path": "wiki\\concepts\\transhumanism.md"
+    },
     "turing-test": {
       "type": "concept",
       "title": "Turing Test (Imitation Game)",
@@ -2610,6 +2978,59 @@
         "alan-turing"
       ],
       "path": "wiki\\concepts\\turing-test.md"
+    },
+    "unanticipated-consequences": {
+      "type": "concept",
+      "title": "Unanticipated Consequences",
+      "aliases": [
+        "Unanticipated Consequences"
+      ],
+      "tags": [
+        "technology-impact",
+        "systems-thinking",
+        "ethics"
+      ],
+      "path": "wiki\\concepts\\unanticipated-consequences.md"
+    },
+    "use-case-specific-ai": {
+      "type": "concept",
+      "title": "Use-Case Specific AI",
+      "aliases": [
+        "Use-Case Specific AI"
+      ],
+      "tags": [
+        "artificial-intelligence",
+        "ai-strategy",
+        "product-management"
+      ],
+      "path": "wiki\\concepts\\use-case-specific-ai.md"
+    },
+    "user-control-in-algorithmic-systems": {
+      "type": "concept",
+      "title": "User Control in Algorithmic Systems",
+      "aliases": [
+        "User Control in Algorithmic Systems"
+      ],
+      "tags": [
+        "human-computer-interaction",
+        "ui-ux",
+        "trust-in-ai"
+      ],
+      "path": "wiki\\concepts\\user-control-in-algorithmic-systems.md"
+    },
+    "user-control-in-automation": {
+      "type": "concept",
+      "title": "User Control in Automation",
+      "aliases": [
+        "User Control in Automation"
+      ],
+      "tags": [
+        "automation",
+        "user-experience",
+        "ai-trust",
+        "design-principles"
+      ],
+      "path": "wiki\\concepts\\user-control-in-automation.md"
     },
     "value-capture": {
       "type": "concept",
@@ -2653,6 +3074,32 @@
       ],
       "path": "wiki\\concepts\\workflow-re-engineering.md"
     },
+    "a-humans-guide-to-machine-intelligence": {
+      "type": "entity",
+      "title": "A Human’s Guide to Machine Intelligence",
+      "aliases": [
+        "A Human’s Guide to Machine Intelligence"
+      ],
+      "tags": [
+        "book",
+        "non-fiction",
+        "artificial-intelligence"
+      ],
+      "path": "wiki\\entities\\a-humans-guide-to-machine-intelligence.md"
+    },
+    "accenture-song": {
+      "type": "entity",
+      "title": "Accenture Song",
+      "aliases": [
+        "Accenture Song"
+      ],
+      "tags": [
+        "creative-agency",
+        "consulting",
+        "accenture"
+      ],
+      "path": "wiki\\entities\\accenture-song.md"
+    },
     "airbnb": {
       "type": "entity",
       "title": "Airbnb",
@@ -2682,6 +3129,20 @@
       ],
       "path": "wiki\\entities\\alan-turing.md"
     },
+    "algorithmic-accountability-act-of-2019": {
+      "type": "entity",
+      "title": "Algorithmic Accountability Act of 2019",
+      "aliases": [
+        "Algorithmic Accountability Act of 2019"
+      ],
+      "tags": [
+        "regulation",
+        "us-legislation",
+        "artificial-intelligence",
+        "algorithmic-bias"
+      ],
+      "path": "wiki\\entities\\algorithmic-accountability-act-of-2019.md"
+    },
     "alibaba": {
       "type": "entity",
       "title": "Alibaba",
@@ -2708,6 +3169,35 @@
         "reinforcement-learning"
       ],
       "path": "wiki\\entities\\alphago-zero.md"
+    },
+    "alphago": {
+      "type": "entity",
+      "title": "AlphaGo",
+      "aliases": [
+        "AlphaGo"
+      ],
+      "tags": [
+        "google",
+        "artificial-intelligence",
+        "machine-learning",
+        "go-game",
+        "ai-program",
+        "deepmind"
+      ],
+      "path": "wiki\\entities\\alphago.md"
+    },
+    "amazon-com": {
+      "type": "entity",
+      "title": "Amazon.com",
+      "aliases": [
+        "Amazon.com"
+      ],
+      "tags": [
+        "company",
+        "e-commerce",
+        "technology"
+      ],
+      "path": "wiki\\entities\\amazon-com.md"
     },
     "amazon": {
       "type": "entity",
@@ -2825,6 +3315,19 @@
         "ai"
       ],
       "path": "wiki\\entities\\arts-and-machine-intelligence-program.md"
+    },
+    "autocomplete-google": {
+      "type": "entity",
+      "title": "Autocomplete (Google)",
+      "aliases": [
+        "Autocomplete (Google)"
+      ],
+      "tags": [
+        "google",
+        "search-engine",
+        "technology-feature"
+      ],
+      "path": "wiki\\entities\\autocomplete-google.md"
     },
     "azure": {
       "type": "entity",
@@ -3040,6 +3543,59 @@
       ],
       "path": "wiki\\entities\\creative-intelligence-podcast.md"
     },
+    "creative-intelligence": {
+      "type": "entity",
+      "title": "Creative Intelligence",
+      "aliases": [
+        "Creative Intelligence"
+      ],
+      "tags": [
+        "podcast",
+        "ai",
+        "creativity",
+        "technology"
+      ],
+      "path": "wiki\\entities\\creative-intelligence.md"
+    },
+    "david-droga": {
+      "type": "entity",
+      "title": "David Droga",
+      "aliases": [
+        "David Droga"
+      ],
+      "tags": [
+        "ceo",
+        "advertising-executive",
+        "founder"
+      ],
+      "path": "wiki\\entities\\david-droga.md"
+    },
+    "david-maslach": {
+      "type": "entity",
+      "title": "David Maslach",
+      "aliases": [
+        "David Maslach"
+      ],
+      "tags": [
+        "academic",
+        "entrepreneurship",
+        "researcher"
+      ],
+      "path": "wiki\\entities\\david-maslach.md"
+    },
+    "deep-blue": {
+      "type": "entity",
+      "title": "Deep Blue",
+      "aliases": [
+        "Deep Blue"
+      ],
+      "tags": [
+        "ai-system",
+        "computer",
+        "chess"
+      ],
+      "path": "wiki\\entities\\deep-blue.md"
+    },
     "deep-seek": {
       "type": "entity",
       "title": "Deep Seek",
@@ -3125,6 +3681,18 @@
       ],
       "path": "wiki\\entities\\digital-data-design-institute.md"
     },
+    "droga5": {
+      "type": "entity",
+      "title": "Droga5",
+      "aliases": [
+        "Droga5"
+      ],
+      "tags": [
+        "creative-agency",
+        "advertising"
+      ],
+      "path": "wiki\\entities\\droga5.md"
+    },
     "dutch-east-india-company": {
       "type": "entity",
       "title": "Dutch East India Company",
@@ -3137,6 +3705,21 @@
         "operating-model"
       ],
       "path": "wiki\\entities\\dutch-east-india-company.md"
+    },
+    "eightfold": {
+      "type": "entity",
+      "title": "Eightfold",
+      "aliases": [
+        "Eightfold"
+      ],
+      "tags": [
+        "company",
+        "recruiting",
+        "hr-tech",
+        "automation",
+        "artificial-intelligence"
+      ],
+      "path": "wiki\\entities\\eightfold.md"
     },
     "engineears": {
       "type": "entity",
@@ -3177,6 +3760,18 @@
       ],
       "path": "wiki\\entities\\equifax.md"
     },
+    "erasmus-university": {
+      "type": "entity",
+      "title": "Erasmus University",
+      "aliases": [
+        "Erasmus University"
+      ],
+      "tags": [
+        "university",
+        "institution"
+      ],
+      "path": "wiki\\entities\\erasmus-university.md"
+    },
     "fidelity-investments": {
       "type": "entity",
       "title": "Fidelity Investments",
@@ -3190,6 +3785,18 @@
         "digital-transformation"
       ],
       "path": "wiki\\entities\\fidelity-investments.md"
+    },
+    "garry-kasparov": {
+      "type": "entity",
+      "title": "Garry Kasparov",
+      "aliases": [
+        "Garry Kasparov"
+      ],
+      "tags": [
+        "person",
+        "chess-player"
+      ],
+      "path": "wiki\\entities\\garry-kasparov.md"
     },
     "generate-biomedicines": {
       "type": "entity",
@@ -3242,6 +3849,32 @@
       ],
       "path": "wiki\\entities\\gnu-public-license.md"
     },
+    "google-deepmind": {
+      "type": "entity",
+      "title": "Google's DeepMind",
+      "aliases": [
+        "Google's DeepMind"
+      ],
+      "tags": [
+        "ai-lab",
+        "research-institution",
+        "google"
+      ],
+      "path": "wiki\\entities\\google-deepmind.md"
+    },
+    "google": {
+      "type": "entity",
+      "title": "Google",
+      "aliases": [
+        "Google"
+      ],
+      "tags": [
+        "company",
+        "technology",
+        "case-study"
+      ],
+      "path": "wiki\\entities\\google.md"
+    },
     "grammarly": {
       "type": "entity",
       "title": "Grammarly",
@@ -3254,6 +3887,19 @@
         "saas"
       ],
       "path": "wiki\\entities\\grammarly.md"
+    },
+    "harvard-business-analytics-program": {
+      "type": "entity",
+      "title": "Harvard Business Analytics Program",
+      "aliases": [
+        "Harvard Business Analytics Program"
+      ],
+      "tags": [
+        "educational-program",
+        "harvard",
+        "business-analytics"
+      ],
+      "path": "wiki\\entities\\harvard-business-analytics-program.md"
     },
     "joscha-bach": {
       "type": "entity",
@@ -3315,6 +3961,20 @@
         "author"
       ],
       "path": "wiki\\entities\\karim-r-lakhani.md"
+    },
+    "karthik-hosanagar": {
+      "type": "entity",
+      "title": "Karthik Hosanagar",
+      "aliases": [
+        "Karthik Hosanagar"
+      ],
+      "tags": [
+        "academic",
+        "author",
+        "entrepreneur",
+        "wharton"
+      ],
+      "path": "wiki\\entities\\karthik-hosanagar.md"
     },
     "kartik-hosanagar": {
       "type": "entity",
@@ -3465,6 +4125,30 @@
       ],
       "path": "wiki\\entities\\netflix.md"
     },
+    "nils-nilsson": {
+      "type": "entity",
+      "title": "Nils Nilsson",
+      "aliases": [
+        "Nils Nilsson"
+      ],
+      "tags": [
+        "ai-researcher",
+        "general-ai"
+      ],
+      "path": "wiki\\entities\\nils-nilsson.md"
+    },
+    "nilsson": {
+      "type": "entity",
+      "title": "Nilsson",
+      "aliases": [
+        "Nilsson"
+      ],
+      "tags": [
+        "person",
+        "ai-researcher"
+      ],
+      "path": "wiki\\entities\\nilsson.md"
+    },
     "nokia": {
       "type": "entity",
       "title": "Nokia",
@@ -3519,6 +4203,19 @@
       ],
       "path": "wiki\\entities\\peloton.md"
     },
+    "r3ciprocity-project": {
+      "type": "entity",
+      "title": "R3ciprocity Project",
+      "aliases": [
+        "R3ciprocity Project"
+      ],
+      "tags": [
+        "platform",
+        "scientific-collaboration",
+        "peer-to-peer"
+      ],
+      "path": "wiki\\entities\\r3ciprocity-project.md"
+    },
     "rahul-kapoor": {
       "type": "entity",
       "title": "Rahul Kapoor",
@@ -3544,6 +4241,31 @@
         "change-management"
       ],
       "path": "wiki\\entities\\rakuten.md"
+    },
+    "rene-descartes": {
+      "type": "entity",
+      "title": "René Descartes",
+      "aliases": [
+        "René Descartes"
+      ],
+      "tags": [
+        "philosopher",
+        "scientist"
+      ],
+      "path": "wiki\\entities\\rene-descartes.md"
+    },
+    "rodney-brooks": {
+      "type": "entity",
+      "title": "Rodney Brooks",
+      "aliases": [
+        "Rodney Brooks"
+      ],
+      "tags": [
+        "person",
+        "ai-researcher",
+        "critic"
+      ],
+      "path": "wiki\\entities\\rodney-brooks.md"
     },
     "sangeet-paul-choudary": {
       "type": "entity",
@@ -3599,6 +4321,25 @@
         "product-visionary"
       ],
       "path": "wiki\\entities\\shishir-mehrotra.md"
+    },
+    "stefano-puntoni": {
+      "type": "entity",
+      "title": "Stefano Puntoni",
+      "aliases": [
+        "Stefano Puntoni"
+      ],
+      "tags": [
+        "academic",
+        "marketing-professor",
+        "ai-researcher",
+        "wharton",
+        "ai-psychology",
+        "researcher",
+        "professor",
+        "ai-expert",
+        "business-strategy"
+      ],
+      "path": "wiki\\entities\\stefano-puntoni.md"
     },
     "superhuman": {
       "type": "entity",
@@ -3656,6 +4397,19 @@
       ],
       "path": "wiki\\entities\\tensorflow.md"
     },
+    "tesla-autopilot": {
+      "type": "entity",
+      "title": "Tesla Autopilot",
+      "aliases": [
+        "Tesla Autopilot"
+      ],
+      "tags": [
+        "tesla",
+        "autonomous-vehicles",
+        "technology-safety"
+      ],
+      "path": "wiki\\entities\\tesla-autopilot.md"
+    },
     "the-next-rembrandt": {
       "type": "entity",
       "title": "The Next Rembrandt",
@@ -3671,6 +4425,19 @@
         "3d-printing"
       ],
       "path": "wiki\\entities\\the-next-rembrandt.md"
+    },
+    "the-wharton-school": {
+      "type": "entity",
+      "title": "The Wharton School",
+      "aliases": [
+        "The Wharton School"
+      ],
+      "tags": [
+        "university",
+        "business-school",
+        "research-institution"
+      ],
+      "path": "wiki\\entities\\the-wharton-school.md"
     },
     "uber": {
       "type": "entity",
@@ -3714,6 +4481,19 @@
       ],
       "path": "wiki\\entities\\wechat.md"
     },
+    "wharton": {
+      "type": "entity",
+      "title": "The Wharton School",
+      "aliases": [
+        "The Wharton School"
+      ],
+      "tags": [
+        "business-school",
+        "university",
+        "education"
+      ],
+      "path": "wiki\\entities\\wharton.md"
+    },
     "yann-lecun": {
       "type": "entity",
       "title": "Yann LeCun",
@@ -3725,499 +4505,6 @@
         "ai-optimism"
       ],
       "path": "wiki\\entities\\yann-lecun.md"
-    },
-    "ai-cyborg-experience": {
-      "type": "concept",
-      "title": "AI Cyborg Experience",
-      "aliases": [
-        "AI Cyborg Experience"
-      ],
-      "tags": [
-        "consumer-behavior",
-        "human-computer-interaction",
-        "artificial-intelligence",
-        "transhumanism"
-      ],
-      "path": "wiki\\concepts\\ai-cyborg-experience.md"
-    },
-    "ai-delegation-experience": {
-      "type": "concept",
-      "title": "AI Delegation Experience",
-      "aliases": [
-        "AI Delegation Experience"
-      ],
-      "tags": [
-        "consumer-psychology",
-        "human-ai-interaction",
-        "ai-experience"
-      ],
-      "path": "wiki\\concepts\\ai-delegation-experience.md"
-    },
-    "classification-experience": {
-      "type": "concept",
-      "title": "Classification Experience",
-      "aliases": [
-        "Classification Experience"
-      ],
-      "tags": [
-        "consumer-behavior",
-        "algorithmic-bias",
-        "personalization",
-        "artificial-intelligence"
-      ],
-      "path": "wiki\\concepts\\classification-experience.md"
-    },
-    "consumer-ai-experience": {
-      "type": "concept",
-      "title": "Consumer AI Experience",
-      "aliases": [
-        "Consumer AI Experience"
-      ],
-      "tags": [
-        "consumer-behavior",
-        "artificial-intelligence",
-        "marketing-framework"
-      ],
-      "path": "wiki\\concepts\\consumer-ai-experience.md"
-    },
-    "data-capture-experience": {
-      "type": "concept",
-      "title": "Data Capture Experience",
-      "aliases": [
-        "Data Capture Experience"
-      ],
-      "tags": [
-        "consumer-behavior",
-        "data-privacy",
-        "artificial-intelligence",
-        "psychology"
-      ],
-      "path": "wiki\\concepts\\data-capture-experience.md"
-    },
-    "humanized-ai-narrative": {
-      "type": "concept",
-      "title": "Humanized AI Narrative",
-      "aliases": [
-        "Humanized AI Narrative"
-      ],
-      "tags": [
-        "sociology-of-technology",
-        "human-ai-interaction",
-        "anthropomorphism",
-        "ai-ethics"
-      ],
-      "path": "wiki\\concepts\\humanized-ai-narrative.md"
-    },
-    "marketplace-metacognition": {
-      "type": "concept",
-      "title": "Marketplace Metacognition",
-      "aliases": [
-        "Marketplace Metacognition"
-      ],
-      "tags": [
-        "consumer-psychology",
-        "theory",
-        "human-ai-interaction"
-      ],
-      "path": "wiki\\concepts\\marketplace-metacognition.md"
-    },
-    "the-replaced-consumer": {
-      "type": "concept",
-      "title": "The Replaced Consumer",
-      "aliases": [
-        "The Replaced Consumer"
-      ],
-      "tags": [
-        "consumer-psychology",
-        "human-ai-interaction",
-        "identity-threat"
-      ],
-      "path": "wiki\\concepts\\the-replaced-consumer.md"
-    },
-    "transhumanism": {
-      "type": "concept",
-      "title": "Transhumanism",
-      "aliases": [
-        "Transhumanism"
-      ],
-      "tags": [
-        "philosophy",
-        "sociology-of-technology",
-        "ai-ethics"
-      ],
-      "path": "wiki\\concepts\\transhumanism.md"
-    },
-    "algorithmic-accountability-act-of-2019": {
-      "type": "entity",
-      "title": "Algorithmic Accountability Act of 2019",
-      "aliases": [
-        "Algorithmic Accountability Act of 2019"
-      ],
-      "tags": [
-        "regulation",
-        "us-legislation",
-        "artificial-intelligence",
-        "algorithmic-bias"
-      ],
-      "path": "wiki\\entities\\algorithmic-accountability-act-of-2019.md"
-    },
-    "bias-against-novelty": {
-      "type": "concept",
-      "title": "Bias Against Novelty",
-      "aliases": [
-        "Bias Against Novelty"
-      ],
-      "tags": [
-        "cognitive-bias",
-        "peer-review",
-        "science-funding"
-      ],
-      "path": "wiki\\concepts\\bias-against-novelty.md"
-    },
-    "lottery-based-funding-system": {
-      "type": "concept",
-      "title": "Lottery-Based Funding System",
-      "aliases": [
-        "Lottery-Based Funding System"
-      ],
-      "tags": [
-        "science-funding",
-        "innovation-policy",
-        "research-methods"
-      ],
-      "path": "wiki\\concepts\\lottery-based-funding-system.md"
-    },
-    "science-of-science": {
-      "type": "concept",
-      "title": "Science of Science",
-      "aliases": [
-        "Science of Science"
-      ],
-      "tags": [
-        "metascience",
-        "sociology-of-science",
-        "innovation-studies"
-      ],
-      "path": "wiki\\concepts\\science-of-science.md"
-    },
-    "david-maslach": {
-      "type": "entity",
-      "title": "David Maslach",
-      "aliases": [
-        "David Maslach"
-      ],
-      "tags": [
-        "academic",
-        "entrepreneurship",
-        "researcher"
-      ],
-      "path": "wiki\\entities\\david-maslach.md"
-    },
-    "r3ciprocity-project": {
-      "type": "entity",
-      "title": "R3ciprocity Project",
-      "aliases": [
-        "R3ciprocity Project"
-      ],
-      "tags": [
-        "platform",
-        "scientific-collaboration",
-        "peer-to-peer"
-      ],
-      "path": "wiki\\entities\\r3ciprocity-project.md"
-    },
-    "algorithmic-recommendations": {
-      "type": "concept",
-      "title": "Algorithmic Recommendations",
-      "aliases": [
-        "Algorithmic Recommendations"
-      ],
-      "tags": [
-        "recommendation-engine",
-        "e-commerce",
-        "machine-learning"
-      ],
-      "path": "wiki\\concepts\\algorithmic-recommendations.md"
-    },
-    "governance-framework-for-ai": {
-      "type": "concept",
-      "title": "Governance Framework for AI",
-      "aliases": [
-        "Governance Framework for AI"
-      ],
-      "tags": [
-        "ai-ethics",
-        "regulation",
-        "risk-management"
-      ],
-      "path": "wiki\\concepts\\governance-framework-for-ai.md"
-    },
-    "machine-decisions": {
-      "type": "concept",
-      "title": "Machine Decisions",
-      "aliases": [
-        "Machine Decisions"
-      ],
-      "tags": [
-        "artificial-intelligence",
-        "automation",
-        "decision-making"
-      ],
-      "path": "wiki\\concepts\\machine-decisions.md"
-    },
-    "a-humans-guide-to-machine-intelligence": {
-      "type": "entity",
-      "title": "A Human’s Guide to Machine Intelligence",
-      "aliases": [
-        "A Human’s Guide to Machine Intelligence"
-      ],
-      "tags": [
-        "book",
-        "non-fiction",
-        "artificial-intelligence"
-      ],
-      "path": "wiki\\entities\\a-humans-guide-to-machine-intelligence.md"
-    },
-    "amazon-com": {
-      "type": "entity",
-      "title": "Amazon.com",
-      "aliases": [
-        "Amazon.com"
-      ],
-      "tags": [
-        "company",
-        "e-commerce",
-        "technology"
-      ],
-      "path": "wiki\\entities\\amazon-com.md"
-    },
-    "human-impact-of-ai": {
-      "type": "concept",
-      "title": "Human Impact of AI",
-      "aliases": [
-        "Human Impact of AI"
-      ],
-      "tags": [
-        "artificial-intelligence",
-        "behavioral-science",
-        "sociology"
-      ],
-      "path": "wiki\\concepts\\human-impact-of-ai.md"
-    },
-    "erasmus-university": {
-      "type": "entity",
-      "title": "Erasmus University",
-      "aliases": [
-        "Erasmus University"
-      ],
-      "tags": [
-        "university",
-        "institution"
-      ],
-      "path": "wiki\\entities\\erasmus-university.md"
-    },
-    "collaborative-learning-model": {
-      "type": "concept",
-      "title": "Collaborative Learning Model",
-      "aliases": [
-        "Collaborative Learning Model"
-      ],
-      "tags": [
-        "pedagogy",
-        "educational-theory",
-        "participant-centered-learning"
-      ],
-      "path": "wiki\\concepts\\collaborative-learning-model.md"
-    },
-    "harvard-business-analytics-program": {
-      "type": "entity",
-      "title": "Harvard Business Analytics Program",
-      "aliases": [
-        "Harvard Business Analytics Program"
-      ],
-      "tags": [
-        "educational-program",
-        "harvard",
-        "business-analytics"
-      ],
-      "path": "wiki\\entities\\harvard-business-analytics-program.md"
-    },
-    "ai-role-in-creativity": {
-      "type": "concept",
-      "title": "AI's Role in Creativity",
-      "aliases": [
-        "AI's Role in Creativity"
-      ],
-      "tags": [
-        "artificial-intelligence",
-        "creativity",
-        "advertising",
-        "future-of-work"
-      ],
-      "path": "wiki\\concepts\\ai-role-in-creativity.md"
-    },
-    "changing-role-of-the-cmo": {
-      "type": "concept",
-      "title": "Changing Role of the CMO",
-      "aliases": [
-        "Changing Role of the CMO"
-      ],
-      "tags": [
-        "cmo",
-        "marketing",
-        "leadership",
-        "artificial-intelligence"
-      ],
-      "path": "wiki\\concepts\\changing-role-of-the-cmo.md"
-    },
-    "not-all-creativity-is-worth-saving": {
-      "type": "concept",
-      "title": "Not All Creativity Is Worth Saving",
-      "aliases": [
-        "Not All Creativity Is Worth Saving"
-      ],
-      "tags": [
-        "creativity",
-        "automation",
-        "future-of-work",
-        "media-industry"
-      ],
-      "path": "wiki\\concepts\\not-all-creativity-is-worth-saving.md"
-    },
-    "accenture-song": {
-      "type": "entity",
-      "title": "Accenture Song",
-      "aliases": [
-        "Accenture Song"
-      ],
-      "tags": [
-        "creative-agency",
-        "consulting",
-        "accenture"
-      ],
-      "path": "wiki\\entities\\accenture-song.md"
-    },
-    "david-droga": {
-      "type": "entity",
-      "title": "David Droga",
-      "aliases": [
-        "David Droga"
-      ],
-      "tags": [
-        "ceo",
-        "advertising-executive",
-        "founder"
-      ],
-      "path": "wiki\\entities\\david-droga.md"
-    },
-    "droga5": {
-      "type": "entity",
-      "title": "Droga5",
-      "aliases": [
-        "Droga5"
-      ],
-      "tags": [
-        "creative-agency",
-        "advertising"
-      ],
-      "path": "wiki\\entities\\droga5.md"
-    },
-    "automation-of-repetitive-tasks": {
-      "type": "concept",
-      "title": "Automation of Repetitive Tasks",
-      "aliases": [
-        "Automation of Repetitive Tasks"
-      ],
-      "tags": [
-        "automation",
-        "artificial-intelligence",
-        "future-of-work",
-        "customer-support",
-        "recruiting"
-      ],
-      "path": "wiki\\concepts\\automation-of-repetitive-tasks.md"
-    },
-    "data-moats": {
-      "type": "concept",
-      "title": "Data Moats",
-      "aliases": [
-        "Data Moats"
-      ],
-      "tags": [
-        "competitive-advantage",
-        "data-strategy",
-        "machine-learning",
-        "business-model"
-      ],
-      "path": "wiki\\concepts\\data-moats.md"
-    },
-    "ethical-ai-and-fat-ml": {
-      "type": "concept",
-      "title": "Ethical AI and FAT ML",
-      "aliases": [
-        "Ethical AI and FAT ML"
-      ],
-      "tags": [
-        "artificial-intelligence",
-        "machine-learning",
-        "ethics",
-        "fairness"
-      ],
-      "path": "wiki\\concepts\\ethical-ai-and-fat-ml.md"
-    },
-    "machine-intelligence": {
-      "type": "concept",
-      "title": "Machine Intelligence",
-      "aliases": [
-        "Machine Intelligence"
-      ],
-      "tags": [
-        "artificial-intelligence",
-        "automation",
-        "data-science"
-      ],
-      "path": "wiki\\concepts\\machine-intelligence.md"
-    },
-    "scaling": {
-      "type": "concept",
-      "title": "Scaling",
-      "aliases": [
-        "Scaling"
-      ],
-      "tags": [
-        "business-strategy",
-        "growth",
-        "automation"
-      ],
-      "path": "wiki\\concepts\\scaling.md"
-    },
-    "use-case-specific-ai": {
-      "type": "concept",
-      "title": "Use-Case Specific AI",
-      "aliases": [
-        "Use-Case Specific AI"
-      ],
-      "tags": [
-        "artificial-intelligence",
-        "ai-strategy",
-        "product-management"
-      ],
-      "path": "wiki\\concepts\\use-case-specific-ai.md"
-    },
-    "eightfold": {
-      "type": "entity",
-      "title": "Eightfold",
-      "aliases": [
-        "Eightfold"
-      ],
-      "tags": [
-        "company",
-        "recruiting",
-        "hr-tech",
-        "automation",
-        "artificial-intelligence"
-      ],
-      "path": "wiki\\entities\\eightfold.md"
     },
     "yodle": {
       "type": "entity",
@@ -4232,194 +4519,19 @@
       ],
       "path": "wiki\\entities\\yodle.md"
     },
-    "decision-driven-analytics": {
-      "type": "concept",
-      "title": "Decision-Driven Analytics",
-      "aliases": [
-        "Decision-Driven Analytics"
-      ],
-      "tags": [
-        "analytics",
-        "decision-making",
-        "business-strategy",
-        "framework"
-      ],
-      "path": "wiki\\concepts\\decision-driven-analytics.md"
-    },
-    "divers-vs-runners-dichotomy": {
-      "type": "unknown",
-      "title": "Divers vs. Runners Dichotomy",
-      "aliases": [],
-      "tags": [],
-      "path": "wiki\\concepts\\divers-vs-runners-dichotomy.md"
-    },
-    "preference-driven-analytics": {
-      "type": "concept",
-      "title": "Preference-Driven Analytics",
-      "aliases": [
-        "Preference-Driven Analytics"
-      ],
-      "tags": [
-        "analytics",
-        "cognitive-bias",
-        "decision-making",
-        "risk"
-      ],
-      "path": "wiki\\concepts\\preference-driven-analytics.md"
-    },
-    "reimagining-human-potential-in-the-ai-era": {
-      "type": "concept",
-      "title": "Reimagining Human Potential in the AI Era",
-      "aliases": [
-        "Reimagining Human Potential in the AI Era"
-      ],
-      "tags": [
-        "philosophy",
-        "artificial-intelligence",
-        "creativity",
-        "human-potential"
-      ],
-      "path": "wiki\\concepts\\reimagining-human-potential-in-the-ai-era.md"
-    },
-    "rene-descartes": {
-      "type": "entity",
-      "title": "René Descartes",
-      "aliases": [
-        "René Descartes"
-      ],
-      "tags": [
-        "philosopher",
-        "scientist"
-      ],
-      "path": "wiki\\entities\\rene-descartes.md"
-    },
-    "cost-of-cognition": {
-      "type": "concept",
-      "title": "Cost of Cognition",
-      "aliases": [
-        "Cost of Cognition"
-      ],
-      "tags": [
-        "economic-theory",
-        "ai-impact",
-        "business-models"
-      ],
-      "path": "wiki\\concepts\\cost-of-cognition.md"
-    },
-    "transformer-models": {
-      "type": "concept",
-      "title": "Transformer Models",
-      "aliases": [
-        "Transformer Models"
-      ],
-      "tags": [
-        "ai",
-        "neural-networks",
-        "nlp"
-      ],
-      "path": "wiki\\concepts\\transformer-models.md"
-    },
-    "creative-intelligence": {
-      "type": "entity",
-      "title": "Creative Intelligence",
-      "aliases": [
-        "Creative Intelligence"
-      ],
-      "tags": [
-        "podcast",
-        "ai",
-        "creativity",
-        "technology"
-      ],
-      "path": "wiki\\entities\\creative-intelligence.md"
-    },
-    "karthik-hosanagar": {
-      "type": "entity",
-      "title": "Karthik Hosanagar",
-      "aliases": [
-        "Karthik Hosanagar"
-      ],
-      "tags": [
-        "academic",
-        "author",
-        "entrepreneur",
-        "wharton"
-      ],
-      "path": "wiki\\entities\\karthik-hosanagar.md"
-    },
-    "human-ai-complementation": {
-      "type": "concept",
-      "title": "Human-AI Complementation",
-      "aliases": [
-        "Human-AI Complementation"
-      ],
-      "tags": [
-        "artificial-intelligence",
-        "future-of-work",
-        "strategy"
-      ],
-      "path": "wiki\\concepts\\human-ai-complementation.md"
-    },
-    "identity-motives-in-consumption": {
-      "type": "concept",
-      "title": "Identity Motives in Consumption",
-      "aliases": [
-        "Identity Motives in Consumption"
-      ],
-      "tags": [
-        "consumer-psychology",
-        "marketing",
-        "consumption"
-      ],
-      "path": "wiki\\concepts\\identity-motives-in-consumption.md"
-    },
-    "internet-of-things": {
-      "type": "concept",
-      "title": "Internet of Things (IoT)",
-      "aliases": [
-        "Internet of Things (IoT)"
-      ],
-      "tags": [
-        "technology",
-        "consumer-behavior",
-        "product-management"
-      ],
-      "path": "wiki\\concepts\\internet-of-things.md"
-    },
-    "ai-driven-human-skill-gap": {
-      "type": "concept",
-      "title": "AI-Driven Human Skill Gap",
-      "aliases": [
-        "AI-Driven Human Skill Gap"
-      ],
-      "tags": [
-        "ai",
-        "future-of-work",
-        "skills-gap",
-        "human-resources"
-      ],
-      "path": "wiki\\concepts\\ai-driven-human-skill-gap.md"
-    },
-    "environmental-cost-of-ai": {
-      "type": "concept",
-      "title": "Environmental Cost of AI",
-      "aliases": [
-        "Environmental Cost of AI"
-      ],
-      "tags": [
-        "ai",
-        "esg",
-        "sustainability",
-        "technology-economics"
-      ],
-      "path": "wiki\\concepts\\environmental-cost-of-ai.md"
-    },
     "index": {
       "type": "unknown",
       "title": "Wiki Index",
       "aliases": [],
       "tags": [],
       "path": "wiki\\index.md"
+    },
+    "log": {
+      "type": "unknown",
+      "title": "Log",
+      "aliases": [],
+      "tags": [],
+      "path": "wiki\\log.md"
     },
     "stub-342-the-secrets-to-high-ai-adoption-with-stefano-puntoni-professor-at-wharton-ij": {
       "type": "stub",
@@ -4692,6 +4804,17 @@
         "rag-stub"
       ],
       "path": "wiki\\stubs\\stub-ideation-with-generative-ai-published-75dccafd-9c43-46f5-9f56-06a11da7a7cf.md"
+    },
+    "stub-jpmc-outline-v1": {
+      "type": "stub",
+      "title": "Jpmc Outline V1",
+      "aliases": [
+        "Jpmc Outline V1"
+      ],
+      "tags": [
+        "rag-stub"
+      ],
+      "path": "wiki\\stubs\\stub-jpmc-outline-v1.md"
     },
     "stub-karim-lakhani-knowledge-base": {
       "type": "stub",
@@ -4982,6 +5105,42 @@
       ],
       "path": "wiki\\stubs\\stub-what-happens-if-you-ignore-ai-adoption-in-your-organization-faculty-qa-cvfeedy2s.md"
     },
+    "3blue1brown-neural-network-visual-explainer": {
+      "type": "synthesized",
+      "title": "3Blue1Brown 'But What Is a Neural Network?' — Tier 2 Visual Intuition Explainer",
+      "aliases": [
+        "3Blue1Brown Neural Network",
+        "But What Is a Neural Network",
+        "Neural Network Visual Explainer"
+      ],
+      "tags": [
+        "ai-education",
+        "neural-networks",
+        "visual-learning",
+        "beginner-resources",
+        "learning-path",
+        "deep-learning"
+      ],
+      "path": "wiki\\synthesized\\3blue1brown-neural-network-visual-explainer.md"
+    },
+    "beginner-ai-video-learning-path": {
+      "type": "synthesized",
+      "title": "Beginner AI Video Learning Path: A Three-Tier Scaffolding",
+      "aliases": [
+        "AI Beginner Videos",
+        "Getting Started with AI Videos",
+        "AI Learning Scaffold"
+      ],
+      "tags": [
+        "ai-education",
+        "beginner-resources",
+        "learning-path",
+        "generative-ai",
+        "video-resources",
+        "bloom-taxonomy"
+      ],
+      "path": "wiki\\synthesized\\beginner-ai-video-learning-path.md"
+    },
     "genai-impact-on-hr-functions": {
       "type": "synthesized",
       "title": "GenAI's Impact on Human Resources: A Function-by-Function Framework",
@@ -4998,132 +5157,29 @@
         "workforce-management"
       ],
       "path": "wiki\\synthesized\\genai-impact-on-hr-functions.md"
-    },
-    "ai-factory-model": {
-      "type": "concept",
-      "title": "AI Factory Model",
-      "aliases": [
-        "AI Factory Model"
-      ],
-      "tags": [
-        "ai-operations",
-        "process-redesign",
-        "organizational-model"
-      ],
-      "path": "wiki\\concepts\\ai-factory-model.md"
-    },
-    "ai-governance-operating-model": {
-      "type": "concept",
-      "title": "AI Governance Operating Model",
-      "aliases": [
-        "AI Governance Operating Model"
-      ],
-      "tags": [
-        "ai-governance",
-        "operating-model",
-        "risk-management"
-      ],
-      "path": "wiki\\concepts\\ai-governance-operating-model.md"
-    },
-    "ai-risk-layers": {
-      "type": "unknown",
-      "title": "AI Risk Layers",
-      "aliases": [],
-      "tags": [],
-      "path": "wiki\\concepts\\ai-risk-layers.md"
-    },
-    "centaur-collaboration-pattern": {
-      "type": "concept",
-      "title": "Centaur Collaboration Pattern",
-      "aliases": [
-        "Centaur Collaboration Pattern"
-      ],
-      "tags": [
-        "human-ai-interaction",
-        "collaboration-model",
-        "workflow-design"
-      ],
-      "path": "wiki\\concepts\\centaur-collaboration-pattern.md"
-    },
-    "cost-reduction-vs-capability-expansion-posture": {
-      "type": "unknown",
-      "title": "Cost-Reduction vs. Capability-Expansion Posture",
-      "aliases": [],
-      "tags": [],
-      "path": "wiki\\concepts\\cost-reduction-vs-capability-expansion-posture.md"
-    },
-    "cyborg-collaboration-pattern": {
-      "type": "concept",
-      "title": "Cyborg Collaboration Pattern",
-      "aliases": [
-        "Cyborg Collaboration Pattern"
-      ],
-      "tags": [
-        "human-ai-interaction",
-        "collaboration-model",
-        "workflow-design"
-      ],
-      "path": "wiki\\concepts\\cyborg-collaboration-pattern.md"
-    },
-    "homogenization-risk": {
-      "type": "concept",
-      "title": "Homogenization Risk",
-      "aliases": [
-        "Homogenization Risk"
-      ],
-      "tags": [
-        "ai-risk",
-        "business-model",
-        "strategic-risk"
-      ],
-      "path": "wiki\\concepts\\homogenization-risk.md"
-    },
-    "jagged-frontier": {
-      "type": "concept",
-      "title": "Jagged Frontier",
-      "aliases": [
-        "Jagged Frontier"
-      ],
-      "tags": [
-        "ai-capabilities",
-        "human-ai-interaction",
-        "ai-limitations"
-      ],
-      "path": "wiki\\concepts\\jagged-frontier.md"
-    },
-    "prediction-vs-judgment-decomposition": {
-      "type": "concept",
-      "title": "Prediction-vs-Judgment Decomposition",
-      "aliases": [
-        "Prediction-vs-Judgment Decomposition"
-      ],
-      "tags": [
-        "ai-impact",
-        "work-redesign",
-        "framework"
-      ],
-      "path": "wiki\\concepts\\prediction-vs-judgment-decomposition.md"
-    },
-    "log": {
-      "type": "unknown",
-      "title": "Log",
-      "aliases": [],
-      "tags": [],
-      "path": "wiki\\log.md"
-    },
-    "stub-jpmc-outline-v1": {
-      "type": "stub",
-      "title": "Jpmc Outline V1",
-      "aliases": [
-        "Jpmc Outline V1"
-      ],
-      "tags": [
-        "rag-stub"
-      ],
-      "path": "wiki\\stubs\\stub-jpmc-outline-v1.md"
     }
   },
   "edges": [
+    {
+      "from": "agentic-era",
+      "to": "one-person-unicorn-company",
+      "type": "enables"
+    },
+    {
+      "from": "agentic-era",
+      "to": "model-first-approach",
+      "type": "is_related_to"
+    },
+    {
+      "from": "ai-adoption-imperative",
+      "to": "karim-r-lakhani",
+      "type": "described_by"
+    },
+    {
+      "from": "ai-adoption-imperative",
+      "to": "experimentation-and-sandboxing-for-ai",
+      "type": "requires"
+    },
     {
       "from": "ai-adoption-strategy",
       "to": "ai-as-a-complementary-technology",
@@ -5133,6 +5189,36 @@
       "from": "ai-adoption-strategy",
       "to": "stefano-puntoni",
       "type": "advocated-by"
+    },
+    {
+      "from": "ai-adoption",
+      "to": "karim-lakhani",
+      "type": "discussed_by"
+    },
+    {
+      "from": "ai-agent",
+      "to": "superhuman",
+      "type": "is_exemplified_by"
+    },
+    {
+      "from": "ai-agents",
+      "to": "ai-as-a-teammate",
+      "type": "is_an_example_of"
+    },
+    {
+      "from": "ai-agents",
+      "to": "algorithmic-bias",
+      "type": "amplifies_risk_of"
+    },
+    {
+      "from": "ai-agents",
+      "to": "ai-superhighway",
+      "type": "is_component_of"
+    },
+    {
+      "from": "ai-agents",
+      "to": "humans-as-managers-of-agents",
+      "type": "is_managed_by"
     },
     {
       "from": "ai-as-a-complementary-technology",
@@ -5180,376 +5266,6 @@
       "type": "is-an-example-of"
     },
     {
-      "from": "ai-for-ideation-and-creativity",
-      "to": "ai-as-a-complementary-technology",
-      "type": "is_an_application_of"
-    },
-    {
-      "from": "ai-for-ideation-and-creativity",
-      "to": "complementary-ai-framework",
-      "type": "is_an_application_of"
-    },
-    {
-      "from": "ai-for-ideation-and-creativity",
-      "to": "ai-as-a-complementary-technology",
-      "type": "is-an-application-of"
-    },
-    {
-      "from": "ai-for-ideation",
-      "to": "human-ai-collaboration",
-      "type": "is_an_application_of"
-    },
-    {
-      "from": "complementary-ai-framework",
-      "to": "ai-for-ideation-and-creativity",
-      "type": "is_exemplified_by"
-    },
-    {
-      "from": "deskilling-from-ai",
-      "to": "ai-as-a-complementary-technology",
-      "type": "is_a_risk_addressed_by"
-    },
-    {
-      "from": "deskilling-from-ai",
-      "to": "stefano-puntoni",
-      "type": "researched_by"
-    },
-    {
-      "from": "deskilling",
-      "to": "ai-as-a-complementary-technology",
-      "type": "is_a_risk_mitigated_by"
-    },
-    {
-      "from": "deskilling",
-      "to": "generative-ai",
-      "type": "is-a-potential-consequence-of"
-    },
-    {
-      "from": "human-ai-collaboration",
-      "to": "ai-for-ideation",
-      "type": "is_exemplified_by"
-    },
-    {
-      "from": "human-ai-collaboration",
-      "to": "technological-deskilling",
-      "type": "is_a_framework_to_manage"
-    },
-    {
-      "from": "identity-threat-from-ai",
-      "to": "self-determination-theory-in-ai-context",
-      "type": "is-a-manifestation-of"
-    },
-    {
-      "from": "identity-threat-from-ai",
-      "to": "self-determination-theory",
-      "type": "is_a_threat_to_component_of"
-    },
-    {
-      "from": "identity-threat-from-ai",
-      "to": "stefano-puntoni",
-      "type": "researched_by"
-    },
-    {
-      "from": "self-determination-theory-in-ai-context",
-      "to": "identity-threat-from-ai",
-      "type": "explains"
-    },
-    {
-      "from": "self-determination-theory",
-      "to": "identity-threat-from-ai",
-      "type": "explains"
-    },
-    {
-      "from": "self-determination-theory",
-      "to": "stefano-puntoni",
-      "type": "applied_by"
-    },
-    {
-      "from": "technological-deskilling",
-      "to": "ai-as-a-complementary-technology",
-      "type": "is_a_risk_mitigated_by"
-    },
-    {
-      "from": "technological-deskilling",
-      "to": "human-ai-collaboration",
-      "type": "is_a_risk_mitigated_by"
-    },
-    {
-      "from": "threat-opportunity-time-gap",
-      "to": "augmentation-vs-replacement-framework",
-      "type": "is-related-to"
-    },
-    {
-      "from": "stefano-puntoni",
-      "to": "the-wharton-school",
-      "type": "is-affiliated-with"
-    },
-    {
-      "from": "stefano-puntoni",
-      "to": "self-determination-theory",
-      "type": "applies"
-    },
-    {
-      "from": "stefano-puntoni",
-      "to": "identity-threat-from-ai",
-      "type": "researches"
-    },
-    {
-      "from": "stefano-puntoni",
-      "to": "ai-as-a-complementary-technology",
-      "type": "advocates"
-    },
-    {
-      "from": "stefano-puntoni",
-      "to": "deskilling-from-ai",
-      "type": "researches"
-    },
-    {
-      "from": "stefano-puntoni",
-      "to": "wharton",
-      "type": "is_affiliated_with"
-    },
-    {
-      "from": "stefano-puntoni",
-      "to": "ai-as-a-complementary-technology",
-      "type": "advocates_for"
-    },
-    {
-      "from": "stefano-puntoni",
-      "to": "deskilling",
-      "type": "analyzes"
-    },
-    {
-      "from": "stefano-puntoni",
-      "to": "complementary-ai-framework",
-      "type": "advocates_for"
-    },
-    {
-      "from": "stefano-puntoni",
-      "to": "technological-deskilling",
-      "type": "discusses"
-    },
-    {
-      "from": "stefano-puntoni",
-      "to": "ai-for-ideation-and-creativity",
-      "type": "discusses"
-    },
-    {
-      "from": "stefano-puntoni",
-      "to": "wharton",
-      "type": "is-professor-at"
-    },
-    {
-      "from": "stefano-puntoni",
-      "to": "ai-adoption-strategy",
-      "type": "proposes"
-    },
-    {
-      "from": "stefano-puntoni",
-      "to": "deskilling",
-      "type": "discusses"
-    },
-    {
-      "from": "stefano-puntoni",
-      "to": "ai-as-a-complementary-technology",
-      "type": "advocates-for"
-    },
-    {
-      "from": "the-wharton-school",
-      "to": "stefano-puntoni",
-      "type": "employs"
-    },
-    {
-      "from": "wharton",
-      "to": "stefano-puntoni",
-      "type": "employs"
-    },
-    {
-      "from": "ai-winters",
-      "to": "expert-systems",
-      "type": "contributed_to"
-    },
-    {
-      "from": "algorithmic-bias",
-      "to": "autocomplete-google",
-      "type": "manifested_in"
-    },
-    {
-      "from": "algorithmic-bias",
-      "to": "algorithmic-bill-of-rights",
-      "type": "is_mitigated_by"
-    },
-    {
-      "from": "algorithmic-bias",
-      "to": "autonomous-decision-making-algorithms",
-      "type": "is_a_risk_in"
-    },
-    {
-      "from": "algorithmic-bias",
-      "to": "google",
-      "type": "exhibited_by"
-    },
-    {
-      "from": "algorithmic-bill-of-rights",
-      "to": "algorithmic-bias",
-      "type": "aims_to_mitigate"
-    },
-    {
-      "from": "autonomous-decision-making-algorithms",
-      "to": "algorithmic-bias",
-      "type": "can_exhibit"
-    },
-    {
-      "from": "black-box-algorithms",
-      "to": "explainability",
-      "type": "is_addressed_by"
-    },
-    {
-      "from": "deep-learning",
-      "to": "expert-systems",
-      "type": "superseded"
-    },
-    {
-      "from": "expert-systems",
-      "to": "deep-learning",
-      "type": "contrasts_with"
-    },
-    {
-      "from": "explainability",
-      "to": "predictability-resilience-paradox",
-      "type": "is_challenge_of"
-    },
-    {
-      "from": "explainability",
-      "to": "black-box-algorithms",
-      "type": "is_solution_to"
-    },
-    {
-      "from": "homophily",
-      "to": "recommendation-algorithms",
-      "type": "is_a_principle_used_by"
-    },
-    {
-      "from": "predictability-resilience-paradox",
-      "to": "explainability",
-      "type": "creates_need_for"
-    },
-    {
-      "from": "predictability-resilience-paradox",
-      "to": "alphago",
-      "type": "exemplifies_resilient_side_of"
-    },
-    {
-      "from": "recommendation-algorithms",
-      "to": "homophily",
-      "type": "mirrors"
-    },
-    {
-      "from": "unanticipated-consequences",
-      "to": "autocomplete-google",
-      "type": "exemplified_by"
-    },
-    {
-      "from": "user-control-in-algorithmic-systems",
-      "to": "tesla-autopilot",
-      "type": "is_relevant_to_debate_on"
-    },
-    {
-      "from": "alphago",
-      "to": "predictability-resilience-paradox",
-      "type": "exemplifies"
-    },
-    {
-      "from": "alphago",
-      "to": "google-deepmind",
-      "type": "developed_by"
-    },
-    {
-      "from": "autocomplete-google",
-      "to": "unanticipated-consequences",
-      "type": "is_example_of"
-    },
-    {
-      "from": "autocomplete-google",
-      "to": "algorithmic-bias",
-      "type": "is_example_of"
-    },
-    {
-      "from": "deep-blue",
-      "to": "garry-kasparov",
-      "type": "competed_against"
-    },
-    {
-      "from": "garry-kasparov",
-      "to": "deep-blue",
-      "type": "competed_against"
-    },
-    {
-      "from": "google-deepmind",
-      "to": "alphago",
-      "type": "created"
-    },
-    {
-      "from": "google",
-      "to": "algorithmic-bias",
-      "type": "exhibits"
-    },
-    {
-      "from": "tesla-autopilot",
-      "to": "user-control-in-algorithmic-systems",
-      "type": "highlights_need_for"
-    },
-    {
-      "from": "agentic-era",
-      "to": "one-person-unicorn-company",
-      "type": "enables"
-    },
-    {
-      "from": "agentic-era",
-      "to": "model-first-approach",
-      "type": "is_related_to"
-    },
-    {
-      "from": "ai-adoption-imperative",
-      "to": "karim-r-lakhani",
-      "type": "described_by"
-    },
-    {
-      "from": "ai-adoption-imperative",
-      "to": "experimentation-and-sandboxing-for-ai",
-      "type": "requires"
-    },
-    {
-      "from": "ai-adoption",
-      "to": "karim-lakhani",
-      "type": "discussed_by"
-    },
-    {
-      "from": "ai-agent",
-      "to": "superhuman",
-      "type": "is_exemplified_by"
-    },
-    {
-      "from": "ai-agents",
-      "to": "ai-as-a-teammate",
-      "type": "is_an_example_of"
-    },
-    {
-      "from": "ai-agents",
-      "to": "algorithmic-bias",
-      "type": "amplifies_risk_of"
-    },
-    {
-      "from": "ai-agents",
-      "to": "ai-superhighway",
-      "type": "is_component_of"
-    },
-    {
-      "from": "ai-agents",
-      "to": "humans-as-managers-of-agents",
-      "type": "is_managed_by"
-    },
-    {
       "from": "ai-as-a-teammate",
       "to": "ai-agents",
       "type": "is_exemplified_by"
@@ -5575,6 +5291,11 @@
       "type": "theorized_by"
     },
     {
+      "from": "ai-delegation-experience",
+      "to": "the-replaced-consumer",
+      "type": "can_lead_to"
+    },
+    {
       "from": "ai-factories",
       "to": "data-pipelines",
       "type": "has_component"
@@ -5583,6 +5304,11 @@
       "from": "ai-factories",
       "to": "algorithms",
       "type": "uses"
+    },
+    {
+      "from": "ai-factory-model",
+      "to": "prediction-vs-judgment-decomposition",
+      "type": "is_enabled_by"
     },
     {
       "from": "ai-factory",
@@ -5610,6 +5336,31 @@
       "type": "adopted_by"
     },
     {
+      "from": "ai-for-ideation-and-creativity",
+      "to": "ai-as-a-complementary-technology",
+      "type": "is_an_application_of"
+    },
+    {
+      "from": "ai-for-ideation-and-creativity",
+      "to": "complementary-ai-framework",
+      "type": "is_an_application_of"
+    },
+    {
+      "from": "ai-for-ideation-and-creativity",
+      "to": "ai-as-a-complementary-technology",
+      "type": "is-an-application-of"
+    },
+    {
+      "from": "ai-for-ideation",
+      "to": "human-ai-collaboration",
+      "type": "is_an_application_of"
+    },
+    {
+      "from": "ai-governance-operating-model",
+      "to": "ai-risk-layers",
+      "type": "utilizes"
+    },
+    {
       "from": "ai-impact-on-human-identity",
       "to": "stefano-puntoni",
       "type": "analyzed_by"
@@ -5633,6 +5384,21 @@
       "from": "ai-regulation",
       "to": "generative-ai",
       "type": "is-proposed-for"
+    },
+    {
+      "from": "ai-risk-layers",
+      "to": "ai-governance-operating-model",
+      "type": "references"
+    },
+    {
+      "from": "ai-role-in-creativity",
+      "to": "not-all-creativity-is-worth-saving",
+      "type": "is-related-to"
+    },
+    {
+      "from": "ai-role-in-creativity",
+      "to": "changing-role-of-the-cmo",
+      "type": "influences"
     },
     {
       "from": "ai-superhighway",
@@ -5665,6 +5431,11 @@
       "type": "is_a_driver_of"
     },
     {
+      "from": "ai-winters",
+      "to": "expert-systems",
+      "type": "contributed_to"
+    },
+    {
       "from": "ais-impact-on-the-system-of-work",
       "to": "sangeet-paul-choudary",
       "type": "developed_by"
@@ -5673,6 +5444,16 @@
       "from": "algorithmic-bias-and-fairness",
       "to": "satya-nadella",
       "type": "exemplified_by"
+    },
+    {
+      "from": "algorithmic-bias",
+      "to": "machine-intelligence",
+      "type": "is_limitation_of"
+    },
+    {
+      "from": "algorithmic-bias",
+      "to": "amazon",
+      "type": "is_example_of"
     },
     {
       "from": "algorithmic-bias",
@@ -5685,9 +5466,44 @@
       "type": "exemplified_by"
     },
     {
+      "from": "algorithmic-bias",
+      "to": "autocomplete-google",
+      "type": "manifested_in"
+    },
+    {
+      "from": "algorithmic-bias",
+      "to": "algorithmic-bill-of-rights",
+      "type": "is_mitigated_by"
+    },
+    {
+      "from": "algorithmic-bias",
+      "to": "autonomous-decision-making-algorithms",
+      "type": "is_a_risk_in"
+    },
+    {
+      "from": "algorithmic-bias",
+      "to": "google",
+      "type": "exhibited_by"
+    },
+    {
+      "from": "algorithmic-bill-of-rights",
+      "to": "algorithmic-bias",
+      "type": "aims_to_mitigate"
+    },
+    {
       "from": "algorithmic-management",
       "to": "stefano-puntoni",
       "type": "discussed_by"
+    },
+    {
+      "from": "algorithmic-recommendations",
+      "to": "machine-decisions",
+      "type": "is_an_application_of"
+    },
+    {
+      "from": "algorithmic-recommendations",
+      "to": "amazon-com",
+      "type": "is_used_by"
     },
     {
       "from": "api",
@@ -5713,6 +5529,16 @@
       "from": "architecture-of-work",
       "to": "skill-generalization",
       "type": "is_driven_by"
+    },
+    {
+      "from": "artificial-intelligence",
+      "to": "karim-lakhani",
+      "type": "analyzed_by"
+    },
+    {
+      "from": "artificial-intelligence",
+      "to": "cost-of-cognition",
+      "type": "impacts"
     },
     {
       "from": "artificial-intelligence",
@@ -5775,9 +5601,29 @@
       "type": "is_an_example_of"
     },
     {
+      "from": "automation-of-repetitive-tasks",
+      "to": "eightfold",
+      "type": "example-of"
+    },
+    {
+      "from": "autonomous-decision-making-algorithms",
+      "to": "algorithmic-bias",
+      "type": "can_exhibit"
+    },
+    {
       "from": "belief-estimation",
       "to": "generative-ai-in-market-research",
       "type": "is_an_application_of"
+    },
+    {
+      "from": "bias-against-novelty",
+      "to": "lottery-based-funding-system",
+      "type": "is_addressed_by"
+    },
+    {
+      "from": "black-box-algorithms",
+      "to": "explainability",
+      "type": "is_addressed_by"
     },
     {
       "from": "bridging",
@@ -5820,6 +5666,16 @@
       "type": "is_enabled_by"
     },
     {
+      "from": "centaur-collaboration-pattern",
+      "to": "cyborg-collaboration-pattern",
+      "type": "contrasts_with"
+    },
+    {
+      "from": "centaur-collaboration-pattern",
+      "to": "jagged-frontier",
+      "type": "is_a_response_to"
+    },
+    {
       "from": "change-as-a-skill",
       "to": "karim-r-lakhani",
       "type": "advocated_by"
@@ -5833,6 +5689,26 @@
       "from": "change-management-in-ai-transformation",
       "to": "karim-lakhani",
       "type": "advocated_by"
+    },
+    {
+      "from": "changing-role-of-the-cmo",
+      "to": "david-droga",
+      "type": "discussed-by"
+    },
+    {
+      "from": "changing-role-of-the-cmo",
+      "to": "ai-role-in-creativity",
+      "type": "is-influenced-by"
+    },
+    {
+      "from": "classification-experience",
+      "to": "consumer-ai-experience",
+      "type": "is_a_component_of"
+    },
+    {
+      "from": "classification-experience",
+      "to": "algorithmic-accountability-act-of-2019",
+      "type": "is_addressed_by"
     },
     {
       "from": "clinical-trials-of-ai",
@@ -5885,9 +5761,19 @@
       "type": "is_used_by"
     },
     {
+      "from": "collaborative-learning-model",
+      "to": "karim-lakhani",
+      "type": "is-advocated-by"
+    },
+    {
       "from": "collective-wisdom",
       "to": "digital-transformation",
       "type": "emerges_from"
+    },
+    {
+      "from": "complementary-ai-framework",
+      "to": "ai-for-ideation-and-creativity",
+      "type": "is_exemplified_by"
     },
     {
       "from": "conscious-ai",
@@ -5905,6 +5791,16 @@
       "type": "is_a_micro-level_manifestation_of"
     },
     {
+      "from": "cost-of-cognition",
+      "to": "karim-lakhani",
+      "type": "theorized_by"
+    },
+    {
+      "from": "cost-of-cognition",
+      "to": "artificial-intelligence",
+      "type": "is_reduced_by"
+    },
+    {
       "from": "customer-sentiment-analysis",
       "to": "natural-language-processing",
       "type": "uses"
@@ -5913,6 +5809,21 @@
       "from": "customer-sentiment-analysis",
       "to": "stefano-puntoni",
       "type": "discussed_by"
+    },
+    {
+      "from": "cyborg-collaboration-pattern",
+      "to": "centaur-collaboration-pattern",
+      "type": "contrasts_with"
+    },
+    {
+      "from": "cyborg-collaboration-pattern",
+      "to": "jagged-frontier",
+      "type": "is_a_response_to"
+    },
+    {
+      "from": "data-capture-experience",
+      "to": "consumer-ai-experience",
+      "type": "is_a_component_of"
     },
     {
       "from": "data-platform",
@@ -5930,6 +5841,21 @@
       "type": "is_addressed_by"
     },
     {
+      "from": "decision-driven-analytics",
+      "to": "stefano-puntoni",
+      "type": "developed_by"
+    },
+    {
+      "from": "decision-driven-analytics",
+      "to": "preference-driven-analytics",
+      "type": "is_antidote_to"
+    },
+    {
+      "from": "decision-driven-analytics",
+      "to": "divers-vs-runners-dichotomy",
+      "type": "is_context_for"
+    },
+    {
       "from": "deep-learning",
       "to": "geoffrey-hinton",
       "type": "pioneered_by"
@@ -5940,9 +5866,34 @@
       "type": "is_a_foundation_for"
     },
     {
+      "from": "deep-learning",
+      "to": "expert-systems",
+      "type": "superseded"
+    },
+    {
+      "from": "deskilling-from-ai",
+      "to": "ai-as-a-complementary-technology",
+      "type": "is_a_risk_addressed_by"
+    },
+    {
+      "from": "deskilling-from-ai",
+      "to": "stefano-puntoni",
+      "type": "researched_by"
+    },
+    {
       "from": "deskilling",
       "to": "stefano-puntoni",
       "type": "is_discussed_by"
+    },
+    {
+      "from": "deskilling",
+      "to": "ai-as-a-complementary-technology",
+      "type": "is_a_risk_mitigated_by"
+    },
+    {
+      "from": "deskilling",
+      "to": "generative-ai",
+      "type": "is-a-potential-consequence-of"
     },
     {
       "from": "digital-addiction",
@@ -6020,6 +5971,16 @@
       "type": "is_a_type_of"
     },
     {
+      "from": "divers-vs-runners-dichotomy",
+      "to": "decision-driven-analytics",
+      "type": "references"
+    },
+    {
+      "from": "divers-vs-runners-dichotomy",
+      "to": "stefano-puntoni",
+      "type": "references"
+    },
+    {
       "from": "dory-and-pulse",
       "to": "team-rituals",
       "type": "is_an_example_of"
@@ -6048,6 +6009,21 @@
       "from": "experimentation-and-sandboxing-for-ai",
       "to": "ai-adoption-imperative",
       "type": "is_a_method_for"
+    },
+    {
+      "from": "expert-systems",
+      "to": "deep-learning",
+      "type": "contrasts_with"
+    },
+    {
+      "from": "explainability",
+      "to": "predictability-resilience-paradox",
+      "type": "is_challenge_of"
+    },
+    {
+      "from": "explainability",
+      "to": "black-box-algorithms",
+      "type": "is_solution_to"
     },
     {
       "from": "exponential-organizations",
@@ -6131,6 +6107,11 @@
     },
     {
       "from": "generative-ai",
+      "to": "human-ai-complementation",
+      "type": "related_to"
+    },
+    {
+      "from": "generative-ai",
       "to": "large-language-models",
       "type": "has_subclass"
     },
@@ -6175,6 +6156,16 @@
       "type": "contrasted_with"
     },
     {
+      "from": "governance-framework-for-ai",
+      "to": "machine-decisions",
+      "type": "governs"
+    },
+    {
+      "from": "governance-framework-for-ai",
+      "to": "kartik-hosanagar",
+      "type": "is_proposed_by"
+    },
+    {
       "from": "hallucinations-ai",
       "to": "large-language-models",
       "type": "is_limitation_of"
@@ -6183,6 +6174,11 @@
       "from": "hard-problem-of-consciousness",
       "to": "ai-consciousness",
       "type": "is_a_challenge_for"
+    },
+    {
+      "from": "homophily",
+      "to": "recommendation-algorithms",
+      "type": "is_a_principle_used_by"
     },
     {
       "from": "human-ai-collaboration",
@@ -6198,6 +6194,21 @@
       "from": "human-ai-collaboration",
       "to": "stefano-puntoni",
       "type": "researched_by"
+    },
+    {
+      "from": "human-ai-collaboration",
+      "to": "ai-for-ideation",
+      "type": "is_exemplified_by"
+    },
+    {
+      "from": "human-ai-collaboration",
+      "to": "technological-deskilling",
+      "type": "is_a_framework_to_manage"
+    },
+    {
+      "from": "human-ai-complementation",
+      "to": "generative-ai",
+      "type": "related_to"
     },
     {
       "from": "human-ai-interaction-models",
@@ -6218,6 +6229,11 @@
       "from": "human-flourishing-ai-paradigm",
       "to": "human-replacement-ai-mindset",
       "type": "is_alternative_to"
+    },
+    {
+      "from": "human-impact-of-ai",
+      "to": "stefano-puntoni",
+      "type": "is_studied_by"
     },
     {
       "from": "human-in-the-loop",
@@ -6250,6 +6266,26 @@
       "type": "is_a_consequence_of"
     },
     {
+      "from": "identity-motives-in-consumption",
+      "to": "internet-of-things",
+      "type": "influences"
+    },
+    {
+      "from": "identity-threat-from-ai",
+      "to": "self-determination-theory-in-ai-context",
+      "type": "is-a-manifestation-of"
+    },
+    {
+      "from": "identity-threat-from-ai",
+      "to": "self-determination-theory",
+      "type": "is_a_threat_to_component_of"
+    },
+    {
+      "from": "identity-threat-from-ai",
+      "to": "stefano-puntoni",
+      "type": "researched_by"
+    },
+    {
       "from": "indirect-network-effects",
       "to": "network-effects",
       "type": "is_a_type_of"
@@ -6280,9 +6316,24 @@
       "type": "is_central_to"
     },
     {
+      "from": "internet-of-things",
+      "to": "identity-motives-in-consumption",
+      "type": "influenced_by"
+    },
+    {
       "from": "j-curve-of-productivity",
       "to": "karim-lakhani",
       "type": "described_by"
+    },
+    {
+      "from": "jagged-frontier",
+      "to": "centaur-collaboration-pattern",
+      "type": "informs_choice_of"
+    },
+    {
+      "from": "jagged-frontier",
+      "to": "cyborg-collaboration-pattern",
+      "type": "informs_choice_of"
     },
     {
       "from": "jagged-technological-frontier",
@@ -6358,6 +6409,51 @@
       "from": "learning-effects",
       "to": "airbnb",
       "type": "is_exemplified_by"
+    },
+    {
+      "from": "lottery-based-funding-system",
+      "to": "bias-against-novelty",
+      "type": "is_designed_to_address"
+    },
+    {
+      "from": "lottery-based-funding-system",
+      "to": "karim-lakhani",
+      "type": "is_advocated_by"
+    },
+    {
+      "from": "machine-decisions",
+      "to": "governance-framework-for-ai",
+      "type": "requires"
+    },
+    {
+      "from": "machine-decisions",
+      "to": "algorithmic-recommendations",
+      "type": "is_a_type_of"
+    },
+    {
+      "from": "machine-intelligence",
+      "to": "scaling",
+      "type": "is_method_for"
+    },
+    {
+      "from": "machine-intelligence",
+      "to": "algorithmic-bias",
+      "type": "has_limitation"
+    },
+    {
+      "from": "machine-intelligence",
+      "to": "use-case-specific-ai",
+      "type": "is_type_of"
+    },
+    {
+      "from": "machine-intelligence",
+      "to": "google",
+      "type": "is_implemented_by"
+    },
+    {
+      "from": "marketplace-metacognition",
+      "to": "ai-delegation-experience",
+      "type": "can_be_used_to_analyze"
     },
     {
       "from": "metaphorical-ideation-roles",
@@ -6470,6 +6566,16 @@
       "type": "has_subtype"
     },
     {
+      "from": "not-all-creativity-is-worth-saving",
+      "to": "david-droga",
+      "type": "articulated-by"
+    },
+    {
+      "from": "not-all-creativity-is-worth-saving",
+      "to": "ai-role-in-creativity",
+      "type": "is-a-perspective-on"
+    },
+    {
       "from": "one-person-unicorn-company",
       "to": "agentic-era",
       "type": "is_an_example_of"
@@ -6505,6 +6611,26 @@
       "type": "is_impacted_by"
     },
     {
+      "from": "predictability-resilience-paradox",
+      "to": "explainability",
+      "type": "creates_need_for"
+    },
+    {
+      "from": "predictability-resilience-paradox",
+      "to": "alphago",
+      "type": "exemplifies_resilient_side_of"
+    },
+    {
+      "from": "prediction-vs-judgment-decomposition",
+      "to": "automate-augment-innovate-leave-alone-framework",
+      "type": "informs"
+    },
+    {
+      "from": "prediction-vs-judgment-decomposition",
+      "to": "ai-factory-model",
+      "type": "enables"
+    },
+    {
       "from": "predictive-ai",
       "to": "generative-ai",
       "type": "contrasted_with"
@@ -6513,6 +6639,11 @@
       "from": "predictive-ai",
       "to": "kartik-hosanagar",
       "type": "defined_by"
+    },
+    {
+      "from": "preference-driven-analytics",
+      "to": "decision-driven-analytics",
+      "type": "is_a_pitfall_in"
     },
     {
       "from": "preferential-attachment",
@@ -6535,6 +6666,11 @@
       "type": "is_a_goal_of"
     },
     {
+      "from": "recommendation-algorithms",
+      "to": "homophily",
+      "type": "mirrors"
+    },
+    {
       "from": "recommender-systems",
       "to": "artificial-intelligence",
       "type": "is_an_application_of"
@@ -6545,6 +6681,11 @@
       "type": "is_a_type_of"
     },
     {
+      "from": "reimagining-human-potential-in-the-ai-era",
+      "to": "creative-intelligence-podcast",
+      "type": "explored_in"
+    },
+    {
       "from": "reinforcement-learning",
       "to": "alphago-zero",
       "type": "is_exemplified_by"
@@ -6553,6 +6694,36 @@
       "from": "retrieval-augmented-generation",
       "to": "large-language-models",
       "type": "enhances"
+    },
+    {
+      "from": "scaling",
+      "to": "machine-intelligence",
+      "type": "enables"
+    },
+    {
+      "from": "scaling",
+      "to": "yodle",
+      "type": "is_example_of"
+    },
+    {
+      "from": "science-of-science",
+      "to": "karim-lakhani",
+      "type": "is_researched_by"
+    },
+    {
+      "from": "self-determination-theory-in-ai-context",
+      "to": "identity-threat-from-ai",
+      "type": "explains"
+    },
+    {
+      "from": "self-determination-theory",
+      "to": "identity-threat-from-ai",
+      "type": "explains"
+    },
+    {
+      "from": "self-determination-theory",
+      "to": "stefano-puntoni",
+      "type": "applied_by"
     },
     {
       "from": "semantic-breadth-in-llm-ideation",
@@ -6625,14 +6796,34 @@
       "type": "is_exemplified_by"
     },
     {
+      "from": "technological-deskilling",
+      "to": "ai-as-a-complementary-technology",
+      "type": "is_a_risk_mitigated_by"
+    },
+    {
+      "from": "technological-deskilling",
+      "to": "human-ai-collaboration",
+      "type": "is_a_risk_mitigated_by"
+    },
+    {
       "from": "the-actor-llm-ideation-role",
       "to": "ideation-roles-for-llms",
       "type": "is_an_example_of"
     },
     {
+      "from": "the-replaced-consumer",
+      "to": "ai-delegation-experience",
+      "type": "is_a_consequence_of"
+    },
+    {
       "from": "the-six-cs-of-skills",
       "to": "durable-skills",
       "type": "exemplifies"
+    },
+    {
+      "from": "threat-opportunity-time-gap",
+      "to": "augmentation-vs-replacement-framework",
+      "type": "is-related-to"
     },
     {
       "from": "transformer-architecture",
@@ -6645,6 +6836,16 @@
       "type": "is_an_application_of"
     },
     {
+      "from": "transformer-models",
+      "to": "karthik-hosanagar",
+      "type": "analyzed_by"
+    },
+    {
+      "from": "transhumanism",
+      "to": "ai-delegation-experience",
+      "type": "provides_ideological_basis_for"
+    },
+    {
       "from": "turing-test",
       "to": "alan-turing",
       "type": "proposed_by"
@@ -6653,6 +6854,21 @@
       "from": "turing-test",
       "to": "intelligence-vs-consciousness-distinction",
       "type": "is_central_to"
+    },
+    {
+      "from": "unanticipated-consequences",
+      "to": "autocomplete-google",
+      "type": "exemplified_by"
+    },
+    {
+      "from": "use-case-specific-ai",
+      "to": "machine-intelligence",
+      "type": "is_type_of"
+    },
+    {
+      "from": "user-control-in-algorithmic-systems",
+      "to": "tesla-autopilot",
+      "type": "is_relevant_to_debate_on"
     },
     {
       "from": "value-capture",
@@ -6673,6 +6889,36 @@
       "from": "weak-ai",
       "to": "artificial-intelligence",
       "type": "is_a_type_of"
+    },
+    {
+      "from": "a-humans-guide-to-machine-intelligence",
+      "to": "karthik-hosanagar",
+      "type": "author"
+    },
+    {
+      "from": "a-humans-guide-to-machine-intelligence",
+      "to": "transformer-models",
+      "type": "contextualizes_development_of"
+    },
+    {
+      "from": "a-humans-guide-to-machine-intelligence",
+      "to": "kartik-hosanagar",
+      "type": "was_authored_by"
+    },
+    {
+      "from": "a-humans-guide-to-machine-intelligence",
+      "to": "machine-decisions",
+      "type": "discusses"
+    },
+    {
+      "from": "a-humans-guide-to-machine-intelligence",
+      "to": "governance-framework-for-ai",
+      "type": "proposes"
+    },
+    {
+      "from": "accenture-song",
+      "to": "david-droga",
+      "type": "led-by"
     },
     {
       "from": "airbnb",
@@ -6710,6 +6956,11 @@
       "type": "created"
     },
     {
+      "from": "algorithmic-accountability-act-of-2019",
+      "to": "classification-experience",
+      "type": "aims_to_regulate"
+    },
+    {
       "from": "alibaba",
       "to": "bridging",
       "type": "exemplifies"
@@ -6733,6 +6984,26 @@
       "from": "alphago",
       "to": "deepmind",
       "type": "created_by"
+    },
+    {
+      "from": "alphago",
+      "to": "predictability-resilience-paradox",
+      "type": "exemplifies"
+    },
+    {
+      "from": "alphago",
+      "to": "google-deepmind",
+      "type": "developed_by"
+    },
+    {
+      "from": "amazon-com",
+      "to": "algorithmic-recommendations",
+      "type": "implements"
+    },
+    {
+      "from": "amazon",
+      "to": "algorithmic-bias",
+      "type": "is_example_of"
     },
     {
       "from": "amazon",
@@ -6813,6 +7084,16 @@
       "from": "arts-and-machine-intelligence-program",
       "to": "artificial-intelligence",
       "type": "uses"
+    },
+    {
+      "from": "autocomplete-google",
+      "to": "unanticipated-consequences",
+      "type": "is_example_of"
+    },
+    {
+      "from": "autocomplete-google",
+      "to": "algorithmic-bias",
+      "type": "is_example_of"
     },
     {
       "from": "azure",
@@ -6916,6 +7197,16 @@
     },
     {
       "from": "creative-intelligence-podcast",
+      "to": "wharton-school",
+      "type": "affiliated_with"
+    },
+    {
+      "from": "creative-intelligence-podcast",
+      "to": "rene-descartes",
+      "type": "inspired_by"
+    },
+    {
+      "from": "creative-intelligence-podcast",
       "to": "kartik-hosanagar",
       "type": "hosted_by"
     },
@@ -6923,6 +7214,41 @@
       "from": "creative-intelligence-podcast",
       "to": "anil-seth",
       "type": "featured_guest"
+    },
+    {
+      "from": "creative-intelligence",
+      "to": "karthik-hosanagar",
+      "type": "hosted_by"
+    },
+    {
+      "from": "david-droga",
+      "to": "droga5",
+      "type": "founded"
+    },
+    {
+      "from": "david-droga",
+      "to": "accenture-song",
+      "type": "is-ceo-of"
+    },
+    {
+      "from": "david-droga",
+      "to": "not-all-creativity-is-worth-saving",
+      "type": "articulates"
+    },
+    {
+      "from": "david-maslach",
+      "to": "r3ciprocity-project",
+      "type": "created"
+    },
+    {
+      "from": "david-maslach",
+      "to": "karim-lakhani",
+      "type": "in_conversation_with"
+    },
+    {
+      "from": "deep-blue",
+      "to": "garry-kasparov",
+      "type": "competed_against"
     },
     {
       "from": "deepmind",
@@ -6985,6 +7311,21 @@
       "type": "conducts"
     },
     {
+      "from": "droga5",
+      "to": "david-droga",
+      "type": "founded-by"
+    },
+    {
+      "from": "droga5",
+      "to": "accenture-song",
+      "type": "was-acquired-by"
+    },
+    {
+      "from": "eightfold",
+      "to": "automation-of-repetitive-tasks",
+      "type": "is-an-application-of"
+    },
+    {
       "from": "engineears",
       "to": "derek-ali",
       "type": "founded_by"
@@ -6998,6 +7339,16 @@
       "from": "equifax",
       "to": "apache-struts",
       "type": "used"
+    },
+    {
+      "from": "erasmus-university",
+      "to": "stefano-puntoni",
+      "type": "formerly_employed"
+    },
+    {
+      "from": "garry-kasparov",
+      "to": "deep-blue",
+      "type": "competed_against"
     },
     {
       "from": "generate-biomedicines",
@@ -7040,6 +7391,16 @@
       "type": "is_a_license_for"
     },
     {
+      "from": "google-deepmind",
+      "to": "alphago",
+      "type": "created"
+    },
+    {
+      "from": "google",
+      "to": "machine-intelligence",
+      "type": "is_practitioner_of"
+    },
+    {
       "from": "google",
       "to": "ai-first-strategy",
       "type": "pioneered"
@@ -7080,6 +7441,11 @@
       "type": "competes_with"
     },
     {
+      "from": "google",
+      "to": "algorithmic-bias",
+      "type": "exhibits"
+    },
+    {
       "from": "grammarly",
       "to": "shishir-mehrotra",
       "type": "has_ceo"
@@ -7100,6 +7466,11 @@
       "type": "is_implementing"
     },
     {
+      "from": "harvard-business-analytics-program",
+      "to": "karim-lakhani",
+      "type": "has-faculty-member"
+    },
+    {
       "from": "joscha-bach",
       "to": "ai-consciousness",
       "type": "theorized_about"
@@ -7108,6 +7479,41 @@
       "from": "kai-fu-lee",
       "to": "alphago",
       "type": "commented_on_impact_of"
+    },
+    {
+      "from": "karim-lakhani",
+      "to": "artificial-intelligence",
+      "type": "studies"
+    },
+    {
+      "from": "karim-lakhani",
+      "to": "cost-of-cognition",
+      "type": "theorizes"
+    },
+    {
+      "from": "karim-lakhani",
+      "to": "harvard-business-analytics-program",
+      "type": "is-affiliated-with"
+    },
+    {
+      "from": "karim-lakhani",
+      "to": "collaborative-learning-model",
+      "type": "advocates-for"
+    },
+    {
+      "from": "karim-lakhani",
+      "to": "science-of-science",
+      "type": "researches"
+    },
+    {
+      "from": "karim-lakhani",
+      "to": "lottery-based-funding-system",
+      "type": "advocates_for"
+    },
+    {
+      "from": "karim-lakhani",
+      "to": "david-maslach",
+      "type": "in_conversation_with"
     },
     {
       "from": "karim-lakhani",
@@ -7198,6 +7604,36 @@
       "from": "karim-r-lakhani",
       "to": "derek-ali",
       "type": "collaborates_with"
+    },
+    {
+      "from": "karthik-hosanagar",
+      "to": "creative-intelligence",
+      "type": "hosts"
+    },
+    {
+      "from": "karthik-hosanagar",
+      "to": "a-humans-guide-to-machine-intelligence",
+      "type": "authored"
+    },
+    {
+      "from": "karthik-hosanagar",
+      "to": "transformer-models",
+      "type": "discusses"
+    },
+    {
+      "from": "kartik-hosanagar",
+      "to": "wharton-school",
+      "type": "affiliated_with"
+    },
+    {
+      "from": "kartik-hosanagar",
+      "to": "a-humans-guide-to-machine-intelligence",
+      "type": "authored"
+    },
+    {
+      "from": "kartik-hosanagar",
+      "to": "governance-framework-for-ai",
+      "type": "proposes"
     },
     {
       "from": "kartik-hosanagar",
@@ -7350,6 +7786,11 @@
       "type": "exemplifies"
     },
     {
+      "from": "r3ciprocity-project",
+      "to": "david-maslach",
+      "type": "is_created_by"
+    },
+    {
       "from": "rahul-kapoor",
       "to": "dominant-design",
       "type": "explains"
@@ -7358,6 +7799,11 @@
       "from": "rakuten",
       "to": "change-as-a-skill",
       "type": "exemplifies"
+    },
+    {
+      "from": "rene-descartes",
+      "to": "creative-intelligence-podcast",
+      "type": "inspired"
     },
     {
       "from": "sangeet-paul-choudary",
@@ -7403,6 +7849,26 @@
       "from": "shishir-mehrotra",
       "to": "humans-as-managers-of-agents",
       "type": "proposes"
+    },
+    {
+      "from": "stefano-puntoni",
+      "to": "decision-driven-analytics",
+      "type": "created"
+    },
+    {
+      "from": "stefano-puntoni",
+      "to": "divers-vs-runners-dichotomy",
+      "type": "proposes"
+    },
+    {
+      "from": "stefano-puntoni",
+      "to": "erasmus-university",
+      "type": "was_affiliated_with"
+    },
+    {
+      "from": "stefano-puntoni",
+      "to": "human-impact-of-ai",
+      "type": "researches"
     },
     {
       "from": "stefano-puntoni",
@@ -7475,6 +7941,81 @@
       "type": "discusses"
     },
     {
+      "from": "stefano-puntoni",
+      "to": "the-wharton-school",
+      "type": "is-affiliated-with"
+    },
+    {
+      "from": "stefano-puntoni",
+      "to": "self-determination-theory",
+      "type": "applies"
+    },
+    {
+      "from": "stefano-puntoni",
+      "to": "identity-threat-from-ai",
+      "type": "researches"
+    },
+    {
+      "from": "stefano-puntoni",
+      "to": "ai-as-a-complementary-technology",
+      "type": "advocates"
+    },
+    {
+      "from": "stefano-puntoni",
+      "to": "deskilling-from-ai",
+      "type": "researches"
+    },
+    {
+      "from": "stefano-puntoni",
+      "to": "wharton",
+      "type": "is_affiliated_with"
+    },
+    {
+      "from": "stefano-puntoni",
+      "to": "ai-as-a-complementary-technology",
+      "type": "advocates_for"
+    },
+    {
+      "from": "stefano-puntoni",
+      "to": "deskilling",
+      "type": "analyzes"
+    },
+    {
+      "from": "stefano-puntoni",
+      "to": "complementary-ai-framework",
+      "type": "advocates_for"
+    },
+    {
+      "from": "stefano-puntoni",
+      "to": "technological-deskilling",
+      "type": "discusses"
+    },
+    {
+      "from": "stefano-puntoni",
+      "to": "ai-for-ideation-and-creativity",
+      "type": "discusses"
+    },
+    {
+      "from": "stefano-puntoni",
+      "to": "wharton",
+      "type": "is-professor-at"
+    },
+    {
+      "from": "stefano-puntoni",
+      "to": "ai-adoption-strategy",
+      "type": "proposes"
+    },
+    {
+      "from": "stefano-puntoni",
+      "to": "deskilling",
+      "type": "discusses"
+    },
+    {
+      "from": "stefano-puntoni",
+      "to": "ai-as-a-complementary-technology",
+      "type": "advocates-for"
+    },
+    {
       "from": "superhuman",
       "to": "ai-agent",
       "type": "is_an_example_of"
@@ -7500,6 +8041,11 @@
       "type": "is_an_example_of"
     },
     {
+      "from": "tesla-autopilot",
+      "to": "user-control-in-algorithmic-systems",
+      "type": "highlights_need_for"
+    },
+    {
       "from": "the-next-rembrandt",
       "to": "artificial-intelligence",
       "type": "was_created_using"
@@ -7512,6 +8058,11 @@
     {
       "from": "the-wharton-school",
       "to": "kartik-hosanagar",
+      "type": "employs"
+    },
+    {
+      "from": "the-wharton-school",
+      "to": "stefano-puntoni",
       "type": "employs"
     },
     {
@@ -7560,479 +8111,19 @@
       "type": "was_created_by"
     },
     {
+      "from": "wharton",
+      "to": "stefano-puntoni",
+      "type": "employs"
+    },
+    {
       "from": "yann-lecun",
       "to": "geoffrey-hinton",
       "type": "has_contrasting_views_with"
     },
     {
-      "from": "ai-delegation-experience",
-      "to": "the-replaced-consumer",
-      "type": "can_lead_to"
-    },
-    {
-      "from": "classification-experience",
-      "to": "consumer-ai-experience",
-      "type": "is_a_component_of"
-    },
-    {
-      "from": "classification-experience",
-      "to": "algorithmic-accountability-act-of-2019",
-      "type": "is_addressed_by"
-    },
-    {
-      "from": "data-capture-experience",
-      "to": "consumer-ai-experience",
-      "type": "is_a_component_of"
-    },
-    {
-      "from": "marketplace-metacognition",
-      "to": "ai-delegation-experience",
-      "type": "can_be_used_to_analyze"
-    },
-    {
-      "from": "the-replaced-consumer",
-      "to": "ai-delegation-experience",
-      "type": "is_a_consequence_of"
-    },
-    {
-      "from": "transhumanism",
-      "to": "ai-delegation-experience",
-      "type": "provides_ideological_basis_for"
-    },
-    {
-      "from": "algorithmic-accountability-act-of-2019",
-      "to": "classification-experience",
-      "type": "aims_to_regulate"
-    },
-    {
-      "from": "bias-against-novelty",
-      "to": "lottery-based-funding-system",
-      "type": "is_addressed_by"
-    },
-    {
-      "from": "lottery-based-funding-system",
-      "to": "bias-against-novelty",
-      "type": "is_designed_to_address"
-    },
-    {
-      "from": "lottery-based-funding-system",
-      "to": "karim-lakhani",
-      "type": "is_advocated_by"
-    },
-    {
-      "from": "science-of-science",
-      "to": "karim-lakhani",
-      "type": "is_researched_by"
-    },
-    {
-      "from": "david-maslach",
-      "to": "r3ciprocity-project",
-      "type": "created"
-    },
-    {
-      "from": "david-maslach",
-      "to": "karim-lakhani",
-      "type": "in_conversation_with"
-    },
-    {
-      "from": "karim-lakhani",
-      "to": "science-of-science",
-      "type": "researches"
-    },
-    {
-      "from": "karim-lakhani",
-      "to": "lottery-based-funding-system",
-      "type": "advocates_for"
-    },
-    {
-      "from": "karim-lakhani",
-      "to": "david-maslach",
-      "type": "in_conversation_with"
-    },
-    {
-      "from": "r3ciprocity-project",
-      "to": "david-maslach",
-      "type": "is_created_by"
-    },
-    {
-      "from": "algorithmic-recommendations",
-      "to": "machine-decisions",
-      "type": "is_an_application_of"
-    },
-    {
-      "from": "algorithmic-recommendations",
-      "to": "amazon-com",
-      "type": "is_used_by"
-    },
-    {
-      "from": "governance-framework-for-ai",
-      "to": "machine-decisions",
-      "type": "governs"
-    },
-    {
-      "from": "governance-framework-for-ai",
-      "to": "kartik-hosanagar",
-      "type": "is_proposed_by"
-    },
-    {
-      "from": "machine-decisions",
-      "to": "governance-framework-for-ai",
-      "type": "requires"
-    },
-    {
-      "from": "machine-decisions",
-      "to": "algorithmic-recommendations",
-      "type": "is_a_type_of"
-    },
-    {
-      "from": "a-humans-guide-to-machine-intelligence",
-      "to": "kartik-hosanagar",
-      "type": "was_authored_by"
-    },
-    {
-      "from": "a-humans-guide-to-machine-intelligence",
-      "to": "machine-decisions",
-      "type": "discusses"
-    },
-    {
-      "from": "a-humans-guide-to-machine-intelligence",
-      "to": "governance-framework-for-ai",
-      "type": "proposes"
-    },
-    {
-      "from": "amazon-com",
-      "to": "algorithmic-recommendations",
-      "type": "implements"
-    },
-    {
-      "from": "kartik-hosanagar",
-      "to": "a-humans-guide-to-machine-intelligence",
-      "type": "authored"
-    },
-    {
-      "from": "kartik-hosanagar",
-      "to": "governance-framework-for-ai",
-      "type": "proposes"
-    },
-    {
-      "from": "human-impact-of-ai",
-      "to": "stefano-puntoni",
-      "type": "is_studied_by"
-    },
-    {
-      "from": "erasmus-university",
-      "to": "stefano-puntoni",
-      "type": "formerly_employed"
-    },
-    {
-      "from": "stefano-puntoni",
-      "to": "erasmus-university",
-      "type": "was_affiliated_with"
-    },
-    {
-      "from": "stefano-puntoni",
-      "to": "human-impact-of-ai",
-      "type": "researches"
-    },
-    {
-      "from": "collaborative-learning-model",
-      "to": "karim-lakhani",
-      "type": "is-advocated-by"
-    },
-    {
-      "from": "harvard-business-analytics-program",
-      "to": "karim-lakhani",
-      "type": "has-faculty-member"
-    },
-    {
-      "from": "karim-lakhani",
-      "to": "harvard-business-analytics-program",
-      "type": "is-affiliated-with"
-    },
-    {
-      "from": "karim-lakhani",
-      "to": "collaborative-learning-model",
-      "type": "advocates-for"
-    },
-    {
-      "from": "ai-role-in-creativity",
-      "to": "not-all-creativity-is-worth-saving",
-      "type": "is-related-to"
-    },
-    {
-      "from": "ai-role-in-creativity",
-      "to": "changing-role-of-the-cmo",
-      "type": "influences"
-    },
-    {
-      "from": "changing-role-of-the-cmo",
-      "to": "david-droga",
-      "type": "discussed-by"
-    },
-    {
-      "from": "changing-role-of-the-cmo",
-      "to": "ai-role-in-creativity",
-      "type": "is-influenced-by"
-    },
-    {
-      "from": "not-all-creativity-is-worth-saving",
-      "to": "david-droga",
-      "type": "articulated-by"
-    },
-    {
-      "from": "not-all-creativity-is-worth-saving",
-      "to": "ai-role-in-creativity",
-      "type": "is-a-perspective-on"
-    },
-    {
-      "from": "accenture-song",
-      "to": "david-droga",
-      "type": "led-by"
-    },
-    {
-      "from": "david-droga",
-      "to": "droga5",
-      "type": "founded"
-    },
-    {
-      "from": "david-droga",
-      "to": "accenture-song",
-      "type": "is-ceo-of"
-    },
-    {
-      "from": "david-droga",
-      "to": "not-all-creativity-is-worth-saving",
-      "type": "articulates"
-    },
-    {
-      "from": "droga5",
-      "to": "david-droga",
-      "type": "founded-by"
-    },
-    {
-      "from": "droga5",
-      "to": "accenture-song",
-      "type": "was-acquired-by"
-    },
-    {
-      "from": "algorithmic-bias",
-      "to": "machine-intelligence",
-      "type": "is_limitation_of"
-    },
-    {
-      "from": "algorithmic-bias",
-      "to": "amazon",
-      "type": "is_example_of"
-    },
-    {
-      "from": "automation-of-repetitive-tasks",
-      "to": "eightfold",
-      "type": "example-of"
-    },
-    {
-      "from": "machine-intelligence",
-      "to": "scaling",
-      "type": "is_method_for"
-    },
-    {
-      "from": "machine-intelligence",
-      "to": "algorithmic-bias",
-      "type": "has_limitation"
-    },
-    {
-      "from": "machine-intelligence",
-      "to": "use-case-specific-ai",
-      "type": "is_type_of"
-    },
-    {
-      "from": "machine-intelligence",
-      "to": "google",
-      "type": "is_implemented_by"
-    },
-    {
-      "from": "scaling",
-      "to": "machine-intelligence",
-      "type": "enables"
-    },
-    {
-      "from": "scaling",
-      "to": "yodle",
-      "type": "is_example_of"
-    },
-    {
-      "from": "use-case-specific-ai",
-      "to": "machine-intelligence",
-      "type": "is_type_of"
-    },
-    {
-      "from": "amazon",
-      "to": "algorithmic-bias",
-      "type": "is_example_of"
-    },
-    {
-      "from": "eightfold",
-      "to": "automation-of-repetitive-tasks",
-      "type": "is-an-application-of"
-    },
-    {
-      "from": "google",
-      "to": "machine-intelligence",
-      "type": "is_practitioner_of"
-    },
-    {
       "from": "yodle",
       "to": "scaling",
       "type": "is_example_of"
-    },
-    {
-      "from": "decision-driven-analytics",
-      "to": "stefano-puntoni",
-      "type": "developed_by"
-    },
-    {
-      "from": "decision-driven-analytics",
-      "to": "preference-driven-analytics",
-      "type": "is_antidote_to"
-    },
-    {
-      "from": "decision-driven-analytics",
-      "to": "divers-vs-runners-dichotomy",
-      "type": "is_context_for"
-    },
-    {
-      "from": "divers-vs-runners-dichotomy",
-      "to": "decision-driven-analytics",
-      "type": "references"
-    },
-    {
-      "from": "divers-vs-runners-dichotomy",
-      "to": "stefano-puntoni",
-      "type": "references"
-    },
-    {
-      "from": "preference-driven-analytics",
-      "to": "decision-driven-analytics",
-      "type": "is_a_pitfall_in"
-    },
-    {
-      "from": "stefano-puntoni",
-      "to": "decision-driven-analytics",
-      "type": "created"
-    },
-    {
-      "from": "stefano-puntoni",
-      "to": "divers-vs-runners-dichotomy",
-      "type": "proposes"
-    },
-    {
-      "from": "reimagining-human-potential-in-the-ai-era",
-      "to": "creative-intelligence-podcast",
-      "type": "explored_in"
-    },
-    {
-      "from": "creative-intelligence-podcast",
-      "to": "wharton-school",
-      "type": "affiliated_with"
-    },
-    {
-      "from": "creative-intelligence-podcast",
-      "to": "rene-descartes",
-      "type": "inspired_by"
-    },
-    {
-      "from": "kartik-hosanagar",
-      "to": "wharton-school",
-      "type": "affiliated_with"
-    },
-    {
-      "from": "rene-descartes",
-      "to": "creative-intelligence-podcast",
-      "type": "inspired"
-    },
-    {
-      "from": "artificial-intelligence",
-      "to": "karim-lakhani",
-      "type": "analyzed_by"
-    },
-    {
-      "from": "artificial-intelligence",
-      "to": "cost-of-cognition",
-      "type": "impacts"
-    },
-    {
-      "from": "cost-of-cognition",
-      "to": "karim-lakhani",
-      "type": "theorized_by"
-    },
-    {
-      "from": "cost-of-cognition",
-      "to": "artificial-intelligence",
-      "type": "is_reduced_by"
-    },
-    {
-      "from": "karim-lakhani",
-      "to": "artificial-intelligence",
-      "type": "studies"
-    },
-    {
-      "from": "karim-lakhani",
-      "to": "cost-of-cognition",
-      "type": "theorizes"
-    },
-    {
-      "from": "transformer-models",
-      "to": "karthik-hosanagar",
-      "type": "analyzed_by"
-    },
-    {
-      "from": "a-humans-guide-to-machine-intelligence",
-      "to": "karthik-hosanagar",
-      "type": "author"
-    },
-    {
-      "from": "a-humans-guide-to-machine-intelligence",
-      "to": "transformer-models",
-      "type": "contextualizes_development_of"
-    },
-    {
-      "from": "creative-intelligence",
-      "to": "karthik-hosanagar",
-      "type": "hosted_by"
-    },
-    {
-      "from": "karthik-hosanagar",
-      "to": "creative-intelligence",
-      "type": "hosts"
-    },
-    {
-      "from": "karthik-hosanagar",
-      "to": "a-humans-guide-to-machine-intelligence",
-      "type": "authored"
-    },
-    {
-      "from": "karthik-hosanagar",
-      "to": "transformer-models",
-      "type": "discusses"
-    },
-    {
-      "from": "generative-ai",
-      "to": "human-ai-complementation",
-      "type": "related_to"
-    },
-    {
-      "from": "human-ai-complementation",
-      "to": "generative-ai",
-      "type": "related_to"
-    },
-    {
-      "from": "identity-motives-in-consumption",
-      "to": "internet-of-things",
-      "type": "influences"
-    },
-    {
-      "from": "internet-of-things",
-      "to": "identity-motives-in-consumption",
-      "type": "influenced_by"
     },
     {
       "from": "index",
@@ -8111,6 +8202,11 @@
     },
     {
       "from": "index",
+      "to": "concepts/ai-factory-model",
+      "type": "references"
+    },
+    {
+      "from": "index",
       "to": "concepts/ai-factory",
       "type": "references"
     },
@@ -8127,6 +8223,11 @@
     {
       "from": "index",
       "to": "concepts/ai-for-ideation",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ai-governance-operating-model",
       "type": "references"
     },
     {
@@ -8157,6 +8258,11 @@
     {
       "from": "index",
       "to": "concepts/ai-regulation",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ai-risk-layers",
       "type": "references"
     },
     {
@@ -8336,6 +8442,11 @@
     },
     {
       "from": "index",
+      "to": "concepts/centaur-collaboration-pattern",
+      "type": "references"
+    },
+    {
+      "from": "index",
       "to": "concepts/change-as-a-skill",
       "type": "references"
     },
@@ -8416,7 +8527,17 @@
     },
     {
       "from": "index",
+      "to": "concepts/cost-reduction-vs-capability-expansion-posture",
+      "type": "references"
+    },
+    {
+      "from": "index",
       "to": "concepts/customer-sentiment-analysis",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/cyborg-collaboration-pattern",
       "type": "references"
     },
     {
@@ -8626,6 +8747,11 @@
     },
     {
       "from": "index",
+      "to": "concepts/homogenization-risk",
+      "type": "references"
+    },
+    {
+      "from": "index",
       "to": "concepts/homophily",
       "type": "references"
     },
@@ -8722,6 +8848,11 @@
     {
       "from": "index",
       "to": "concepts/j-curve-of-productivity",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/jagged-frontier",
       "type": "references"
     },
     {
@@ -8897,6 +9028,11 @@
     {
       "from": "index",
       "to": "concepts/predictability-resilience-paradox",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/prediction-vs-judgment-decomposition",
       "type": "references"
     },
     {
@@ -9666,6 +9802,21 @@
     },
     {
       "from": "index",
+      "to": "synthesized/3blue1brown-neural-network-visual-explainer",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "synthesized/beginner-ai-video-learning-path",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "synthesized/genai-impact-on-hr-functions",
+      "type": "references"
+    },
+    {
+      "from": "index",
       "to": "stubs/stub-342-the-secrets-to-high-ai-adoption-with-stefano-puntoni-professor-at-wharton-ij",
       "type": "references"
     },
@@ -9782,6 +9933,11 @@
     {
       "from": "index",
       "to": "stubs/stub-ideation-with-generative-ai-published-75dccafd-9c43-46f5-9f56-06a11da7a7cf",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "stubs/stub-jpmc-outline-v1",
       "type": "references"
     },
     {
@@ -9915,6 +10071,36 @@
       "type": "references"
     },
     {
+      "from": "3blue1brown-neural-network-visual-explainer",
+      "to": "beginner-ai-video-learning-path",
+      "type": "extends"
+    },
+    {
+      "from": "3blue1brown-neural-network-visual-explainer",
+      "to": "deep-learning",
+      "type": "extends"
+    },
+    {
+      "from": "3blue1brown-neural-network-visual-explainer",
+      "to": "transformer-models",
+      "type": "extends"
+    },
+    {
+      "from": "beginner-ai-video-learning-path",
+      "to": "andrej-karpathy",
+      "type": "extends"
+    },
+    {
+      "from": "beginner-ai-video-learning-path",
+      "to": "stub-competing-in-the-age-of-ai-expert-karim-lakhani-from-d3-at-harvard-business-scho",
+      "type": "synthesized_from"
+    },
+    {
+      "from": "beginner-ai-video-learning-path",
+      "to": "generative-ai",
+      "type": "extends"
+    },
+    {
       "from": "genai-impact-on-hr-functions",
       "to": "ais-impact-on-the-system-of-work",
       "type": "extends"
@@ -9943,116 +10129,6 @@
       "from": "genai-impact-on-hr-functions",
       "to": "self-determination-theory-in-ai-context",
       "type": "applies"
-    },
-    {
-      "from": "ai-factory-model",
-      "to": "prediction-vs-judgment-decomposition",
-      "type": "is_enabled_by"
-    },
-    {
-      "from": "ai-governance-operating-model",
-      "to": "ai-risk-layers",
-      "type": "utilizes"
-    },
-    {
-      "from": "ai-risk-layers",
-      "to": "ai-governance-operating-model",
-      "type": "references"
-    },
-    {
-      "from": "centaur-collaboration-pattern",
-      "to": "cyborg-collaboration-pattern",
-      "type": "contrasts_with"
-    },
-    {
-      "from": "centaur-collaboration-pattern",
-      "to": "jagged-frontier",
-      "type": "is_a_response_to"
-    },
-    {
-      "from": "cyborg-collaboration-pattern",
-      "to": "centaur-collaboration-pattern",
-      "type": "contrasts_with"
-    },
-    {
-      "from": "cyborg-collaboration-pattern",
-      "to": "jagged-frontier",
-      "type": "is_a_response_to"
-    },
-    {
-      "from": "jagged-frontier",
-      "to": "centaur-collaboration-pattern",
-      "type": "informs_choice_of"
-    },
-    {
-      "from": "jagged-frontier",
-      "to": "cyborg-collaboration-pattern",
-      "type": "informs_choice_of"
-    },
-    {
-      "from": "prediction-vs-judgment-decomposition",
-      "to": "automate-augment-innovate-leave-alone-framework",
-      "type": "informs"
-    },
-    {
-      "from": "prediction-vs-judgment-decomposition",
-      "to": "ai-factory-model",
-      "type": "enables"
-    },
-    {
-      "from": "index",
-      "to": "synthesized/genai-impact-on-hr-functions",
-      "type": "references"
-    },
-    {
-      "from": "index",
-      "to": "concepts/ai-factory-model",
-      "type": "references"
-    },
-    {
-      "from": "index",
-      "to": "concepts/ai-governance-operating-model",
-      "type": "references"
-    },
-    {
-      "from": "index",
-      "to": "concepts/ai-risk-layers",
-      "type": "references"
-    },
-    {
-      "from": "index",
-      "to": "concepts/centaur-collaboration-pattern",
-      "type": "references"
-    },
-    {
-      "from": "index",
-      "to": "concepts/cost-reduction-vs-capability-expansion-posture",
-      "type": "references"
-    },
-    {
-      "from": "index",
-      "to": "concepts/cyborg-collaboration-pattern",
-      "type": "references"
-    },
-    {
-      "from": "index",
-      "to": "concepts/homogenization-risk",
-      "type": "references"
-    },
-    {
-      "from": "index",
-      "to": "concepts/jagged-frontier",
-      "type": "references"
-    },
-    {
-      "from": "index",
-      "to": "concepts/prediction-vs-judgment-decomposition",
-      "type": "references"
-    },
-    {
-      "from": "index",
-      "to": "stubs/stub-jpmc-outline-v1",
-      "type": "references"
     }
   ]
 }
