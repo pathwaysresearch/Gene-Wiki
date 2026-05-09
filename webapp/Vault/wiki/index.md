@@ -394,3 +394,5 @@ Master catalog — 376 pages · last rebuilt 2026-05-07
 - [[synthesized/genai-impact-on-hr-functions|GenAI's Impact on Human Resources: A Function-by-Function Framework]] — synthesized from query
 
 - [[synthesized/beginner-ai-video-learning-path|Beginner AI Video Learning Path: A Three-Tier Scaffolding]] — synthesized from query
+
+- [[synthesized/3blue1brown-neural-network-visual-explainer|3Blue1Brown 'But What Is a Neural Network?' — Tier 2 Visual Intuition Explainer]] — synthesized from query

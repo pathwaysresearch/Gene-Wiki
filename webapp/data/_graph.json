@@ -5016,6 +5016,24 @@
         "bloom-taxonomy"
       ],
       "path": "wiki/synthesized/beginner-ai-video-learning-path.md"
+    },
+    "3blue1brown-neural-network-visual-explainer": {
+      "type": "synthesized",
+      "title": "3Blue1Brown 'But What Is a Neural Network?' — Tier 2 Visual Intuition Explainer",
+      "aliases": [
+        "3Blue1Brown Neural Network",
+        "But What Is a Neural Network",
+        "Neural Network Visual Explainer"
+      ],
+      "tags": [
+        "ai-education",
+        "neural-networks",
+        "visual-learning",
+        "beginner-resources",
+        "learning-path",
+        "deep-learning"
+      ],
+      "path": "wiki/synthesized/3blue1brown-neural-network-visual-explainer.md"
     }
   },
   "edges": [
@@ -9852,6 +9870,21 @@
     {
       "from": "beginner-ai-video-learning-path",
       "to": "generative-ai",
+      "type": "extends"
+    },
+    {
+      "from": "3blue1brown-neural-network-visual-explainer",
+      "to": "beginner-ai-video-learning-path",
+      "type": "extends"
+    },
+    {
+      "from": "3blue1brown-neural-network-visual-explainer",
+      "to": "deep-learning",
+      "type": "extends"
+    },
+    {
+      "from": "3blue1brown-neural-network-visual-explainer",
+      "to": "transformer-models",
       "type": "extends"
     }
   ]
