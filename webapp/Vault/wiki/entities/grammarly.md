@@ -35,3 +35,6 @@ To accelerate its vision, Grammarly has made key acquisitions. It acquired Coda,
 
 ---
 *Extracted from: Ai*
+
+---
+*Also referenced in: Prediction Machines The Simple Economics Of Artificial Intelligence By Ajay Agrawal *

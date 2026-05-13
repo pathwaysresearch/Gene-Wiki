@@ -3,6 +3,12 @@ type: concept
 aliases: [Transhumanism]
 summary: A worldview emphasizing technological progress as an unstoppable force that fundamentally alters the human experience, often with a focus on overcoming human limitations.
 relationships:
+  - target: the-singularity
+    type: is_related_to
+  - target: hans-moravec
+    type: is_advocated_by
+  - target: ray-kurzweil
+    type: is_advocated_by
   - target: ai-delegation-experience
     type: provides_ideological_basis_for
 tags: [philosophy, sociology-of-technology, ai-ethics]
@@ -29,3 +35,6 @@ According to the text, transhumanist ideals can endorse a glorification of capit
 
 ---
 *Extracted from: Consumers And Artificial Intelligence*
+
+---
+*Also referenced in: Artificial Intelligence  A Modern Approach    Stuart Russel, Peter Norvig    A Modern Approach, 3, 2010    Prentice Hall    6Bb5C49523E9F607E191Eb2049B7770E    Anna’S Archive*

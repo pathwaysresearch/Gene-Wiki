@@ -3,6 +3,26 @@ type: entity
 aliases: [Geoffrey Hinton]
 summary: An influential AI researcher, often called a "Godfather of AI," who championed neural networks and joined Google after a high-stakes auction for his team. An influential AI researcher who has publicly expressed concerns that AI could pose an existential threat to humanity, representing a cautious viewpoint in the field.
 relationships:
+  - target: greedy-layer-wise-pre-training
+    type: created
+  - target: deep-belief-network
+    type: worked_on
+  - target: yoshua-bengio
+    type: collaborated_with
+  - target: contrastive-divergence
+    type: created
+  - target: helmholtz-machine
+    type: created
+  - target: deep-boltzmann-machines
+    type: created
+  - target: ruslan-salakhutdinov
+    type: collaborated_with
+  - target: dropout
+    type: created
+  - target: deep-boltzmann-machine
+    type: created
+  - target: time-delay-neural-network
+    type: contributed_to
   - target: deep-learning
     type: pioneered
   - target: google
@@ -32,3 +52,6 @@ Hinton's philosophy is captured in his quote: "If it's a good idea, you keep try
 
 ---
 *Extracted from: Ai*
+
+---
+*Also referenced in: Deep+Learning+Ian+Goodfellow*

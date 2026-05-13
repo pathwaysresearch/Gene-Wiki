@@ -3,6 +3,20 @@ type: entity
 aliases: [TensorFlow]
 summary: A widely used open source machine learning framework originally developed by Google.
 relationships:
+  - target: google
+    type: created_by
+  - target: keras
+    type: integrates
+  - target: neural-networks
+    type: used_for
+  - target: deep-learning
+    type: is_a_tool_for
+  - target: keras
+    type: includes
+  - target: tensor-tensorflow
+    type: uses
+  - target: tensorflow-variable
+    type: uses
   - target: open-source-software
     type: is_an_example_of
 tags: [machine-learning, software-framework, open-source, ai]
@@ -26,3 +40,6 @@ As a popular machine learning framework, TensorFlow is an important tool in the 
 
 ---
 *Extracted from: Ai*
+
+---
+*Also referenced in: Aurélien Géron Hands On Machine Learning With Scikit Learn Keras And Tensorflow  Concepts Tools And Techniques To Build Intelligent Systems O’Reilly Media 2019*

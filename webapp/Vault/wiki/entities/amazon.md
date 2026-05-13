@@ -3,6 +3,8 @@ type: entity
 aliases: [Amazon]
 summary: A global technology and retail company that exemplifies the power of a digital operating model, particularly through its use of AI-driven recommendation engines. An e-commerce and cloud computing company that evolved from an online retailer into a dominant digital platform by rearchitecting its operating model around data and shared software components.
 relationships:
+  - target: ai-driven-strategic-change
+    type: illustrates
   - target: algorithmic-bias
     type: is_example_of
   - target: collaborative-filtering-algorithms
@@ -40,3 +42,6 @@ The AI engines used by Amazon are highly scalable and do not suffer from the hum
 
 ---
 *Also referenced in: Scaling Through Machine Intelligence And Data Science Oqgqrco4We0*
+
+---
+*Also referenced in: Prediction Machines The Simple Economics Of Artificial Intelligence By Ajay Agrawal *

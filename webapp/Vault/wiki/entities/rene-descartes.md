@@ -3,6 +3,10 @@ type: entity
 aliases: [René Descartes]
 summary: A French scientist and philosopher whose principle "I think, therefore I am" serves as a key philosophical inspiration for the 'Creative Intelligence' podcast.
 relationships:
+  - target: mind-body-problem
+    type: analyzed
+  - target: dualism
+    type: created
   - target: creative-intelligence-podcast
     type: inspired
 tags: [philosopher, scientist]
@@ -26,3 +30,6 @@ The podcast leverages Descartes' principle to explore the modern challenge posed
 
 ---
 *Extracted from: Welcome To Creative Intelligence Gkgbp4Txoi8*
+
+---
+*Also referenced in: Artificial Intelligence  A Modern Approach    Stuart Russel, Peter Norvig    A Modern Approach, 3, 2010    Prentice Hall    6Bb5C49523E9F607E191Eb2049B7770E    Anna’S Archive*

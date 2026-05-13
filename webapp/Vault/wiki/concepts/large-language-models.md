@@ -3,6 +3,18 @@ type: concept
 aliases: [Large Language Models]
 summary: A type of AI used to automate tasks like writing, which is increasingly integrated into digital consumption and productivity tools like ChatGPT. A type of AI capable of understanding and generating human-like text for complex applications, such as replicating market research or providing sophisticated analysis for business education.
 relationships:
+  - target: machine-learning
+    type: is_an_application_of
+  - target: generative-ai
+    type: is_a_form_of
+  - target: fine-tuning-llms
+    type: uses
+  - target: general-purpose-technologies
+    type: is_a
+  - target: gpt-4
+    type: includes_example
+  - target: exposure-to-llms
+    type: impact_is_measured_by
   - target: artificial-intelligence
     type: is_a_type_of
   - target: andrej-karpathy
@@ -32,3 +44,9 @@ The integration of LLMs into the digital consumption landscape is viewed as a si
 
 ---
 *Extracted from: Ai*
+
+---
+*Also referenced in: 2303.10130V5*
+
+---
+*Also referenced in: 2304.11771V2*

@@ -3,6 +3,8 @@ type: entity
 aliases: [Alan Turing]
 summary: A computer scientist widely known for proposing the 'imitation game,' or Turing Test, as a standard for machine intelligence.
 relationships:
+  - target: total-turing-test
+    type: created-precursor-to
   - target: turing-test
     type: created
 tags: [computer-scientist, pioneer-of-ai, logician]
@@ -29,3 +31,9 @@ The text positions Turing's test as a 'more defensible' standard for intelligenc
 
 ---
 *Extracted from: Ai*
+
+---
+*Also referenced in: Artificial Intelligence  A Modern Approach    Stuart Russel, Peter Norvig    A Modern Approach, 3, 2010    Prentice Hall    6Bb5C49523E9F607E191Eb2049B7770E    Anna’S Archive*
+
+---
+*Also referenced in: The Book Of Why  The New Science Of Cause And Effect ( Pdfdrive )*

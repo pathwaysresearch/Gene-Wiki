@@ -3,6 +3,16 @@ type: concept
 aliases: [Reinforcement Learning]
 summary: A type of machine learning where a software agent learns to make optimal decisions by taking actions in an environment to maximize a cumulative reward.
 relationships:
+  - target: bandit-problem
+    type: is_a_generalization_of
+  - target: q-learning
+    type: includes
+  - target: passive-reinforcement-learning
+    type: includes
+  - target: adaptive-dynamic-programming
+    type: includes
+  - target: exploration-vs-exploitation-dilemma
+    type: is-fundamental-to
   - target: alphago-zero
     type: is_exemplified_by
 tags: [machine-learning, artificial-intelligence]
@@ -29,3 +39,12 @@ The success of reinforcement learning, particularly through AlphaGo's victories,
 
 ---
 *Extracted from: Ai*
+
+---
+*Also referenced in: Artificial Intelligence  A Modern Approach    Stuart Russel, Peter Norvig    A Modern Approach, 3, 2010    Prentice Hall    6Bb5C49523E9F607E191Eb2049B7770E    Anna’S Archive*
+
+---
+*Also referenced in: Aurélien Géron Hands On Machine Learning With Scikit Learn Keras And Tensorflow  Concepts Tools And Techniques To Build Intelligent Systems O’Reilly Media 2019*
+
+---
+*Also referenced in: Deep+Learning+Ian+Goodfellow*

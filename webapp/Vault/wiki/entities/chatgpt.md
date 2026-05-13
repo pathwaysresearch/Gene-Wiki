@@ -3,6 +3,12 @@ type: entity
 aliases: [ChatGPT]
 summary: A large language model demonstrated to have a profound and potentially disruptive impact on education, capable of generating sophisticated, context-aware analysis for tasks like MBA case studies. A generative AI product from OpenAI whose public launch in November 2022 marked a pivotal moment in the widespread diffusion and adoption of AI technology.
 relationships:
+  - target: productivity-effects-of-generative-ai
+    type: is_subject_of
+  - target: worker-effort-substitution-by-ai
+    type: enables
+  - target: productivity-inequality-compression
+    type: causes
   - target: large-language-models
     type: is_an_instance_of
   - target: openai
@@ -32,3 +38,9 @@ ChatGPT is presented as an instance of a broader trend in large language models.
 
 ---
 *Extracted from: Ai*
+
+---
+*Also referenced in: 2304.11771V2*
+
+---
+*Also referenced in: Noy Zhang 1*

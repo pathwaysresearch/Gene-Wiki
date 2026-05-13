@@ -3,6 +3,10 @@ type: concept
 aliases: [AI First Strategy]
 summary: A corporate strategy that moves Artificial Intelligence to the core of a company's operating model, making it the foundation for all processes.
 relationships:
+  - target: peter-norvig
+    type: defined_by
+  - target: data-as-a-complement-to-prediction
+    type: is_premised_on
   - target: google
     type: adopted_by
 tags: [corporate-strategy, ai, operating-model]
@@ -29,3 +33,6 @@ The central idea of an AI First strategy is to make AI the primary lens through 
 
 ---
 *Extracted from: Ai*
+
+---
+*Also referenced in: Prediction Machines The Simple Economics Of Artificial Intelligence By Ajay Agrawal *

@@ -3,6 +3,8 @@ type: concept
 aliases: [Jagged Technological Frontier]
 summary: A concept describing the uneven and unpredictable capabilities of AI, where it demonstrates superhuman performance on some tasks but fails at others that may seem similar.
 relationships:
+  - target: gpt-4
+    type: is_characterized_by
   - target: clinical-trials-of-ai
     type: is_a_finding_of
 tags: [ai-capabilities, ai-strategy, performance-management]
@@ -26,3 +28,6 @@ Understanding this concept is critical for leaders implementing AI. It means tha
 
 ---
 *Extracted from: Ai*
+
+---
+*Also referenced in: Ssrn 4573321*

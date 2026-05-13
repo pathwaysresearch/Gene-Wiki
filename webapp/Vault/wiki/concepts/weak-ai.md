@@ -3,6 +3,8 @@ type: concept
 aliases: [Weak AI]
 summary: A form of artificial intelligence that is designed and trained for a particular task, rather than possessing human-like general intelligence. An approach to artificial intelligence where systems perform specific tasks that humans once performed, often described as algorithms or statistics applied at scale.
 relationships:
+  - target: strong-ai
+    type: is-contrasted-with
   - target: artificial-intelligence
     type: is_a_type_of
 tags: [ai, machine-learning, business-applications, ai-definition, technology-trend]
@@ -26,3 +28,6 @@ The key insight is that we do not need to achieve perfect human-level AI to witn
 
 ---
 *Extracted from: Ai*
+
+---
+*Also referenced in: Artificial Intelligence  A Modern Approach    Stuart Russel, Peter Norvig    A Modern Approach, 3, 2010    Prentice Hall    6Bb5C49523E9F607E191Eb2049B7770E    Anna’S Archive*

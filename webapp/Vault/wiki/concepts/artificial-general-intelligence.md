@@ -4,6 +4,11 @@ aliases: [Artificial General Intelligence (AGI)]
 summary: A theoretical form of AI where a system possesses human-level cognitive abilities, capable of understanding, learning, and applying its intelligence to solve any problem a human can.
 tags: [ai-theory, cognitive-science, future-of-ai]
 sourced_from: Ai
+relationships:
+  - target: openai
+    type: defined_by
+  - target: artificial-intelligence
+    type: is_a_type_of
 ---
 
 # Artificial General Intelligence (AGI)
@@ -19,3 +24,6 @@ From a business perspective, the potential arrival of AGI is a subject of intens
 
 ---
 *Extracted from: Ai*
+
+---
+*Also referenced in: W32140*

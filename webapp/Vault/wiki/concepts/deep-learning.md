@@ -3,6 +3,22 @@ type: concept
 aliases: [Deep Learning]
 summary: A key algorithmic innovation in machine learning that allows models to learn complex patterns directly from large datasets without explicit rule programming.
 relationships:
+  - target: alphago
+    type: has-example
+  - target: strong-ai
+    type: contrasted-with
+  - target: representation-learning
+    type: uses
+  - target: greedy-layer-wise-pre-training
+    type: enabled_by
+  - target: machine-learning
+    type: is_a_subfield_of
+  - target: neural-networks
+    type: uses
+  - target: keras
+    type: is_used_for
+  - target: tensorflow
+    type: is_used_for
   - target: geoffrey-hinton
     type: pioneered_by
   - target: transformer-architecture
@@ -33,3 +49,15 @@ This ability to learn directly from data improved the capacity of AI models to h
 
 ---
 *Also referenced in: Ai*
+
+---
+*Also referenced in: Aurélien Géron Hands On Machine Learning With Scikit Learn Keras And Tensorflow  Concepts Tools And Techniques To Build Intelligent Systems O’Reilly Media 2019*
+
+---
+*Also referenced in: Deep+Learning+Ian+Goodfellow*
+
+---
+*Also referenced in: Prediction Machines The Simple Economics Of Artificial Intelligence By Ajay Agrawal *
+
+---
+*Also referenced in: The Book Of Why  The New Science Of Cause And Effect ( Pdfdrive )*

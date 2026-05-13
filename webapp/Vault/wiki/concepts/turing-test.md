@@ -32,3 +32,6 @@ The text strongly critiques extending the Turing Test's logic to consciousness. 
 
 ---
 *Extracted from: Ai*
+
+---
+*Also referenced in: Artificial Intelligence  A Modern Approach    Stuart Russel, Peter Norvig    A Modern Approach, 3, 2010    Prentice Hall    6Bb5C49523E9F607E191Eb2049B7770E    Anna’S Archive*

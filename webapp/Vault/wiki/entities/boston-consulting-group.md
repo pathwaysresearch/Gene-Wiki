@@ -3,6 +3,10 @@ type: entity
 aliases: [Boston Consulting Group (BCG)]
 summary: A major consulting firm that was the site of a large-scale "clinical trial" studying the impact of AI on knowledge workers.
 relationships:
+  - target: knowledge-work
+    type: employs_practitioners_of
+  - target: field-experiment
+    type: was_site_of
   - target: karim-r-lakhani
     type: collaborated_with
   - target: clinical-trials-of-ai
@@ -29,3 +33,6 @@ The research conducted at BCG provided key evidence for the concept of AI's "jag
 
 ---
 *Extracted from: Ai*
+
+---
+*Also referenced in: Ssrn 4573321*

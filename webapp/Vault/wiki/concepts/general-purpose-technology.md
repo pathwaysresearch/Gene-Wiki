@@ -3,6 +3,8 @@ type: concept
 aliases: [General Purpose Technology]
 summary: A class of technologies, such as electricity or the internet, that are fundamentally transformative for business and society, with AI being a modern example.
 relationships:
+  - target: coinvention
+    type: related_to
   - target: kartik-hosanagar
     type: analyzed_by
 tags: [economics, technology-history, business-strategy]

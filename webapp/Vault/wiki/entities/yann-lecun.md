@@ -3,6 +3,10 @@ type: entity
 aliases: [Yann LeCun]
 summary: A prominent AI researcher known for his optimistic perspective on the future of artificial intelligence, contrasting with more cautious voices like Geoffrey Hinton.
 relationships:
+  - target: convolutional-neural-network
+    type: pioneered
+  - target: yoshua-bengio
+    type: collaborated_with
   - target: geoffrey-hinton
     type: has_contrasting_views_with
 tags: [ai-researcher, ai-optimism]
@@ -26,3 +30,6 @@ The text uses the differing views of LeCun and Hinton to exemplify the challenge
 
 ---
 *Extracted from: Ai*
+
+---
+*Also referenced in: Deep+Learning+Ian+Goodfellow*

@@ -3,6 +3,8 @@ type: concept
 aliases: [Generative AI]
 summary: A class of advanced algorithms capable of creating new content such as text, images, audio, or video, often used for tasks like creative ideation in consumer research. A category of artificial intelligence capable of generating novel content, such as text, in response to prompts, which has seen rapid and significant advancements in capability. A type of artificial intelligence, exemplified by ChatGPT, that has recently become widely accessible to the public, enabling broad societal adoption and experimentation. A rapidly evolving type of AI that can create new content and is being widely adopted by businesses to revolutionize workflows, particularly in marketing and customer experience. A type of artificial intelligence focused on the creation of new content, as distinct from analytical AI which primarily makes predictions or analyzes existing data.
 relationships:
+  - target: machine-learning
+    type: is_a_type_of
   - target: human-ai-complementation
     type: related_to
   - target: large-language-models
@@ -55,3 +57,6 @@ The text highlights two core characteristics that make genAI, particularly Large
 
 ---
 *Also referenced in: Stefano Puntoni Knowledge Base*
+
+---
+*Also referenced in: 2304.11771V2*

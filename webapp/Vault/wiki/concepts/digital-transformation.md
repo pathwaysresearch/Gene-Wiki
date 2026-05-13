@@ -3,6 +3,12 @@ type: concept
 aliases: [Digital Transformation]
 summary: A system-wide societal and economic shift driven by the relentless improvement and broad application of digital technology, AI, and computing. The fundamental change in the nature of firms driven by digital networks and AI, which removes historical constraints on scale, scope, and learning. The process of integrating digital technology into business operations, where success is causally linked to a company's technical architecture and enabling processes.
 relationships:
+  - target: organizational-and-adjustment-costs
+    type: addresses
+  - target: visibility-in-enterprise-systems-development
+    type: addresses
+  - target: coinvention
+    type: requires
   - target: frictionless-systems
     type: enables
   - target: collective-wisdom

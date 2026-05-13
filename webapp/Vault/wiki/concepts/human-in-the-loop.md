@@ -3,6 +3,8 @@ type: concept
 aliases: [Human in the Loop]
 summary: A principle of AI implementation where a human retains ultimate accountability for a decision by validating, verifying, and approving the output of an AI system.
 relationships:
+  - target: ai-assurance-process
+    type: component_of
   - target: algorithmic-bias
     type: mitigates
 tags: [ai-safety, accountability, human-computer-interaction]

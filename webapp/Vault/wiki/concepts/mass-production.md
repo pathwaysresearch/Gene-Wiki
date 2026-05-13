@@ -4,6 +4,9 @@ aliases: [Mass Production]
 summary: A production model characterized by specialization, standardization, and economies of scale, which dominated manufacturing and service industries in the twentieth century.
 tags: [industrial-history, operations-management, economies-of-scale]
 sourced_from: Ai
+relationships:
+  - target: artisanal-expertise
+    type: displaced
 ---
 
 # Mass Production
@@ -22,3 +25,6 @@ The text provides several examples of mass production principles in the service 
 
 ---
 *Extracted from: Ai*
+
+---
+*Also referenced in: W32140*

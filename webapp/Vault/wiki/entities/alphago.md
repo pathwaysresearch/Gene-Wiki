@@ -3,6 +3,10 @@ type: entity
 aliases: [AlphaGo]
 summary: A machine learning-based Go-playing program developed by Google that surpassed the world's best human players, showcasing the creative potential of modern AI. An AI program developed by Google's DeepMind that famously defeated Go champion Lee Sedol, marking a significant milestone in artificial intelligence.
 relationships:
+  - target: deep-learning
+    type: is-example-of
+  - target: prediction-in-ai
+    type: is_an_application_of
   - target: deepmind
     type: created_by
   - target: predictability-resilience-paradox
@@ -37,3 +41,9 @@ AlphaGo's success demonstrated the power of modern machine learning. Significant
 
 ---
 *Also referenced in: Ai*
+
+---
+*Also referenced in: Prediction Machines The Simple Economics Of Artificial Intelligence By Ajay Agrawal *
+
+---
+*Also referenced in: The Book Of Why  The New Science Of Cause And Effect ( Pdfdrive )*

@@ -3,6 +3,16 @@ type: concept
 aliases: [Artificial Intelligence]
 summary: A field of technology focused on automating tasks, increasingly used to personalize marketing, manage customer experiences, and aid in consumer decision-making. A field of technology enabling machines to perform tasks that typically require human intelligence, transforming industries from the arts to retail and creating new business models.
 relationships:
+  - target: devaluation-of-expertise
+    type: poses_risk_of
+  - target: artificial-general-intelligence
+    type: includes
+  - target: enabling-technologies
+    type: depends_on
+  - target: machine-learning
+    type: includes
+  - target: technology-complementarities
+    type: is_subject_of
   - target: karim-lakhani
     type: analyzed_by
   - target: cost-of-cognition
@@ -51,3 +61,6 @@ The diffusion of AI is presented as a double-edged sword for consumers. While it
 
 ---
 *Also referenced in: Karim Lakhani Knowledge Base*
+
+---
+*Also referenced in: W32140*

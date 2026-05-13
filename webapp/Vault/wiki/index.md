@@ -1,42 +1,99 @@
 # Wiki Index
 
-Master catalog — 389 pages · last rebuilt 2026-05-09
+Master catalog — 1836 pages · last rebuilt 2026-05-13
 
-## Extracted Concepts (229)
+## Extracted Concepts (1347)
 
+- [[concepts/a-star-search|A* Search]] — A* search is a form of best-first search that evaluates nodes by combining g(n), the cost to reach the node, and h(n), t
+- [[concepts/abstraction-in-problem-solving|Abstraction (in Problem Solving)]] — In the context of AI problem solving, abstraction is the process of removing detail from a representation to simplify it
 - [[concepts/academic-brain-drain-in-ai|Academic Brain Drain in AI]] — The academic brain drain in AI refers to the significant migration of leading researchers and talent from academic insti
+- [[concepts/access-technology|Access Technology]] — An access technology is defined as a complement to existing systems that permits those systems to be used more effective
+- [[concepts/accuracy|Accuracy]] — Accuracy is a quantitative performance measure used to evaluate a machine learning algorithm. It is defined as the propo
+- [[concepts/acting-under-uncertainty|Acting Under Uncertainty]] — Agents often operate in environments where they cannot be certain about their current state or the outcomes of their act
+- [[concepts/action-utility-function|Action-Utility Function]] — An action-utility function, represented in an action-utility diagram, is a simplified model of a decision problem that o
+- [[concepts/activation-function|Activation Function]] — The activation function is a core component of a neural network unit. After a unit computes the weighted sum of its inpu
+- [[concepts/active-learning|Active Learning]] — Active learning is a process where a human expert interacts with a learning algorithm, providing labels for data points 
+- [[concepts/adaboost|AdaBoost]] — AdaBoost is a boosting algorithm where each new predictor corrects its predecessor by focusing on the training instances
+- [[concepts/adagrad|AdaGrad]] — AdaGrad is an optimization algorithm designed to improve the convergence of Gradient Descent, particularly in cases wher
+- [[concepts/adam-optimization|Adam Optimization]] — Adam, which stands for "Adaptive Moment Estimation," is a method for stochastic optimization proposed by D. Kingma and J
+- [[concepts/adam-optimizer|Adam Optimizer]] — Adam is an optimization algorithm that combines the ideas of momentum and RMSProp. It computes adaptive learning rates f
+- [[concepts/adaptive-dynamic-programming|Adaptive Dynamic Programming (ADP)]] — An Adaptive Dynamic Programming (ADP) agent is a model-based reinforcement learner. It operates by first learning the tr
+- [[concepts/adherence-to-ai-recommendations|Adherence to AI Recommendations]] — Adherence is defined as the proportion of AI suggestions an agent typically adopts. In the context of the study, an agen
+- [[concepts/adjustment-costs|Adjustment Costs]] — Adjustment costs are the economic frictions or costs a firm faces when it alters its rate of investment. The text incorp
+- [[concepts/admissible-heuristic|Admissible Heuristic]] — An admissible heuristic is a function h(n) that provides an estimated cost from a node n to the goal, with the critical 
+- [[concepts/adversarial-machine-learning|Adversarial Machine Learning]] — Adversarial machine learning is a training approach that pits a primary AI and its objective against another AI that ser
+- [[concepts/adversarial-training|Adversarial Training]] — Adversarial training is a regularization technique that discourages a model from exhibiting highly sensitive, locally li
+- [[concepts/advertising-attribution-fallacy|Advertising Attribution Fallacy]] — The Advertising Attribution Fallacy occurs when businesses assume a strong correlation between ad clicks and sales impli
+- [[concepts/age-career-stage-groups|Age/Career Stage Groups]] — The Age/Career Stage Groups are a classification system used throughout the analysis to segment workers into six distinc
+- [[concepts/age-consumption-profile-estimation|Age-Consumption Profile Estimation]] — The primary goal of this method is to create age-consumption profiles that model how consumption of different product ca
+- [[concepts/agent-in-ai|Agent (in AI)]] — An agent is defined as anything that can be viewed as perceiving its environment through sensors and acting upon that en
+- [[concepts/agent-sentiment|Agent Sentiment]] — Agent sentiment is a measure that captures the tone of the responses provided by a support agent during a chat-based int
 - [[concepts/agentic-era|Agentic Era]] — The Agentic Era describes a fundamental shift in organizational structure and management driven by AI. This new model ch
 - [[concepts/ai-adoption-imperative|AI Adoption Imperative]] — Karim Lakhani argues that for most companies, adopting AI and digital technologies into their core functions is not a ch
+- [[concepts/ai-adoption-in-us-firms|AI Adoption in U.S. Firms]] — AI adoption refers to the use of artificial intelligence technologies by business enterprises. Research based on the Ann
 - [[concepts/ai-adoption-strategy|AI Adoption Strategy]] — A successful AI adoption strategy should be built on the principle of AI as a complementary technology. The vision shoul
 - [[concepts/ai-adoption|AI Adoption]] — AI adoption is the integration of artificial intelligence technologies to reshape how organizations operate, compete, an
 - [[concepts/ai-agent|AI Agent]] — An AI Agent is defined as a tool distinct from a standard application, characterized by its ability to follow a user acr
 - [[concepts/ai-agents|AI Agents]] — AI agents are described as a form of artificial intelligence that can act autonomously to perform tasks. They represent 
+- [[concepts/ai-and-labor-competition|AI and Labor Competition]] — The economic impact of AI on labor is framed as a form of competition, analogous to opening up free trade. When AI, or "
 - [[concepts/ai-as-a-complementary-technology|AI as a Complementary Technology]] — This approach advocates for viewing and designing AI not as a tool to mimic or replace human experts, but as a technolog
 - [[concepts/ai-as-a-teammate|AI as a Teammate]] — The concept of "AI as a Teammate" describes the evolution of artificial intelligence's role in the workplace from a simp
+- [[concepts/ai-as-booster-and-disruptor|AI as a Booster and Disruptor]] — This framework, proposed in the Ssrn 4573321 paper, posits that AI has a dual role in high-end knowledge work. It acts a
+- [[concepts/ai-assistance-in-the-workplace|AI Assistance in the Workplace]] — The text analyzes an AI tool that provides real-time suggestions to customer service agents during live chats. This assi
+- [[concepts/ai-assurance-process|AI Assurance Process]] — An AI assurance process is a structured methodology for reviewing proposed AI applications to ensure they comply with re
 - [[concepts/ai-augmented-customer-service|AI-Augmented Customer Service]] — A common and established application of AI in customer service is the use of chatbots on company websites. These automat
+- [[concepts/ai-automation-vs-augmentation|AI Automation vs. Augmentation]] — The distinction between AI automation and augmentation categorizes AI applications based on their primary effect on huma
+- [[concepts/ai-canvas|AI Canvas]] — The AI Canvas is a tool developed to aid in the contemplation, building, and assessment of AI tools. It provides a disci
+- [[concepts/ai-capability-maturity-model|AI Capability Maturity Model]] — An AI Capability Maturity Model is a structured approach used to evaluate an organization's progress in adopting and lev
+- [[concepts/ai-centers-of-excellence|AI Centers of Excellence]] — The text highlights that AI-focused companies realize they need considerable talent to be successful in their AI journey
 - [[concepts/ai-consciousness|AI Consciousness]] — The core of the discussion revolves around whether machines can be or will become conscious. The text highlights the unc
 - [[concepts/ai-cyborg-experience|AI Cyborg Experience]] — The AI cyborg experience describes consumer experiences that arise from the integration of artificial intelligence solut
 - [[concepts/ai-delegation-experience|AI Delegation Experience]] — A 'delegation experience' is one in which consumers involve an AI solution in a production process to perform tasks they
+- [[concepts/ai-divide|AI Divide]] — The text identifies the potential for an "AI divide" as a major theme, describing it as a visible pattern of disparity b
+- [[concepts/ai-driven-ecosystem|AI-driven Ecosystem]] — An AI-driven ecosystem is a business model where companies, including those in legacy industries, collaborate to create 
 - [[concepts/ai-driven-human-skill-gap|AI-Driven Human Skill Gap]] — As AI evolves from a simple assistant to a complex agent, it is fundamentally redefining what "intelligence" means in a 
+- [[concepts/ai-driven-strategic-change|AI-Driven Strategic Change]] — AI can lead to fundamental strategic change when three specific factors are present. First, there must be a core trade-o
+- [[concepts/ai-driven-virtuous-cycle|AI-Driven Virtuous Cycle]] — The AI-driven virtuous cycle is a powerful dynamic that can lead to market concentration. The cycle works as follows: a 
+- [[concepts/ai-exposure-measures|AI Exposure Measures (AIOE, AIIE, AIGE)]] — The AI Exposure measures—AIOE (AI Occupational Exposure), AIIE (AI Industry Exposure), and AIGE (AI Geographic Exposure)
+- [[concepts/ai-exposure-quintiles|AI Exposure Quintiles]] — AI Exposure Quintiles are a method for categorizing occupations based on the degree to which their associated tasks are 
+- [[concepts/ai-exposure|AI Exposure]] — AI Exposure is a concept that quantifies the extent to which a specific occupation is likely to be impacted by advanceme
 - [[concepts/ai-factories|AI Factories]] — An AI Factory is a business model structured around several key components. The text identifies these as a robust data p
 - [[concepts/ai-factory-model|AI Factory Model]] — The AI Factory Model represents a systematic approach to integrating AI into an organization, moving beyond isolated pro
 - [[concepts/ai-factory|AI Factory]] — The AI factory is a model that creates a virtuous cycle between user engagement, data collection, algorithm design, pred
+- [[concepts/ai-first-startup|AI-First Startup]] — An AI-first startup is a new company that, unlike legacy organizations, builds its capabilities, processes, and business
 - [[concepts/ai-first-strategy|AI First Strategy]] — An "AI First" strategy represents a fundamental strategic shift for a company, moving Artificial Intelligence from a per
 - [[concepts/ai-for-ideation-and-creativity|AI for Ideation and Creativity]] — This application of AI centers on leveraging the technology to improve the "effectiveness piece" of work. The goal is to
 - [[concepts/ai-for-ideation|AI for Ideation]] — AI for Ideation involves using artificial intelligence systems as a collaborative partner in creative processes like bra
+- [[concepts/ai-for-new-business-creation-strategy|AI for New Business Creation (Strategy)]] — This strategy involves using AI to facilitate new business creation and entry into new markets. Companies employing this
+- [[concepts/ai-for-transforming-operations-strategy|AI for Transforming Operations (Strategy)]] — Presented as a "Strategy Archetype," transforming operations with AI involves using artificial intelligence to make exis
+- [[concepts/ai-fueled-company|AI-Fueled Company]] — An AI-fueled company represents the end state for an organization that has aggressively integrated artificial intelligen
+- [[concepts/ai-geopolitical-competition|AI Geopolitical Competition]] — AI geopolitical competition is fueled by the belief that leadership in artificial intelligence is critical for future gl
 - [[concepts/ai-governance-operating-model|AI Governance Operating Model]] — The central challenge in creating an AI Governance Operating Model is to design a system that is simultaneously 'fast en
 - [[concepts/ai-impact-on-human-identity|AI's Impact on Human Identity]] — The development and diffusion of AI raises fundamental questions about how humans perceive themselves. Beyond the instru
 - [[concepts/ai-implementation-strategy|AI Implementation Strategy]] — A successful AI implementation requires a "meet in the middle" approach that combines two forces. The identification of 
 - [[concepts/ai-in-music-creation|AI in Music Creation]] — The use of AI in music represents a significant evolution in creative technology, enabling new workflows for artists, pr
+- [[concepts/ai-induced-recession|AI-Induced Recession]] — An AI-induced recession is a potential consequence of the unique scalability of artificial intelligence. Unlike human la
+- [[concepts/ai-industry-exposure|AI Industry Exposure (AIIE)]] — The AI Industry Exposure (AIIE) is a measure designed to quantify the exposure of an entire industry to developments in 
+- [[concepts/ai-industry-reorientation|AI Industry Reorientation]] — The text argues that realizing the significant potential productivity gains from generative AI requires a fundamental re
+- [[concepts/ai-labor-substitution-and-complementation|AI-Labor Substitution and Complementation]] — A fundamental question in the study of AI's economic impact is whether it will primarily substitute for human labor, lea
+- [[concepts/ai-model-deployment-in-customer-service|AI Model Deployment in Customer Service]] — The deployment of an AI model in a customer service setting has a demonstrable effect on several aspects of the work exp
+- [[concepts/ai-model-expropriation|AI Model Expropriation]] — Once an AI model is trained and deployed, its internal workings can be effectively exposed to the outside world through 
 - [[concepts/ai-negotiation-bots|AI Negotiation Bots]] — AI negotiation bots are a specific application of artificial intelligence designed to conduct negotiations with other ag
+- [[concepts/ai-occupational-exposure|AI Occupational Exposure (AIOE)]] — The AI Occupational Exposure (AIOE) is a measure created to quantify an occupation's exposure to artificial intelligence
 - [[concepts/ai-powered-coaching|AI-Powered Coaching]] — AI-powered coaching is a method for delivering personalized guidance and support to learners at scale. It leverages AI t
 - [[concepts/ai-regulation|AI Regulation]] — The text argues that AI needs to be regulated because the companies that control it are poised to become extremely power
 - [[concepts/ai-risk-layers|AI Risk Layers]] — This concept provides a structured map for understanding the complex risk and regulatory landscape for AI in financial s
 - [[concepts/ai-role-in-creativity|AI's Role in Creativity]] — The central question surrounding AI in creative industries is whether it will augment and enable creative workers or dis
+- [[concepts/ai-strategy|AI Strategy]] — According to the Deloitte 2021 “State of AI in the Enterprise” survey, having a formal AI strategy is a typical characte
 - [[concepts/ai-superhighway|AI Superhighway]] — The "AI Superhighway" is a strategic concept that reframes Grammarly's mission from being a grammar-focused tool to a co
 - [[concepts/ai-tool-provider-competition|AI Tool-Provider Competition]] — Unlike traditional tools, where the manufacturer and the user operate in separate markets, AI creates a new competitive 
+- [[concepts/ai-translator|AI Translator]] — The AI Translator is a role designed to mediate between business stakeholders and AI developers. Individuals in this rol
+- [[concepts/ai-value-levers|AI Value Levers]] — The text presents a framework of six "value levers" that all-in-on-AI companies use to achieve value. Companies wishing 
 - [[concepts/ai-winters|AI Winters]] — The AI winters were periods in the history of AI research that saw a significant decline in funding and interest. These 
+- [[concepts/aiops|AIOps]] — AIOps, a term that has more recently replaced IT autonomics, involves the application of artificial intelligence to IT o
 - [[concepts/ais-impact-on-the-system-of-work|AI's Impact on the System of Work]] — This concept, based on the analysis of Sangeet Paul Choudary, posits that focusing solely on whether AI augments or disp
+- [[concepts/akaike-information-criterion|Akaike Information Criterion (AIC)]] — The Akaike Information Criterion (AIC) is a statistical measure used for model selection. It is applied in contexts like
+- [[concepts/alexnet|AlexNet]] — AlexNet is a convolutional neural network architecture developed by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton
 - [[concepts/algorithmic-bias-and-fairness|Algorithmic Bias and Fairness]] — A key risk for companies is that their algorithms may be fair on average across a population but unfair to specific indi
 - [[concepts/algorithmic-bias|Algorithmic Bias]] — Algorithmic bias occurs when automated systems embed and perpetuate societal biases present in the data they are trained
 - [[concepts/algorithmic-bill-of-rights|Algorithmic Bill of Rights]] — The text argues that today's digital landscape, dominated by powerful algorithmic systems, demands a set of protections 
@@ -45,303 +102,1672 @@ Master catalog — 389 pages · last rebuilt 2026-05-09
 - [[concepts/algorithmic-management|Algorithmic Management]] — Algorithmic management refers to the deployment of algorithms and automated systems to direct, monitor, and evaluate emp
 - [[concepts/algorithmic-recommendations|Algorithmic Recommendations]] — Algorithmic recommendations are suggestions generated by automated systems to influence user choices. The text provides 
 - [[concepts/algorithmic-transparency|Algorithmic Transparency]] — Transparency plays a crucial role in building trust between users and algorithms. It involves informing users about what
+- [[concepts/alignment-method|Alignment Method]] — The alignment method is a solution for determining the pose (position and orientation) of a known rigid object with resp
+- [[concepts/all-in-on-ai|All-in on AI]] — All-in on AI is a perspective on artificial intelligence at its most extreme, representing the most aggressive adoption,
+- [[concepts/alldiff-constraint|Alldiff Constraint]] — The Alldiff constraint is a global constraint which states that all the variables involved must have unique values. It i
+- [[concepts/allens-interval-algebra|Allen's Interval Algebra]] — Proposed by Allen (1983), this calculus provides a formal language for reasoning about time by defining the relationship
+- [[concepts/alpha-beta-pruning|Alpha-Beta Pruning]] — Alpha-beta pruning is a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax al
+- [[concepts/ambiguity-aversion|Ambiguity Aversion]] — Ambiguity aversion is the tendency for people to favor options where the probability distribution of outcomes is known o
+- [[concepts/anatomy-of-a-task|Anatomy of a Task]] — The Anatomy of a Task is a model for understanding the elements of a decision. As outlined in the text and an accompanyi
+- [[concepts/anchor-boxes|Anchor Boxes]] — Anchor boxes, also referred to as bounding box priors, are a set of representative bounding box dimensions used in objec
+- [[concepts/and-or-graph-search|AND-OR Graph Search]] — AND-OR graph search is an algorithm designed to find a conditional plan (or contingency plan) to solve problems in nonde
+- [[concepts/and-or-graph|AND-OR Graph]] — An AND-OR graph is a way to visually represent a knowledge base, such as a set of Horn clauses. In this structure, propo
+- [[concepts/angelic-semantics|Angelic Semantics]] — Angelic semantics define the effects of a High-Level Action (HLA) based on the principle that the agent executing the pl
+- [[concepts/annealed-importance-sampling|Annealed Importance Sampling]] — Annealed Importance Sampling (AIS) is a strategy developed to estimate partition functions for complex, high-dimensional
 - [[concepts/anomaly-detection|Anomaly Detection]] — Anomaly detection is a type of unsupervised learning algorithm that identifies outliers in a dataset. The algorithm exam
+- [[concepts/answer-literal|Answer Literal]] — Resolution can sometimes produce nonconstructive proofs for existential goals. For example, it might prove that *someone
+- [[concepts/answer-set-programming|Answer Set Programming]] — Answer set programming (ASP) is a form of declarative programming based on the stable model semantics. The text describe
+- [[concepts/anytime-algorithm|Anytime Algorithm]] — An anytime algorithm is defined in the text as an algorithm "whose output quality improves gradually over time, so that 
 - [[concepts/api|Application Programming Interface (API)]] — In the context of an AI factory's data platform, APIs serve as the consistent interfaces through which applications acce
+- [[concepts/appearance-model|Appearance Model]] — An appearance model is a description of what an object, such as a person, looks like. It is a crucial component in objec
+- [[concepts/arc-consistency|Arc Consistency]] — A variable Xi is defined as arc-consistent with respect to another variable Xj if for every value in the current domain 
 - [[concepts/architectural-inertia|Architectural Inertia]] — Architectural inertia is the resistance that constrains an organization and hampers its response to change, particularly
 - [[concepts/architectural-innovation|Architectural Innovation]] — As defined in a 1990 paper by Rebecca Henderson and Kim Clark, architectural innovations are those that require changing
 - [[concepts/architecture-of-work|Architecture of Work]] — The concept of the "architecture of work" argues that focusing on whether an individual will be replaced by AI is a fram
+- [[concepts/argument-from-consciousness|Argument from Consciousness]] — This argument, which the text notes was foreseen by Alan Turing, posits that even a machine capable of passing the Turin
+- [[concepts/argument-from-goedels-incompleteness-theorem|Argument from Gödel's Incompleteness Theorem]] — This argument, advanced by philosophers such as J. R. Lucas (1961) and later by Sir Roger Penrose, posits that machines 
 - [[concepts/artificial-general-intelligence|Artificial General Intelligence (AGI)]] — Artificial General Intelligence (AGI) is defined, from an academic perspective, as a system that possesses human-level c
+- [[concepts/artificial-intelligence-technologies|Artificial Intelligence Technologies (AITs)]] — Artificial Intelligence Technologies (AITs) are a class of information and communication technology (ICT) that have seen
 - [[concepts/artificial-intelligence|Artificial Intelligence]] — Artificial Intelligence (AI) is a term now commonly used to refer to the automation of interactions with customers and t
+- [[concepts/artificial-neural-network|Artificial Neural Network]] — Artificial neural networks consist of nodes, called units, connected by directed links. Each link propagates an activati
+- [[concepts/artificial-neuron|Artificial Neuron]] — The artificial neuron, as proposed by Warren McCulloch and Walter Pitts, is a very simple model of a biological neuron. 
+- [[concepts/artisanal-expertise|Artisanal Expertise]] — Artisanal expertise refers to the deep, specialized skill of craftspeople, such as weavers and textile workers, which wa
+- [[concepts/ascending-bid-auction|Ascending-Bid Auction]] — The ascending-bid auction, or English auction, is a well-known auction mechanism. The process begins with an auctioneer 
 - [[concepts/association-rule-mining|Association Rule Mining]] — Association rule mining is a broad category of unsupervised learning where algorithms look for the frequency and probabi
+- [[concepts/asymptotic-analysis|Asymptotic Analysis]] — Asymptotic analysis describes the performance of an algorithm as its input size, n, asymptotically approaches infinity. 
 - [[concepts/attention-economy|Attention Economy]] — The attention economy is a term used to describe the business model of many consumer-side big tech companies, especially
+- [[concepts/attention-mechanism|Attention Mechanism]] — An attention mechanism is a component added to neural network architectures, particularly encoder-decoder models, to ove
+- [[concepts/attribute-based-extraction|Attribute-Based Extraction]] — Attribute-based extraction is one of the simplest types of information extraction systems. It operates under the assumpt
+- [[concepts/auction|Auction]] — An auction is a formal mechanism designed for selling goods, typically a single item, to a group of potential buyers kno
+- [[concepts/augmentation-exposure|Augmentation Exposure]] — Augmentation Exposure is a quantitative measure designed to capture the extent to which an industry-occupation cell is i
+- [[concepts/augmentation-innovations|Augmentation Innovations]] — Augmentation innovations are technological advancements that complement the outputs of occupations, as opposed to substi
+- [[concepts/augmentation-vs-automation-innovation|Augmentation vs. Automation Innovation]] — The text presents a framework that categorizes technological innovations, specifically those documented in patents, into
+- [[concepts/augmentation-vs-automation|Augmentation vs. Automation]] — The concepts of augmentation and automation describe a potential pathway for the integration of Large Language Models (L
 - [[concepts/augmentation-vs-replacement-framework|Augmentation vs. Replacement Framework]] — This perspective frames AI primarily as a tool for efficiency and cost-saving. In this view, which Stefano Puntoni descr
+- [[concepts/augmentation|Augmentation]] — Augmentation is a key theoretical concept representing a technological force that generates new, labor-using job tasks. 
+- [[concepts/augmentative-behaviors|Augmentative Behaviors]] — Augmentative Behaviors describe a collaborative mode of AI-human interaction where the AI's role is to enhance human cap
+- [[concepts/augmented-grammar|Augmented Grammar]] — An augmented grammar is a type of formal grammar in which the nonterminal symbols (syntactic categories) are supplemente
+- [[concepts/auto-encoding-variational-bayes|Auto-Encoding Variational Bayes]] — Auto-Encoding Variational Bayes, often referred to as the Variational Autoencoder (VAE), is a generative modeling framew
+- [[concepts/autoencoder|Autoencoder]] — The autoencoder is described as the quintessential example of a representation learning algorithm. Its core purpose is t
+- [[concepts/autoencoders|Autoencoders]] — Autoencoders are a major topic in deep learning, presented as the subject of Chapter 14. They are a type of artificial n
+- [[concepts/automated-reasoning|Automated Reasoning]] — Automated reasoning is a major area of study, formalized in comprehensive works such as the 'Handbook of Automated Reaso
+- [[concepts/automated-visual-inspection|Automated Visual Inspection]] — Automated visual inspection is an application of AI used in high-tech manufacturing to ensure and improve the quality an
+- [[concepts/automatic-speech-recognition|Automatic Speech Recognition]] — The task of automatic speech recognition (ASR) is to map a sequence of acoustic input vectors, X, into the corresponding
+- [[concepts/automation-as-innovation|Automation (as a form of innovation)]] — Within the provided economic framework, automation is a specific type of innovation aimed at replacing existing tasks pr
+- [[concepts/automation-exposure|Automation Exposure]] — Automation Exposure is a metric that quantifies the degree to which an industry-occupation cell is exposed to technologi
+- [[concepts/automation-innovations|Automation Innovations]] — Automation innovations are defined as technological advancements that substitute labor with capital, thereby automating 
 - [[concepts/automation-of-marketing-and-consumption|Automation of Marketing and Consumption]] — The automation of marketing and consumption is a central theme, described as a growing diffusion of automation in the ma
 - [[concepts/automation-of-repetitive-tasks|Automation of Repetitive Tasks]] — The text posits that a primary function of AI will be to free humans from repetitive and uninteresting tasks, allowing t
+- [[concepts/automation-threshold|Automation Threshold]] — In the context of the economic model presented, tasks are indexed, and labor has a comparative advantage in tasks with a
+- [[concepts/automation|Automation]] — Automation is one of the key forces shaping labor demand in the paper's theoretical framework. It is defined as the proc
+- [[concepts/automative-behaviors|Automative Behaviors]] — Automative Behaviors represent a mode of integrating AI into a workflow where the AI is tasked with directly executing t
+- [[concepts/automl|AutoML (Automated Machine Learning)]] — AutoML, or Automated Machine Learning, is an approach that automates parts of the machine learning workflow. As implemen
 - [[concepts/autonomous-decision-making-algorithms|Autonomous Decision-Making Algorithms]] — Autonomous decision-making algorithms are systems, particularly in AI and machine learning, that operate and make choice
+- [[concepts/autonomous-transactional-processes|Autonomous Transactional Processes]] — Autonomous transactional processes are end-to-end business workflows, often involving multiple transactional systems, th
+- [[concepts/autonomy-in-agents|Autonomy (in Agents)]] — An agent's autonomy refers to its ability to operate based on its own experiences rather than being solely guided by the
+- [[concepts/auxiliary-output|Auxiliary Output]] — An auxiliary output is an additional output added to a neural network model, which branches off from an intermediate or 
+- [[concepts/average-handle-time|Average Handle Time (AHT)]] — Average Handle Time (AHT) is defined in the text as "the average duration of each technical support chat" (Notes for Fig
+- [[concepts/axiom|Axiom (in Logic)]] — Axioms are the foundational sentences in a knowledge base that encode the general knowledge of a domain. They serve as t
+- [[concepts/back-door-adjustment|Back-door Adjustment]] — Back-door adjustment is a core technique for estimating the effect of an intervention in the presence of confounders. It
+- [[concepts/back-door-criterion|Back-door Criterion]] — The back-door criterion was introduced by Judea Pearl in 1993. It provides a formal graphical method for identifying a s
+- [[concepts/back-door-path|Back-door Path]] — A back-door path is a concept from graphical causal models used to identify sources of confounding. It is defined as any
+- [[concepts/back-propagation-algorithm|Back-Propagation Algorithm]] — Back-propagation is an algorithm for computing gradients through a computational graph, based on the chain rule of calcu
+- [[concepts/back-propagation-through-random-operations|Back-Propagation through Random Operations]] — To create a stochastic neural network from a deterministic one, the network can be augmented with extra inputs, \(z\), w
+- [[concepts/back-propagation|Back-Propagation]] — Back-propagation is a supervised learning algorithm used to train multi-layer neural networks. It works by minimizing th
+- [[concepts/backdoor-criterion|Backdoor Criterion]] — The backdoor criterion is a rule that uses a causal diagram to identify a set of variables that, if controlled for, can 
+- [[concepts/background-subtraction|Background Subtraction]] — Background subtraction is a well-understood method used to detect objects, particularly people, in a video stream. The t
+- [[concepts/backoff-model|Backoff Model]] — A backoff model is an advanced smoothing technique in language modeling that provides a more effective alternative to si
+- [[concepts/backpropagation|Backpropagation]] — Backpropagation is an algorithm for training neural networks that operates by handling one mini-batch of instances at a 
+- [[concepts/backtracking-search|Backtracking Search]] — Backtracking search is a form of depth-first search used for solving Constraint Satisfaction Problems (CSPs). The algori
+- [[concepts/backus-naur-form|Backus-Naur Form]] — Backus-Naur Form (BNF) is a notation used to define a grammar through a set of rewrite rules. A rule, such as 'Sentence 
+- [[concepts/backward-chaining|Backward Chaining]] — Backward chaining is an inference algorithm that, as its name suggests, works backward from a given query. It is charact
+- [[concepts/backward-search|Backward Search (Regression)]] — Backward search, also known as regression search, is a state-space search strategy for planning problems. Instead of sea
+- [[concepts/bagging|Bagging (Bootstrap Aggregating)]] — Bagging, short for Bootstrap Aggregating, is an ensemble method where multiple predictors are trained on different rando
+- [[concepts/bandit-problem|Bandit Problem]] — The bandits scenario is a simplified but fundamental form of reinforcement learning. In this setting, a learner must mak
+- [[concepts/bang-bang-control|Bang-Bang Control]] — Bang-bang control is a control regime where the actions applied to a system are discrete and typically represent the ext
+- [[concepts/bartik-style-shift-share-instrument|Bartik-Style Shift-Share Instrument]] — A Bartik-style shift-share instrument is an econometric tool used in two-stage least squares (2SLS) regressions to ident
+- [[concepts/batch-learning|Batch Learning]] — In batch learning, the system is incapable of learning incrementally. It must be trained using all the available data at
+- [[concepts/batch-normalization|Batch Normalization]] — During training, a Batch Normalization (BN) layer standardizes its inputs for each mini-batch, and then rescales and off
+- [[concepts/bayes-rule|Bayes' Rule]] — Bayes' rule, also known as Bayes' law or Bayes' theorem, is a simple equation that underlies most modern AI systems for 
+- [[concepts/bayes-s-rule|Bayes's Rule]] — Bayes's rule is an equation derived from the definition of conditional probability, stating that P(S|T)P(T) = P(T|S)P(S)
+- [[concepts/bayesian-gaussian-mixture-model|Bayesian Gaussian Mixture Model]] — The BayesianGaussianMixture class provides a clustering algorithm capable of automatically determining the optimal numbe
+- [[concepts/bayesian-inference|Bayesian Inference]] — The Bayesian perspective on statistics differs fundamentally from the frequentist view. In Bayesian inference, probabili
+- [[concepts/bayesian-information-criterion|Bayesian Information Criterion (BIC)]] — The Bayesian Information Criterion (BIC) is a statistical measure used for model selection, such as determining the opti
+- [[concepts/bayesian-learning|Bayesian Learning]] — Bayesian learning calculates the probability of each hypothesis given the data and uses these probabilities to make pred
+- [[concepts/bayesian-network|Bayesian Network]] — The Bayesian network formalism was invented to allow for the efficient representation of uncertain knowledge and to enab
+- [[concepts/bayesian-networks|Bayesian Networks]] — A Bayesian network is a formal and systematic method for representing conditional independence relationships among varia
+- [[concepts/bayesian-probability|Bayesian Probability]] — Bayesian probability is an interpretation of probability used to represent a "degree of belief" in a proposition. This i
 - [[concepts/belief-estimation|Belief Estimation]] — Belief estimation is the use of an AI model, such as an LLM, to approximate or replicate the stated beliefs of a populat
+- [[concepts/belief-propagation|Belief Propagation]] — Belief propagation is a message-passing algorithm used for inference in Bayesian networks. The author realized that in s
+- [[concepts/belief-state-search|Belief-State Search]] — A partially observable problem can be solved by constructing a corresponding belief-state search problem. In this formul
+- [[concepts/belief-state|Belief State]] — A belief state is the set of all physical states an agent believes it might currently be in, given the entire sequence o
+- [[concepts/bellman-equation|Bellman Equation]] — Named after Richard Bellman, the Bellman equation describes a direct relationship between the utility of a state and the
 - [[concepts/better-than-average-effect|Better-Than-Average Effect]] — The 'better-than-average effect' is a psychological phenomenon where individuals tend to believe they are more skilled o
 - [[concepts/bias-against-novelty|Bias Against Novelty]] — Bias against novelty is the tendency within scientific funding and evaluation systems to disfavor ideas that are new and
+- [[concepts/bias-of-an-estimator|Bias (of an estimator)]] — Bias is one of the key sources of error in an estimator. It measures the expected deviation of a point estimate of a par
+- [[concepts/bias-parameter|Bias Parameter]] — In the context of an affine transformation like that used in linear regression, the intercept term, often denoted by $b$
+- [[concepts/bias-variance-tradeoff|Bias-Variance Tradeoff]] — Bias and variance measure two different sources of error in an estimator. The bias-variance tradeoff is the challenge of
+- [[concepts/bidirectional-recurrent-neural-network|Bidirectional Recurrent Neural Network]] — A Bidirectional Recurrent Neural Network (Bidirectional RNN) is a sequence processing model, invented by Schuster and Pa
+- [[concepts/binary-relation|Binary Relation]] — In mathematics, a binary relation is formally defined as a set of ordered pairs of objects. If a pair of objects, such a
+- [[concepts/binocular-stereopsis|Binocular Stereopsis]] — Binocular stereopsis is a technique for recovering depth from images by using two or more views of a scene separated in 
+- [[concepts/biological-naturalism|Biological Naturalism]] — Biological naturalism is a theory of mind, mounted by philosopher John Searle, that stands as a strong challenge to func
+- [[concepts/biomarker-discovery|Biomarker Discovery]] — Biomarker discovery is the process of finding biomarkers, which are defined as detectable substances that indicate the p
+- [[concepts/birth-weight-paradox|Birth-Weight Paradox]] — The birth-weight paradox, based on data analyzed by Yerushalmy, is the counter-intuitive observation that while smoking 
 - [[concepts/black-box-algorithms|Black Box Algorithms]] — The term "black box" refers to the challenge of understanding and trusting complex algorithms whose decision-making proc
 - [[concepts/blockchain|Blockchain]] — Blockchain is a maturing technology whose various components may be increasingly unbundled and tailored to fill a range 
+- [[concepts/bm25-scoring-function|BM25 Scoring Function]] — The BM25 scoring function is a model used in information retrieval systems to score and rank documents based on their re
+- [[concepts/boltzmann-machines|Boltzmann Machines]] — Boltzmann machines were introduced as a general 'connectionist' approach for learning arbitrary probability distribution
+- [[concepts/boosting|Boosting]] — Boosting is a specific and powerful method of ensemble learning. It works by building an ensemble of hypotheses sequenti
+- [[concepts/bounded-optimality|Bounded Optimality]] — The text defines a bounded optimal agent as one that "behaves as well as possible, given its computational resources." T
+- [[concepts/bounded-rationality|Bounded Rationality]] — Proposed by Herbert Simon, the theory of bounded rationality posits that human problem-solving capacity is very small co
+- [[concepts/breadth-first-search|Breadth-First Search]] — Breadth-first search explores a search tree by expanding the root node first, then all successors of the root, then thei
+- [[concepts/breakthrough-innovation|Breakthrough Innovation]] — A breakthrough innovation, as defined by the methodology from Kelly et al. (2021), is a patent that is both highly novel
+- [[concepts/bridge-sampling|Bridge Sampling]] — Bridge sampling is a method for estimating the ratio of partition functions between two distributions, $p_0$ and $p_1$. 
 - [[concepts/bridging|Bridging (in networks)]] — Bridging is a business strategy where a firm connects multiple networks, often with different types of participants and 
+- [[concepts/broad-framing|Broad Framing]] — As articulated by Daniel Kahneman, broad framing is the essence of wisdom. It is defined as the ability to avoid having 
+- [[concepts/broadcasting|Broadcasting]] — Broadcasting is a convention used in deep learning that allows for the addition of a matrix and a vector, resulting in a
 - [[concepts/business-architecture-in-the-age-of-ai|Business Architecture (in the age of AI)]] — As described by Karim Lakhani in his book "Competing in the Age of AI," business architecture refers to the foundational
 - [[concepts/business-model-transformation-with-ai|Business Model Transformation with AI]] — A business model consists of two core components: the way a company creates value for customers and the way it captures 
 - [[concepts/business-model|Business Model]] — A firm's business model is defined as the way it promises to create and capture value. It encompasses the company's core
+- [[concepts/calculus-of-variations|Calculus of Variations]] — Calculus of variations is introduced as an important set of mathematical tools used in variational learning. Unlike ordi
+- [[concepts/canonical-model-of-production|Canonical Model of Production]] — The canonical model of production is the standard approach in economics that bypasses the role of tasks and directly pos
+- [[concepts/cart-algorithm-for-regression|CART Algorithm for Regression]] — The Classification and Regression Tree (CART) algorithm can be adapted for regression tasks. Unlike its classification c
+- [[concepts/cart-algorithm|CART Algorithm]] — The algorithm works by first splitting the training set into two subsets using a single feature `k` and a threshold `t_k
+- [[concepts/causal-chains|Causal Chains]] — A causal chain is a basic junction in a causal diagram represented as A → B → C. In this structure, the variable B is co
+- [[concepts/causal-diagram|Causal Diagram]] — Causal diagrams are presented as an essential tool for moving beyond raw data to understand the data-generating process.
+- [[concepts/causal-diagrams|Causal Diagrams]] — Causal diagrams are explicit "dots-and-arrows" pictures that visually represent the intricate web of cause-effect relati
+- [[concepts/causal-effects-inference|Causal Effects Inference]] — Causal effects inference is a type of machine learning model focused on making counterfactual predictions. As described 
+- [[concepts/causal-inference-engine|Causal Inference Engine]] — The Causal Inference Engine is a conceptual blueprint for a system that handles causal reasoning. It is a machine that a
+- [[concepts/causal-inference|Causal Inference]] — Causal inference is described as a "new science" that provides a unified framework for distinguishing cause from effect.
+- [[concepts/causal-model|Causal Model]] — A causal model, often visualized as a causal diagram, uses arrows to represent causal relationships between variables (e
+- [[concepts/causal-models|Causal Models]] — A causal model is a representation of the cause-effect relationships that structure our knowledge of the world. It can b
+- [[concepts/causal-network|Causal Network]] — A causal network, also referred to as a causal diagram, is a model that visually represents causal relationships between
 - [[concepts/centaur-collaboration-pattern|Centaur Collaboration Pattern]] — The Centaur pattern is a model for human-AI collaboration defined by clean handoffs between the human and the AI system.
 - [[concepts/change-as-a-skill|Change as a Skill]] — "Change as a Skill" is the concept that the ability to manage and undergo change is not just a temporary project but a c
+- [[concepts/change-in-task-content-of-production|Change in Task Content of Production]] — The change in the task content of production is a measure that captures how the set of tasks involved in production evol
 - [[concepts/change-management-in-ai-transformation|Change Management in AI Transformation]] — According to analysis by Karim Lakhani, a successful AI-driven digital transformation is composed of two distinct parts.
 - [[concepts/changing-role-of-the-cmo|Changing Role of the CMO]] — The role of the Chief Marketing Officer (CMO) has been undergoing a significant transformation, a trend that predates th
+- [[concepts/china-trade-shock|China Trade Shock]] — The China Trade Shock refers to the significant increase in U.S. import competition from China, which is used in the stu
+- [[concepts/chronological-backtracking|Chronological Backtracking]] — Chronological backtracking is the simplest strategy for backtracking in a search algorithm. When a branch of the search 
+- [[concepts/circumscription|Circumscription]] — Circumscription is a form of model preference logic where preference between models is determined by the number of abnor
+- [[concepts/classical-planning|Classical Planning]] — Classical planning addresses problems by finding a sequence of actions to reach a goal state from an initial state. It u
 - [[concepts/classification-experience|Classification Experience]] — The Classification Experience is a key part of the Consumer AI Experience framework, arising from the "predicting" capab
+- [[concepts/classification-machine-learning|Classification (Machine Learning)]] — Classification is a common machine learning task where the goal is for a computer program to specify which of *k* catego
+- [[concepts/classification-mlp|Classification MLP]] — A Classification MLP is a neural network architecture specifically designed to predict categorical labels. The configura
+- [[concepts/classification|Classification]] — Classification is a type of learning problem where the goal is to predict a categorical output, y, from a given input, x
+- [[concepts/cliffs-and-exploding-gradients|Cliffs and Exploding Gradients]] — Neural networks with many layers, particularly highly nonlinear deep networks or recurrent neural networks, often have o
 - [[concepts/clinical-trials-of-ai|Clinical Trials of AI]] — "Clinical trials of AI" is a research framework for rigorously evaluating the impact of artificial intelligence on worke
+- [[concepts/closed-world-assumption|Closed-World Assumption]] — The Closed-World Assumption (CWA) is a principle used in some knowledge representation systems to handle incomplete info
 - [[concepts/cluster-analysis|Cluster Analysis]] — Cluster analysis is a type of unsupervised learning used to find meaningful groupings in data. The text illustrates this
 - [[concepts/clustered-networks|Clustered Networks]] — A clustered network is one that is grouped around individual local clusters, such as specific urban locations. In such a
+- [[concepts/clustering-as-a-preprocessing-step|Clustering as a Preprocessing Step]] — Clustering can be used as a powerful preprocessing step in a larger machine learning pipeline. Instead of training a mod
+- [[concepts/clustering-in-bayesian-networks|Clustering (in Bayesian Networks)]] — Clustering, also known as the join tree algorithm, is an inference technique that converts a multiply connected Bayesian
+- [[concepts/clustering|Clustering]] — Clustering is an unsupervised learning task where the goal is to assign each instance in a dataset to a specific group, 
+- [[concepts/coastal-navigation|Coastal Navigation]] — Coastal navigation is a heuristic used in robotics to handle uncertainty in partially observable environments.
 - [[concepts/cognitive-flexibility|Cognitive Flexibility]] — Cognitive flexibility is one of two primary pathways to creativity identified in a well-established model from social ps
+- [[concepts/cognitive-psychology|Cognitive Psychology]] — Cognitive psychology treats the brain as an information-processing device. This perspective stands in contrast to behavi
+- [[concepts/coinvention|Coinvention]] — Coinvention refers to the necessary inventive work that must occur alongside the adoption of a new core technology to ma
 - [[concepts/collaborative-filtering-algorithms|Collaborative Filtering Algorithms]] — Collaborative filtering algorithms, such as those used by Amazon for product suggestions, operate by ingesting huge amou
+- [[concepts/collaborative-filtering|Collaborative Filtering]] — Collaborative filtering is based on the principle that if two users have similar tastes, they are likely to agree on fut
 - [[concepts/collaborative-learning-model|Collaborative Learning Model]] — As described by Professor Karim Lakhani, the collaborative participants in a learning model is an educational approach w
 - [[concepts/collective-wisdom|Collective Wisdom]] — In the age of AI, new operating models are binding firms together across industries, countries, and markets, creating co
+- [[concepts/collider-bias|Collider Bias]] — A collider is a variable that is causally influenced by two or more other variables. Collider bias occurs when a statist
+- [[concepts/colliders|Colliders]] — A collider is a junction in a causal diagram where two or more arrows point to the same node, such as A → C ← B. In this
+- [[concepts/common-cause-principle|Common Cause Principle]] — In his 1956 book *The Direction of Time*, philosopher Hans Reichenbach posited the "common cause principle," a strong re
+- [[concepts/competing-on-analytics|Competing on Analytics]] — Competing on analytics is a strategic approach where organizations build a strong foundation in data analysis as a compe
 - [[concepts/complementary-ai-framework|Complementary AI Framework]] — The central tenet of the Complementary AI Framework is to view artificial intelligence as a technology that enhances, ra
+- [[concepts/complements|Complements]] — Complements are an economic concept where the value of one thing is enhanced when another thing becomes cheap. The text 
+- [[concepts/completeness-of-inference|Completeness (of inference)]] — An inference algorithm is complete if it can derive every sentence that is logically entailed by the knowledge base. For
+- [[concepts/composition-adjusted-wage-estimation|Composition-Adjusted Wage Estimation]] — The text explains that contracting occupations tend to retain more experienced, higher-earning workers, while expanding 
+- [[concepts/composition-adjusted-wages|Composition-Adjusted Wages]] — Composition-adjusted wages are a refined measure used to analyze the impact of innovations on worker earnings. The purpo
+- [[concepts/composition-effect|Composition Effect]] — The composition effect is a component in the decomposition of changes in the aggregate wage bill that captures shifts in
+- [[concepts/computational-graph|Computational Graph]] — A computational graph is a formal language used to describe a computation as a directed graph. In this formalism, each n
+- [[concepts/computational-learning-theory|Computational Learning Theory]] — Computational learning theory is a formal discipline that addresses fundamental questions about machine learning. It see
+- [[concepts/computational-neuroscience|Computational Neuroscience]] — The main objective of computational neuroscience is to understand how the brain works on an algorithmic level. The field
+- [[concepts/conditional-boltzmann-machine|Conditional Boltzmann Machine]] — A Conditional Boltzmann Machine is a probabilistic model that extends the standard Boltzmann machine to represent condit
+- [[concepts/conditional-effect|Conditional Effect]] — A conditional effect is a component of an action schema that allows an action's outcome to depend on the state of the wo
+- [[concepts/conditional-gan|Conditional GAN]] — A Conditional GAN (Mirza and Osindero, 2014) is a type of Generative Adversarial Network that is trained to learn a cond
+- [[concepts/conditional-independence|Conditional Independence]] — Conditional independence is a fundamental concept for simplifying probabilistic reasoning in complex domains. It allows 
+- [[concepts/conditional-probability|Conditional Probability]] — Conditional probability, also known as posterior probability, is the probability of a proposition given some evidence th
+- [[concepts/configuration-space|Configuration Space]] — A configuration space is a representation where the state of a robot is defined by the configuration of its joints, such
+- [[concepts/conflict-directed-backjumping|Conflict-Directed Backjumping]] — Conflict-directed backjumping is an advanced form of backtracking that improves upon chronological backtracking. When th
+- [[concepts/confounder|Confounder]] — A confounder is a variable that creates a spurious association between a treatment and an outcome because it is a cause 
+- [[concepts/confounding-bias|Confounding Bias]] — Confounding bias is a major challenge in observational studies where the experimenter does not control the assignment of
+- [[concepts/confounding|Confounding]] — Confounding is a central problem in causal inference that has puzzled and confused generations of scientists. It refers 
+- [[concepts/confusion-matrix|Confusion Matrix]] — A confusion matrix is a table used to evaluate the performance of a classification algorithm. It provides a detailed bre
+- [[concepts/conjugate-gradient-method|Conjugate Gradient Method]] — The conjugate gradient method is an optimization algorithm used for training deep models. It is designed to find the min
+- [[concepts/conjugate-prior|Conjugate Prior]] — A conjugate prior is a family of probability distributions that is "closed under update." This property means that if th
+- [[concepts/conjunct-ordering-problem|Conjunct Ordering Problem]] — The conjunct ordering problem is the task of finding an ordering for the conjuncts in a rule's premise that minimizes th
+- [[concepts/conjunctive-normal-form-cnf|Conjunctive Normal Form (CNF)]] — A sentence is in Conjunctive Normal Form (CNF) if it is expressed as a conjunction (AND) of one or more clauses, where e
+- [[concepts/connectionism|Connectionism]] — Connectionist models, also referred to as neural networks, were seen by some as direct competitors to the symbolic model
+- [[concepts/connectionist-temporal-classification|Connectionist Temporal Classification]] — Connectionist Temporal Classification (CTC) is a method for training sequence models, particularly recurrent neural netw
 - [[concepts/conscious-ai|Conscious AI]] — The text asserts that building conscious AI is 'clearly yes' possible in principle, as there is nothing 'spooky or myste
+- [[concepts/consistent-estimator|Consistent Estimator]] — In the context of sampling algorithms, an estimator is described as consistent if the estimated probability it produces 
+- [[concepts/consistent-heuristic|Consistent Heuristic]] — A heuristic h(n) is consistent if, for every node n and every successor n' of n, the estimated cost of reaching the goal
+- [[concepts/constrained-optimization|Constrained Optimization]] — The term 'Constrained Optimization' appears in the title for section 7.2, 'Norm Penalties as Constrained Optimization'.
+- [[concepts/constraint-graph|Constraint Graph]] — A constraint graph is a visual and structural representation of a Constraint Satisfaction Problem (CSP). In this graph, 
+- [[concepts/constraint-learning|Constraint Learning]] — Constraint learning is the idea of finding a minimum set of variables from a conflict set that causes a problem. This se
+- [[concepts/constraint-logic-programming|Constraint Logic Programming]] — Constraint Logic Programming (CLP) is an extension of logic programming where variables are handled by imposing constrai
+- [[concepts/constraint-processing|Constraint Processing]] — Constraint Processing is a subject within artificial intelligence, formalized in works such as Rina Dechter's 2003 book 
+- [[concepts/constraint-satisfaction-problem|Constraint Satisfaction Problem]] — A Constraint Satisfaction Problem (CSP) is defined by a set of variables, a domain of possible values for each variable,
+- [[concepts/constraint-satisfaction-problems|Constraint Satisfaction Problems (CSPs)]] — Constraint Satisfaction Problems (CSPs) are a type of problem where the goal is to find a state that satisfies a number 
 - [[concepts/consumer-ai-experience|Consumer AI Experience]] — The Consumer AI Experience is a customer-centric framework for understanding artificial intelligence. It shifts the focu
+- [[concepts/content-based-addressing|Content-Based Addressing]] — Content-based addressing is a method for accessing an external memory in models like the Neural Turing Machine. Unlike l
 - [[concepts/contextual-value-of-tasks|Contextual Value of Tasks]] — A task's contextual value is its importance and relevance within a specific organizational or systemic context. This is 
+- [[concepts/contingency-plan|Contingency Plan (Strategy)]] — A contingency plan, also known as a strategy, is a type of solution required when an agent operates in an environment th
+- [[concepts/contingent-planning|Contingent Planning]] — Contingent planning is a method designed for domains that violate the assumptions of complete information and determinis
+- [[concepts/continuation-methods|Continuation Methods]] — Continuation methods are a family of strategies designed to make optimization easier by carefully choosing initial point
+- [[concepts/continuous-learning-in-ai|Continuous Learning in AI]] — Continuous learning is a process where an organization's AI models are continuously updated and improved. This is achiev
+- [[concepts/contraction|Contraction]] — A contraction is a function of one argument that, when applied to two different inputs, produces two output values that 
+- [[concepts/contractive-autoencoder|Contractive Autoencoder]] — A Contractive Autoencoder (CAE) is a type of autoencoder that adds a regularization penalty to its reconstruction cost. 
+- [[concepts/contrast-normalization|Contrast Normalization]] — Contrast normalization is a preprocessing technique applied to images to remove a common source of variation: the amount
+- [[concepts/contrastive-divergence|Contrastive Divergence]] — Contrastive Divergence (CD), specifically CD-k, provides an approximation to the negative phase gradient. Instead of run
+- [[concepts/controlled-experiment-on-ai-developer-productivity|Controlled Experiment on AI Developer Productivity]] — The study employed a controlled experiment to isolate and measure the effect of an AI pair programmer, GitHub Copilot, o
+- [[concepts/convention|Convention]] — A convention is any constraint on the selection of joint plans that agents agree to follow before engaging in a joint ac
+- [[concepts/convolution|Convolution (in Machine Learning)]] — In the context of discrete data like images, convolution is a linear operation defined as s(t) = (x * w)(t) = Σ x(a)w(t 
+- [[concepts/convolutional-generative-network|Convolutional Generative Network]] — A convolutional generative network is a specific architecture for a generator network that incorporates a convolutional 
+- [[concepts/convolutional-layer|Convolutional Layer]] — A convolutional layer is a type of neural network layer where each neuron processes information from only a restricted a
+- [[concepts/convolutional-network|Convolutional Network]] — Convolutional networks are a specialized kind of neural network for processing data that has a known, grid-like topology
+- [[concepts/convolutional-networks-for-speech-recognition|Convolutional Networks for Speech Recognition]] — One of the key innovations in deep learning for Automatic Speech Recognition (ASR) is the use of convolutional networks.
+- [[concepts/convolutional-networks|Convolutional Networks]] — Convolutional networks, also known as ConvNets or CNNs, are a type of deep learning model designed to specialize neural 
+- [[concepts/convolutional-neural-network|Convolutional Neural Network]] — A Convolutional Neural Network (CNN or ConvNet) is a type of deep learning model particularly well-suited for processing
+- [[concepts/convolutional-neural-networks|Convolutional Neural Networks (CNNs)]] — Convolutional networks, also known as convolutional neural networks or CNNs, are a specialized kind of neural network ar
+- [[concepts/correlated-sampling|Correlated Sampling]] — Correlated sampling is a method for reducing measurement error when comparing the performance of different programs or p
+- [[concepts/correlation|Correlation]] — Francis Galton's search for the causal laws of heredity led him to the discovery of correlation. It provided an objectiv
+- [[concepts/correspondence-problem|Correspondence Problem]] — The correspondence problem is the task of identifying features in different images that are projections of the same sing
+- [[concepts/cosine-similarity|Cosine Similarity]] — Cosine similarity is a measure of similarity between two vectors, calculated as the cosine of the angle between them. In
+- [[concepts/cost-function|Cost Function]] — A cost function is used to measure how 'bad' a model is performing on the training data. The primary goal of the trainin
 - [[concepts/cost-of-cognition|Cost of Cognition]] — The "cost of cognition" is a concept articulated by Karim Lakhani to describe the economic and operational resources req
 - [[concepts/cost-reduction-vs-capability-expansion-posture|Cost-Reduction vs. Capability-Expansion Posture]] — When AI technology dramatically collapses the cost of a core input like prediction, organizations face a strategic choic
+- [[concepts/cotraining|Cotraining]] — Cotraining is a technique that bootstraps an information extraction process from a handful of labeled examples. The core
+- [[concepts/counterfactual-reasoning|Counterfactual Reasoning]] — Counterfactual reasoning involves evaluating hypothetical situations that are contrary to what actually happened. It add
+- [[concepts/counterfactuals|Counterfactuals]] — Counterfactuals are questions and statements about what would have happened if things had been different. They represent
+- [[concepts/cross-entropy-loss|Cross-Entropy Loss]] — Cross-entropy loss, also called log loss, is a loss function used to evaluate the performance of a classification model 
+- [[concepts/cross-entropy|Cross Entropy]] — Cross entropy is a cost function frequently used to measure how well a set of estimated class probabilities match the ta
+- [[concepts/cross-validation|Cross-Validation]] — The primary purpose of cross-validation is to evaluate the performance of a learned hypothesis on unseen data to estimat
+- [[concepts/cumulative-distribution|Cumulative Distribution]] — For a discrete random variable X with a set of possible outcomes {x₁, ..., xₖ}, the cumulative distribution gives the pr
+- [[concepts/cumulative-probability-density-function|Cumulative Probability Density Function]] — The cumulative probability density function, denoted F_X(x), is defined as the probability that a random variable X take
+- [[concepts/curriculum-learning|Curriculum Learning]] — Curriculum learning is a training strategy in which a model is not exposed to the full, randomly ordered training set fr
+- [[concepts/curse-of-dimensionality|Curse of Dimensionality]] — The curse of dimensionality refers to the fact that many aspects of data analysis and machine learning behave very diffe
+- [[concepts/custom-components-keras|Custom Components (Keras)]] — Keras provides a flexible framework for defining custom components when the built-in options are not sufficient. This al
+- [[concepts/custom-gradient|Custom Gradient (@tf.custom_gradient)]] — The `@tf.custom_gradient` decorator in TensorFlow allows a developer to override the standard gradient computation provi
+- [[concepts/custom-keras-model|Custom Keras Model]] — A Custom Keras Model is a user-defined model architecture created by subclassing the `keras.models.Model` base class. Th
+- [[concepts/custom-training-loop|Custom Training Loop]] — A custom training loop is a from-scratch implementation of the model training process in TensorFlow. Instead of relying 
 - [[concepts/customer-sentiment-analysis|Customer Sentiment Analysis]] — Customer sentiment analysis is a tool used to understand customer opinions from unstructured data. It automates the proc
+- [[concepts/customer-sentiment|Customer Sentiment]] — Customer sentiment is a measure that reflects the emotional experience of a customer during a chat-based interaction wit
+- [[concepts/customer-service-agent-performance-metrics|Customer Service Agent Performance Metrics]] — The study utilizes a set of key performance indicators (KPIs) to quantitatively measure the impact of AI assistance on t
+- [[concepts/cybernetics|Cybernetics]] — Cybernetics represents the earliest predecessors of modern deep learning and is the name given to the first wave of neur
 - [[concepts/cyborg-collaboration-pattern|Cyborg Collaboration Pattern]] — The Cyborg pattern is a model for human-AI collaboration where the human and the AI system are enmeshed in the process t
+- [[concepts/cyk-algorithm|CYK Algorithm]] — The CYK algorithm, named after its inventors John Cocke, Daniel Younger, and Tadeo Kasami, is a type of chart parser. Ch
+- [[concepts/d-separation|d-separation]] — In the context of directed graphical models, d-separation (directional separation) is the rule used to determine if a se
+- [[concepts/data-as-a-complement-to-prediction|Data as a Complement to Prediction]] — The text establishes that data and prediction machines are complements. This means that procuring or developing an AI wi
+- [[concepts/data-as-a-complement|Data (as a complement to prediction)]] — Data is the raw information that a prediction machine uses as input to generate new, previously missing information. The
+- [[concepts/data-association|Data Association]] — The data association problem is the challenge of correctly assigning observations to the objects that generated them ove
 - [[concepts/data-capture-experience|Data Capture Experience]] — The Data Capture Experience is a core component of the broader Consumer AI Experience framework. It pertains to consumer
+- [[concepts/data-driven-approach-in-ai|Data-Driven Approach in AI]] — The data-driven approach is based on the finding that system performance can be dramatically improved by increasing the 
+- [[concepts/data-engineering|Data Engineering]] — Data engineering is a labor-intensive activity focused on wrangling data to make it usable for AI applications. The prim
+- [[concepts/data-interleaving|Data Interleaving]] — Data interleaving is a method for combining records from multiple datasets, typically files, into a single dataset. In T
+- [[concepts/data-lake|Data Lake]] — A data lake is a type of data storage architecture used by firms undertaking substantial data transformations for AI. It
+- [[concepts/data-literacy-programs|Data Literacy Programs]] — Data literacy or data fluency programs are formal education offerings that companies use to build a culture supportive o
+- [[concepts/data-mining|Data Mining]] — Data mining is presented as the practice of analyzing large datasets to find interesting patterns of association. The te
 - [[concepts/data-moats|Data Moats]] — A data moat is a strategic advantage created when an AI company provides value to users in exchange for their data. This
 - [[concepts/data-platform|Data Platform]] — A state-of-the-art data platform is the foundation for an "AI factory," providing a structure for software developers to
+- [[concepts/data-prefetching|Data Prefetching]] — Data prefetching is a crucial technique for optimizing the training speed of machine learning models. It addresses the b
 - [[concepts/data-preparation|Data Preparation]] — Before data can be used to build an effective AI factory, it must be gathered and prepared, which is a challenging proce
+- [[concepts/data-products|Data Products]] — Data products are offerings that combine data with analytical or AI models. They represent a strategic shift in focus wi
+- [[concepts/data-shuffling|Data Shuffling]] — Data shuffling is a critical step in preparing a training set for models optimized with Gradient Descent. The algorithm 
+- [[concepts/data-types-for-ai|Data Types for AI (Training, Input, Feedback)]] — The text identifies three distinct types of data for prediction machines. **Training data** is historical data used at t
 - [[concepts/data-wall-for-ai-training|Data Wall (for AI Training)]] — The "data wall" is a concept describing the imminent obstacle for training large AI models, which are predicted to have 
+- [[concepts/dataset-augmentation|Dataset Augmentation]] — Dataset augmentation is a powerful technique used to reduce the generalization error of a machine learning model. It wor
+- [[concepts/decentralized-planning|Decentralized Planning]] — Decentralized planning addresses problems involving multiple physically decoupled units, such as a fleet of robots, wher
+- [[concepts/decision-boundary|Decision Boundary]] — A decision boundary is a threshold used by a classifier to separate classes. For a probabilistic model like Logistic Reg
 - [[concepts/decision-driven-analytics|Decision-Driven Analytics]] — Decision-Driven Analytics is a process framework arguing that to make good decisions with data, one must start from the 
+- [[concepts/decision-list-learning|Decision List Learning]] — Decision list learning is an algorithm that constructs a classifier as a sequence of tests. Each test is associated with
+- [[concepts/decision-network|Decision Network]] — A decision network, also known as an influence diagram, is a formalism used for the implementation of decision-making sy
+- [[concepts/decision-networks|Decision Networks]] — Decision networks, also known as influence diagrams, provide a simple and formal way to express and solve decision probl
+- [[concepts/decision-theoretic-agent|Decision-Theoretic Agent]] — A decision-theoretic agent maintains a belief state that represents not only the set of possible world states but also t
+- [[concepts/decision-theoretic-metareasoning|Decision-Theoretic Metareasoning]] — Decision-theoretic metareasoning is a method for controlling an agent's deliberation process. The text explains that it 
+- [[concepts/decision-theory|Decision Theory]] — Decision theory is a formal and complete framework for making decisions, whether economic or otherwise, under uncertaint
+- [[concepts/decision-tree-learning-algorithm|Decision Tree Learning Algorithm]] — The decision tree learning algorithm operates recursively by starting with a set of examples and choosing the best attri
+- [[concepts/decision-tree-regularization|Decision Tree Regularization]] — Regularization for Decision Trees involves restricting the model's freedom during training to avoid overfitting. This is
+- [[concepts/decision-tree|Decision Tree]] — A decision tree represents a function as a sequence of attribute tests. Each internal node in the tree corresponds to a 
+- [[concepts/decision-trees|Decision Trees]] — A decision tree is a model used in machine learning that can represent all Boolean functions. It is a hierarchical struc
+- [[concepts/declarative-approach|Declarative Approach]] — The declarative approach to building a system, such as a knowledge-based agent, involves populating a knowledge base wit
+- [[concepts/declarative-bias|Declarative Bias]] — Declarative bias is a field of study that aims to understand how prior knowledge can be used to identify the appropriate
+- [[concepts/deep-belief-network|Deep Belief Network]] — The introduction of Deep Belief Networks (DBNs) in 2006 is credited with beginning the current deep learning renaissance
+- [[concepts/deep-belief-networks|Deep Belief Networks]] — The text describes Deep Belief Networks as "Bayesian networks that have multiple layers of hidden variables." This multi
+- [[concepts/deep-boltzmann-machine|Deep Boltzmann Machine]] — Deep Boltzmann Machines (DBMs) are deep generative models developed after Deep Belief Networks. A key difference is that
+- [[concepts/deep-boltzmann-machines|Deep Boltzmann Machines]] — Deep Boltzmann Machines (DBMs) are a class of deep generative model introduced in a 2009 paper by Ruslan Salakhutdinov a
 - [[concepts/deep-learning|Deep Learning]] — Deep learning was one of the significant algorithmic innovations that drove the renewed success and resurgence of machin
+- [[concepts/definite-clause-grammar|Definite Clause Grammar]] — A Definite Clause Grammar (DCG) is a way of writing grammar rules as logical statements called definite clauses. This tr
+- [[concepts/deformable-template|Deformable Template]] — A deformable template is a model used to infer the layout of objects whose parts can move relative to one another, such 
+- [[concepts/degree-of-freedom|Degree of Freedom (DOF)]] — A degree of freedom (DOF) is a concept used to count each independent direction in which a robot, or one of its effector
+- [[concepts/demand-driven-innovation|Demand-Driven Innovation]] — The text outlines a model where the direction of innovation is not exogenous but is instead endogenously determined by s
+- [[concepts/denoising-autoencoder|Denoising Autoencoder]] — A denoising autoencoder (DAE) is a stochastic variant of the autoencoder. Its training process involves first corrupting
+- [[concepts/dependency-grammar|Dependency Grammar]] — Dependency grammar is a formalism used in both pure and computational linguistics that structures sentences based on the
+- [[concepts/depth-first-search|Depth-First Search]] — Depth-first search always expands the deepest unexpanded node in the current frontier of the search tree. This behavior 
+- [[concepts/depth-limited-search|Depth-Limited Search]] — Depth-limited search is a search strategy that alleviates the problem of infinite paths in depth-first search by supplyi
+- [[concepts/depth-wise-max-pooling|Depth-wise Max Pooling]] — Depth-wise max pooling is a pooling operation that can be used in a Convolutional Neural Network (CNN). Unlike standard 
+- [[concepts/depthwise-separable-convolution|Depthwise Separable Convolution]] — A Depthwise Separable Convolution is an efficient factorization of a standard convolutional layer into two distinct, sim
+- [[concepts/description-logics|Description Logics]] — The primary thrust of description logics is to ensure that key inference problems, such as subsumption-testing, can be s
 - [[concepts/deskilling-from-ai|Deskilling (from AI)]] — Deskilling is the process by which reliance on technology to perform certain tasks leads to the loss of the human abilit
 - [[concepts/deskilling|Deskilling]] — Deskilling is a phenomenon where the introduction of a new technology leads to the atrophy of skills that were previousl
+- [[concepts/determinant|Determinant]] — The determinant of a square matrix A, denoted det(A), is a function that maps the matrix to a single real scalar value.
+- [[concepts/determinations|Determinations]] — A determination, denoted as P ≻ Q, is a statement of prior knowledge asserting that if any two examples match on the set
+- [[concepts/devaluation-of-expertise|Devaluation of Expertise]] — The devaluation of expertise is a concept presented as the primary risk that Artificial Intelligence poses to labor mark
+- [[concepts/difference-in-differences|Difference-in-Differences]] — Difference-in-Differences is a standard empirical strategy used to isolate the causal impact of an intervention. The stu
+- [[concepts/differentiable-generator-network|Differentiable Generator Network]] — A differentiable generator network is a model that uses a differentiable function, $g(z; \theta^{(g)})$, to transform sa
+- [[concepts/diffusion-inversion|Diffusion Inversion]] — Diffusion inversion is a training scheme for learning a generative model, developed by Sohl-Dickstein et al. (2015). The
 - [[concepts/digital-addiction|Digital Addiction]] — Digital addiction is a phenomenon where a user's engagement with an online platform becomes compulsive and difficult to 
 - [[concepts/digital-amplification|Digital Amplification]] — Digital Amplification refers to the way algorithms embedded in large-scale digital operating models can vastly increase 
 - [[concepts/digital-neighborhoods|Digital Neighborhoods]] — Digital neighborhoods are virtual environments that help online businesses organize and promote their products or servic
 - [[concepts/digital-operating-model|Digital Operating Model]] — A digital operating model represents a new kind of firm architecture designed to release the full potential of digital n
 - [[concepts/digital-transformation|Digital Transformation]] — Digital transformation is characterized as an "inexorable engine of systemwide transformation" fueled by the continuous 
 - [[concepts/digital-twins|Digital Twins]] — Within the context of market research, digital twins are described as a specific and advanced form of simulation. The te
+- [[concepts/dimensionality-reduction|Dimensionality Reduction]] — The primary goal of dimensionality reduction is to simplify data while retaining as much meaningful information as possi
+- [[concepts/direct-effect|Direct Effect]] — A direct effect is the influence of a variable on an outcome that does not pass through a specified intermediate variabl
 - [[concepts/direct-network-effects|Direct Network Effects]] — Direct network effects are a form of network effect where users directly value the presence of other users within the sa
+- [[concepts/directed-graphical-model|Directed Graphical Model]] — A directed graphical model is a structured probabilistic model defined on a set of variables **x**. It is formally defin
+- [[concepts/directed-graphical-models|Directed Graphical Models]] — Directed graphical models are a type of structured probabilistic model that uses a graph with directed edges to represen
+- [[concepts/directed-probabilistic-model|Directed Probabilistic Model]] — A directed probabilistic model, or directed graphical model, represents a probability distribution over a set of variabl
+- [[concepts/discounted-rewards|Discounted Rewards]] — Discounted rewards are a technique for calculating the utility of an infinite state sequence in a sequential decision pr
+- [[concepts/disentangled-representation|Disentangled Representation]] — An ideal representation is one that disentangles the underlying causal factors of variation that generated the data. Mos
+- [[concepts/disjunctive-normal-form|Disjunctive Normal Form (DNF)]] — A sentence is in disjunctive normal form (DNF) if it is structured as the disjunction of one or more clauses, where each
+- [[concepts/disparate-impact|Disparate Impact]] — Disparate impact is a legal concept describing a situation where a seemingly neutral procedure or policy adversely affec
+- [[concepts/disparity-computer-vision|Disparity (Computer Vision)]] — In the context of binocular vision, disparity refers to the difference in the image location of a single 3D scene featur
+- [[concepts/displacement-effect|Displacement Effect]] — The displacement effect is the direct negative impact on labor demand caused by automation. It occurs when new technolog
+- [[concepts/distributed-representation|Distributed Representation]] — A distributed representation is one where concepts are encoded by patterns of activity across multiple features. A key e
 - [[concepts/divers-vs-runners-dichotomy|Divers vs. Runners Dichotomy]] — Stefano Puntoni introduces the 'Divers vs. Runners' dichotomy as a model to explain the sharp divide often observed betw
+- [[concepts/do-calculus|Do-Calculus]] — The do-calculus is a mathematical framework designed to determine whether a causal effect, expressed as P(Y | do(X)), ca
+- [[concepts/do-operator|Do-operator]] — The do-operator is a formal mathematical tool used in causal inference to represent an intervention. It is used to disti
+- [[concepts/domain-closure-assumption|Domain Closure Assumption]] — The Domain Closure Assumption is a principle that constrains the universe of discourse in a logical system. It asserts t
+- [[concepts/domain-independent-heuristic|Domain-Independent Heuristic]] — A domain-independent heuristic is a function that estimates the cost to reach a goal from a given state in a planning pr
 - [[concepts/dominant-design|Dominant Design]] — As explained by Rahul Kapoor, a dominant design is a specific technology architecture that achieves widespread market do
+- [[concepts/dominant-strategy|Dominant Strategy]] — A dominant strategy is a core concept in game theory. A strategy is considered dominant for a player if it results in a 
 - [[concepts/dory-and-pulse|Dory and Pulse]] — Dory and Pulse is a specific two-part process described as a "golden ritual" used within a company to structure meetings
+- [[concepts/dose-response-effect|Dose-Response Effect]] — A dose-response effect is a relationship in which a change in the amount, intensity, or duration of an exposure is assoc
+- [[concepts/dpll-algorithm|DPLL Algorithm]] — The DPLL algorithm is a recursive, backtracking-based search algorithm designed to determine if a given sentence in prop
+- [[concepts/dropout|Dropout]] — Dropout is a regularization method that is only active during the training phase of a neural network. At each training s
+- [[concepts/dualism|Dualism]] — Dualism is a philosophical viewpoint that posits a clear distinction between mind and matter. It holds that there is a p
 - [[concepts/durable-skills|Durable Skills]] — Durable skills are abilities that are not easily automated and do not quickly become obsolete, in contrast to perishable
+- [[concepts/dutch-auction|Dutch Auction]] — A Dutch auction is a type of auction that operates in descending price order. It is presented in contrast to an English 
+- [[concepts/dynamic-bayesian-network|Dynamic Bayesian Network]] — A Dynamic Bayesian Network (DBN) is a framework for probabilistic reasoning over time. To construct a DBN, one must spec
+- [[concepts/dynamic-decision-network|Dynamic Decision Network (DDN)]] — A Dynamic Decision Network (DDN) is a model for designing online agents that operate in partially observable and stochas
 - [[concepts/dynamic-nature-of-the-firm|Dynamic Nature of the Firm]] — The text critiques the common view of the firm as a stable entity into which AI is simply integrated to perform tasks mo
+- [[concepts/dynamic-programming|Dynamic Programming]] — Dynamic programming is a problem-solving method in which the solutions to subproblems are constructed incrementally from
+- [[concepts/early-growth-trajectories|Early-Growth Trajectories]] — Early-Growth Trajectories is a quantitative measure used to assess the performance of firms during their initial years. 
+- [[concepts/early-stopping|Early Stopping]] — Early stopping is a regularization technique applicable to iterative learning algorithms like Gradient Descent. The fund
+- [[concepts/easy-vs-hard-ai-tasks|Easy vs. Hard AI Tasks]] — The text introduces a distinction between "easy" and "hard" tasks to account for the fact that AI integration will face 
+- [[concepts/easy-vs-hard-tasks-in-ai|Easy-to-Learn vs. Hard Tasks (in AI)]] — Easy-to-learn tasks are defined by two key characteristics: a simple, low-dimensional mapping between an action and its 
+- [[concepts/economies-of-scale-in-data|Economies of Scale in Data]] — Economies of scale in data refers to how the benefit of additional information—whether in terms of number of units, type
+- [[concepts/edge-detection|Edge Detection]] — Edge detection is a process in computer vision that identifies locations in an image where the brightness undergoes a sh
+- [[concepts/eigendecomposition|Eigendecomposition]] — Eigendecomposition is a widely used form of matrix decomposition that breaks a square matrix A into a set of eigenvector
+- [[concepts/embedding-column|Embedding Column]] — An embedding column is a method for representing discrete, categorical data in a continuous, multi-dimensional vector sp
+- [[concepts/embeddings-for-categorical-features|Embeddings for Categorical Features]] — An embedding is a trainable, dense vector that represents a category. Instead of using a sparse, high-dimensional repres
+- [[concepts/embodied-cognition|Embodied Cognition]] — The embodied cognition approach asserts that it is nonsensical to consider the brain as a separate, isolated entity. Ins
+- [[concepts/emotion-detection|Emotion Detection]] — Emotion detection is an AI capability that leverages deep learning models to detect human emotions with an increasing de
+- [[concepts/empirical-loss|Empirical Loss]] — Empirical loss is the average loss a hypothesis `h` incurs on a specific set of `N` examples, `E`. It is calculated by s
+- [[concepts/empirical-risk-minimization|Empirical Risk Minimization]] — Empirical Risk Minimization (ERM) is a foundational principle for training machine learning models. It involves finding 
+- [[concepts/employee-attrition-reduction|Employee Attrition Reduction]] — The analysis presented in Table A.11 demonstrates a statistically significant reduction in employee attrition after the 
+- [[concepts/enabling-technologies|Enabling Technologies]] — Enabling technologies are foundational innovations that support the diffusion and impact of other, more advanced technol
+- [[concepts/encoder-decoder-architecture|Encoder-Decoder Architecture]] — The encoder-decoder architecture is a model design used for tasks that map an input sequence to an output sequence, wher
+- [[concepts/end-to-end-deep-learning-speech-recognition|End-to-end Deep Learning Speech Recognition]] — End-to-end deep learning for speech recognition represents a major ongoing push in the field. The central goal of this a
+- [[concepts/energy-based-model|Energy-Based Model]] — An energy-based model (EBM) is a specific kind of undirected model that defines an unnormalized probability distribution
+- [[concepts/ensemble-language-models|Ensemble Language Models]] — The primary motivation for using an ensemble of language models is to improve predictive accuracy and reduce test error.
+- [[concepts/ensemble-learning|Ensemble Learning]] — Ensemble learning is a machine learning paradigm that deviates from using a single, chosen hypothesis to make prediction
+- [[concepts/ensemble-methods|Ensemble Methods]] — Ensemble Methods are a way to fine-tune a machine learning system by combining several models that perform best. The cor
+- [[concepts/entailment-logic|Entailment (Logic)]] — Entailment is a fundamental relationship between sentences in logic. A sentence α entails another sentence β if β is tru
+- [[concepts/entailment|Entailment]] — Entailment describes the logical relationship where a sentence α follows from a knowledge base (KB). This means that in 
+- [[concepts/enterprise-computing|Enterprise Computing]] — Enterprise computing refers to the diffusion of computing technology from its origins in scientific and engineering appl
+- [[concepts/entropy-information-theory|Entropy (in Information Theory)]] — In information theory, the entropy of a random variable V with values v_k, each with probability P(v_k), measures the av
 - [[concepts/environmental-cost-of-ai|Environmental Cost of AI]] — Beneath the promise of AI's potential lies the spiralling cost of its infrastructure, encompassing monetary, environment
+- [[concepts/epistemological-commitment|Epistemological Commitment]] — The epistemological commitment of a formal language defines the possible states of knowledge an agent can have concernin
+- [[concepts/equality-axiomatization|Equality Axiomatization]] — One method for enabling a logical inference system to handle assertions of equality (e.g., $x = y$) is to explicitly axi
+- [[concepts/error-analysis|Error Analysis]] — Error analysis is a method for improving a machine learning model after an initial promising version has been developed.
+- [[concepts/estimand-causal-inference|Estimand (Causal Inference)]] — In the context of the Causal Inference Engine, an estimand is a mathematical formula that serves as a recipe for generat
 - [[concepts/ethical-ai-and-fat-ml|Ethical AI and FAT ML]] — Ethical AI is an emerging field concerned with embedding ethical notions and principles into artificial intelligence sys
+- [[concepts/ethics-and-risks-of-ai|Ethics and Risks of AI]] — The development of artificial intelligence raises significant ethical questions about whether it *should* be pursued, gi
+- [[concepts/evaluation-function|Evaluation Function]] — An evaluation function, also known as a heuristic evaluation function, returns an estimate of the expected utility of a 
+- [[concepts/event-calculus|Event Calculus]] — The event calculus is a framework for reasoning about events, time, and their effects. Events, such as a flying trip, ca
+- [[concepts/event-study|Event Study]] — An event study is a method used to measure the impact of a specific event on a variable of interest. It involves alignin
+- [[concepts/exact-cell-decomposition|Exact Cell Decomposition]] — Exact cell decomposition is a complete algorithm for robot path planning that involves partitioning the free space withi
+- [[concepts/example-protobuf|Example Protobuf]] — The `Example` protobuf is the main data structure used in TensorFlow's TFRecord format to represent one instance (or exa
+- [[concepts/exchangeability|Exchangeability]] — Proposed by Greenland and Robins in a landmark 1986 paper, exchangeability is a concept used to define the absence of co
+- [[concepts/existence-uncertainty|Existence Uncertainty]] — Existence uncertainty is a fundamental problem in reasoning where a system is unsure about what real-world objects or en
+- [[concepts/expectation-maximization-algorithm|Expectation-Maximization (EM) Algorithm]] — The Expectation-Maximization (EM) algorithm is an iterative method used to train probabilistic models like Gaussian Mixt
+- [[concepts/expectation-maximization-em-algorithm|Expectation-Maximization (EM) Algorithm]] — The Expectation-Maximization (EM) algorithm is an iterative optimization technique used to find maximum likelihood param
+- [[concepts/expected-value|Expected Value]] — The expectation, or expected value, of a function f(x) with respect to a probability distribution P(x) is the average or
+- [[concepts/expectimax-tree|Expectimax Tree]] — An expectimax tree is a model for games involving uncertainty. It is defined as consisting of a max node at the root, fo
 - [[concepts/experimentation-and-sandboxing-for-ai|Experimentation and Sandboxing for AI]] — Experimentation and sandboxing is a proactive strategy for corporate AI adoption recommended by Karim Lakhani. It involv
+- [[concepts/expert-judgment|Expert Judgment]] — Expert judgment is defined as the capacity to depart from a script and improvise based on accumulated training and exper
+- [[concepts/expert-system|Expert System]] — An expert system is a knowledge-intensive system whose expertise derives from a large number of special-purpose rules. A
 - [[concepts/expert-systems|Expert Systems]] — Expert systems represent an early approach in artificial intelligence. These systems were designed to be effective for n
+- [[concepts/expertise|Expertise]] — Expertise is defined as a scarce skill that commands a market premium, contrasted with work requiring no formal training
 - [[concepts/explainability|Explainability]] — The unpredictability inherent in advanced, resilient AI systems necessitates a focus on explainability. As these algorit
+- [[concepts/explanation-based-learning|Explanation-Based Learning (EBL)]] — The fundamental principle of Explanation-Based Learning (EBL) is to learn a general rule from a single observation. The 
+- [[concepts/exploding-gradients-problem|Exploding Gradients Problem]] — The exploding gradients problem is a challenge in training deep neural networks that is related to the vanishing gradien
+- [[concepts/exploration-vs-exploitation-dilemma|Exploration vs. Exploitation Dilemma]] — The dilemma is described as the choice between continuing in a comfortable existence (exploitation) and striking out int
+- [[concepts/exploratory-data-analysis|Exploratory Data Analysis]] — A first step in exploratory data analysis is to get a quick description of the data's structure. This involves using met
+- [[concepts/exponential-distribution|Exponential Distribution]] — The exponential distribution is a probability distribution defined by the probability density function $p(x; \lambda) = 
 - [[concepts/exponential-organizations|Exponential Organizations]] — Exponential Organizations are a model for companies, typically digital and AI-native, that can sustain exponential growt
+- [[concepts/exponential-utility-function|Exponential Utility Function]] — The exponential utility function is a model used by economists to represent the utility of money. It is given by the for
 - [[concepts/exponential-vs-linear-adoption-gap|Exponential vs. Linear Adoption Gap]] — The Exponential vs. Linear Adoption Gap is a strategic challenge highlighted by Karim Lakhani, describing the growing di
+- [[concepts/exposure-to-llms|Exposure (to LLMs)]] — Exposure is a metric developed to quantify the potential impact of Large Language Models on job tasks. It is specificall
+- [[concepts/expressive-power-of-deep-networks|Expressive Power of Deep Networks]] — The expressive power of deep networks with certain activation functions can be understood through a geometric interpreta
+- [[concepts/extended-kalman-filter|Extended Kalman Filter]] — The Extended Kalman Filter (EKF) is an adaptation of the Kalman filter designed to handle nonlinear systems. A system is
+- [[concepts/extensive-form|Extensive Form]] — Extensive form is a powerful representation for games that goes beyond the simple game trees used for games of perfect i
+- [[concepts/extract-solution|EXTRACT-SOLUTION]] — Once a planning graph has been constructed to a level *Sₙ* where all goal literals are present and no two are mutex with
+- [[concepts/f-score|F-score]] — The F-score is a metric used to summarize the performance of a classifier with a single number, which is particularly us
+- [[concepts/factor-graph|Factor Graph]] — A factor graph is a graphical representation of an undirected model that explicitly clarifies how the unnormalized proba
+- [[concepts/factor-in-variable-elimination|Factor (in Variable Elimination)]] — In the context of the variable elimination algorithm, a factor is a matrix or multi-dimensional array indexed by the val
+- [[concepts/factored-representation|Factored Representation]] — In the context of AI planning, a factored representation is a method for describing a state of the world by a collection
+- [[concepts/fast-mcd|Fast-MCD (Minimum Covariance Determinant)]] — Fast-MCD (Minimum Covariance Determinant) is an algorithm useful for outlier detection, particularly for the purpose of 
+- [[concepts/fast-persistent-contrastive-divergence|Fast Persistent Contrastive Divergence (FPCD)]] — Fast Persistent Contrastive Divergence (FPCD) is a technique designed to accelerate the mixing of the MCMC chains used i
+- [[concepts/feature-bucketing|Feature Bucketing]] — Feature bucketing, also known as bucketization, is a data preprocessing technique used to convert a numerical feature in
+- [[concepts/feature-extraction|Feature Extraction]] — Feature extraction is a form of dimensionality reduction where several correlated features are merged into a single, mor
+- [[concepts/feature-scaling|Feature Scaling]] — Feature scaling is a data preprocessing technique used to standardize the range of independent variables or features of 
+- [[concepts/feature-selection|Feature Selection]] — Feature selection is a process used to keep only the features that best discriminate between classes, particularly when 
+- [[concepts/feedback-data-poisoning|Feedback Data Poisoning]] — Feedback data poisoning is a type of AI security risk where external actors manipulate the data an AI learns from. This 
+- [[concepts/feedforward-network|Feedforward Network]] — Feedforward networks, also known as deep feedforward networks, are a core technology in modern deep learning, used to ap
+- [[concepts/field-experiment|Field Experiment]] — The study employed a field experiment to investigate the effects of artificial intelligence on the performance of knowle
 - [[concepts/filter-bubble|Filter Bubble]] — A filter bubble is a phenomenon, particularly prevalent in social media and news feeds, where algorithms create a person
 - [[concepts/filter-bubbles|Filter Bubbles]] — A filter bubble is described as a significant concern related to AI, where the system filters out viewpoints that a user
+- [[concepts/filtering-in-temporal-models|Filtering (in Temporal Models)]] — Filtering is an inference task in temporal models that involves maintaining a current state estimate and updating it as 
+- [[concepts/fine-tuning-llms|Fine-tuning (LLMs)]] — Fine-tuning is a technique used to adapt a general-purpose Large Language Model (LLM) to generate output that better ali
+- [[concepts/finite-state-template-based-information-extraction|Finite-State Template-Based Information Extraction]] — Finite-state template-based information extraction is a technique that performs well in restricted domains where the sub
+- [[concepts/firm-time-effects|Firm-Time Effects]] — Firm-time effects are a type of fixed effect used in regression analysis, particularly event studies with panel data. Th
+- [[concepts/first-order-logic|First-Order Logic]] — First-order logic is a formal language used in knowledge representation that is sufficiently expressive to represent a g
+- [[concepts/five-step-ai-implementation-process|Five-Step AI Implementation Process]] — The text outlines a five-step process for transforming a task by progressively layering in technology. The initial steps
+- [[concepts/fixed-effects|Fixed Effects]] — Fixed effects is a statistical method used in panel data regression to control for omitted variables that are constant o
+- [[concepts/fixed-lag-smoothing|Fixed-Lag Smoothing]] — Fixed-lag smoothing is a specific type of online smoothing where the goal is to compute the smoothed estimate `P(X_{t-d}
+- [[concepts/fluent|Fluent]] — A fluent, derived from the Latin word *fluens* for "flowing," is an aspect of the world that changes over time. In the c
+- [[concepts/foil|FOIL (First-Order Inductive Learner)]] — FOIL (First-Order Inductive Learner) is an Inductive Logic Programming algorithm that learns a set of Horn clauses that 
+- [[concepts/follow-the-regularized-leader|Follow The Regularized Leader (FTRL)]] — Follow The Regularized Leader (FTRL), also known as Dual Averaging, is an optimization technique proposed by Yurii Neste
+- [[concepts/forget-gate|Forget Gate]] — The forget gate is a gating unit within an LSTM cell responsible for controlling the weight of the cell's internal linea
+- [[concepts/forward-chaining|Forward Chaining]] — Forward chaining is an algorithm, formally named PL-FC-ENTAILS?, designed to determine if a single proposition symbol, k
+- [[concepts/freezing-layers|Freezing Layers]] — Freezing layers is a crucial step in the transfer learning workflow, particularly at the beginning of training a new mod
+- [[concepts/frequentist-probability|Frequentist Probability]] — Frequentist probability is an interpretation of probability that is directly tied to the rates at which events occur. It
 - [[concepts/frictionless-systems|Frictionless Systems]] — The text describes frictionless systems as a feature of the digital age, where economic, social, and political activitie
+- [[concepts/front-door-adjustment|Front-Door Adjustment]] — The front-door adjustment is a technique for calculating the causal effect of a variable X on an outcome Y, even when th
+- [[concepts/full-automation|Full Automation]] — Full automation occurs when a task is performed entirely by machines and humans are completely removed from the loop. Th
+- [[concepts/full-joint-probability-distribution|Full Joint Probability Distribution]] — A full joint probability distribution completely specifies a probability model by assigning a probability to every possi
+- [[concepts/fully-convolutional-network|Fully Convolutional Network (FCN)]] — A Fully Convolutional Network (FCN) is a neural network architecture that contains only convolutional layers and pooling
+- [[concepts/function-approximation-in-reinforcement-learning|Function Approximation in Reinforcement Learning]] — Function approximation is a technique used in reinforcement learning to represent a utility function, such as $U(s)$, or
+- [[concepts/functionalism|Functionalism]] — The theory of functionalism says that a mental state is any intermediate causal condition between input and output. Unde
+- [[concepts/fundamental-problem-of-causal-inference|Fundamental Problem of Causal Inference]] — Coined by statistician Paul Holland, the "fundamental problem of causal inference" is the fact that it is impossible to 
+- [[concepts/fuzzy-set-theory|Fuzzy Set Theory]] — Fuzzy set theory is a method for specifying how well an object satisfies a vague description. It is designed to represen
+- [[concepts/gabor-function|Gabor Function]] — Gabor functions are mathematical functions that have been found to accurately describe the receptive field weights of mo
+- [[concepts/gaussian-mixture-model|Gaussian Mixture Model (GMM)]] — A Gaussian Mixture Model (GMM) is a probabilistic model which posits that instances are generated from a mixture of seve
+- [[concepts/gaussian-rbf-kernel|Gaussian RBF Kernel]] — The Gaussian Radial Basis Function (RBF) kernel is a function defined as K(a, b) = exp(-γ||a - b||²). It can be used wit
+- [[concepts/general-artificial-intelligence|General Artificial Intelligence (AGI)]] — General Artificial Intelligence (AGI), sometimes referred to as superintelligence, is a form of AI that would possess br
+- [[concepts/general-purpose-technologies|General-Purpose Technologies]] — General-purpose technologies are innovations that have a wide-ranging impact across many sectors of the economy. Their p
 - [[concepts/general-purpose-technology|General Purpose Technology]] — A General Purpose Technology (GPT) is a technology that has the power to change the world and humanity forever. Unlike s
+- [[concepts/generalization-error|Generalization Error]] — Generalization error is the error rate of a model on a test set of new, unseen data. A high generalization error indicat
+- [[concepts/generalization-loss|Generalization Loss]] — Generalization loss is the expected loss of a hypothesis `h` over the true distribution of all possible examples `(x, y)
+- [[concepts/generalization|Generalization]] — Generalization is the ability of a machine learning model to perform well on new, previously unobserved inputs, not just
+- [[concepts/generalized-denoising-autoencoder|Generalized Denoising Autoencoder]] — Generalized denoising autoencoders are a specific class of autoencoder models. They are notable because, unlike many oth
+- [[concepts/generalized-modus-ponens|Generalized Modus Ponens]] — Generalized Modus Ponens is a sound inference rule for first-order logic that raises the propositional Modus Ponens rule
+- [[concepts/generalized-pseudolikelihood-estimator|Generalized Pseudolikelihood Estimator]] — The generalized pseudolikelihood estimator is an objective function that involves maximizing the sum of log conditional 
+- [[concepts/generative-adversarial-network|Generative Adversarial Network]] — A Generative Adversarial Network (GAN) is a framework for training generative models that pairs a differentiable generat
+- [[concepts/generative-adversarial-networks|Generative Adversarial Networks]] — Generative Adversarial Networks (GANs) are an approach where a generative model is trained to compete against a feedforw
+- [[concepts/generative-ai-assistance-in-customer-service|Generative AI Assistance in Customer Service]] — Generative AI assistance in this context refers to a system that provides real-time, AI-generated suggestions to custome
 - [[concepts/generative-ai-business-effects|Generative AI Business Effects]] — As articulated by Karim Lakhani, the impact of generative AI on businesses can be categorized into three distinct effect
 - [[concepts/generative-ai-in-art|Generative AI in Art]] — Generative AI in art can operate by performing deep statistical analysis on an artist's existing body of work. As exempl
 - [[concepts/generative-ai-in-market-research|Generative AI in Market Research]] — The text argues that the conversation around GenAI in market research should shift from a narrow focus on efficiency and
 - [[concepts/generative-ai-in-r-d|Generative AI in R&D]] — The same generative AI technologies, specifically diffusion models, that are used for creative content generation like p
 - [[concepts/generative-ai-productivity-paradox|Generative AI Productivity Paradox]] — The Generative AI Productivity Paradox refers to the phenomenon where, despite significant interest and widespread adopt
 - [[concepts/generative-ai|Generative AI]] — Generative AI (genAI) refers to advanced algorithms designed to create new content, including text, images, audio, or vi
+- [[concepts/genetic-algorithm|Genetic Algorithm]] — Based on the belief that an appropriate series of small mutations to a machine-code program can generate a program with 
+- [[concepts/genetic-programming|Genetic Programming]] — Genetic programming is a field closely related to genetic algorithms. The principal difference is that the individuals b
+- [[concepts/gibbs-sampling|Gibbs Sampling]] — Gibbs sampling is a specific Markov Chain Monte Carlo (MCMC) algorithm used for obtaining a sequence of observations fro
+- [[concepts/gini-impurity|Gini Impurity]] — Gini impurity is a measure of how mixed the classes are for the set of training instances at a given node in a decision 
+- [[concepts/glie|GLIE (Greedy in the Limit of Infinite Exploration)]] — GLIE, or Greedy in the Limit of Infinite Exploration, is a technical property of a reasonable exploration scheme that wi
+- [[concepts/global-average-pooling|Global Average Pooling]] — Global Average Pooling (GAP) is a pooling layer that reduces the spatial dimensions of a feature map to a single value. 
+- [[concepts/global-constraint|Global Constraint]] — A global constraint is a constraint that involves an arbitrary number of variables, as opposed to binary constraints tha
+- [[concepts/global-contrast-normalization|Global Contrast Normalization]] — Global Contrast Normalization (GCN) is a preprocessing method that adjusts the contrast of an image based on statistics 
+- [[concepts/glorot-initialization|Glorot Initialization]] — Proposed by Xavier Glorot and Yoshua Bengio, Glorot initialization (also known as Xavier initialization) is a technique 
+- [[concepts/gmm-hmm-model|GMM-HMM Model]] — The GMM-HMM model family was the dominant approach for state-of-the-art speech recognition systems from the 1980s until 
+- [[concepts/googlenet|GoogLeNet]] — The GoogLeNet architecture, developed by Christian Szegedy and his colleagues at Google Research, won the ILSVRC 2014 ch
 - [[concepts/governance-framework-for-ai|Governance Framework for AI]] — A governance framework for AI, as described in the text, is a structured approach for overseeing automated decisions to 
+- [[concepts/gpu-implementations-for-neural-networks|GPU Implementations for Neural Networks]] — Most modern neural network implementations are based on Graphics Processing Units (GPUs). These are specialized hardware
+- [[concepts/gradient-boosting|Gradient Boosting]] — Gradient Boosting is an ensemble method that works by sequentially adding predictors, with each one correcting its prede
+- [[concepts/gradient-clipping|Gradient Clipping]] — Gradient Clipping is a technique designed to lessen the problem of exploding gradients in neural networks. It works by i
+- [[concepts/gradient-descent|Gradient Descent]] — Gradient descent is an optimization algorithm used to find the local minimum of a function by iteratively moving in the 
+- [[concepts/granger-causality-test-for-innovation|Granger Causality Test for Innovation]] — The Granger causality test (Granger, 1969) is employed in this study to validate the measure of “breakthrough” innovatio
+- [[concepts/greedy-best-first-search|Greedy Best-First Search]] — Greedy best-first search is an informed search algorithm that attempts to find a solution by always expanding the node t
+- [[concepts/greedy-layer-wise-pre-training|Greedy Layer-Wise Pre-training]] — Greedy layer-wise pre-training is a strategy used to efficiently train deep neural networks. It was presented as a break
+- [[concepts/greedy-layer-wise-pretraining|Greedy Layer-Wise Pretraining]] — Greedy layer-wise pretraining is a technique developed to overcome the difficulties of jointly training deep models like
+- [[concepts/greedy-layer-wise-unsupervised-pretraining|Greedy Layer-Wise Unsupervised Pretraining]] — Greedy layer-wise unsupervised pretraining is a procedure for initializing the weights of a deep neural network. It work
+- [[concepts/grid-search|Grid Search]] — Grid Search is a method for fine-tuning a model's hyperparameters. It automates the process of finding an optimal combin
+- [[concepts/ground-resolution-theorem|Ground Resolution Theorem]] — The ground resolution theorem states that if a set of clauses is unsatisfiable, then the resolution closure of those cla
+- [[concepts/ground-term|Ground Term]] — A ground term is formally defined as a term without variables. These terms can be simple constants, like `John` or `Rich
 - [[concepts/hallucinations-ai|Hallucinations (AI)]] — In the context of Large Language Models (LLMs), "hallucinations" are defined as the generation of factually inaccurate s
+- [[concepts/handling-categorical-attributes|Handling Categorical Attributes]] — Most Machine Learning algorithms are designed to work with numbers, not text. Therefore, categorical attributes, such as
+- [[concepts/handling-missing-values|Handling Missing Values]] — When faced with missing values in a dataset, there are three primary strategies. The first is to get rid of the correspo
+- [[concepts/hard-margin-classification|Hard Margin Classification]] — Hard margin classification is a method where the model, typically a Support Vector Machine, strictly imposes that all tr
+- [[concepts/hard-mixture-of-experts|Hard Mixture of Experts]] — The hard mixture of experts is a variant of the mixture of experts architecture. Unlike the standard "soft" mixture, whe
 - [[concepts/hard-problem-of-consciousness|The Hard Problem of Consciousness]] — The hard problem of consciousness is explicitly defined in the text as the challenge of understanding "how certain physi
+- [[concepts/hessian-matrix|Hessian Matrix]] — For a function $f(\boldsymbol{x})$ with multiple input dimensions, the Hessian matrix, denoted $H(f)(\boldsymbol{x})$, i
+- [[concepts/heterogeneous-impact-of-ai|Heterogeneous Impact of AI]] — The study investigates the distributional consequences of AI adoption, finding that its impact on productivity is highly
+- [[concepts/heterogeneous-treatment-effects|Heterogeneous Treatment Effects]] — Heterogeneous treatment effects occur when the causal effect of an intervention is not uniform across all individuals or
+- [[concepts/heteroscedastic-model|Heteroscedastic Model]] — A heteroscedastic model is one that predicts a different amount of variance in the output variable y for different value
+- [[concepts/heuristic-evaluation-function|Heuristic Evaluation Function]] — A heuristic evaluation function is a function applied to a game state to produce an estimate of its utility or value. It
+- [[concepts/heuristic-function|Heuristic Function]] — A heuristic function, commonly denoted $h(n)$, provides an estimate of the cost to reach a goal from a given state $n$. 
+- [[concepts/heuristic-minimax|Heuristic Minimax]] — Heuristic minimax is an application of the minimax algorithm where the search is cut off at a predefined depth, and a he
+- [[concepts/hidden-markov-model|Hidden Markov Model (HMM)]] — A Hidden Markov Model (HMM) is a specific type of temporal model characterized by a single, discrete state variable `X_t
+- [[concepts/hidden-markov-models-for-information-extraction|Hidden Markov Models for Information Extraction]] — Hidden Markov Models (HMMs) offer a machine learning alternative to manually engineered, template-based systems for info
+- [[concepts/hierarchical-planning|Hierarchical Planning]] — Hierarchical Planning is a method that moves beyond a fixed set of atomic actions to solve complex problems. It allows h
+- [[concepts/hierarchical-softmax|Hierarchical Softmax]] — Hierarchical Softmax is an efficient alternative to the standard softmax output layer for models with large vocabularies
+- [[concepts/hierarchical-task-network-planning|Hierarchical Task Network (HTN) Planning]] — Hierarchical task network (HTN) planning is an approach that allows an agent to accept advice from a domain designer in 
+- [[concepts/high-level-action|High-Level Action (HLA)]] — A High-Level Action (HLA) is a non-primitive action used in hierarchical planning that can be broken down into more spec
+- [[concepts/hill-climbing-search|Hill-Climbing Search]] — Hill-climbing search is a local search algorithm that continuously attempts to move to a better state in the problem's s
+- [[concepts/histogram-of-gradient-orientations|Histogram of Gradient Orientations (HOG)]] — The Histogram of Gradient orientations (HOG) is a feature descriptor used in computer vision, particularly for object de
 - [[concepts/homogenization-risk|Homogenization Risk]] — Homogenization risk is a specific, systemic risk associated with the broad adoption of AI. It is defined as the potentia
 - [[concepts/homophily|Homophily]] — Homophily is a principle describing the social tendency for individuals to be drawn to and form connections with others 
+- [[concepts/horizon-effect|Horizon Effect]] — The horizon effect is a problem that can occur in AI search algorithms that use a fixed-depth search. It happens when th
+- [[concepts/hultens-theorem|Hulten's Theorem]] — Hulten's theorem establishes a direct link between productivity improvements at the microeconomic level (e.g., for a spe
 - [[concepts/human-ai-collaboration|Human-AI Collaboration]] — The central idea of Human-AI Collaboration is to view and design AI as a complementary technology to human expertise. Th
 - [[concepts/human-ai-complementation|Human-AI Complementation]] — Human-AI Complementation is a strategic approach to career and organizational development in the age of artificial intel
 - [[concepts/human-ai-interaction-models|Human-AI Interaction Models]] — This approach has historically dominated the discussion around AI, focusing on how to take the human out of the equation
+- [[concepts/human-capital|Human Capital]] — Human capital represents the skills, knowledge, and experience possessed by an individual or population, viewed in terms
 - [[concepts/human-exceptionalism|Human Exceptionalism]] — The text describes a recent and fascinating shift in the discourse surrounding human exceptionalism in both popular and 
 - [[concepts/human-flourishing-ai-paradigm|Human Flourishing (AI Paradigm)]] — Proposed by Stefano Puntoni, the "human flourishing" paradigm is an alternative to the "human replacement" mindset. It r
 - [[concepts/human-impact-of-ai|Human Impact of AI]] — The human impact of AI is an area of study that analyzes the consequences of deploying artificial intelligence technolog
 - [[concepts/human-in-the-loop|Human in the Loop]] — The "human in the loop" model proposes that while routine or "grunt work" can be outsourced to AI, a human must remain a
+- [[concepts/human-machine-collaboration|Human-Machine Collaboration]] — The book posits that the primary impact of AI on labor will be collaboration, not just replacement (65–67, 212). This in
+- [[concepts/human-machine-complementarity|Human-Machine Complementarity]] — Human-machine complementarity describes a scenario where an AI tool like ChatGPT increases worker productivity by augmen
+- [[concepts/human-machine-division-of-labor|Human-Machine Division of Labor]] — As prediction machines improve, businesses must adjust the division of labor between humans and machines. This collabora
 - [[concepts/human-replacement-ai-mindset|Human Replacement (AI Mindset)]] — A mindset for AI development, described by Stefano Puntoni as prevalent in the tech sector, is that of "human replacemen
 - [[concepts/humanized-ai-narrative|Humanized AI Narrative]] — The text identifies the 'Humanized AI Narrative' as the sociological starting point for social experiences with AI. It i
 - [[concepts/humans-as-managers-of-agents|Humans as Managers of Agents]] — Proposed by Shishir Mehrotra, this concept suggests that the role of humans in an AI-driven workplace will evolve to be 
 - [[concepts/humans-with-ai-thesis|Humans with AI Thesis]] — The "Humans with AI" thesis, as articulated by Karim Lakhani, posits that the primary threat to employment is not artifi
+- [[concepts/hyperparameter-tuning|Hyperparameter Tuning]] — Hyperparameter tuning is the process of selecting the best values for a model's hyperparameters, which are parameters no
+- [[concepts/hyperparameter|Hyperparameter]] — Hyperparameters are settings that control the behavior of a learning algorithm. Unlike model parameters (like the weight
+- [[concepts/hypothesis-space|Hypothesis Space]] — The hypothesis space is the set of functions that a learning algorithm is permitted to select as being the solution to a
+- [[concepts/ideal-price-index-condition|Ideal Price Index Condition]] — The ideal price index condition is a formula that links the aggregate price index of a sector, $P_j$, to the prices of t
 - [[concepts/ideation-roles-for-llms|Ideation Roles for LLMs]] — "Ideation roles" are introduced as metaphors that clarify the functions Large Language Models (LLMs) can perform in crea
 - [[concepts/identity-motives-in-consumption|Identity Motives in Consumption]] — Identity motives in consumption refer to the drive to make purchasing decisions based on the desire to be a certain kind
 - [[concepts/identity-threat-from-ai|Identity Threat (from AI)]] — An identity threat from AI is a specific form of psychological threat that occurs when a worker perceives that an artifi
+- [[concepts/identity-uncertainty|Identity Uncertainty]] — Identity uncertainty is the problem of determining which symbols or observations refer to the same real-world object. Th
+- [[concepts/if-then-logic|If-Then Logic]] — All machines are programmed using the classic if-then logic. The "if" component specifies a particular scenario, environ
+- [[concepts/ignorability|Ignorability]] — Ignorability is a core assumption in the Rubin Causal Model required for estimating causal effects from observational da
+- [[concepts/ill-conditioning|Ill-Conditioning]] — Ill-conditioning is a prominent challenge in numerical optimization that affects both convex and non-convex problems, an
+- [[concepts/image-based-estimating|Image-Based Estimating]] — Image-based estimating represents a major technological shift in the auto insurance industry, moving from manual damage 
+- [[concepts/image-segmentation|Image Segmentation]] — Image segmentation is the process of breaking an image into distinct regions, where each region consists of pixels that 
+- [[concepts/importance-sampling|Importance Sampling]] — Importance sampling is a technique for estimating an expectation with respect to a complex probability distribution by d
+- [[concepts/importance-weighted-autoencoder|Importance Weighted Autoencoder]] — The Importance Weighted Autoencoder (Burda et al., 2015) is an extension of the Variational Autoencoder (VAE) framework.
+- [[concepts/inception-module|Inception Module]] — An inception module is the fundamental building block of the GoogLeNet CNN architecture, named in reference to the movie
+- [[concepts/incremental-pca|Incremental PCA (IPCA)]] — Incremental PCA (IPCA) is an algorithm developed to overcome a major limitation of standard PCA implementations, which r
+- [[concepts/independence-of-random-variables|Independence of Random Variables]] — Two random variables, x and y, are defined as independent if their probability distribution can be expressed as a produc
+- [[concepts/independent-component-analysis|Independent Component Analysis (ICA)]] — Independent Component Analysis (ICA) is one of the oldest representation learning algorithms. It is most often used as a
+- [[concepts/indexical|Indexical]] — An indexical is a phrase that refers directly to the current situation in which an utterance is made. The meaning of an 
+- [[concepts/indirect-effect|Indirect Effect]] — The indirect effect is the causal influence of one variable (X) on another (Y) that is transmitted through a third, medi
 - [[concepts/indirect-network-effects|Indirect Network Effects]] — Indirect network effects occur on multisided platforms or networks where there are at least two distinct user groups. Th
+- [[concepts/inductive-learning|Inductive Learning]] — Inductive learning is the process of finding a hypothesis that is consistent with and generalizes from a set of examples
+- [[concepts/inductive-logic-programming|Inductive Logic Programming (ILP)]] — Inductive Logic Programming (ILP) is a field of study focused on learning algorithms that incorporate prior knowledge, s
+- [[concepts/inference-by-enumeration|Inference by Enumeration]] — Inference by enumeration is a fundamental algorithm for performing exact inference in Bayesian networks. It answers a co
+- [[concepts/inference-in-logic|Inference (in logic)]] — Inference is the practical procedure of deriving a sentence α from a knowledge base KB. If an inference algorithm *i* ca
+- [[concepts/inference-in-probabilistic-models|Inference (in Probabilistic Models)]] — Inference is a central task in probabilistic modeling where one seeks to answer questions about how variables are relate
+- [[concepts/inference-logic|Inference (Logic)]] — Inference is the process of deriving new sentences from a collection of old ones. For a knowledge-based agent, this is t
+- [[concepts/inference-machine-learning|Inference (Machine Learning)]] — Inference is the phase in a machine learning project where a trained model is applied to make predictions on new cases. 
+- [[concepts/influence-diagrams|Influence Diagrams]] — Influence diagrams are presented as a tool for decision analysis and reasoning in belief networks. A 1998 paper by R. D.
+- [[concepts/influencing-customer-behavior|Influencing Customer Behavior]] — Influencing customer behavior is identified as one of the newest strategic objectives for AI. This archetype involves th
+- [[concepts/information-based-strategy|Information-Based Strategy]] — Information-based strategy is the core idea upon which Capital One was formed. It is the belief that systematically usin
 - [[concepts/information-fiduciary|Information Fiduciary]] — An information fiduciary is defined as a person or business that deals in information and has an obligation to act in a 
+- [[concepts/information-gain|Information Gain]] — Information gain is the criterion used by the `IMPORTANCE` function within the decision tree learning algorithm to selec
+- [[concepts/information-gathering-action|Information Gathering Action]] — An information gathering action is a decision made by a robot to acquire information to reduce uncertainty about a criti
+- [[concepts/information-gathering-agent|Information-Gathering Agent]] — An information-gathering agent uses a decision network to model its environment and decisions. Before committing to a fi
+- [[concepts/information-retrieval|Information Retrieval (IR)]] — Information retrieval is the task of finding documents that are relevant to a query. The query can be a question, a topi
+- [[concepts/information-theory|Information Theory]] — Information theory is a framework for quantifying the amount of uncertainty associated with a probability distribution.
+- [[concepts/innovation-possibilities-frontier|Innovation Possibilities Frontier]] — The innovation possibilities frontier is a conceptual framework used to analyze the direction of technological change. I
+- [[concepts/inside-the-frontier-task|Inside-the-Frontier Task]] — In the context of the Ssrn 4573321 study, an "inside-the-frontier" task is an experimental activity designed to be withi
+- [[concepts/instance-based-learning|Instance-Based Learning]] — Instance-based learning, also called memory-based learning, is a learning method where the hypothesis consists of the en
+- [[concepts/instrumental-variable|Instrumental Variable]] — An instrumental variable is a variable used in observational studies to estimate a causal effect when controlled experim
+- [[concepts/instrumental-variables-approach-for-innovation|Instrumental Variables Approach for Innovation]] — To move beyond correlation and establish a causal link between innovation and new work creation, the study employs an in
+- [[concepts/intangible-capital|Intangible Capital]] — Intangible capital represents a class of productive assets that are not measured in traditional economic statistics. The
 - [[concepts/intelligence-vs-consciousness-distinction|Intelligence vs. Consciousness Distinction]] — The text draws a sharp line between intelligence and consciousness, defining them as fundamentally different kinds of ph
+- [[concepts/intelligence-without-representation|Intelligence without Representation]] — "Intelligence without representation" is a concept introduced in a 1991 paper of the same name by Rodney A. Brooks. The 
 - [[concepts/internet-of-things|Internet of Things (IoT)]] — The Internet of Things (IoT) refers to a class of product innovations where physical objects are embedded with technolog
+- [[concepts/interpretation-as-abduction|Interpretation as Abduction]] — Interpretation as Abduction is a formal theory of natural language understanding proposed by Jerry R. Hobbs, Mark E. Sti
+- [[concepts/interreflections|Interreflections]] — Interreflections, also known as mutual illumination, occur when surfaces in a scene are illuminated by light that has be
+- [[concepts/intersection-over-union|Intersection over Union (IoU)]] — Intersection over Union (IoU) is a standard metric used to evaluate how well a model can predict bounding boxes in tasks
+- [[concepts/inverse-probability|Inverse Probability]] — Inverse probability is the problem of determining the probability of a cause or hypothesis based on observed evidence or
+- [[concepts/inverse-resolution|Inverse Resolution]] — Inverse resolution is a major approach to Inductive Logic Programming (ILP) that constructs hypotheses by inverting the 
+- [[concepts/isolation-forest|Isolation Forest]] — The Isolation Forest is an efficient algorithm specifically designed for outlier or anomaly detection. It is noted to be
+- [[concepts/iterative-deepening-a-star|Iterative-Deepening A* (IDA*)]] — Iterative-Deepening A* (IDA*) is a method to reduce the memory requirements of A*. It performs a series of depth-first s
+- [[concepts/iterative-deepening-search|Iterative Deepening Search]] — Iterative deepening search is a strategy that repeatedly applies depth-limited search, incrementally increasing the dept
 - [[concepts/j-curve-of-productivity|J-Curve of Productivity]] — The J-Curve of Productivity is a pattern observed when new technologies, such as AI, are implemented in an organization.
+- [[concepts/jagged-capability-frontier|Jagged Capability Frontier]] — The concept of a "jagged capability frontier" is used to describe the performance of AI in high-end knowledge work. It p
+- [[concepts/jagged-frontier-of-ai|Jagged Frontier of AI]] — The "jagged frontier" refers to the uneven nature of AI's capabilities in knowledge-intensive workflows. This means that
 - [[concepts/jagged-frontier|Jagged Frontier]] — The Jagged Frontier describes the unpredictable and inconsistent capability boundary of modern AI systems. The text emph
 - [[concepts/jagged-technological-frontier|Jagged Technological Frontier]] — The "jagged technological frontier" is a term used to characterize the performance profile of AI systems. It signifies t
+- [[concepts/jaro-winkler-algorithm|Jaro-Winkler Algorithm]] — The Jaro-Winkler algorithm is a method for fuzzy string matching that calculates a similarity score between two strings.
 - [[concepts/job-augmentation|Job Augmentation]] — Job augmentation is a key effect of AI on the labor market, distinct from simple job replacement. Instead of eliminating
+- [[concepts/job-reconstitution|Job Reconstitution]] — A job is defined as a collection of tasks. Job reconstitution occurs when the implementation of AI tools leads to a chan
+- [[concepts/job-zones|Job Zones]] — Job Zones are a classification system that groups similar occupations based on the level of preparation needed to perfor
+- [[concepts/joint-action|Joint Action]] — A joint action is the fundamental concept of action in a multi-actor or multi-agent system. Instead of a single action `
+- [[concepts/judgment-in-ai-context|Judgment (in AI context)]] — In the context of AI and decision-making, judgment is the critical component that involves assessing the payoffs associa
+- [[concepts/judgment|Judgment]] — In the context of decision making, judgment is defined as "the skill used to determine a payoff, utility, reward, or pro
 - [[concepts/just-in-time-insights|Just-in-Time Insights]] — Just-in-time insights refer to the ability to gain actionable knowledge from data quickly enough to act upon it while it
+- [[concepts/k-d-tree|k-d Tree]] — A k-d tree, which stands for k-dimensional tree, is a balanced binary tree data structure used for organizing data with 
+- [[concepts/k-fold-cross-validation|K-fold Cross-Validation]] — K-fold cross-validation is a procedure used to evaluate machine learning models on a limited data sample. It is presente
+- [[concepts/k-means-clustering|K-Means Clustering]] — K-Means is a popular clustering algorithm that aims to find the center of each cluster (referred to as a centroid) and a
+- [[concepts/k-nearest-neighbors-density-estimation|k-Nearest-Neighbors Density Estimation]] — k-Nearest-Neighbors (k-NN) is a non-parametric method used for density estimation. It estimates the density at a query p
+- [[concepts/k-nearest-neighbors|k-Nearest Neighbors (k-NN)]] — k-Nearest Neighbors is a family of non-parametric supervised learning techniques used for both classification and regres
+- [[concepts/kalman-filter|Kalman Filter]] — The Kalman filter is a model for temporal probabilistic reasoning over systems with continuous state variables. Its core
+- [[concepts/karush-kuhn-tucker-approach|Karush-Kuhn-Tucker (KKT) Approach]] — The Karush-Kuhn-Tucker (KKT) approach is a comprehensive framework for handling constrained optimization problems. It tr
+- [[concepts/keras-callbacks|Keras Callbacks]] — Callbacks are objects in the Keras library that allow a user to inject custom behavior at various points during the mode
+- [[concepts/keras-functional-api|Keras Functional API]] — The Keras Functional API is a powerful method for building neural network models that provides greater flexibility than 
+- [[concepts/kernel-density-estimation|Kernel Density Estimation]] — Kernel density estimation, also known as Parzen window density estimation, is a non-parametric technique for estimating 
+- [[concepts/kernel-method|Kernel Method]] — A kernel is a function used in machine learning to weight the influence of each data example. As described in the text, 
+- [[concepts/kernel-pca|Kernel PCA]] — Kernel PCA (kPCA) applies the kernel trick to perform non-linear dimensionality reduction. Mathematically, this process 
+- [[concepts/kernel-trick|Kernel Trick]] — The kernel trick is a technique that allows algorithms to implicitly operate in a high-dimensional, or even exponential,
 - [[concepts/keystone-strategy|Keystone Strategy]] — A keystone strategy is a business approach centered on aligning a company's internal operations and external relationshi
+- [[concepts/kinematic-state|Kinematic State (Pose)]] — The kinematic state of a robot, also referred to as its pose, describes its location and orientation. The term "kinemati
+- [[concepts/knowledge-base-approach|Knowledge Base Approach]] — The knowledge base approach to artificial intelligence is a method where knowledge about the world is hard-coded into a 
+- [[concepts/knowledge-based-agent|Knowledge-Based Agent]] — A knowledge-based agent is composed of a knowledge base and an inference mechanism. The knowledge base contains a set of
+- [[concepts/knowledge-based-inductive-learning|Knowledge-Based Inductive Learning (KBIL)]] — Knowledge-Based Inductive Learning (KBIL) describes a class of algorithms that utilize existing background knowledge to 
+- [[concepts/knowledge-engineering|Knowledge Engineering]] — Knowledge engineering is the methodology for constructing a knowledge base for an AI system. It involves a series of ste
+- [[concepts/knowledge-intensive-business-services|Knowledge-Intensive Business Services (KIBS)]] — Knowledge-Intensive Business Services (KIBS) refer to a category of work performed by professionals such as accountants,
+- [[concepts/knowledge-representation|Knowledge Representation]] — Knowledge representation is the study of how to put knowledge into a form that a computer can use to reason. It is a fou
+- [[concepts/knowledge-work|Knowledge Work]] — As examined in this study, knowledge work consists of a set of interdependent tasks that require highly skilled professi
+- [[concepts/known-knowns|Known Knowns]] — In the context of prediction, "known knowns" are situations where there is rich data available, leading to the knowledge
+- [[concepts/known-unknowns|Known Unknowns]] — "Known unknowns" describe situations where there is a known lack of sufficient data, making it clear that prediction wil
+- [[concepts/kolmogorov-complexity|Kolmogorov Complexity]] — Kolmogorov complexity, also referred to as algorithmic complexity, provides a formal definition for the concept of simpl
+- [[concepts/l1-norm|L1 Norm]] — The L¹ norm is a function used to measure the size of a vector. It is calculated by summing the absolute values of all t
+- [[concepts/l1-parameter-regularization|L1 Parameter Regularization]] — L1 parameter regularization adds a penalty term to the objective function that is proportional to the L1 norm of the mod
+- [[concepts/l1-regularization|L1 Regularization]] — L1 regularization is a method used during model training to prevent overfitting and to create sparse models. It works by
+- [[concepts/l2-norm|L2 Norm]] — The L² norm, also called the Euclidean norm, is a specific type of Lᵖ norm where p=2. It measures the size of a vector b
+- [[concepts/l2-parameter-regularization|L2 Parameter Regularization]] — L2 parameter regularization is one of the simplest and most common forms of regularization. It is also widely known as *
+- [[concepts/l2-regularization|L2 Regularization]] — L2 regularization is a common technique used to combat overfitting in machine learning models. It adds a penalty term to
+- [[concepts/label-smoothing|Label Smoothing]] — Label smoothing is a regularization technique designed to improve a model's robustness to noise in the training data lab
 - [[concepts/labeling-bias|Labeling Bias]] — Labeling bias is a specific type of bias that is introduced into an AI system during the data labeling or tagging phase.
+- [[concepts/laboratory-in-the-field-experiment|Laboratory-in-the-field experiment]] — The study described in Ssrn 4573321 utilized a preregistered, randomized laboratory-in-the-field experiment to test the 
+- [[concepts/ladder-of-causation|Ladder of Causation]] — The Ladder of Causation is a framework that outlines at least three distinct levels of cognitive ability that a causal l
+- [[concepts/lady-lovelaces-objection|Lady Lovelace's Objection]] — The book references "Lady Lovelace's Objection," a concept later named by Alan Turing, to argue against the notion that 
+- [[concepts/lamberts-cosine-law|Lambert's Cosine Law]] — Lambert's cosine law describes the relationship between the orientation of a diffuse surface and its apparent brightness
+- [[concepts/language-generation|Language Generation]] — Language generation is the task of producing a natural language string from a more abstract, non-linguistic representati
+- [[concepts/language-model|Language Model]] — A language model is a probabilistic model that determines the likelihood of a given sequence of words occurring in a par
+- [[concepts/laplace-distribution|Laplace Distribution]] — The Laplace distribution is a continuous probability distribution that is characterized by its ability to place a sharp 
+- [[concepts/laplace-smoothing|Laplace Smoothing]] — Laplace smoothing, also called add-one smoothing, is the simplest type of smoothing used to adjust probability estimates
 - [[concepts/large-language-models|Large Language Models]] — Large Language Models (LLMs) are a form of artificial intelligence that users can employ to automate elements of various
+- [[concepts/lasso-regression|Lasso Regression]] — Lasso Regression is a regularized version of linear regression that adds a specific penalty term to the cost function. T
+- [[concepts/latent-dirichlet-allocation|Latent Dirichlet Allocation]] — Latent Dirichlet Allocation (LDA) is a probabilistic model for analyzing text corpora. It operates on the principle that
+- [[concepts/leaky-rectified-linear-unit|Leaky Rectified Linear Unit (Leaky ReLU)]] — The Leaky ReLU function is defined as LeakyReLU_α(z) = max(αz, z). The hyperparameter α defines how much the function “l
+- [[concepts/leaky-units|Leaky Units]] — Leaky units are a mechanism used in recurrent networks to address the challenge of learning long-term dependencies. They
+- [[concepts/learning-agent|Learning Agent]] — A learning agent is an agent designed to improve its behavior and decision-making capabilities through experience. Unlik
+- [[concepts/learning-bayesian-network-structure-with-hidden-variables|Learning Bayesian Network Structure with Hidden Variables]] — This task involves learning the dependency structure (the directed acyclic graph) of a Bayesian network when the dataset
+- [[concepts/learning-bayesian-network-structures|Learning Bayesian Network Structures]] — While parameter learning assumes a fixed Bayesian network structure, in many domains the underlying causal model is unkn
+- [[concepts/learning-by-using|Learning-by-Using]] — Coined by economic historian Nathan Rosenberg, 'learning-by-using' is the phenomenon whereby firms improve their product
+- [[concepts/learning-curve|Learning Curve]] — A learning curve is a tool for measuring the performance of a learning algorithm. It is a graph that shows the predictio
+- [[concepts/learning-curves|Learning Curves]] — Learning curves are plots that visualize a model's performance on the training set and the validation set as a function 
 - [[concepts/learning-effects|Learning Effects]] — Learning effects capture the value that is added by increasing the amount of data flowing through a network. This data c
+- [[concepts/learning-from-examples|Learning from Examples]] — Learning from examples involves an agent learning a function, denoted as f, from a set of example pairs (x, f(x)). The u
+- [[concepts/learning-rate-scheduling|Learning Rate Scheduling]] — Finding a single, optimal learning rate for training a model can be difficult. If the learning rate is set too high, tra
+- [[concepts/learning-rate|Learning Rate]] — The learning rate is an important parameter in online learning systems that dictates how fast they should adapt to chang
+- [[concepts/least-constraining-value-heuristic|Least-Constraining-Value Heuristic]] — The least-constraining-value heuristic is a strategy for ordering the domain values of a variable during a backtracking 
+- [[concepts/lexicalized-pcfg|Lexicalized PCFG]] — A lexicalized PCFG is a type of probabilistic grammar that addresses the context-insensitivity of standard PCFGs. In a l
+- [[concepts/likelihood-function|Likelihood Function]] — In statistics, the term 'likelihood' is used to describe how plausible a particular set of parameter values, $\theta$, a
+- [[concepts/likelihood-weighting|Likelihood Weighting]] — Likelihood weighting is an approximate inference algorithm that estimates posterior probabilities in a Bayesian network.
+- [[concepts/limited-memory-bfgs|Limited Memory BFGS (L-BFGS)]] — Limited Memory BFGS (L-BFGS) is an optimization algorithm that addresses the significant memory costs of the standard Br
+- [[concepts/linear-combination|Linear Combination]] — A linear combination of a set of vectors {v⁽¹⁾, ..., v⁽ⁿ⁾} is an operation given by multiplying each vector v⁽ⁱ⁾ by a co
+- [[concepts/linear-gaussian-model|Linear Gaussian Model]] — The linear Gaussian model is used to represent the conditional probability distribution of a continuous variable given i
+- [[concepts/linear-hidden-unit|Linear Hidden Unit]] — A linear hidden unit is a unit within a neural network that does not apply a nonlinear activation function, effectively 
+- [[concepts/linear-probability-model|Linear Probability Model]] — A Linear Probability Model (LPM) is a type of regression model where the dependent variable is a binary or dummy variabl
+- [[concepts/linear-regression|Linear Regression]] — Linear Regression is a fundamental Machine Learning technique. It is cited in the text as an example of one of the "simp
+- [[concepts/linear-unit|Linear Unit]] — A linear unit is a type of output unit in a neural network that does not apply a non-linearity to its input. It is typic
 - [[concepts/llm-augmented-persuasion|LLM-Augmented Persuasion]] — The text describes how Large Language Models (LLMs) can increase the perceived originality and creativity of ideas by au
+- [[concepts/llm-exposure-rubric|LLM Exposure Rubric]] — The LLM Exposure Rubric is a taxonomy presented in the study to systematically gauge a task's exposure to Generative Pre
+- [[concepts/llm-exposure|LLM Exposure]] — LLM exposure is a metric designed to gauge the potential impact of Generative Pre-trained Transformers (GPTs) on occupat
 - [[concepts/llm-generated-impact-scores|LLM-Generated Impact Scores]] — The text suggests that LLM-generated “impact scores" could be a useful tool for editors seeking to predict whether a sub
+- [[concepts/local-contrast-normalization|Local Contrast Normalization]] — Local contrast normalization is motivated by the limitations of global contrast normalization (GCN). GCN may fail to mak
+- [[concepts/local-minima|Local Minima]] — In neural networks, a vast number of local minima can arise from model non-identifiability. For example, in rectified li
+- [[concepts/local-receptive-field|Local Receptive Field]] — A local receptive field is the limited region of an input space to which a single neuron is connected and to which it wi
+- [[concepts/local-search|Local Search]] — Local search algorithms are a class of methods that explore the state space by maintaining a single current state and it
+- [[concepts/localization|Localization]] — Localization is the problem of finding out where things are. This encompasses determining the location of objects in the
+- [[concepts/locally-linear-embedding|Locally Linear Embedding]] — Locally Linear Embedding (LLE) is a dimensionality reduction algorithm that operates in two main steps. The first step i
+- [[concepts/log-loss|Log Loss]] — Log Loss is the name given to the cost function used to train a Logistic Regression model. It is calculated as the avera
+- [[concepts/logic-in-ai|Logic (in AI)]] — In artificial intelligence, logic serves as a general class of representations that form the foundation for knowledge-ba
+- [[concepts/logic-programming|Logic Programming]] — Logic programming is described as the most widely used form of automated reasoning. It utilizes backward-chaining infere
+- [[concepts/logistic-activation-function|Logistic Activation Function]] — The logistic activation function, commonly known as the sigmoid function, is a mathematical function that produces an S-
+- [[concepts/logistic-regression|Logistic Regression]] — Logistic regression is the process of fitting the weights of a classification model to minimize a loss function on a giv
+- [[concepts/long-short-term-memory|Long Short-Term Memory]] — Long Short-Term Memory (LSTM) recurrent networks are built from "LSTM cells" which replace the standard units of a simpl
+- [[concepts/lords-paradox|Lord's Paradox]] — Originally stated by statistician Frederic Lord in 1967, Lord's Paradox is a fictitious thought experiment designed to p
+- [[concepts/loss-function|Loss Function]] — A loss function is used in situations where not all prediction errors are of equal consequence. It is a function that ex
 - [[concepts/lottery-based-funding-system|Lottery-Based Funding System]] — Proposed by Karim Lakhani, a lottery-based funding system is designed to counteract a fundamental bias against novelty i
+- [[concepts/lottery-decision-theory|Lottery (Decision Theory)]] — In decision theory, an action with uncertain outcomes is formally represented as a lottery. A lottery L with possible ou
+- [[concepts/low-dimensional-embedding|Low-Dimensional Embedding]] — Low-dimensional embedding is an unsupervised machine learning method that maps high-dimensional sensor streams into lowe
+- [[concepts/low-precision-implementations|Low-Precision Implementations]] — Recent work suggests that deep neural networks can be successfully trained and used with low-precision numerical represe
+- [[concepts/lrta-star-algorithm|LRTA* Algorithm]] — The LRTA*-AGENT function takes the current state `s'` as a percept. It maintains a persistent table `H` of cost estimate
+- [[concepts/lucas-critique|Lucas Critique]] — The Lucas Critique, formulated by economist Robert Lucas in 1976, is a principle that cautions against using historical 
 - [[concepts/machine-decisions|Machine Decisions]] — Machine decisions, also referred to as automated decisions, are choices and judgments made by AI and machine learning al
 - [[concepts/machine-intelligence|Machine Intelligence]] — Machine intelligence is presented as a critical tool for scaling business operations, customer acquisition, servicing, a
+- [[concepts/machine-learning|Machine Learning]] — Machine Learning (ML) is a branch of artificial intelligence (AI) where systems use algorithms to learn from data, ident
+- [[concepts/machine-translation|Machine Translation]] — Machine translation (MT) is one of the oldest and most important tasks in artificial intelligence and natural language p
+- [[concepts/maintaining-arc-consistency|Maintaining Arc Consistency (MAC)]] — Maintaining Arc Consistency, or MAC, is an algorithm used as the `INFERENCE` procedure within a backtracking search for 
+- [[concepts/manhattan-distance|Manhattan Distance]] — Also known as the city block distance, the Manhattan distance is the sum of the horizontal and vertical distances betwee
+- [[concepts/manifold-hypothesis|Manifold Hypothesis]] — The manifold hypothesis posits that in the context of AI tasks involving data like images, sounds, or text, the data lie
+- [[concepts/manifold-learning|Manifold Learning]] — Manifold learning is an approach to dimensionality reduction that works by modeling the lower-dimensional manifold on wh
+- [[concepts/manipulator|Manipulator]] — A manipulator, or robot arm, is one of the primary categories of modern robots. They are characterized by being physical
+- [[concepts/map-inference|Maximum a Posteriori (MAP) Inference]] — Maximum a Posteriori (MAP) inference can be formally derived as a specific form of approximate inference. This derivatio
+- [[concepts/marginal-productivity-theory-of-wages|Marginal Productivity Theory of Wages]] — The Marginal Productivity Theory of Wages posits that in a competitive market, the wage paid to a factor of production, 
+- [[concepts/marginalization|Marginalization]] — Marginalization, also known as summing out, is the process of deriving the probability distribution of a subset of varia
+- [[concepts/market-value-regression|Market Value Regression]] — A market value regression is an econometric technique used to infer the value of a firm's assets, including unmeasured i
 - [[concepts/marketplace-metacognition|Marketplace Metacognition]] — Marketplace metacognition is a theoretical lens for understanding how consumers perceive and interact with intelligent a
+- [[concepts/markov-assumption|Markov Assumption]] — The Markov assumption is a simplifying condition used in modeling processes that evolve over time. It posits that the cu
+- [[concepts/markov-chain-monte-carlo-methods|Markov Chain Monte Carlo (MCMC) Methods]] — MCMC methods are employed in situations where direct sampling from a target distribution $p_{\text{model}}(\mathbf{x})$ 
+- [[concepts/markov-chain-monte-carlo|Markov Chain Monte Carlo (MCMC)]] — Markov Chain Monte Carlo (MCMC) is a family of algorithms used for inference by simulation, particularly in complex prob
+- [[concepts/markov-chain|Markov Chain]] — A Markov chain is a process on a state space defined by a transition probability, denoted q(x -> x'), which gives the pr
+- [[concepts/markov-decision-process|Markov Decision Process]] — A Markov Decision Process (MDP) is a formal model for a sequential decision problem designed for a fully observable, sto
+- [[concepts/markov-network|Markov Network]] — A Markov network is an undirected form of graphical model. Unlike Bayesian networks, which use directed edges to represe
+- [[concepts/markov-process|Markov Process]] — A Markov process is a model for a sequence of random variables where the future is independent of the past, given the pr
 - [[concepts/mass-production|Mass Production]] — Mass production is built on concepts like specialization, focus, and standardization. These principles allow manufacturi
+- [[concepts/matrix-product|Matrix Product]] — The matrix product of two matrices, A and B, is a third matrix, C = AB. This operation is one of the most important invo
+- [[concepts/max-pooling|Max Pooling]] — Max pooling is a pooling operation that calculates the maximum, or largest, value in a patch of a feature map. The resul
+- [[concepts/maximin|Maximin]] — The maximin technique is a method for determining the optimal mixed strategy for a player in a two-player, zero-sum game
+- [[concepts/maximum-a-posteriori-estimation|Maximum a Posteriori (MAP) Estimation]] — MAP Bayesian inference is a method for producing a point estimate of a model's parameters. It determines the posterior d
+- [[concepts/maximum-likelihood-estimation|Maximum Likelihood Estimation]] — Maximum Likelihood Estimation (MLE) is presented as a foundational principle for deriving specific functions that are go
+- [[concepts/maximum-likelihood-parameter-learning|Maximum-Likelihood Parameter Learning]] — Maximum-likelihood parameter learning is a technique used in density estimation for finding the numerical parameters of 
+- [[concepts/maxout-unit|Maxout Unit]] — A maxout unit is a type of hidden unit in a neural network that can learn a piecewise linear, convex function with up to
+- [[concepts/mean-covariance-restricted-boltzmann-machine|Mean-Covariance Restricted Boltzmann Machine]] — The Mean-Covariance Restricted Boltzmann Machine (mcRBM) is a generative model designed to capture both the mean and the
+- [[concepts/mean-field-approximation|Mean Field Approximation]] — The mean field approach is a method for approximate inference that aims to find a tractable distribution Q that best app
+- [[concepts/mean-field-fixed-point-equations|Mean Field Fixed Point Equations]] — Mean field fixed point equations are a technique used to rapidly estimate the parameters of a mean field approximating d
+- [[concepts/mean-squared-error|Mean Squared Error]] — The Mean Squared Error (MSE) cost function is given by J(θ) = (1/2) * E_{x, y ~ p_data} [||y - f(x; θ)||^2], plus a cons
+- [[concepts/mechanism-design|Mechanism Design]] — Mechanism design is often described as the 'inverse' of game theory. While game theory analyzes the outcomes of a game w
+- [[concepts/mediation-analysis|Mediation Analysis]] — Mediation analysis is the search for a mechanism, seeking to understand and quantify the pathways through which a cause 
+- [[concepts/mediation-fallacy|Mediation Fallacy]] — The Mediation Fallacy is a common blunder in statistical analysis that occurs when an investigator attempts to estimate 
+- [[concepts/mediation-formula|Mediation Formula]] — The Mediation Formula is presented as a major breakthrough in causal inference that provides a single, universal tool fo
+- [[concepts/mendelian-randomization|Mendelian Randomization]] — Mendelian randomization is a causal inference method that uses naturally occurring genetic variation as an instrument to
+- [[concepts/mercers-theorem|Mercer's Theorem]] — According to Mercer's theorem, if a function K(a, b) respects a few mathematical conditions known as Mercer's conditions
+- [[concepts/mereology|Mereology]] — Mereology, from the Greek word for "part," is a theory that uses the part-whole relation as a substitute for mathematica
 - [[concepts/metaphorical-ideation-roles|Metaphorical Ideation Roles]] — Metaphorical Ideation Roles is a framework for thinking about different ways to use Generative AI in the ideation proces
+- [[concepts/metaverse-creation-and-management|Metaverse Creation and Management]] — The metaverse is described as an immersive virtual environment designed for a wide range of activities, including entert
+- [[concepts/metonymy|Metonymy]] — Metonymy is a figure of speech where one object or entity is used to stand in for another that it is associated with. It
 - [[concepts/microsoft-ai-principles|Microsoft AI Principles]] — Microsoft, through a collaboration between its research and CELA (Corporate, External, and Legal Affairs) teams, establi
+- [[concepts/microworlds|Microworlds]] — Microworlds are limited problem domains that were chosen for early AI research because they appeared to require intellig
+- [[concepts/min-conflicts-heuristic|Min-Conflicts Heuristic]] — The min-conflicts heuristic is a greedy local search algorithm used for solving Constraint Satisfaction Problems. It ope
+- [[concepts/mind-body-problem|Mind-Body Problem]] — The mind-body problem, considered by ancient Greek and Hindu philosophers, was first analyzed in depth by 17th-century p
 - [[concepts/mindful-friction|Mindful Friction]] — Mindful friction is the concept of consciously choosing to perform tasks manually rather than outsourcing everything to 
+- [[concepts/mini-batch-k-means|Mini-Batch K-Means]] — Mini-Batch K-Means is an important variant of the standard K-Means algorithm, proposed in a 2010 paper by David Sculley.
+- [[concepts/minimax-algorithm|Minimax Algorithm]] — The minimax algorithm is designed to compute the optimal decision for a player from the current state in a two-player, z
+- [[concepts/minimax-search|Minimax Search]] — Minimax is a decision-making algorithm used in two-player adversarial games, such as chess or tic-tac-toe. It operates o
+- [[concepts/minimum-remaining-values-heuristic|Minimum-Remaining-Values (MRV) Heuristic]] — The minimum-remaining-values (MRV) heuristic is a strategy used in backtracking search to decide which variable to assig
+- [[concepts/missing-links-in-automation|Missing Links in Automation]] — Missing links in automation are small but critical tasks within a workflow that are fundamentally difficult to automate.
+- [[concepts/mixing-time|Mixing Time]] — In the context of Markov Chain Monte Carlo methods, the mixing time is the duration, or number of steps, required for th
+- [[concepts/mixture-of-experts|Mixture of Experts]] — The Mixture of Experts (MoE) architecture involves multiple "expert" networks and a "gater" network. For a given input, 
+- [[concepts/mixture-of-gaussians|Mixture of Gaussians]] — A mixture of Gaussians is a probability distribution formed by a weighted sum of individual Gaussian distributions. The 
+- [[concepts/mobile-robot|Mobile Robot]] — The mobile robot constitutes a primary category of robots, distinguished from anchored manipulators by its ability to mo
+- [[concepts/model-based-learning|Model-Based Learning]] — Model-based learning is a way for machine learning systems to generalize from training examples to make predictions on n
+- [[concepts/model-based-reflex-agent|Model-Based Reflex Agent]] — A model-based reflex agent is an agent that handles partial observability by maintaining an internal state that depends 
+- [[concepts/model-capacity|Model Capacity]] — Informally, a model's capacity is its ability to fit a wide variety of functions. It represents the complexity of the pa
+- [[concepts/model-checking|Model Checking]] — Model checking is an inference procedure that directly implements the definition of entailment (KB ⊨ α). It works by enu
+- [[concepts/model-checkpointing|Model Checkpointing]] — Model checkpointing is a technique used during the training of machine learning models, especially for tasks that take s
+- [[concepts/model-compression|Model Compression]] — Model compression is a strategy for reducing the cost of inference by replacing an original, computationally expensive m
 - [[concepts/model-first-approach|Model-First Approach]] — A model-first approach to building products is a strategy where the design process begins with and is centered on the AI
+- [[concepts/model-first-order-logic|Model (First-Order Logic)]] — A model in first-order logic is a formal structure that represents a possible state of the world. It is composed of a se
+- [[concepts/model-in-logic|Model (in logic)]] — In logic, a model is a formal structure used in place of the more informal "possible world." While a possible world can 
+- [[concepts/model-parameters|Model Parameters]] — Model parameters are the internal variables of a model that are learned from the training data. By tweaking these parame
+- [[concepts/model-preference-logic|Model Preference Logic]] — In a model preference logic, a sentence is entailed with a default status if it holds true across a specific subset of m
+- [[concepts/momentum-optimization|Momentum Optimization]] — The central idea behind Momentum optimization is inspired by the physical concept of momentum, analogized to a bowling b
+- [[concepts/monoculture-risk-in-ai|Monoculture Risk in AI]] — Monoculture risk in AI refers to the danger that arises from homogeneity in prediction systems. The concept is drawn fro
+- [[concepts/monte-carlo-dropout|Monte Carlo Dropout]] — Monte Carlo (MC) Dropout is a method that leverages a standard dropout-regularized model to estimate prediction uncertai
+- [[concepts/monte-carlo-methods|Monte Carlo Methods]] — Monte Carlo methods are a category of randomized algorithms used to find approximate solutions to problems where exact c
+- [[concepts/monte-carlo-search|Monte Carlo Search]] — Monte Carlo search is a technique used for game-playing, particularly in games where traditional methods like alpha-beta
+- [[concepts/monte-carlo-simulation-in-games|Monte Carlo Simulation (in Games)]] — Monte Carlo simulation is presented as an alternative method for evaluating a game position within a search algorithm. I
+- [[concepts/monty-hall-problem|Monty Hall Problem]] — The Monty Hall problem involves a game show scenario with three doors: behind one is a car, and behind the other two are
+- [[concepts/moral-robot|Moral Robot]] — The concept of a moral robot is approached not through prescriptive, rule-based systems, but through a causal framework.
+- [[concepts/moralization|Moralization]] — Moralization is the process of converting a directed graphical model into an undirected one, called a moralized graph. T
+- [[concepts/most-likely-sequence-finding|Most Likely Sequence Finding]] — The task is to find the weather sequence most likely to explain a given sequence of observations, such as an umbrella ap
+- [[concepts/multi-layer-perceptron|Multi-Layer Perceptron (MLP)]] — A Multi-Layer Perceptron (MLP) is an Artificial Neural Network formed by stacking multiple Perceptrons. Its structure co
+- [[concepts/multi-slot-next-price-auction|Multi-slot Next-Price Auction]] — A multi-slot next-price auction is a mechanism for selling multiple, or k, items, such as ad slots on a search engine re
+- [[concepts/multi-task-learning|Multi-task Learning]] — In a deep learning framework, multi-task learning often involves sharing the lower layers of a network across several ta
+- [[concepts/multiagent-reinforcement-learning|Multiagent Reinforcement Learning]] — Multiagent Reinforcement Learning (Multiagent RL) addresses sequential game-theoretic problems, also known as Markov gam
+- [[concepts/multiattribute-utility-theory|Multiattribute Utility Theory]] — When decision outcomes are characterized by multiple attributes (e.g., cost, noise, and safety for an airport site), a u
+- [[concepts/multiclass-classification|Multiclass Classification]] — Multiclass classification, also called multinomial classification, refers to tasks where classifiers must distinguish be
 - [[concepts/multihoming|Multihoming]] — Multihoming occurs when participants of a network or platform concurrently use two or more competing services. For examp
 - [[concepts/multimodal-data|Multimodal Data]] — Multimodal data refers to datasets that incorporate multiple forms of information beyond just text. As described in the 
+- [[concepts/multinoulli-distribution|Multinoulli Distribution]] — The multinoulli distribution, also called the categorical distribution, is a probability distribution for a single discr
+- [[concepts/multiplicative-utility-function|Multiplicative Utility Function]] — A multiplicative utility function is a specific mathematical form used to represent an agent's preferences when the attr
+- [[concepts/multisided-platform-business-model|Multisided Platform Business Model]] — The text describes multisided platforms as a business model where companies manage relationships between distinct groups
+- [[concepts/multivariate-linear-regression|Multivariate Linear Regression]] — In multivariate linear regression, the hypothesis `h_w(x)` is the dot product of a weight vector `w` and an input featur
+- [[concepts/mutually-utility-independent-mui|Mutually Utility Independent (MUI)]] — The concept of Mutually Utility Independence (MUI) extends preference independence to situations involving uncertainty a
+- [[concepts/n-gram-model|N-gram Model]] — An n-gram is a contiguous sequence of n items from a given sample of text or speech; the items can be characters, syllab
 - [[concepts/nadellas-law|Nadella's Law]] — Nadella's Law is a term coined to describe the accelerated pace of innovation in computing efficiency during the current
+- [[concepts/naive-bayes-model|Naive Bayes Model]] — A Naive Bayes model is a probability distribution where a single cause variable directly influences a number of effect v
+- [[concepts/natural-direct-effect|Natural Direct Effect]] — The Natural Direct Effect (NDE) is a type of direct effect defined using counterfactuals. It is designed to avoid the pi
+- [[concepts/natural-indirect-effect|Natural Indirect Effect]] — The Natural Indirect Effect (NIE) is the counterfactual counterpart to the Natural Direct Effect. It captures the portio
+- [[concepts/natural-kind-categories|Natural Kind Categories]] — Unlike categories with strict definitions, such as a triangle being a polygon with three sides, most categories in the r
 - [[concepts/natural-language-processing|Natural Language Processing]] — Natural Language Processing (NLP) is a technique within AI used to make sense of unstructured data. According to Stefano
 - [[concepts/nature-x-nurture|Nature × Nurture]] — The concept of Nature × Nurture represents the scientific consensus that neither genetics (nature) nor our environment (
+- [[concepts/nesterov-accelerated-gradient|Nesterov Accelerated Gradient]] — Nesterov Accelerated Gradient (NAG), also known as Nesterov Momentum optimization, is an enhancement of the standard Mom
+- [[concepts/nesterov-momentum|Nesterov Momentum]] — Nesterov Momentum, introduced by Sutskever et al. (2013), is a modification of the standard momentum algorithm inspired 
 - [[concepts/network-clustering|Network Clustering]] — Network clustering is a phenomenon that, along with multihoming, can serve as a check on the power of dominant platform 
 - [[concepts/network-effects|Network Effects]] — Network effects describe the value that is added by increasing the number of connections within and across networks. A s
+- [[concepts/neural-autoregressive-network|Neural Autoregressive Network]] — A neural autoregressive network is a directed acyclic graphical model that predicts the $i$-th variable $x_i$ of a vecto
+- [[concepts/neural-language-model|Neural Language Model]] — Introduced by Bengio et al. (2001), neural language models represented a shift back to modeling words as the fundamental
+- [[concepts/neural-machine-translation|Neural Machine Translation]] — Machine translation is the task of automatically converting a sentence from a source natural language to a target langua
+- [[concepts/neural-network|Neural Network]] — Neural networks are a class of machine learning models inspired by neuroscience. They are composed of a network of simpl
+- [[concepts/neural-networks|Neural Networks]] — Neural networks are a class of models used in Machine Learning, particularly in the subfield of Deep Learning. The text 
+- [[concepts/neural-turing-machine|Neural Turing Machine]] — Neural networks typically excel at storing implicit knowledge but struggle to memorize explicit facts. The Neural Turing
+- [[concepts/new-bad-tasks|New Bad Tasks]] — The paper introduces the concept of "new bad tasks" to account for the potential creation of negative social value by AI
+- [[concepts/new-task-creation|New Task Creation]] — New Task Creation is a type of technological innovation that involves the introduction of new, previously non-existent t
+- [[concepts/new-tasks|New Tasks]] — New tasks refer to the introduction of new work activities into the production process where labor holds a comparative a
+- [[concepts/new-work-creation|New Work Creation]] — New work creation refers to the emergence of novel job titles and occupational tasks within an economy. The text discuss
+- [[concepts/new-work-vs-existing-work|New Work vs. Existing Work]] — The study analyzes the evolution of the labor market by distinguishing between "new work," represented by the emergence 
+- [[concepts/new-work|New Work]] — New work refers to the introduction of new job tasks or job categories that require specialized human expertise. In the 
+- [[concepts/newtons-method|Newton's Method]] — Newton's method is a second-order optimization algorithm that utilizes a second-order Taylor series expansion to approxi
+- [[concepts/next-best-action-system|Next-Best-Action (NBA) System]] — A Next-Best-Action (NBA) system is an application of AI that provides users with tailored insights and recommendations. 
+- [[concepts/no-free-lunch-theorem|No Free Lunch Theorem]] — The No Free Lunch (NFL) theorem, based on a 1996 paper by David Wolpert, states that if you make absolutely no assumptio
+- [[concepts/noise-contrastive-estimation|Noise-Contrastive Estimation (NCE)]] — Noise-Contrastive Estimation (NCE) circumvents the intractable partition function by transforming the problem of density
+- [[concepts/noisy-or-model|Noisy-OR Model]] — The noisy-OR model is a method for efficiently representing conditional distributions, particularly for nodes with many 
+- [[concepts/non-monotonic-reasoning|Non-Monotonic Reasoning]] — The provided text identifies non-monotonic reasoning as a specific form of logical inference within artificial intellige
+- [[concepts/noncollapsibility|Noncollapsibility]] — Noncollapsibility is a procedural definition used to identify confounders, as described in a 1996 paper by Sven Hernberg
+- [[concepts/nonmonotonic-logic|Nonmonotonic Logic]] — Nonmonotonic logic provides a formal framework for reasoning where conclusions are defeasible. Unlike standard monotonic
+- [[concepts/nonresponse-bias|Nonresponse Bias]] — The text defines nonresponse bias as a special type of sampling bias that is introduced when a low percentage of people 
+- [[concepts/norm-penalties|Norm Penalties]] — The concept of Norm Penalties is introduced in the title of section 7.2, 'Norm Penalties as Constrained Optimization'.
+- [[concepts/normal-equation|Normal Equation]] — The Normal Equation is a closed-form solution for finding the value of the parameter vector $\boldsymbol{\theta}$ that m
+- [[concepts/normative-expert-system|Normative Expert System]] — A normative expert system is defined as one that acts rationally according to the laws of decision theory. This approach
 - [[concepts/not-all-creativity-is-worth-saving|Not All Creativity Is Worth Saving]] — This concept, presented as a key takeaway from David Droga, challenges the sentimental notion that all creative jobs mus
 - [[concepts/notifications-and-gamification|Notifications and Gamification]] — Notifications and gamification are popular design approaches used by product designers to increase user engagement with 
+- [[concepts/o-net-basic-skills|O*NET Basic Skills]] — O*NET Basic Skills are defined as developed capacities that facilitate learning or the more rapid acquisition of knowled
+- [[concepts/object-detection|Object Detection]] — The task of classifying and localizing multiple objects within a single image is called object detection. It extends sin
+- [[concepts/occluding-contours|Occluding Contours]] — Occluding contours are a type of generic constraint used to perceive three-dimensional shape and layout from two-dimensi
+- [[concepts/occupancy-grid|Occupancy Grid]] — An occupancy grid is a representation used for probabilistic mapping in robotics. In this model, the environment is disc
+- [[concepts/occupational-ai-exposure|Occupational AI Exposure]] — Occupational AI Exposure is a measure that estimates the potential impact of AI on the tasks that constitute a job. It i
+- [[concepts/ockhams-razor|Ockham's Razor]] — Ockham's razor is a principle that suggests choosing the simplest hypothesis that is consistent with the available examp
+- [[concepts/one-hot-encoding|One-Hot Encoding]] — One-hot encoding is a process that converts categorical data into a numerical format that can be fed to a machine learni
 - [[concepts/one-person-unicorn-company|One-Person Unicorn Company]] — The one-person unicorn company is a forward-looking concept describing a new type of company that venture capital invest
+- [[concepts/online-learning|Online Learning]] — Online learning is a machine learning approach designed for scenarios where the standard assumption of independent and i
+- [[concepts/online-planning|Online Planning]] — An online planning agent does not compute a complete plan before acting. Instead, it uses execution monitoring to track 
+- [[concepts/online-replanning|Online Replanning]] — Online replanning is a strategy for acting in the real world where an agent combines planning with execution, allowing i
+- [[concepts/online-search-problem|Online Search Problem]] — An online search problem is one that must be solved by an agent executing actions in the world, rather than by pure comp
+- [[concepts/ontological-commitment|Ontological Commitment]] — The ontological commitment of a formal language describes what it assumes about the nature of reality. It specifies the 
+- [[concepts/ontology-in-knowledge-representation|Ontology (in Knowledge Representation)]] — In the context of knowledge engineering, an ontology is the vocabulary of predicates, functions, and constants used to r
+- [[concepts/open-information-extraction|Open Information Extraction]] — Open Information Extraction (OIE) is an approach to information extraction that operates on a large scale, such as the e
 - [[concepts/open-source-software|Open Source Software]] — Open source software is software made available for free and licensed under terms like the GNU Public License (GPL). The
+- [[concepts/open-universe-probability-models|Open-Universe Probability Models]] — Open-universe probability models (OUPMs) are a class of models based on the standard semantics of first-order logic. Unl
+- [[concepts/open-world-assumption|Open-World Assumption]] — The open-world assumption is a logical principle used in planning under uncertainty. Under this assumption, if a fluent 
 - [[concepts/operating-model|Operating Model]] — An operating model is defined as the way a firm delivers value to its customers. It encompasses all the systems, process
+- [[concepts/operationality|Operationality]] — In the context of Explanation-Based Learning (EBL), operationality is a property of a subgoal within a derived rule. A s
+- [[concepts/optimistic-description|Optimistic Description]] — An optimistic description, denoted REACH⁺(s, h), is an approximation of the true reachable set of a High-Level Action (H
+- [[concepts/optimizers-curse|Optimizer's Curse]] — The optimizer's curse is a bias where the projected benefits of a chosen optimal course of action frequently fail to mat
+- [[concepts/organizational-and-adjustment-costs|Organizational and Adjustment Costs (OACs)]] — Organizational and Adjustment Costs (OACs) are the difficult problems and non-technology costs that firms encounter when
+- [[concepts/organizational-flattening|Organizational Flattening]] — Organizational flattening is a process where a company's hierarchical structure becomes less complex, typically involvin
 - [[concepts/organizational-inertia|Organizational Inertia]] — As organizations expand in scale or scope, managerial processes can stop working well, leading to inefficiency and even 
+- [[concepts/outside-the-frontier-task|Outside-the-Frontier Task]] — An "outside-the-frontier" task, as defined in the Ssrn 4573321 experiment, is a task that falls outside the reliable cap
+- [[concepts/overfitting|Overfitting]] — Overfitting occurs when a model performs very well on its training data but has a high generalization error, meaning it 
+- [[concepts/overflow|Overflow]] — Overflow is a numerical error that occurs when the magnitude of a number is too large to be represented in the available
+- [[concepts/parameter-sharing|Parameter Sharing]] — The most popular and extensive use of parameter sharing is in Convolutional Neural Networks (CNNs) applied to computer v
+- [[concepts/partial-order-planning|Partial-Order Planning]] — Partial-order planning is an approach that constructs plans where the actions are only partially ordered, in contrast to
+- [[concepts/partially-observable-markov-decision-process|Partially Observable Markov Decision Process (POMDP)]] — A Partially Observable Markov Decision Process (POMDP) is a framework for modeling decision-making problems where an age
+- [[concepts/partially-observable-problem|Partially Observable Problem]] — A partially observable problem is one where an agent's percepts do not suffice to pin down its exact state in the enviro
+- [[concepts/particle-filtering|Particle Filtering]] — Particle filtering is an algorithm that uses a set of N samples to approximate the current state distribution in a Dynam
+- [[concepts/partition-function|Partition Function]] — The partition function is a normalizing constant that appears in the definition of many probabilistic models. Its purpos
+- [[concepts/partition-ontology|Partition (in Ontology)]] — In the context of knowledge representation, a partition is a set of subclasses that form a disjoint exhaustive decomposi
+- [[concepts/passive-reinforcement-learning|Passive Reinforcement Learning]] — In passive reinforcement learning, an agent operates with a fixed policy, denoted as π. The agent's task is not to find 
+- [[concepts/pasting|Pasting]] — Pasting is an ensemble learning technique that involves training multiple predictors on various random subsets of the tr
+- [[concepts/patent-to-occupation-linking-methodology|Patent-to-Occupation Linking Methodology]] — The paper employs a specific five-step methodology to systematically link the textual content of patents to the descript
+- [[concepts/path-analysis|Path Analysis]] — Path analysis is a method created by Sewall Wright to bridge the gap between rung one (association) and rung two (causat
+- [[concepts/pattern-database|Pattern Database]] — The core idea behind pattern databases is to create a lookup table that stores the exact solution costs for every possib
+- [[concepts/pd-control|PD Control]] — PD (proportional-derivative) control is a feedback control mechanism used to guide a robot along a specified path. The c
+- [[concepts/pddl|Planning Domain Definition Language (PDDL)]] — PDDL, the Planning Domain Definition Language, is a representation for planning problems. It describes the initial and g
 - [[concepts/perception-as-a-construction|Perception as a Construction]] — Neuroscientist Anil Seth explains that the world we experience is a form of "construction" created by the brain. He clar
+- [[concepts/perceptron|Perceptron]] — A perceptron is a neural network unit that uses a hard threshold (a step function) as its activation function. A network
+- [[concepts/perspective-projection|Perspective Projection]] — Perspective projection is the image-formation process that mathematically describes how a 3D scene is mapped onto a 2D i
+- [[concepts/pessimistic-description|Pessimistic Description]] — A pessimistic description, denoted REACH⁻(s, h), is an approximation of the true reachable set of a High-Level Action (H
+- [[concepts/phone-linguistics|Phone (Linguistics)]] — A phone is a distinct speech sound that serves as a basic unit for forming words. Linguists have identified approximatel
+- [[concepts/phoneme|Phoneme]] — A phoneme is the smallest unit of sound that has a distinct meaning to the speakers of a particular language. It is a ca
+- [[concepts/physicalism|Physicalism]] — Physicalism, also referred to as the monist theory of mind, asserts that the mind is not separate from the body. It posi
+- [[concepts/pinhole-camera-model|Pinhole Camera Model]] — The pinhole camera is the simplest method for forming a focused image. It consists of a box with a small opening, the pi
+- [[concepts/planning-as-constraint-satisfaction|Planning as Constraint Satisfaction]] — Given that constraint satisfaction problems (CSPs) share commonalities with Boolean satisfiability and are effective for
+- [[concepts/planning-graph|Planning Graph]] — A planning graph is a directed, leveled graph that approximates the tree of all possible action sequences from an initia
+- [[concepts/planning-with-time-schedules-and-resources|Planning with Time, Schedules, and Resources]] — This area of planning extends classical representations, which focus on *what* actions to perform and in *what order*, t
 - [[concepts/platform-openness-dilemma|Platform Openness Dilemma]] — Platform companies must balance the competing needs for openness and control. An open platform can foster a large ecosys
+- [[concepts/polanyis-paradox|Polanyi's Paradox]] — Polanyi's Paradox refers to the observation made by philosopher Michael Polanyi in 1966 that "We can know more than we c
+- [[concepts/policy-iteration|Policy Iteration]] — Policy iteration is an algorithm for calculating an optimal policy in a Markov Decision Process (MDP). The algorithm ope
+- [[concepts/policy-search|Policy Search]] — Policy search is a reinforcement learning approach where the agent learns a parameterized representation of the policy, 
+- [[concepts/polynomial-features|Polynomial Features]] — The technique of adding polynomial features allows linear models, such as LinearSVC (a linear Support Vector Machine), t
+- [[concepts/polynomial-regression|Polynomial Regression]] — Polynomial Regression is a more complex model than Linear Regression that is capable of fitting non-linear datasets. It 
+- [[concepts/pooling-layer|Pooling Layer]] — A pooling layer's primary function is to subsample, or shrink, its input feature map. This downscaling process serves se
+- [[concepts/positive-and-negative-phase|Positive and Negative Phase]] — When training an undirected model via maximum likelihood, the gradient of the log-likelihood with respect to the paramet
 - [[concepts/possibility-space|Possibility Space]] — The concept of "possibility space" is central to the discussion by Valenzuela and colleagues (2024) on the psychological
+- [[concepts/possible-worlds-semantics|Possible Worlds Semantics]] — Possible worlds semantics provides a model for an agent's mental state by considering a set of 'possible worlds.' Each w
+- [[concepts/posterior-probability|Posterior Probability]] — A posterior probability is the probability of a variable or parameter computed *after* relevant evidence or data has bee
+- [[concepts/potential-outcomes-framework|Potential Outcomes Framework]] — The Potential Outcomes Framework, proposed by Donald Rubin in 1974, provides a formal language for discussing causality 
+- [[concepts/pragmatics|Pragmatics]] — Pragmatics is the process of completing the semantic interpretation of an utterance by incorporating context-dependent i
+- [[concepts/precision-matrix|Precision Matrix]] — The precision matrix, often denoted by $\beta$, is defined as the inverse of the covariance matrix $\Sigma$ for a multiv
+- [[concepts/precision-recall-tradeoff|Precision/Recall Tradeoff]] — The precision/recall tradeoff is a core concept in binary classification that describes the inverse relationship between
+- [[concepts/precision|Precision]] — Precision is a metric that evaluates the accuracy of a classifier's positive predictions. It is defined by the equation:
 - [[concepts/predictability-resilience-paradox|Predictability-Resilience Paradox]] — The Predictability-Resilience Paradox describes a fundamental trade-off in the design of AI systems. On one hand, system
+- [[concepts/prediction-in-ai|Prediction (in AI)]] — Prediction is defined as the process of filling in missing information. It takes information you have, referred to as “d
+- [[concepts/prediction-in-temporal-models|Prediction (in Temporal Models)]] — Prediction is an inference task in temporal models that computes the probability distribution over a future state `X_{t+
+- [[concepts/prediction-machines|Prediction Machines]] — Prediction machines are a form of narrow artificial intelligence, as opposed to general artificial intelligence (AGI) or
 - [[concepts/prediction-vs-judgment-decomposition|Prediction-vs-Judgment Decomposition]] — Prediction-vs-Judgment Decomposition is an analytical method used to understand the impact of AI on work. It operates by
+- [[concepts/prediction|Prediction]] — Prediction is the process of filling in missing information. It takes information you have, often called “data,” and use
 - [[concepts/predictive-ai|Predictive AI]] — Predictive AI is a form of artificial intelligence that makes predictions and is then plugged into various tasks. This t
+- [[concepts/predictive-asset-maintenance|Predictive Asset Maintenance]] — Predictive asset maintenance was one of the first AI use cases in industrial companies and remains the most popular in t
+- [[concepts/predictive-maintenance|Predictive Maintenance]] — Predictive maintenance is a technique for predicting when equipment will degrade in performance or break down. This appr
+- [[concepts/predictive-sparse-decomposition|Predictive Sparse Decomposition]] — Predictive Sparse Decomposition (PSD) is a model that integrates principles from both sparse coding and parametric autoe
 - [[concepts/preference-driven-analytics|Preference-Driven Analytics]] — Preference-Driven Analytics is a phenomenon where the personal wishes and desires of a decision-maker begin to shape the
+- [[concepts/preference-elicitation|Preference Elicitation]] — To build a decision-theoretic system that can make decisions on an agent's behalf, it is essential to first understand a
 - [[concepts/preferential-attachment|Preferential Attachment]] — Preferential attachment is a principle that describes how connections evolve in a growing network. It posits that new co
+- [[concepts/preprocessing|Preprocessing]] — The primary goal of preprocessing is to reduce the amount of variation in the input data that a model needs to account f
+- [[concepts/primal-and-dual-problem|Primal and Dual Problem]] — For a given constrained optimization problem, known as the primal problem, it is possible to express a different but clo
+- [[concepts/principal-component-analysis|Principal Component Analysis (PCA)]] — The fundamental idea behind PCA is to identify the axes, called principal components, that preserve the maximum amount o
+- [[concepts/principal-components-analysis|Principal Components Analysis]] — Principal components analysis (PCA) is a simple machine learning algorithm, derivable from basic linear algebra, used fo
+- [[concepts/principle-of-indifference|Principle of Indifference]] — The Principle of Indifference is a subjective consideration used to justify assigning equal probabilities to a set of po
+- [[concepts/prior-probability|Prior Probability]] — A prior probability is a probability distribution that expresses a model's beliefs about a quantity *before* any evidenc
+- [[concepts/privacy-personalization-trade-off|Privacy-Personalization Trade-off]] — The Privacy-Personalization Trade-off is a core challenge in the application of AI, representing the basic conflict betw
+- [[concepts/probabilistic-context-free-grammar|Probabilistic Context-Free Grammar]] — A Probabilistic Context-Free Grammar (PCFG) is a context-free grammar where each rule is augmented with a probability. T
+- [[concepts/probabilistic-max-pooling|Probabilistic Max Pooling]] — In deep convolutional energy-based models, standard pooling operations like max pooling are difficult to generalize. A n
+- [[concepts/probabilistic-pca|Probabilistic PCA]] — Probabilistic PCA (PPCA), introduced by Tipping and Bishop (1999), is a probabilistic generative model framed as a modif
+- [[concepts/probabilistic-programming|Probabilistic Programming]] — Probabilistic programming represents a fundamental shift in computer science from deterministic to probabilistic approac
+- [[concepts/probabilistic-reasoning-in-ai|Probabilistic Reasoning in AI]] — Probabilistic reasoning is presented as a major paradigm within intelligent systems for handling plausible inference und
+- [[concepts/probabilistic-roadmap|Probabilistic Roadmap]] — A probabilistic roadmap is a skeletonization approach to path planning that approximates the connectivity of the free co
+- [[concepts/probability-and-information-theory|Probability and Information Theory]] — 'Probability and Information Theory' is the title of Chapter 3 in the source text, indicating it is a major subject area
+- [[concepts/probability-density-function|Probability Density Function]] — For continuous random variables, which can take on infinitely many values, a probability distribution cannot be listed i
+- [[concepts/probability-mass-function|Probability Mass Function]] — A probability mass function (PMF), denoted by P, is a function that describes the probability distribution over a discre
+- [[concepts/probability-of-necessity|Probability of Necessity (PN)]] — The Probability of Necessity, abbreviated as PN, is a measure of causation that quantifies the likelihood that a specifi
+- [[concepts/probability-of-sufficiency|Probability of Sufficiency (PS)]] — The Probability of Sufficiency (PS) is a metric used in causal analysis to assess the likelihood that a cause is suffici
+- [[concepts/probability-theory-in-ai|Probability Theory (in AI)]] — Probability theory is presented as the primary tool for handling degrees of belief. While logic commits to sentences bei
+- [[concepts/probability-theory|Probability Theory]] — Probability theory is a fundamental tool for machine learning because many aspects of the field deal with uncertain quan
+- [[concepts/problem-formulation-in-ai|Problem Formulation (in AI)]] — Problem formulation is the essential first step in solving problems with search, and it must follow the formulation of a
+- [[concepts/problem-formulation|Problem Formulation]] — Problem formulation is the process of defining a problem in a way that a computational search algorithm can solve it. It
+- [[concepts/problem-solving-agent|Problem-Solving Agent]] — A problem-solving agent is a kind of goal-based agent designed to achieve its goals by finding a sequence of actions, wh
+- [[concepts/procedural-attachment|Procedural Attachment]] — Procedural attachment is a technique where a query about, or an assertion of, a particular relation results in a call to
+- [[concepts/process-mining|Process Mining]] — Process mining is a new technology that employs artificial intelligence to facilitate dramatic improvements in business 
 - [[concepts/productive-struggle|Productive Struggle]] — Productive struggle is a learning process where a student is encouraged to actively work through a difficult problem on 
+- [[concepts/productivity-effect|Productivity Effect]] — The productivity effect is the increase in labor demand that arises from technology-driven growth in value added. As tec
+- [[concepts/productivity-effects-of-generative-ai|Productivity Effects of Generative AI]] — The productivity effects of generative AI refer to the measurable changes in worker efficiency and output quality result
 - [[concepts/productivity-in-llm-ideation|Productivity (in LLM Ideation)]] — Productivity, in the context of LLM-assisted ideation, refers to the strategy of generating more ideas within a narrow d
+- [[concepts/productivity-inequality-compression|Productivity Inequality Compression]] — Productivity inequality compression is the phenomenon where the introduction of a new tool or technology narrows the dis
+- [[concepts/productivity-j-curve|Productivity J-Curve]] — The Productivity J-Curve describes a pattern in measured productivity growth following the adoption of a new General Pur
+- [[concepts/pronunciation-model|Pronunciation Model]] — A pronunciation model, also known as a lexicon model, represents a word by stringing together a sequence of phone models
+- [[concepts/proportional-integral-derivative-pid-control|Proportional-Integral-Derivative (PID) Control]] — Proportional-Integral-Derivative (PID) control is a control law that extends a proportional-derivative (PD) controller b
+- [[concepts/propositional-attitudes|Propositional Attitudes]] — Propositional attitudes are predicates that describe an agent's mental stance toward a mental object or proposition. The
+- [[concepts/propositional-logic|Propositional Logic]] — The syntax of propositional logic defines what constitutes a valid sentence. It begins with atomic sentences, which are 
+- [[concepts/propositionalization|Propositionalization]] — Propositionalization is a general method for performing inference in first-order logic. The core idea is to convert the 
+- [[concepts/pruning|Pruning]] — Pruning is the concept of eliminating possibilities from consideration without having to examine them. It is an importan
+- [[concepts/q-function|Q-Function]] — A Q-function is formally described as an action-utility function. Its purpose is to quantify the value, or expected util
+- [[concepts/q-learning|Q-Learning]] — Q-learning is a reinforcement learning technique where the agent learns an action-utility function, also known as a Q-fu
+- [[concepts/qualitative-probabilistic-networks|Qualitative Probabilistic Networks]] — Qualitative probabilistic networks, developed by Michael Wellman, are a purely qualitative abstraction of Bayesian netwo
+- [[concepts/question-answering|Question Answering]] — Question answering is a task distinct from information retrieval. While IR finds documents relevant to a query, the goal
+- [[concepts/random-forest|Random Forest]] — A Random Forest is an ensemble of Decision Trees, generally trained via the bagging method (or sometimes pasting). It co
+- [[concepts/random-patches-method|Random Patches Method]] — The Random Patches method is a technique used in ensemble learning where each individual predictor is trained on a "patc
+- [[concepts/random-search|Random Search]] — Random search is a hyperparameter optimization method that explores a search space by randomly sampling a specified numb
+- [[concepts/random-subspaces-method|Random Subspaces Method]] — The Random Subspaces method is an ensemble learning technique where multiple predictors are trained using a random subse
+- [[concepts/random-walk|Random Walk]] — A random walk is an online search strategy for exploring an environment. In its simplest form, the agent selects one of 
+- [[concepts/randomization|Randomization]] — Randomization is the core component of a Randomized Controlled Trial (RCT). It involves using a purely random process to
+- [[concepts/randomized-controlled-trial|Randomized Controlled Trial (RCT)]] — A Randomized Controlled Trial (RCT) is a type of controlled experiment where a treatment is randomly assigned to some in
+- [[concepts/randomized-pca|Randomized PCA]] — Randomized PCA is a stochastic algorithm that quickly finds an approximation of the first *d* principal components. It i
+- [[concepts/randomized-search|Randomized Search]] — Randomized Search is a hyperparameter tuning technique used as an alternative to Grid Search, especially when the hyperp
+- [[concepts/rational-agent|Rational Agent]] — A rational agent is defined as an agent that acts to achieve the best outcome or, when there is uncertainty, the best ex
+- [[concepts/reachable-set|Reachable Set]] — The reachable set for a High-Level Action (HLA) *h* from an initial state *s*, denoted REACH(s, h), is the complete set 
+- [[concepts/reactive-control|Reactive Control]] — Reactive control is a control strategy, often implemented in a reflex agent architecture, that is sensor-driven and suit
+- [[concepts/reactive-planning|Reactive Planning]] — Reactive planning systems emerged in the mid-1980s as a response to the slow run times of traditional, deliberative plan
+- [[concepts/real-time-streaming-data-environment|Real-Time Streaming Data Environment]] — A real-time streaming data environment is an infrastructure that processes and analyzes vast amounts of data as it is ge
+- [[concepts/recall|Recall]] — Recall, also known as sensitivity or the true positive rate (TPR), is a metric that measures a classifier's ability to d
 - [[concepts/recommendation-algorithms|Recommendation Algorithms]] — Recommendation algorithms are pervasive, shaping many aspects of modern life. They influence the products people conside
 - [[concepts/recommender-systems|Recommender Systems]] — Recommender systems are described as one of the most important use cases for algorithms in serving consumers, acting as 
+- [[concepts/reconstruction-loss|Reconstruction Loss]] — Reconstruction loss is a form of regularization loss used in neural networks. It is designed to force the model to prese
+- [[concepts/record-linkage|Record Linkage]] — Record linkage is the task of identifying data records that refer to the same real-world entity, particularly when the r
+- [[concepts/rectified-linear-unit|Rectified Linear Unit]] — A Rectified Linear Unit, or ReLU, is a type of hidden unit in a neural network that uses the activation function g(z) = 
+- [[concepts/recurrent-neural-network|Recurrent Neural Network]] — A Recurrent Neural Network (RNN) is a type of neural network specialized for processing sequences. Unlike feedforward ne
+- [[concepts/recurrent-neural-networks|Recurrent Neural Networks]] — Recurrent Neural Networks (RNNs) are a class of neural networks that utilize computational graphs with cycles. These cyc
+- [[concepts/recursive-best-first-search|Recursive Best-First Search (RBFS)]] — Recursive best-first search (RBFS) is a simple recursive algorithm that attempts to replicate the operation of standard 
+- [[concepts/recursive-neural-network|Recursive Neural Network]] — A Recursive Neural Network is a type of neural network designed to process data with a hierarchical or tree-like structu
 - [[concepts/redesign-of-education-with-ai|Redesign of Education with AI]] — The integration of AI into education presents an opportunity to move beyond traditional models and redesign how students
 - [[concepts/redundant-algorithmic-systems|Redundant Algorithmic Systems]] — Redundant algorithmic systems are designed to address the unpredictability of machine learning by employing multiple, co
+- [[concepts/regression-machine-learning|Regression (Machine Learning)]] — Regression is a type of supervised learning task where the system is asked to predict a continuous value. This is in con
+- [[concepts/regression-mlp|Regression MLP]] — A Regression Multi-Layer Perceptron (MLP) is a neural network architecture configured for regression tasks, such as pred
+- [[concepts/regression-to-the-mean|Regression to the Mean]] — Francis Galton, when studying heredity, observed that the children of very tall parents were, on average, shorter than t
+- [[concepts/regression|Regression]] — Regression is a type of learning problem where the goal is to predict a numerical output, y, based on an input, x. The o
+- [[concepts/regular-expression|Regular Expression]] — A regular expression, or regex, is a sequence of characters that defines a search pattern. It is considered the simplest
+- [[concepts/regularization-for-deep-learning|Regularization for Deep Learning]] — 'Regularization for Deep Learning' is the title of Chapter 7 in the provided text, establishing it as a distinct and imp
+- [[concepts/regularization|Regularization]] — Regularization is defined as the process of constraining a model to make it simpler and reduce the risk of overfitting. 
 - [[concepts/reimagining-human-potential-in-the-ai-era|Reimagining Human Potential in the AI Era]] — This concept, as explored in the 'Creative Intelligence' podcast, addresses the fundamental shift in understanding human
+- [[concepts/reinforce-algorithm|REINFORCE Algorithm]] — The REINFORCE algorithm addresses the challenge of training models that involve discrete stochastic operations. When a m
 - [[concepts/reinforcement-learning-risks|Reinforcement Learning Risks]] — Reinforcement learning algorithms operate by creating and learning from their own self-generated data. While this can be
 - [[concepts/reinforcement-learning|Reinforcement Learning]] — Reinforcement learning is an approach to AI where a software agent learns by interacting with an environment. The agent 
+- [[concepts/reinstatement-effect|Reinstatement Effect]] — The reinstatement effect is the mechanism by which technology creates new demand for labor, counteracting the job losses
+- [[concepts/relaxed-problem|Relaxed Problem]] — A relaxed problem is derived from an original problem by removing some of the restrictions on the available actions. The
+- [[concepts/relevance-based-learning|Relevance-Based Learning]] — Relevance-based learning is a strategy that leverages prior knowledge to make learning more efficient. Instead of learni
+- [[concepts/relu|ReLU (Rectified Linear Unit)]] — The Rectified Linear Unit (ReLU) is a non-linear activation function defined as f(x) = max(0, x). It passes the input va
+- [[concepts/repeated-game|Repeated Game]] — A repeated game is the simplest form of a multiple-move game. In this structure, players confront the same decision-maki
+- [[concepts/representation-learning|Representation Learning]] — Representation learning is an approach to machine learning where the system learns to discover not only the mapping from
+- [[concepts/resnet|ResNet (Residual Network)]] — ResNet, or Residual Network, is a groundbreaking CNN architecture developed by K. He et al. that won the 2015 ILSVRC. It
+- [[concepts/resolution-inference-rule|Resolution (inference rule)]] — Resolution is an inference rule used in automated theorem proving. Its key advantage is that it alone can form the basis
+- [[concepts/resolution-principle|Resolution Principle]] — The resolution principle is the foundation for what is described as a 'machine-oriented logic,' as stated in the title o
+- [[concepts/resolutions-per-hour|Resolutions per Hour]] — Resolutions per hour is the main measure of productivity used in the study. It is defined as the number of technical sup
+- [[concepts/responsible-ai|Responsible AI]] — A Responsible AI program is a formal initiative to manage the ethical dimension of artificial intelligence. The first st
+- [[concepts/restricted-boltzmann-machines|Restricted Boltzmann Machines (RBMs)]] — Restricted Boltzmann Machines (RBMs), originally invented under the name 'harmonium', are described as one of the most c
+- [[concepts/rete-algorithm|Rete Algorithm]] — In typical forward-chaining systems, a great deal of redundant work is performed by repeatedly constructing partial matc
 - [[concepts/retrieval-augmented-generation|Retrieval-Augmented Generation]] — Retrieval-augmented generation is a technique used to enhance the outputs of Large Language Models (LLMs) by supplementi
+- [[concepts/reusable-authoritative-data-set|Reusable Authoritative Data Set (RAD)]] — The Reusable Authoritative Data Set (RAD) is a data delivery approach developed and implemented at Scotiabank. Its prima
+- [[concepts/reverse-correlation|Reverse Correlation]] — Reverse correlation is a technique used in computational neuroscience to analyze the function and properties of individu
+- [[concepts/reward-function-engineering|Reward Function Engineering]] — Reward function engineering is the process of determining the ultimate goal or definition of success for a system. As il
+- [[concepts/ridge-regression|Ridge Regression]] — Ridge Regression, also known as Tikhonov regularization, is a regularized version of Linear Regression. It works by addi
+- [[concepts/rmsprop|RMSProp]] — RMSProp is an adaptive learning rate algorithm designed to resolve the diminishing learning rate problem of AdaGrad. It 
+- [[concepts/robotic-software-architecture|Robotic Software Architecture]] — A robotic software architecture is a methodology for structuring the algorithms that govern a robot's behavior. It encom
+- [[concepts/roc-curve|ROC Curve]] — The Receiver Operating Characteristic (ROC) curve is a common tool used with binary classifiers. It plots the true posit
+- [[concepts/root-mean-square-error|Root Mean Square Error (RMSE)]] — The Root Mean Square Error (RMSE) is presented as a typical performance measure for regression problems. It is used to g
+- [[concepts/route-finding-problem|Route-Finding Problem]] — The route-finding problem is a canonical example of a problem solved by search algorithms. It is formally defined in ter
+- [[concepts/routine-biased-technological-change|Routine-Biased Technological Change]] — Routine-biased technological change is a concept within labor economics that describes how technology disproportionately
+- [[concepts/saddle-points|Saddle Points]] — In the high-dimensional, non-convex optimization landscapes of neural networks, saddle points are believed to be a more 
+- [[concepts/sampling-bias|Sampling Bias]] — A sampling bias is a flaw in a sampling method that results in a sample that is not representative of the overall popula
+- [[concepts/sarsa|SARSA]] — SARSA is presented as a close relative of the Q-learning algorithm. Its name is an acronym for the sequence of events th
+- [[concepts/satisfiability-threshold-conjecture|Satisfiability Threshold Conjecture]] — The satisfiability threshold conjecture describes a phenomenon observed in random satisfiability problems. For a given p
+- [[concepts/satisficing|Satisficing]] — Satisficing is defined in the text as the strategy of "deliberating only long enough to come up with an answer that is '
+- [[concepts/satplan|SATPLAN]] — SATPLAN is an approach to automated planning that transforms a planning problem into a propositional satisfiability (SAT
+- [[concepts/scalability-of-prediction|Scalability of Prediction]] — Prediction machines are highly scalable. As the frequency of predictions increases, the unit cost per prediction falls s
+- [[concepts/scaled-orthographic-projection|Scaled Orthographic Projection]] — Scaled orthographic projection is a simplified projection model that serves as an approximation to perspective projectio
 - [[concepts/scaling|Scaling]] — As a company’s customer and employee count grow, scaling poses new challenges where activities that worked well in a sta
+- [[concepts/schema-genetic-algorithm|Schema (Genetic Algorithm)]] — In the theory of genetic algorithms, a schema is a substring in which some positions are treated as wildcards, allowing 
 - [[concepts/science-of-science|Science of Science]] — The 'science of science' is a research field that analyzes how science gets done. Karim Lakhani's work in this area expl
+- [[concepts/score-matching|Score Matching]] — Score matching provides an alternative to likelihood-based training. Instead of maximizing the probability of the data, 
+- [[concepts/se-block|SE-Block (Squeeze-and-Excitation Block)]] — A Squeeze-and-Excitation (SE) Block is an architectural module that can be added to existing CNN architectures to enhanc
+- [[concepts/search-algorithm-complexity|Search Algorithm Complexity]] — In the context of AI, the complexity of search algorithms is expressed in terms of three key quantities. The **branching
+- [[concepts/search-in-ai|Search (in AI)]] — In the context of artificial intelligence, search is the process an agent uses to construct sequences of actions that ac
+- [[concepts/search-node|Search Node]] — A search node is a fundamental data structure required by search algorithms to build and keep track of the search tree b
+- [[concepts/search-tree|Search Tree]] — A search tree is a structure formed by the possible action sequences an agent can take, starting from an initial state. 
+- [[concepts/second-order-optimization-methods|Second-Order Optimization Methods]] — Second-order optimization methods are techniques that utilize second-order derivatives, captured in the Hessian matrix, 
+- [[concepts/selection-bias|Selection Bias]] — Selection bias occurs when the sample group under study differs from the target population in a relevant way due to the 
 - [[concepts/self-determination-theory-in-ai-context|Self-Determination Theory (in AI Context)]] — Self-Determination Theory is a classic psychology framework which posits that human well-being emerges from three fundam
 - [[concepts/self-determination-theory|Self-Determination Theory]] — Self-Determination Theory is a classic psychology framework which posits that human well-being emerges from three fundam
+- [[concepts/self-reported-productivity-gain|Self-reported Productivity Gain]] — Self-reported productivity gain refers to the participants' own estimation of how much their productivity was affected b
 - [[concepts/semantic-breadth-in-llm-ideation|Semantic Breadth (in LLM Ideation)]] — Semantic breadth is an ideation strategy that aims to generate ideas spanning more diverse semantic categories. This app
 - [[concepts/semantic-breadth|Semantic Breadth]] — Semantic breadth refers to the ability of Large Language Models (LLMs) to generate a diverse range of ideas by connectin
+- [[concepts/semantic-networks|Semantic Networks]] — A semantic network is a graphical knowledge representation where nodes, typically shown in ovals or boxes, represent ind
+- [[concepts/semantic-segmentation|Semantic Segmentation]] — In semantic segmentation, the goal is to classify each pixel in an image according to the class of the object it belongs
+- [[concepts/semantics-in-logic|Semantics (in logic)]] — Semantics defines the meaning of sentences in a logic. Its primary function is to determine the truth of each sentence i
+- [[concepts/semi-supervised-learning|Semi-Supervised Learning]] — Semi-Supervised Learning is listed as section 7.6 in the source material.
+- [[concepts/seniority-biased-technological-change|Seniority-Biased Technological Change]] — Seniority-Biased Technological Change is a framework for analyzing the labor market effects of technology, positing that
+- [[concepts/sensor-model|Sensor Model]] — A sensor model specifies how an agent's evidence variables (i.e., its percepts) get their values. It describes the proba
+- [[concepts/sensorless-planning|Sensorless Planning]] — Sensorless planning is a type of planning where the agent has no sensors to perceive the world. The agent must generate 
+- [[concepts/sentiment-analysis-in-customer-service|Sentiment Analysis in Customer Service]] — Sentiment analysis is used in this context to quantify the emotional tone of customer and agent interactions. It serves 
+- [[concepts/sentiment-analysis|Sentiment Analysis]] — As referenced in the study, sentiment analysis is a technique for capturing the affective nature of text. It is used to 
+- [[concepts/separable-kernel|Separable Kernel]] — A separable kernel is a specific type of multi-dimensional convolution kernel that can be decomposed into an outer produ
+- [[concepts/sequential-decision-problem|Sequential Decision Problem]] — A sequential decision problem is one in which an agent's utility depends on a sequence of decisions. This contrasts with
+- [[concepts/set-of-support-strategy|Set of Support Strategy]] — The set of support is a strategy used to make resolution more efficient by eliminating some potential resolution steps a
+- [[concepts/shortlist-method|Shortlist Method]] — The shortlist method was developed to address the high computational cost of the softmax output layer in neural language
+- [[concepts/sibyl-attack|Sibyl Attack]] — A sibyl attack is the use of multiple fake identities, known as sibyls, by a dishonest entity to confound a reputation s
+- [[concepts/sigmoid-unit|Sigmoid Unit]] — Sigmoid units are designed for tasks that require predicting the value of a binary variable, such as classification prob
+- [[concepts/silhouette-score|Silhouette Score]] — The Silhouette Score is a metric used to evaluate the performance of a clustering algorithm and can help in selecting th
+- [[concepts/simple-reflex-agent|Simple Reflex Agent]] — A simple reflex agent is one of the four basic types of agent programs. Its defining characteristic is that it makes dec
+- [[concepts/simplified-memory-bounded-a-star|Simplified Memory-Bounded A* (SMA*)]] — SMA* (Simplified Memory-Bounded A*) is an algorithm designed to use all available memory for a search. It proceeds just 
+- [[concepts/simpsons-paradox|Simpson's Paradox]] — A phenomenon in which a statistical correlation can be produced between two uncorrelated variables simply by taking an a
+- [[concepts/simulated-annealing|Simulated Annealing]] — Simulated annealing is a local search algorithm designed to find a global optimum by combining the efficiency of hill-cl
+- [[concepts/simultaneous-equation-models|Simultaneous Equation Models]] — In economics, the algebraic component of path analysis became known as simultaneous equation models. Unlike their sociol
+- [[concepts/simultaneous-localization-and-mapping-slam|Simultaneous Localization and Mapping (SLAM)]] — Simultaneous Localization and Mapping, commonly known as SLAM, is a fundamental problem in robotics. It addresses the ch
+- [[concepts/simultaneous-localization-and-mapping|Simultaneous Localization and Mapping (SLAM)]] — Simultaneous Localization and Mapping, abbreviated as SLAM, is a problem that arises when a robot must operate in an env
+- [[concepts/singly-connected-network|Singly Connected Network (Polytree)]] — A singly connected network, also known as a polytree, is a Bayesian network that has at most one undirected path between
+- [[concepts/singular-value-decomposition|Singular Value Decomposition]] — The singular value decomposition (SVD) is a method to factorize a matrix into singular vectors and singular values. It p
+- [[concepts/situation-calculus|Situation Calculus]] — Situation calculus is an approach to planning that frames the problem as one of first-order logical deduction. A solutio
 - [[concepts/skill-generalization|Skill Generalization]] — Skill generalization is the transformation of a specialized skill, previously the domain of a dedicated professional, in
+- [[concepts/skill-mismatch|Skill Mismatch]] — Skill mismatch describes a condition in the labor market where the skills held by workers do not align with the skills d
 - [[concepts/skill-replacing-vs-skill-allowing-automation|Skill-Replacing vs. Skill-Allowing Automation]] — Skill-replacing automation is a type of automation framed as taking care of a task entirely for a user, such as a cookin
+- [[concepts/skip-connections|Skip Connections]] — Skip connections are pathways in a neural network architecture that bypass one or more layers. They are used to feed the
+- [[concepts/slow-feature-analysis|Slow Feature Analysis]] — Slow Feature Analysis (SFA) is an unsupervised learning algorithm that extracts slowly varying features from a rapidly v
+- [[concepts/smart-factory|Smart Factory]] — A smart factory is characterized by the extensive use of sensors on the factory floor, which generate massive amounts of
+- [[concepts/smoothing-in-language-models|Smoothing (in Language Models)]] — Smoothing is the process of adjusting the probability estimates of low-frequency events in a language model. Its primary
+- [[concepts/smoothing-in-temporal-models|Smoothing (in Temporal Models)]] — Smoothing is an inference task that computes the posterior distribution of a state at a past time `k`, given a complete 
+- [[concepts/social-laws|Social Laws]] — Social laws are defined as conventions that are widespread within a community or environment. They serve as established 
 - [[concepts/socratic-conversation|Socratic Conversation]] — A Socratic conversation is a dialogue-based teaching method that guides a student toward understanding through a series 
+- [[concepts/soft-margin-classification|Soft Margin Classification]] — To avoid the issues of hard margin classification, a more flexible model known as soft margin classification is preferre
+- [[concepts/softmax-activation-function|Softmax Activation Function]] — The softmax function is an activation function that takes a vector of arbitrary real-valued scores and transforms them i
+- [[concepts/softmax-function|Softmax Function]] — The softmax function is a mathematical function that takes a vector $x$ of $n$ real numbers and normalizes it into a pro
+- [[concepts/softmax-unit|Softmax Unit]] — The softmax function is used to represent a probability distribution over a discrete variable with n possible values. It
+- [[concepts/software-agent|Software Agent (Softbot)]] — A software agent, also known as a software robot or softbot, is an agent that exists and operates within an entirely art
 - [[concepts/solow-paradox|Solow Paradox]] — The Solow Paradox is a concept articulated by Nobel laureate Robert Solow in the mid-1980s to describe the apparent cont
+- [[concepts/solow-residual|Solow Residual]] — The Solow Residual is the portion of growth in output that cannot be explained by the growth in measured inputs, typical
+- [[concepts/soundness-of-inference|Soundness (of inference)]] — An inference algorithm is called sound or truth-preserving if it exclusively derives sentences that are entailed by the 
+- [[concepts/span|Span]] — The span of a set of vectors is defined as the set of all points that are obtainable by forming a linear combination of 
+- [[concepts/sparse-autoencoder|Sparse Autoencoder]] — A sparse autoencoder is an autoencoder that is regularized by adding a sparsity penalty, `Ω(h)`, to its loss function. T
+- [[concepts/sparse-coding|Sparse Coding]] — Sparse coding is a linear factor model where the goal is to find a sparse representation (a 'code') for an input vector.
+- [[concepts/sparse-interactions|Sparse Interactions]] — Sparse interactions, also known as sparse connectivity or sparse weights, is a core principle of convolutional networks.
+- [[concepts/speech-act|Speech Act]] — A speech act is an action performed by a speaker through an utterance. The theory of speech acts treats utterances not j
+- [[concepts/speech-recognition|Speech Recognition]] — Speech recognition is the task of identifying a sequence of words uttered by a speaker, given the acoustic signal. It is
+- [[concepts/spike-and-slab-rbm|Spike and Slab RBM]] — The spike and slab RBM (ssRBM) is a variant of the Restricted Boltzmann Machine that models the covariance of input data
+- [[concepts/st-petersburg-paradox|St. Petersburg Paradox]] — Stated by Nicolas Bernoulli in 1713, the St. Petersburg paradox describes a game of chance involving a fair coin. The co
+- [[concepts/stacked-long-difference-regressions|Stacked Long-Difference Regressions]] — Stacked long-difference regression is a statistical technique for analyzing panel data over extended time horizons. The 
+- [[concepts/stage-algorithm|STAGE Algorithm]] — The STAGE algorithm is presented as a useful improvement on the hill-climbing search technique, particularly when combin
 - [[concepts/stages-of-operating-model-transformation|Stages of Operating Model Transformation]] — Research on how firms develop AI-centered capabilities shows that they follow a natural sequence of stages in their jour
+- [[concepts/state-estimation-ai|State Estimation (AI)]] — State estimation is the challenge of keeping track of the current state of a partially observable environment. An agent'
+- [[concepts/state-estimation|State Estimation]] — State estimation is the core function of an intelligent system operating in a partially observable environment. It is th
+- [[concepts/state-space-search-for-planning|State-Space Search for Planning]] — Planning can be framed as a search problem, where the planner is a program that searches for a solution path through a s
+- [[concepts/state-space|State Space]] — The state space is the abstract representation of a problem's environment, consisting of all possible states the agent c
+- [[concepts/statistical-learning|Statistical Learning]] — Statistical learning frames the learning problem in probabilistic terms. The key components are data, which are consider
+- [[concepts/statistical-machine-translation|Statistical Machine Translation]] — Statistical Machine Translation (SMT) is an approach that frames translation as a probabilistic task. Instead of relying
 - [[concepts/stimulus-sampling|Stimulus Sampling]] — Stimulus sampling is a methodological solution in experimental research aimed at addressing the problem of confounding v
+- [[concepts/stochastic-games|Stochastic Games]] — Stochastic games are games that include a random element, mirroring the unpredictability of many real-world situations. 
+- [[concepts/stochastic-gradient-boosting|Stochastic Gradient Boosting]] — Stochastic Gradient Boosting is a modification of the standard Gradient Boosting algorithm where each new tree in the en
+- [[concepts/stochastic-gradient-descent|Stochastic Gradient Descent]] — Stochastic Gradient Descent is an optimization algorithm that modifies the standard Batch Gradient Descent approach. Ins
+- [[concepts/stochastic-maximum-likelihood-persistent-contrastive-divergence|Stochastic Maximum Likelihood / Persistent Contrastive Divergence]] — Stochastic Maximum Likelihood (SML), independently rediscovered in the deep learning community as Persistent Contrastive
 - [[concepts/strategic-collisions|Strategic Collisions]] — The text defines a strategic collision as a competitive dynamic that arises when firms from previously separate industri
+- [[concepts/stratified-k-fold|Stratified K-Fold]] — `StratifiedKFold` is a cross-validation class in Scikit-Learn that performs stratified sampling to generate folds. This 
+- [[concepts/stratified-sampling|Stratified Sampling]] — Stratified sampling is a technique used to create a representative sample from a population by first dividing the popula
+- [[concepts/strict-dominance|Strict Dominance]] — Strict dominance is a principle used to simplify multiattribute decision problems. An option A strictly dominates an opt
+- [[concepts/stride-convolutional-networks|Stride (Convolutional Networks)]] — In the context of convolutional neural networks, the stride is the parameter that specifies the step size with which a f
+- [[concepts/strong-ai|Strong AI]] — The text defines "strong AI" as the hypothesis that machines capable of intelligent behavior would "count as having actu
+- [[concepts/structural-causal-model|Structural Causal Model (SCM)]] — The Structural Causal Model (SCM) framework uses a system of deterministic equations to represent causal relationships, 
+- [[concepts/structural-causal-models|Structural Causal Models (SCMs)]] — Structural Causal Models (SCMs) are a formal framework for representing causal knowledge and answering causal questions.
+- [[concepts/structural-equation-modeling|Structural Equation Modeling (SEM)]] — Structural Equation Modeling (SEM) is the name given to path analysis within the field of sociology. Sociologists initia
+- [[concepts/structural-equation-models|Structural Equation Models (SEMs)]] — Structural Equation Models (SEMs) are a modeling technique used by economists and sociologists since the 1950s and 1960s
+- [[concepts/structured-output|Structured Output]] — Structured output tasks are a broad category of machine learning problems where the desired output is a vector or anothe
+- [[concepts/structured-probabilistic-models|Structured Probabilistic Models]] — Structured probabilistic models, also known as graphical models, are a class of machine learning models that represent a
+- [[concepts/structured-representation|Structured Representation]] — A structured representation is a way of modeling the world that describes it in terms of distinct objects and their vari
+- [[concepts/substitution-binding-list|Substitution (Binding List)]] — A substitution, also referred to as a binding list, is the answer to a query that contains variables. It provides a spec
 - [[concepts/substrate-independence-of-consciousness|Substrate-Independence of Consciousness]] — The text identifies a "deeper question" that is critical to the topic of AI consciousness: whether consciousness is depe
+- [[concepts/successor-state-axiom|Successor-State Axiom]] — A successor-state axiom is a logical sentence used to define the transition model of a dynamic world. It specifies the c
+- [[concepts/sun-abraham-estimator|Sun-Abraham Estimator]] — The Sun and Abraham (2021) estimator is a modern econometric technique for difference-in-differences (DiD) analysis. It 
+- [[concepts/supervised-learning|Supervised Learning]] — Supervised learning is a machine learning paradigm where the learning problem involves learning a function, y = h(x), fr
 - [[concepts/supervised-machine-learning|Supervised Machine Learning]] — Supervised machine learning is a process where an algorithm learns from labeled data—that is, data with validated, known
+- [[concepts/supervised-pretraining|Supervised Pretraining]] — Supervised pretraining is a collection of strategies used when directly training a complex model for a difficult task is
+- [[concepts/support-vector-machine|Support Vector Machine]] — Support Vector Machines (SVMs) are a machine learning method for classification that focuses on minimizing expected gene
+- [[concepts/support-vector-machines|Support Vector Machines (SVMs)]] — Support Vector Machines (SVMs) are a popular and effective class of supervised learning algorithms. The theoretical foun
+- [[concepts/surrogate-loss-function|Surrogate Loss Function]] — A surrogate loss function is a function that is optimized in place of the actual loss function of interest. It is used w
+- [[concepts/survivor-bias|Survivor Bias]] — Survivor bias is a statistical issue that can arise in longitudinal studies of entities like firms. It occurs when the s
+- [[concepts/svm-regression|SVM Regression]] — The model's predictions are not affected by adding more training instances that fall within the margin defined by the hy
+- [[concepts/switching-kalman-filter|Switching Kalman Filter]] — A switching Kalman filter is a Bayesian network model used to monitor a continuous-state system whose behavior switches 
+- [[concepts/symbolic-representation|Symbolic Representation]] — A symbolic representation associates an input with a single symbol or category from a predefined dictionary. It is a spe
+- [[concepts/synthetic-control-arms|Synthetic Control Arms]] — AI-based synthetic control arms are a method used in clinical trials where individuals who are not officially enrolled i
 - [[concepts/synthetic-data|Synthetic Data]] — Synthetic data is presented as a key tool enabled by Generative AI for market research. Its primary purpose is to serve 
+- [[concepts/tabu-search|Tabu Search]] — Tabu search is a variant of the hill-climbing local search method that has gained popularity in the field of operations 
+- [[concepts/tangent-propagation|Tangent Propagation]] — Tangent propagation is a regularization method that analytically encourages a model to be robust against known transform
+- [[concepts/task-augmentation|Task Augmentation]] — Task Augmentation is a form of technological innovation that serves as a countervailing force to automation by creating 
+- [[concepts/task-automation|Task Automation]] — Task Automation is a form of innovation characterized by the displacement of labor from existing job tasks. It occurs wh
+- [[concepts/task-based-framework|Task-Based Framework]] — The Task-Based Framework, introduced by Autor et al. (2003) and extended by Acemoglu, Autor, and Restrepo, models how ne
+- [[concepts/task-based-model|Task-Based Model]] — A task-based model is an economic framework where the production of a final good is conceptualized as the combination of
+- [[concepts/task-classification-spitz-oener-2006|Task Classification (Spitz-Oener, 2006)]] — The Task Classification is a framework, notably used by Spitz-Oener (2006), for aggregating detailed work activities int
+- [[concepts/task-complementarities|Task Complementarities]] — Task complementarity is a key channel through which AI can boost productivity, working alongside automation in the paper
+- [[concepts/task-completion-time|Task Completion Time]] — In the context of this experiment, task completion time was the key dependent variable used to objectively measure devel
+- [[concepts/task-content-of-production|Task Content of Production]] — The task content of production refers to the specific allocation of all tasks required in the production process to the 
+- [[concepts/task-environment|Task Environment]] — Task environments are described as the "problems" for which rational agents are the "solutions." They are the external s
+- [[concepts/teacher-forcing|Teacher Forcing]] — Teacher forcing is a training technique applicable to recurrent neural networks that have connections from their outputs
 - [[concepts/team-rituals|Team Rituals]] — Team rituals are unique, structured processes that great teams employ to foster a specific and effective culture. The co
 - [[concepts/technological-deskilling|Technological Deskilling]] — The text presents deskilling not as a new phenomenon unique to AI, but as a consistent consequence of technological adva
+- [[concepts/technology-complementarities|Technology Complementarities]] — The text references a large and influential literature on the complementarities between organizational features and tech
+- [[concepts/technology-spillovers|Technology Spillovers]] — Technology spillovers refer to the diffusion of knowledge, particularly tacit knowledge, which benefits from local inter
+- [[concepts/temporal-difference-learning|Temporal-Difference Learning]] — Temporal-difference (TD) learning methods work by adjusting utility or value estimates towards a local equilibrium. Inst
+- [[concepts/tensor-tensorflow|Tensor (TensorFlow)]] — A TensorFlow Tensor (`tf.Tensor`) is the core data structure used in the library. It is a multi-dimensional array, conce
+- [[concepts/tensorflow-variable|TensorFlow Variable]] — A `tf.Variable` is a data structure that stores a value that can be changed during a computation. Unlike a regular `tf.T
+- [[concepts/term-first-order-logic|Term (First-Order Logic)]] — In the context of first-order logic, a term is a logical expression that refers to an object. It is a fundamental syntac
+- [[concepts/textual-embeddings|Textual Embeddings]] — Textual embeddings are a method of representing text as high-dimensional numerical vectors. This transformation places t
+- [[concepts/texture-computer-vision|Texture (Computer Vision)]] — In computational vision, texture refers to a spatially repeating pattern on a surface that is visually perceivable. Unli
+- [[concepts/tf-function|tf.function]] — `tf.function` is a transformation tool in TensorFlow that converts a Python function containing TensorFlow operations in
+- [[concepts/tf-gradient-tape|tf.GradientTape]] — `tf.GradientTape` is a core TensorFlow API for automatic differentiation. It operates as a context manager that records 
+- [[concepts/tfrecord-format|TFRecord Format]] — The TFRecord format is a simple record-oriented binary format designed for efficient storage and reading of large datase
 - [[concepts/the-actor-llm-ideation-role|The Actor (LLM Ideation Role)]] — "The Actor" is a specific ideation role where an LLM is used to imitate a consumer, allowing a researcher to "interview"
+- [[concepts/the-grasping-problem|The Grasping Problem]] — The grasping problem is a significant challenge in robotics that serves as a "missing link in automation," particularly 
 - [[concepts/the-replaced-consumer|The Replaced Consumer]] — 'The Replaced Consumer' is a psychological perspective on the experience of AI delegation. The core idea is that the mer
+- [[concepts/the-singularity|The Singularity]] — The Singularity is a concept referring to a future point where nonbiological intelligence will become vastly more powerf
 - [[concepts/the-six-cs-of-skills|The Six C's of Skills]] — The Six C's of Skills is a framework mentioned in the text that categorizes essential abilities into six areas: Content,
 - [[concepts/thin-product-thick-model|Thin Product, Thick Model]] — The "Thin Product, Thick Model" approach is a strategy for building AI-native products, also referred to as a "model-fir
 - [[concepts/threat-opportunity-time-gap|Threat-Opportunity Time Gap]] — The Threat-Opportunity Time Gap is a concept describing the natural delay between the perception of a new technology's t
+- [[concepts/three-layer-architecture|Three-Layer Architecture]] — The three-layer architecture is the most popular type of hybrid architecture designed to combine reactive control with d
+- [[concepts/tiled-convolution|Tiled Convolution]] — Tiled convolution is a technique used in convolutional networks that serves as a compromise between a standard convoluti
+- [[concepts/tobins-q-theory-of-investment|Tobin's q-theory of investment]] — Tobin's q-theory is a framework for understanding investment decisions based on the ratio of a firm's market value to th
+- [[concepts/tolerance-for-error|Tolerance for Error]] — Tolerance for error refers to the level of inaccuracy people will accept from a prediction machine. The text emphasizes 
+- [[concepts/topological-sort|Topological Sort]] — A topological sort is an algorithm that produces a linear ordering of the variables (nodes) in a tree-structured or dire
+- [[concepts/total-factor-productivity|Total Factor Productivity (TFP)]] — The paper explicitly distinguishes Total Factor Productivity (TFP) from average labor productivity (output per worker). 
+- [[concepts/total-turing-test|Total Turing Test]] — The Total Turing Test is an enhanced version of the original Turing Test proposed by Alan Turing. It expands the evaluat
+- [[concepts/toyota-guardian-and-chauffeur-modes|Toyota Guardian and Chauffeur Modes]] — "Guardian" and "Chauffeur" are two key AI-driven projects under development at the Toyota Research Institute (TRI). They
+- [[concepts/training-curve|Training Curve]] — A training curve is a graph that shows the performance of a classifier on a fixed training set as the learning process p
+- [[concepts/transfer-learning|Transfer Learning]] — Transfer learning is a technique where a model trained on one task is repurposed for a second, related task. The fundame
 - [[concepts/transformer-architecture|Transformer Architecture]] — The Transformer is a novel neural network architecture that relies on a self-attention mechanism to process input data. 
 - [[concepts/transformer-models|Transformer Models]] — Transformer models are a type of neural network architecture that has become the foundation for most modern large langua
+- [[concepts/transformers-ai-adoption-category|Transformers (AI Adoption Category)]] — In a recent enterprise AI survey, "transformers" are the label given to the companies with the most AI capabilities and 
 - [[concepts/transhumanism|Transhumanism]] — The text defines transhumanist ideas as those which 'emphasize technological progress as an unstoppable force that alter
+- [[concepts/transition-model|Transition Model]] — A transition model specifies how the world evolves over time. In a probabilistic framework, it describes the probability
+- [[concepts/translation-model|Translation Model]] — A translation model is a core component of a Statistical Machine Translation (SMT) system that quantifies the relationsh
+- [[concepts/transportability-problem|Transportability Problem]] — The transportability problem addresses the issue of generalizing experimental or observational findings from a studied p
+- [[concepts/tree-decomposition|Tree Decomposition]] — Tree decomposition is a divide-and-conquer approach for solving Constraint Satisfaction Problems. It involves transformi
+- [[concepts/treebank|Treebank]] — A treebank is a corpus of sentences that have been manually or semi-manually parsed and annotated with their grammatical
+- [[concepts/truth-maintenance-systems|Truth Maintenance Systems]] — Truth maintenance systems (TMSs) are designed to handle the complications that arise when a belief is retracted from a k
+- [[concepts/truth-table|Truth Table]] — A truth table is a mathematical table that specifies the truth value of a logical expression for each possible assignmen
+- [[concepts/turbo-codes|Turbo Codes]] — Turbo codes are a type of error-correcting code used to protect information transmitted over a noisy channel. Their deco
 - [[concepts/turing-test|Turing Test (Imitation Game)]] — The Turing Test, also referred to as the 'imitation game,' is a method for assessing a machine's intelligence based on i
+- [[concepts/two-stage-least-squares|Two-Stage Least Squares (2SLS)]] — The paper utilizes a Two-Stage Least Squares (2SLS) instrumental variable strategy to identify the causal impact of augm
+- [[concepts/uct-upper-confidence-bounds-on-trees|UCT (Upper Confidence bounds on Trees)]] — UCT, which stands for "upper confidence bounds on trees," is a method used in Monte Carlo search for game-playing. The t
 - [[concepts/unanticipated-consequences|Unanticipated Consequences]] — The text highlights the "Law of Unanticipated Consequences," a principle stating that decisions and actions often produc
+- [[concepts/uncertainty|Uncertainty]] — The text identifies managing uncertainty as a core function of business strategy (3, 103–110, 165). Businesses develop s
+- [[concepts/underflow|Underflow]] — Underflow is a form of numerical rounding error that occurs in floating-point arithmetic when a number that is extremely
+- [[concepts/undirected-graphical-model|Undirected Graphical Model]] — An undirected graphical model is a structured probabilistic model used when the interactions between variables have no i
+- [[concepts/undirected-probabilistic-model|Undirected Probabilistic Model]] — An undirected probabilistic model defines a probability distribution over a set of variables using an undirected graph. 
+- [[concepts/unfolding-computational-graphs|Unfolding Computational Graphs]] — Unfolding is the operation that maps a computational graph with cycles, such as the circuit diagram of an RNN, into a de
+- [[concepts/unification|Unification]] — Unification is the process of finding a substitution, a set of bindings for variables, that makes two logical expression
+- [[concepts/uniform-cost-search|Uniform-Cost Search]] — Uniform-cost search expands nodes in order of their path cost from the root. It maintains a frontier of unexpanded nodes
+- [[concepts/uninformed-search|Uninformed Search]] — Uninformed search methods, also known as blind search, are a category of search algorithms that operate using only the i
+- [[concepts/unique-names-assumption|Unique-Names Assumption]] — The Unique-Names Assumption (UNA) is a simplifying convention used in some logical systems, particularly databases. It m
+- [[concepts/universal-approximation-theorem|Universal Approximation Theorem]] — The universal approximation theorem states that a feedforward network with a linear output layer and at least one hidden
+- [[concepts/universal-instantiation|Universal Instantiation]] — The rule of Universal Instantiation (UI) states that from a universally quantified sentence, one can infer any sentence 
+- [[concepts/unknown-knowns|Unknown Knowns]] — An "unknown known" is a situation where a prediction machine provides a very precise answer that it is confident is corr
+- [[concepts/unknown-unknowns|Unknown Unknowns]] — "Unknown unknowns" are events that are possible but are not represented in the available historical data or past experie
+- [[concepts/unmeasured-intangible-investment|Unmeasured Intangible Investment]] — Unmeasured Intangible Investment refers to the creation of intangible capital that is not recorded as investment in stan
+- [[concepts/unsupervised-clustering|Unsupervised Clustering]] — Unsupervised clustering is the task of discerning multiple categories in a collection of objects. The problem is defined
+- [[concepts/unsupervised-learning|Unsupervised Learning]] — Unsupervised learning is a category of machine learning tasks that operate on data without provided labels or targets. L
+- [[concepts/unsupervised-pretraining|Unsupervised Pretraining]] — Unsupervised pretraining is a valuable technique for complex tasks where there is not much labeled training data, and a 
+- [[concepts/upper-ontology|Upper Ontology]] — An upper ontology provides a general framework of concepts that are applicable across a wide range of domains. It consis
 - [[concepts/use-case-specific-ai|Use-Case Specific AI]] — The text clarifies that the current reality of AI is not "general AI" but rather "very use case specific AI technologies
 - [[concepts/user-control-in-algorithmic-systems|User Control in Algorithmic Systems]] — The author argues for a necessary balance between user control and the efficiency of algorithmic performance. Giving use
 - [[concepts/user-control-in-automation|User Control in Automation]] — The concept of user control in automation posits that user confidence in automated systems is enhanced when people are g
+- [[concepts/utility-based-agent|Utility-Based Agent]] — A utility-based agent is an agent that selects actions based on a utility function, which provides a measure of desirabi
+- [[concepts/utility-function|Utility Function]] — A utility function is a core component of decision theory that quantifies an agent's preferences. It assigns a single re
 - [[concepts/value-capture|Value Capture]] — Value capture refers to the ability of a business to appropriate a portion of the value it creates for its user network.
+- [[concepts/value-iteration|Value Iteration]] — Value iteration is an algorithm for calculating an optimal policy for a Markov Decision Process (MDP). The basic idea is
+- [[concepts/value-of-perfect-information-vpi|Value of Perfect Information (VPI)]] — The Value of Perfect Information (VPI) is defined as the difference in expected utility between the best course of actio
+- [[concepts/vanishing-and-exploding-gradient-problem|Vanishing and Exploding Gradient Problem]] — The vanishing and exploding gradient problem refers to the issue where gradients, during back-propagation, can decrease 
+- [[concepts/vanishing-gradients-problem|Vanishing Gradients Problem]] — The vanishing gradients problem is a significant challenge that affects deep neural networks, making the lower layers (t
+- [[concepts/variable-elimination|Variable Elimination]] — The variable elimination algorithm improves upon inference by enumeration by avoiding the explicit computation of the fu
+- [[concepts/variance-normalization|Variance Normalization]] — Variance normalization is a heuristic used to improve the stability and performance of the REINFORCE algorithm. It is a 
+- [[concepts/variance-of-an-estimator|Variance (of an estimator)]] — Variance is the second key source of error in an estimator, complementing bias. It provides a measure of the deviation f
+- [[concepts/variational-approximation|Variational Approximation]] — Variational approximation methods are a family of techniques used to simplify complex calculations. The fundamental idea
+- [[concepts/variational-autoencoder|Variational Autoencoder]] — The Variational Autoencoder (VAE), developed by Kingma (2013) and Rezende et al. (2014), is a directed generative model 
+- [[concepts/variational-inference|Variational Inference]] — Variational inference is an approach used to solve a central problem in Bayesian statistics: the intractability of compu
+- [[concepts/vc-dimension|Vapnik-Chervonenkis Dimension]] — The Vapnik-Chervonenkis (VC) dimension is a well-known measure from statistical learning theory that quantifies the capa
+- [[concepts/vcg-mechanism|VCG Mechanism]] — The VCG (Vickrey-Clarke-Groves) mechanism is a method for allocating goods to a set of bidders that is designed to be tr
+- [[concepts/vector|Vector]] — A vector is defined as an ordered sequence of values, such as x = (3, 4) in a two-dimensional space. The elements of a v
+- [[concepts/version-space|Version Space]] — The version space is the set of all hypotheses from a given hypothesis space that are consistent with all the training e
+- [[concepts/visibility-in-enterprise-systems-development|Visibility (in enterprise systems development)]] — In the context of enterprise systems development, visibility refers to the degree to which the current structure of jobs
+- [[concepts/visual-odometry|Visual Odometry]] — Visual odometry is the estimation of change in position based on visual data. It is a key technique for mobile robot nav
+- [[concepts/voice-uis|Voice UIs]] — Voice UIs (User Interfaces) are a form of AIT-based interface that originated from Internet Giants (IGs) seeking to impr
+- [[concepts/voronoi-graph|Voronoi Graph]] — In the context of robot motion planning, the Voronoi graph is defined as the set of all points in the configuration spac
+- [[concepts/wake-sleep-algorithm|Wake-Sleep Algorithm]] — The wake-sleep algorithm addresses a primary difficulty in training a model to infer latent variables $\boldsymbol{h}$ f
+- [[concepts/walk-back-training-procedure|Walk-Back Training Procedure]] — The walk-back training procedure was proposed by Bengio et al. (2013c) as a method to speed up the convergence when trai
+- [[concepts/walksat-algorithm|WalkSAT Algorithm]] — WalkSAT is described as one of the simplest and most effective local search algorithms for solving the propositional sat
 - [[concepts/weak-ai|Weak AI]] — Weak AI refers to artificial intelligence that is not a perfect replica of a human being but is specialized to perform s
+- [[concepts/weight-decay|Weight Decay]] — Weight decay is a technique used to control the capacity of a machine learning model by adding a penalty term to the cos
+- [[concepts/weight-initialization|Weight Initialization]] — Weight initialization is motivated by the need to break symmetry between different units in a neural network. If all uni
+- [[concepts/whitening|Whitening]] — Whitening is a preprocessing transformation applied to data. The text states that this technique is more commonly known 
+- [[concepts/wide-and-deep-neural-network|Wide and Deep Neural Network]] — A Wide and Deep Neural Network is a hybrid architecture that processes information through two parallel paths. The "deep
+- [[concepts/willingness-to-pay|Willingness to Pay]] — Willingness to pay is an economic metric representing the maximum price a consumer will pay for a product. In this study
+- [[concepts/word-embedding|Word Embedding]] — Word embeddings, also known as word representations, are a technique for representing words in a low-dimensional feature
+- [[concepts/work-flows|Work Flows]] — The book advocates for deconstructing work flows into their component tasks to identify opportunities for AI integration
+- [[concepts/worker-attrition|Worker Attrition]] — Worker attrition, also known as employee turnover, is analyzed in the paper as a broad indicator of how workers respond 
+- [[concepts/worker-effort-substitution-by-ai|Worker Effort Substitution (by AI)]] — Worker effort substitution is a process where an AI technology, such as ChatGPT, increases productivity primarily by tak
+- [[concepts/worker-learning-from-ai|Worker Learning from AI]] — A key question explored in the study is whether the observed productivity improvements from AI assistance reflect durabl
 - [[concepts/workflow-re-engineering|Workflow Re-engineering]] — Workflow re-engineering is the practice of fundamentally rethinking and redesigning business processes in light of AI ca
+- [[concepts/xception|Xception]] — The Xception architecture is a deep convolutional neural network that is considered a variant of GoogLeNet. Its name sta
+- [[concepts/zero-padding-in-convolutions|Zero-Padding (in Convolutions)]] — Zero-padding is the practice of adding a border of zeros around an input tensor before applying a convolution operation.
+- [[concepts/zero-padding|Zero Padding]] — Zero padding is the process of adding rows and columns of zeros around the border of an input tensor before it is proces
+- [[concepts/zero-sum-game|Zero-Sum Game]] — Within the context of AI, the most common type of game studied is the deterministic, turn-taking, two-player, zero-sum g
 
-## Extracted Entities (106)
+## Extracted Entities (414)
 
+- [[entities/1940-census-complete-count|1940 Census Complete Count]] — The 1940 Census Complete Count (CCC) is an individual-level dataset from the U.S. Census. A key feature utilized in the 
+- [[entities/8-puzzle|8-Puzzle]] — The 8-puzzle is a well-known problem in artificial intelligence used to illustrate and test search algorithms. It consis
+- [[entities/8-queens-problem|8-Queens Problem]] — The 8-queens problem is a puzzle that requires placing eight chess queens on a standard 8x8 chessboard such that no two 
+- [[entities/84-51|84.51°]] — 84.51° is the data science group for The Kroger Co. and is central to the company's AI-driven strategic initiatives. The
 - [[entities/a-humans-guide-to-machine-intelligence|A Human’s Guide to Machine Intelligence]] — "A Human’s Guide to Machine Intelligence" is a book authored by Kartik Hosanagar. He introduces the book at the beginnin
+- [[entities/aaron-courville|Aaron Courville]] — Aaron Courville is named as one of the three authors of the book "Deep Learning". His name appears on the cover and titl
+- [[entities/abraham-wald|Abraham Wald]] — The text identifies Abraham Wald as "one of the best statisticians in history." He is presented as an example of a human
+- [[entities/abstrips|ABSTRIPS]] — The ABSTRIPS system, developed by Earl Sacerdoti in 1974, was a significant evolution in automated planning. It built up
 - [[entities/accenture-song|Accenture Song]] — Accenture Song is identified as the creative agency of the global consulting firm Accenture. It is led by CEO David Drog
+- [[entities/ada|Ada]] — Ada is a customer service system that uses AI to automate responses to frequently asked questions. Its purpose is to han
+- [[entities/adaline|Adaptive Linear Element (ADALINE)]] — The Adaptive Linear Element (ADALINE), which dates from around 1960, was developed by Bernard Widrow and Tedd Hoff. It w
+- [[entities/adp-administrative-data|ADP Administrative Data]] — The ADP administrative data is the primary source of information for the study "Canaries in the Coal Mine?". It is descr
 - [[entities/airbnb|Airbnb]] — Airbnb is an online platform that connects people who want to rent out their homes with people who are looking for accom
+- [[entities/airbus|Airbus]] — Airbus is a European aviation giant that embarked on a broad digital transformation in the mid-2010s. The company recogn
 - [[entities/alan-turing|Alan Turing]] — Alan Turing is identified in the text as the figure who became famous, or 'more widely known,' for proposing the 'imitat
+- [[entities/albert-szent-gyorgyi|Albert Szent-Gyorgyi]] — Albert Szent-Gyorgyi was a biochemist who received the Nobel Prize in 1937 for his work on the biological processes rela
+- [[entities/alex-graves|Alex Graves]] — Alex Graves is a key researcher in the application and development of recurrent neural networks for complex sequence tas
 - [[entities/algorithmic-accountability-act-of-2019|Algorithmic Accountability Act of 2019]] — The Algorithmic Accountability Act of 2019 is a proposed piece of legislation in the United States designed to regulate 
 - [[entities/alibaba|Alibaba]] — Alibaba is a major technology firm that operates in e-commerce, retail, and other sectors. The text highlights it as a "
+- [[entities/all-minilm-l6-v2|all-MiniLM-L6-v2]] — all-MiniLM-L6-v2 is a large language model (LLM) specifically designed for tasks involving semantic information capture 
 - [[entities/alphago-zero|AlphaGo Zero]] — AlphaGo Zero is a successor to the original AlphaGo system, also developed by Google's DeepMind. It represents a more ad
 - [[entities/alphago|AlphaGo]] — AlphaGo is a program developed by Google designed to play the complex two-player strategy game of Go. It gained fame for
 - [[entities/amazon-com|Amazon.com]] — Amazon.com is an e-commerce platform presented in the text as a familiar and relatable example of how algorithms drive d
 - [[entities/amazon|Amazon]] — Amazon poses a formidable challenge to traditional firms, especially in the retail industry, due to its convenience, low
 - [[entities/andrej-karpathy|Andrej Karpathy]] — Andrej Karpathy is identified as the creator of a key technical resource for understanding the inner workings of large l
 - [[entities/andrew-ng|Andrew Ng]] — Andrew Ng is presented as a key figure in making AI knowledge accessible. He is associated with two major online educati
+- [[entities/andrey-kolmogorov|Andrey Kolmogorov]] — Andrey Kolmogorov was a highly influential 20th-century mathematician with wide-ranging contributions to mathematics and
 - [[entities/anil-seth|Anil Seth]] — Anil Seth is a professor at the University of Sussex, a neuroscientist, a TED speaker, and the author of the book "Being
+- [[entities/annual-business-survey-abs|Annual Business Survey (ABS)]] — The Annual Business Survey (ABS) is a key data source used in the study to measure technology use among US firms. The re
+- [[entities/annual-business-survey|Annual Business Survey]] — The Annual Business Survey is a large-scale data collection effort that, in 2018, covered 850,000 firms across the Unite
+- [[entities/annual-survey-of-entrepreneurs|Annual Survey of Entrepreneurs (ASEs)]] — The Annual Survey of Entrepreneurs (ASEs) was a data collection focused on providing information about U.S. entrepreneur
 - [[entities/ant-financial|Ant Financial]] — Ant Financial originated from Alipay, a payment platform created by Alibaba in 2004 to solve the trust problem for its e
 - [[entities/ant-group|Ant Group]] — Ant Group is presented as a prime example of a company that has reimagined business operations at scale, achieving expon
+- [[entities/anthem|Anthem]] — In 2020, Anthem announced its strategic goal to become a 'digital platform for health.' The company's vision is to shift
+- [[entities/anthropic-economic-index|Anthropic Economic Index]] — The Anthropic Economic Index, based on work by Handa et al. (2025), provides a usage-based measure of generative AI's re
 - [[entities/apache-struts|Apache Struts]] — Apache Struts is an open-source software framework used by companies to create enterprise applications. It is a widely u
+- [[entities/aristotle|Aristotle]] — Aristotle was a philosopher in ancient Greece who placed a strong emphasis on classification and the creation of categor
+- [[entities/arthur-samuels-checkers-program|Arthur Samuel's Checkers Program]] — Developed by Arthur Samuel of IBM starting in 1952, this checkers program was a landmark achievement in early artificial
+- [[entities/artificial-intelligence-a-modern-approach|Artificial Intelligence: A Modern Approach]] — "Artificial Intelligence: A Modern Approach" is a comprehensive textbook on the subject of AI. The provided excerpts are
 - [[entities/arts-and-machine-intelligence-program|Arts and Machine Intelligence (AMI) program]] — The Arts and Machine Intelligence (AMI) program is an initiative by Google designed to explore the intersection of art a
+- [[entities/asimovs-laws-of-robotics|Asimov's Laws of Robotics]] — Proposed by Isaac Asimov, the Laws of Robotics are a set of prescriptive rules intended to govern the behavior of intell
+- [[entities/askmsr-system|ASKMSR System]] — The ASKMSR system, developed by Banko et al. in 2002, is a typical example of a modern, Web-based question-answering sys
+- [[entities/atomwise|Atomwise]] — Atomwise is a company that builds AI tools for enterprise customers, specifically focusing on a prediction task within t
+- [[entities/aurelien-geron|Aurélien Géron]] — Aurélien Géron is the author of "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow". The copyright for the
 - [[entities/autocomplete-google|Autocomplete (Google)]] — The autocomplete feature was created by Google software engineer Kevin Gibbs in 2004, initially as a side project to pre
+- [[entities/automated-mathematician-am|Automated Mathematician (AM)]] — The Automated Mathematician, or AM, was a discovery system created by Doug Lenat. It was designed to model the process o
 - [[entities/azure|Azure]] — Prior to 2011, Azure had been run as a separate, autonomous organization within Microsoft. This structure caused signifi
+- [[entities/barbara-burks|Barbara Burks]] — Barbara Burks was a Stanford graduate student in 1926 and is described as a little-known pioneer in women's science and 
 - [[entities/bas|Bas]] — Bas is a Grammy-nominated and multi-platinum recording artist affiliated with Dreamville Records, J. Cole's label. He pa
+- [[entities/bcg|BCG]] — The Ssrn 4573321 paper identifies its findings as being most directly applicable to knowledge work environments like BCG
 - [[entities/beauty-ai|Beauty.AI]] — Beauty.AI was an international beauty contest staged in 2016 by a Russian company called Youth Laboratories. The contest
+- [[entities/bengio-et-al-2001|Bengio et al. (2001)]] — The work by Bengio et al. in 2001 is a highly influential publication in the history of natural language processing. It 
+- [[entities/berufenet|BERUFENET]] — BERUFENET is a German expert database that provides structured information about occupations. In the context of this stu
 - [[entities/bezos-mandate|Bezos Mandate]] — The Bezos Mandate refers to an email sent by Amazon's CEO, Jeff Bezos, to all development teams in 2002. The directive w
+- [[entities/bibb-baua-survey|BIBB-BAuA Survey]] — The BIBB-BAuA survey is a German data source that provides detailed information on the content of work and working condi
+- [[entities/blocks-world|Blocks World]] — The blocks world is one of the most famous planning domains in artificial intelligence research. It provides a simplifie
 - [[entities/blooms-two-sigma-problem|Bloom's Two Sigma Problem]] — Bloom's Two Sigma Problem, also referred to as Bloom's two sigma study, is an educational finding originating from resea
+- [[entities/bonaparte-software|Bonaparte (Software)]] — Bonaparte is a software tool used daily by the Netherlands Forensic Institute for complex DNA identification tasks. It i
 - [[entities/book-artificial-intelligence-a-modern-approach|Artificial Intelligence: A Modern Approach]] — "Artificial Intelligence: A Modern Approach" by Russell & Norvig (4th ed., 2020) is described as the definitive universi
 - [[entities/book-competing-in-the-age-of-ai|Competing in the Age of AI]] — "Competing in the Age of AI" (2020) by Marco Iansiti and Karim R. Lakhani of Harvard Business School (HBS) is recommende
 - [[entities/book-deep-learning|Deep Learning (book)]] — The book "Deep Learning" (2016) by Goodfellow, Bengio, and Courville is positioned as the "technical bible for neural ne
+- [[entities/boris-polyak|Boris Polyak]] — The provided text identifies Boris Polyak as the originator of the Momentum optimization technique, a significant contri
 - [[entities/boston-consulting-group|Boston Consulting Group (BCG)]] — The Boston Consulting Group (BCG) is a global management consulting firm. The text highlights it as a workplace where ma
+- [[entities/boxes-algorithm|BOXES Algorithm]] — The BOXES algorithm was developed by Michie and Chambers in 1968 to solve the cart-pole balancing problem. It was a pion
 - [[entities/brian-valentine|Brian Valentine]] — Brian Valentine is a software executive who formerly worked at Microsoft, where he had overseen successful releases of m
+- [[entities/bureau-of-labor-statistics|Bureau of Labor Statistics]] — The Bureau of Labor Statistics (BLS) is a U.S. government agency responsible for collecting and disseminating a wide ran
+- [[entities/business-r-d-and-innovation-survey-for-microbusinesses|Business R&D and Innovation Survey for Microbusinesses (BRDI-Ms)]] — The Business R&D and Innovation Survey for Microbusinesses (BRDI-Ms) was a survey designed to gather data on innovation 
 - [[entities/cade-metz|Cade Metz]] — Cade Metz is a technology correspondent with The New York Times, where his reporting covers artificial intelligence, rob
 - [[entities/cambridge-analytica|Cambridge Analytica]] — Cambridge Analytica was a data analytics firm that gained notoriety for its role in a major Facebook data privacy scanda
+- [[entities/capital-one|Capital One]] — Capital One is a US-based company profiled as a leading adopter of both analytics and AI. It is featured as a primary ex
+- [[entities/cardiogram|Cardiogram]] — Cardiogram is a company that builds products to help diagnose heart disease by combining rich personal data with a predi
+- [[entities/cart-pole-problem|Cart-Pole Problem]] — The cart-pole problem, also known as the inverted pendulum, is a classic control problem that has been the subject of se
+- [[entities/casimir-funk|Casimir Funk]] — Casimir Funk was a Polish biochemist who, in 1912, made a foundational contribution to the field of nutrition and bioche
+- [[entities/ccc-intelligent-solutions|CCC Intelligent Solutions]] — CCC Intelligent Solutions, founded in 1980 as Certified Collateral Corporation, is a company that leverages its extensiv
+- [[entities/ccc|CCC Intelligent Solutions]] — CCC's business is centered on the automobile insurance industry. Its primary objective for using AI is to reduce the adm
+- [[entities/census-alphabetical-index-of-occupations-and-industries|Census Alphabetical Index of Occupations and Industries (CAI)]] — The Census Alphabetical Index of Occupations and Industries (CAI) is an internal reference tool used by the U.S. Census 
+- [[entities/census-alphabetical-index-of-occupations|Census Alphabetical Index of Occupations]] — The Census Alphabetical Index of Occupations is a data source published by the US Census Bureau between 1915 and 2018. I
+- [[entities/census-occupation-code|Census Occupation Code]] — The Census Occupation Code is a standardized classification system used to categorize occupations for statistical purpos
+- [[entities/chaff-solver|CHAFF Solver]] — CHAFF is a propositional satisfiability (SAT) solver developed by Moskewicz et al. in 2001. It represented a major break
+- [[entities/charles-elkan|Charles Elkan]] — Charles Elkan is a computer scientist recognized for his contributions to machine learning, particularly in the area of 
+- [[entities/charles-sanders-peirce|Charles Sanders Peirce]] — Charles Sanders Peirce was a logician whose work in logic was pioneering and developed in parallel to that of Gottlob Fr
 - [[entities/chatgpt|ChatGPT]] — The text provides several examples of ChatGPT's advanced capabilities in a business education context. It shows the mode
+- [[entities/chess|Chess]] — The text highlights chess's historical importance in AI, quoting Alexander Kronrod's 1965 statement that it is the "*Dro
+- [[entities/china|China]] — The text identifies China as a major global player in AI, highlighting its national ambition and strategic government pu
+- [[entities/chinese-room-argument|Chinese Room Argument]] — The Chinese Room argument is a thought experiment developed by John Searle (1980). It is intended to challenge the claim
+- [[entities/chinook|CHINOOK]] — CHINOOK is a named AI system discussed in the text. The index lists it with references to pages 186, 193, and 194.
+- [[entities/civilian-conservation-corps|Civilian Conservation Corps]] — The Civilian Conservation Corps, commonly abbreviated as C.C.C., was a government program in the United States. It was e
+- [[entities/classified-index-of-industries-and-occupations-cai|Classified Index of Industries and Occupations (CAI)]] — The Classified Index of Industries and Occupations (CAI) is a data source containing textual descriptions of jobs. A key
+- [[entities/claude|Claude]] — Claude is identified in the text as a large language model (LLM), a type of artificial intelligence designed to understa
+- [[entities/cleveland-clinic|Cleveland Clinic]] — Cleveland Clinic is a healthcare organization recognized for providing innovative, high-quality care and is also a leade
 - [[entities/coda|Coda]] — Coda is a business productivity platform created by founder and former CEO Shishir Mehrotra. It is described as a tool t
+- [[entities/columntransformer|ColumnTransformer]] — The `ColumnTransformer` is a Scikit-Learn class designed to apply different preprocessing steps to different columns of 
 - [[entities/competing-in-the-age-of-ai|Competing in the Age of AI]] — "Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World" is a book authored by H
+- [[entities/computer-hardware-capital|Computer Hardware Capital]] — Computer hardware capital is a variety of measured capital stock that includes physical assets like computers and relate
+- [[entities/core-based-statistical-area|Core-Based Statistical Area (CBSA)]] — A Core-Based Statistical Area (CBSA) is a geographical unit used for statistical purposes. The research on AI adoption f
+- [[entities/core-based-statistical-areas|Core-Based Statistical Areas (CBSAs)]] — A Core-Based Statistical Area (CBSA) is a formally defined geographic area in the United States. It consists of one or m
+- [[entities/corinna-cortes|Corinna Cortes]] — Corinna Cortes is a prominent computer scientist recognized for her significant contributions to the field of machine le
 - [[entities/creative-intelligence-podcast|Creative Intelligence (Podcast)]] — "Creative Intelligence" is a podcast hosted by Kartik Hosanagar, a professor at the Wharton School. The podcast is assoc
 - [[entities/creative-intelligence|Creative Intelligence]] — "Creative Intelligence" is a biweekly technology podcast hosted by Karthik Hosanagar, the John C. Hower Professor at the
+- [[entities/cyc|Cyc]] — Cyc is one of the most famous projects based on the knowledge base approach to artificial intelligence. The project incl
+- [[entities/daioe-index|DAIOE Index]] — The DAIOE index is a quantitative measure designed to capture the exposure of different occupations to Artificial Intell
+- [[entities/dana-mackenzie|Dana Mackenzie]] — Dana Mackenzie is an award-winning science writer who co-authored "The Book of Why." He resides in Santa Cruz, Californi
+- [[entities/daniel-kahneman|Daniel Kahneman]] — Daniel Kahneman is identified in the text as a prominent thinker who is both confident about the potential of AI and wor
+- [[entities/daron-acemoglu|Daron Acemoglu]] — Daron Acemoglu is an economist whose research is cited multiple times in the text to support key arguments about the cur
+- [[entities/dartmouth-workshop|Dartmouth Workshop]] — The Dartmouth workshop, based on a 1955 proposal by McCarthy and others, was a pivotal event in the history of AI. While
+- [[entities/data-and-trust-alliance|Data and Trust Alliance]] — The Data and Trust Alliance was established in 2020 as a consortium of CEOs. It is notable for having a large proportion
+- [[entities/david-autor|David Autor]] — David Autor is the author of the NBER Working Paper 32140, "Applying AI to Rebuild Middle Class Jobs." In this work, he 
 - [[entities/david-droga|David Droga]] — David Droga is a prominent figure in the advertising and creative industries, identified as the founder of the "legendar
+- [[entities/david-h-d-warren|David H. D. Warren]] — David H. D. Warren is a computer scientist mentioned in the text as the creator of the Warren Abstract Machine.
+- [[entities/david-h-hubel|David H. Hubel]] — David H. Hubel was a neurophysiologist who, along with his colleague Torsten Wiesel, was awarded the Nobel Prize in Phys
+- [[entities/david-hubel|David Hubel]] — David Hubel was a neurophysiologist whose collaborative work with Torsten Wiesel led to fundamental discoveries about th
+- [[entities/david-hume|David Hume]] — David Hume was a Scottish philosopher whose 1748 work on causality is cited as a foundational moment in understanding th
 - [[entities/david-maslach|David Maslach]] — Dr. David Maslach is a research professor of entrepreneurship and the host of the discussion with Karim Lakhani. He is t
+- [[entities/david-rumelhart|David Rumelhart]] — David Rumelhart was a key figure in cognitive science whose work on neural information processing was highly influential
+- [[entities/david-sculley|David Sculley]] — David Sculley is a machine learning researcher known for his work on scalable machine learning algorithms.
+- [[entities/dbs-bank|DBS Bank]] — DBS Bank is a bank in Southeast Asia cited as a key example of a company that has effectively combined process reenginee
+- [[entities/de-morgans-laws|De Morgan's Laws]] — De Morgan's laws are a pair of rules governing logical equivalences. They provide a method for distributing a negation o
+- [[entities/deep-belief-network|Deep Belief Network]] — A deep belief network is a specific kind of neural network. It gained prominence as the model used in a pivotal 2006 res
 - [[entities/deep-blue|Deep Blue]] — Deep Blue was a chess-playing computer whose significance in AI research is compared to the role of fruit flies in genet
+- [[entities/deep-learning-book|Deep Learning (Book)]] — "Deep Learning" is a book authored by Ian Goodfellow, Yoshua Bengio, and Aaron Courville. The text is presented as a for
+- [[entities/deep-recurrent-attention-writer|Deep Recurrent Attention Writer (DRAW)]] — The Deep Recurrent Attention Writer (DRAW) model (Gregor et al., 2015) is a particularly sophisticated implementation of
 - [[entities/deep-seek|Deep Seek]] — Deep Seek is an AI company based in China that is part of the global AI development landscape, which the text notes is c
 - [[entities/deepmind|DeepMind]] — DeepMind is identified in the text as Google's AI research team. It is positioned at the forefront of significant breakt
+- [[entities/deloitte-2021-state-of-ai-survey|Deloitte 2021 "State of AI in the Enterprise" survey]] — The Deloitte 2021 “State of AI in the Enterprise” is the fourth edition of a survey report that examines how companies a
+- [[entities/deloitte|Deloitte]] — Deloitte is presented as a case study of a company transforming itself from an exclusively people-oriented professional 
 - [[entities/demis-hassabis|Demis Hassabis]] — Demis Hassabis is the founder of the AI lab DeepMind and is portrayed as a researcher who is not a conventional modeler 
+- [[entities/dendral|DENDRAL]] — DENDRAL is cited as the first successful knowledge-intensive system in the history of AI. Its domain of expertise was sp
+- [[entities/dennis-lindley|Dennis Lindley]] — Dennis Lindley was a leading statistician whose views are presented as representative of the statistical community's his
 - [[entities/derek-ali|Derek Ali]] — Derek Ali is a highly respected, Grammy Award-winning sound engineer, introduced by Karim Lakhani as the recording engin
+- [[entities/dictionary-of-occupational-titles-dot|Dictionary of Occupational Titles (DOT)]] — The Dictionary of Occupational Titles (DOT) is a data source that provides detailed textual descriptions of occupations 
+- [[entities/dictionary-of-occupational-titles|Dictionary of Occupational Titles (DOT)]] — The Dictionary of Occupational Titles (DOT) is a comprehensive publication by the U.S. Department of Labor's Employment 
 - [[entities/digital-data-and-design-institute|Digital, Data, and Design (D^3) Institute]] — The Digital, Data, and Design (D^3) Institute is a research institute launched at Harvard Business School by Karim Lakha
 - [[entities/digital-data-design-institute|Digital, Data & Design (D^3) Institute at Harvard]] — The Digital, Data & Design (D^3) Institute at Harvard is a research center founded and chaired by Professor Karim R. Lak
+- [[entities/donald-rubin|Donald Rubin]] — Donald Rubin is a Harvard statistician whose work was instrumental in preparing the statistical community for the Causal
 - [[entities/droga5|Droga5]] — Droga5 is a creative agency founded by David Droga. In the context of the discussion, it is referred to as a "legendary 
 - [[entities/dutch-east-india-company|Dutch East India Company]] — Founded in 1602, the Dutch East India Company is presented as possibly the first modern corporation. It was formed from 
+- [[entities/dynamic-artificial-intelligence-occupational-exposure-daioe-index|Dynamic Artificial Intelligence Occupational Exposure (DAIOE) index]] — The Dynamic Artificial Intelligence Occupational Exposure (DAIOE) index is a measure of AI occupational exposure develop
 - [[entities/eightfold|Eightfold]] — Eightfold is identified in the text as a portfolio company that applies automation and AI to the recruiting industry. It
+- [[entities/elias-bareinboim|Elias Bareinboim]] — Elias Bareinboim is a researcher who worked in Judea Pearl's lab and made significant contributions to the field of caus
+- [[entities/ellsberg-paradox|Ellsberg Paradox]] — The Ellsberg paradox is a thought experiment in decision theory that reveals a key limitation of expected utility theory
+- [[entities/eloundou-et-al-2023|Eloundou et al. (2023)]] — The study by Eloundou et al. (2023) is a primary source of data for the analysis presented in the text. It provides a co
+- [[entities/eloundou-et-al-2024-ai-exposure-measure|Eloundou et al. (2024) AI Exposure Measure]] — The AI exposure measure developed by Eloundou et al. (2024) is one of the two primary approaches used in "Canaries in th
+- [[entities/eloundou-et-al-2024|Eloundou et al. (2024)]] — Eloundou et al. (2024) is a key academic work cited as the source for a primary measure of occupational exposure to Gene
+- [[entities/eloundou-et-al-study|Eloundou et al. Study]] — The Eloundou et al. study is a key data source used in the text's quantitative evaluation of AI's economic effects. Its 
 - [[entities/engineears|EngineEars]] — EngineEars is a technology company founded by sound engineer Derek Ali. The platform is designed to provide comprehensiv
+- [[entities/equal-ai|EqualAI]] — EqualAI is a consortium created to address the challenge of bias in artificial intelligence. Its particular focus is on 
 - [[entities/equifax-data-breach-2017|Equifax Data Breach (2017)]] — The 2017 data breach at Equifax is presented as a significant case study in corporate security failures. According to th
 - [[entities/equifax|Equifax]] — Equifax is a credit-reporting company that, under the leadership of CEO Richard Smith starting in 2005, transformed from
 - [[entities/erasmus-university|Erasmus University]] — Erasmus University is an institution of higher education located in the city of Rotterdam in the Netherlands.
+- [[entities/erik-brynjolfsson|Erik Brynjolfsson]] — Erik Brynjolfsson is an economist affiliated with Stanford University and the National Bureau of Economic Research (NBER
+- [[entities/ewing-marion-kauffman-foundation|Ewing Marion Kauffman Foundation]] — The Ewing Marion Kauffman Foundation is an organization involved in supporting entrepreneurship.
+- [[entities/executive-order-13859|Executive Order 13859]] — Executive Order 13859, titled "Maintaining American Leadership in Artificial Intelligence," is a key policy document tha
+- [[entities/fabrizio-dellacqua|Fabrizio Dell'Acqua]] — Fabrizio Dell'Acqua is a postdoctoral researcher affiliated with Harvard Business School and Harvard's Digital Data Desi
+- [[entities/fashion-mnist|Fashion MNIST]] — Fashion MNIST is a dataset comprising grayscale images of 10 different types of clothing and accessories. It is used in 
+- [[entities/fastus-system|FASTUS System]] — FASTUS is a system designed for extracting structured information from unstructured natural language text. It was develo
+- [[entities/ff-planning-system|FF Planning System]] — The FF (Fast-Forward) planning system is a system for automated plan generation, developed primarily by Jörg Hoffmann. I
 - [[entities/fidelity-investments|Fidelity Investments]] — Fidelity Investments is a major financial services company that undertook a significant initiative to integrate artifici
+- [[entities/fitnets|FitNets]] — FitNets is a training approach, described by Romero et al. (2015), designed to facilitate the training of deep and thin 
+- [[entities/francis-galton|Francis Galton]] — Francis Galton was a scientist who, in the late 19th century, pursued a causal explanation for the laws of heredity. His
+- [[entities/frank-rosenblatt|Frank Rosenblatt]] — The provided text lists several foundational works by Frank Rosenblatt on the topic of perceptrons. These include the 19
+- [[entities/frederic-lord|Frederic Lord]] — Frederic Lord was a statistician who, in 1967, stated a paradox that became a classic example in the statistical literat
+- [[entities/galton-board|Galton Board]] — The Galton board is a pinball-like apparatus where balls are dropped from the top and bounce randomly left or right off 
 - [[entities/garry-kasparov|Garry Kasparov]] — Garry Kasparov is a world chess champion whose match against the AI computer Deep Blue is a significant event in the his
+- [[entities/gary-loveman|Gary Loveman]] — Gary Loveman is the chief executive officer of Well, an AI-focused startup in the health technology sector. As CEO, he p
+- [[entities/gemini-pro|Gemini Pro]] — Gemini Pro is a large language model (LLM) referenced in the study as a tool for advanced text analysis. It is used to p
+- [[entities/gemini|Gemini]] — Gemini is a Large Language Model (LLM) that was utilized in this research as an evaluation tool to assess the quality of
+- [[entities/general-problem-solver|General Problem Solver]] — The General Problem Solver (GPS) was a highly influential AI program developed in the late 1950s. The index references i
 - [[entities/generate-biomedicines|Generate Biomedicines]] — Generate Biomedicines is a company that operates at the intersection of artificial intelligence and biology. It is menti
+- [[entities/generative-ai|Generative AI]] — Generative AI is described in the text as a promising technology with the potential to create significant economic gains
 - [[entities/genius-makers|Genius Makers]] — "Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the World" is a book authored by New York Times re
 - [[entities/geoffrey-hinton|Geoffrey Hinton]] — Geoffrey Hinton is presented as a central protagonist in the story of modern AI and a key figure in Cade Metz's book "Ge
+- [[entities/george-boole|George Boole]] — George Boole was a mathematician who lived from 1815 to 1864. His work was central to the mathematical development of fo
+- [[entities/german-qualifications-and-career-surveys-bibb-baua|German Qualifications and Career Surveys (BIBB-BAUA)]] — The German Qualifications and Career Surveys (BIBB-BAUA) are a series of surveys conducted in Germany, with the paper ut
+- [[entities/githesh-ramamurthy|Githesh Ramamurthy]] — Githesh Ramamurthy is the leader of CCC Intelligent Solutions and the key visionary behind the company's transition into
+- [[entities/github-classroom|GitHub Classroom]] — GitHub Classroom is a platform designed for educational settings, enabling instructors to distribute, manage, and grade 
+- [[entities/github-copilot|GitHub Copilot]] — GitHub Copilot is described in the paper as an "AI pair programmer" and a generative AI tool designed to increase human 
+- [[entities/giuseppe-peano|Giuseppe Peano]] — Giuseppe Peano was a logician known for his work in mathematical logic. He is also known for the Peano axioms for natura
 - [[entities/gnu-public-license|GNU Public License (GPL)]] — The GNU Public License, or GPL, is a specific license under which open source software is made available for free. It is
+- [[entities/go|Go]] — Go is described as the most popular board game in Asia. It is a deterministic game played on a 19x19 board where players
+- [[entities/goedels-incompleteness-theorem|Gödel's Incompleteness Theorem]] — Proven by Kurt Gödel, the incompleteness theorem is a landmark result in mathematical logic. It demonstrates that within
 - [[entities/google-deepmind|Google's DeepMind]] — Google's DeepMind is an AI research institution responsible for significant breakthroughs in machine intelligence.
+- [[entities/google-translate|Google Translate]] — Google Translate is presented in the text as a key example illustrating the economic impact of machine learning. The ser
 - [[entities/google|Google]] — Google is a major technology company whose practices in algorithmic ad-targeting are discussed as a case study in the ch
+- [[entities/gottlob-frege|Gottlob Frege]] — Gottlob Frege (1848-1925) was a German logician and mathematician who is considered one of the founders of modern logic.
+- [[entities/gpt-3|GPT-3]] — GPT-3 is an acronym that stands for "third-generation 'generative pre-trained transformer'." It is a specific, named Art
+- [[entities/gpt-4|GPT-4]] — GPT-4 is a large language model developed by OpenAI. The text refers to it as a state-of-the-art model whose observed ca
+- [[entities/gradient-boosting-regressor|GradientBoostingRegressor]] — The `GradientBoostingRegressor` is a class within the Scikit-Learn library that provides an implementation of the Gradie
 - [[entities/grammarly|Grammarly]] — Grammarly is a technology company, led by CEO Shishir Mehrotra, that is undergoing a significant strategic reinvention. 
+- [[entities/graphplan|GRAPHPLAN]] — The GRAPHPLAN algorithm is a planning method that directly utilizes a planning graph. The process involves incrementally
+- [[entities/greenland-and-robins|Greenland and Robins]] — Sander Greenland and James Robins are epidemiologists who made a foundational contribution to the understanding of confo
+- [[entities/guanglei-hong|Guanglei Hong]] — Guanglei Hong is a researcher whose work on educational policy in the Chicago Public Schools is presented as a primary c
+- [[entities/handa-et-al-2025|Handa et al. (2025)]] — Handa et al. (2025) is a research paper that analyzes millions of conversations with the AI assistant Claude to determin
+- [[entities/hans-moravec|Hans Moravec]] — Hans Moravec is a roboticist and futurist known for his contributions to philosophical discussions about artificial inte
+- [[entities/hans-reichenbach|Hans Reichenbach]] — Hans Reichenbach was a prominent philosopher whose work addressed fundamental questions of causality, time, and science.
 - [[entities/harvard-business-analytics-program|Harvard Business Analytics Program]] — The Harvard Business Analytics Program is an educational offering from Harvard. The program produced a "Meet Your Profes
+- [[entities/herbert-a-simon|Herbert A. Simon]] — Herbert A. Simon was a key founder of the field of artificial intelligence, whose work is referenced extensively through
+- [[entities/herbert-simon|Herbert Simon]] — Herbert Simon is presented in the text as a pivotal figure who challenged classical models of perfect rationality. He wa
+- [[entities/hugin-system|HUGIN system]] — The HUGIN system is an influential and widely used software tool designed for performing uncertain reasoning. It is spec
+- [[entities/ian-goodfellow|Ian Goodfellow]] — Ian Goodfellow is presented as one of the three authors of the book titled "Deep Learning". His name appears on the cove
+- [[entities/ian-hacking|Ian Hacking]] — Ian Hacking is a philosopher whose work is referenced in the text to provide historical context for the rise of probabil
+- [[entities/iflytek|iFlytek]] — iFlytek is a company that has successfully commercialized AI by developing a deep learning-powered service for natural l
+- [[entities/inertial-motion-unit|Inertial Motion Unit (IMU)]] — An Inertial Motion Unit (IMU) is a sensor mechanism used in robotics and other fields to sense acceleration. The text li
+- [[entities/interagency-language-roundtable|Interagency Language Roundtable (ILR)]] — The Interagency Language Roundtable (ILR) is an organization composed of various U.S. federal government agencies. Its p
+- [[entities/internet-giants|Internet Giants (IGs)]] — The Internet Giants (IGs) are identified as pioneers in applying Artificial Intelligence Technologies (AITs). They devel
+- [[entities/isaac-asimov|Isaac Asimov]] — The text references Isaac Asimov in the context of legal and ethical constraints on full automation. He is presented as 
+- [[entities/j-a-robinson|J. A. Robinson]] — J. A. Robinson is a key figure in the field of automated logic. His 1965 paper, 'A machine-oriented logic based on the r
+- [[entities/j-r-lucas|J. R. Lucas]] — The text identifies J. R. Lucas as a philosopher who, in 1961, put forth a significant claim that machines are mentally 
+- [[entities/jacob-yerushalmy|Jacob Yerushalmy]] — Jacob Yerushalmy was a biostatistician who, like R. A. Fisher, was a key skeptic in the debate over whether smoking caus
+- [[entities/jacques-herbrand|Jacques Herbrand]] — Jacques Herbrand (1930) was a mathematician who made major contributions to mathematical logic that had a profound impac
+- [[entities/jason-girzadas|Jason Girzadas]] — Jason Girzadas is a key leader within Deloitte's AI initiatives. He is credited with providing overall leadership for th
+- [[entities/john-f-kragh-jr|John F. Kragh Jr.]] — John F. Kragh Jr. is an army surgeon whose work during the Iraq and Afghanistan wars is praised as a "shining light" for
+- [[entities/john-koza|John Koza]] — John Koza is a key figure associated with the advancement and popularization of the field of genetic programming.
+- [[entities/john-mccarthy|John McCarthy]] — The provided bibliography cites John McCarthy as a prolific and foundational author in artificial intelligence, with pub
+- [[entities/john-r-searle|John R. Searle]] — John R. Searle is an author who has published multiple works examining the philosophical foundations of mind, consciousn
+- [[entities/john-searle|John Searle]] — John Searle is a philosopher who has mounted a strong challenge to the theory of functionalism in the philosophy of mind
+- [[entities/john-snow|John Snow]] — Dr. John Snow was a physician practicing in London during the severe cholera epidemics of the 1850s. At the time, the pr
 - [[entities/joscha-bach|Joscha Bach]] — Joscha Bach is an AI and cognitive science researcher whose ideas on consciousness are discussed in the text (where his 
+- [[entities/joseph-weizenbaum|Joseph Weizenbaum]] — Joseph Weizenbaum was the author of the early natural language processing program ELIZA. In his 1976 book, *Computer Pow
+- [[entities/judea-pearl|Judea Pearl]] — Judea Pearl is a key figure who prompted a new acceptance of probability and decision theory in the field of artificial 
+- [[entities/jupyter-notebook|Jupyter Notebook]] — Jupyter Notebook is a tool recommended in the text for walking through code examples. It operates as a server, typically
+- [[entities/jurgen-schmidhuber|Jürgen Schmidhuber]] — Jürgen Schmidhuber is a key researcher in the field of neural networks, with foundational contributions particularly in 
 - [[entities/kai-fu-lee|Kai-Fu Lee]] — Kai-Fu Lee is identified in the text as an eminent computer scientist and technology investor. He is presented as an inf
+- [[entities/kalman-filter|Kalman Filter]] — The Kalman filter is a technique for forward inference in linear systems that are subject to Gaussian noise. It is based
 - [[entities/karim-lakhani|Karim Lakhani]] — Karim Lakhani is a faculty member at Harvard Business School (HBS), where he has taught for 17 years as of the time of t
 - [[entities/karim-r-lakhani|Karim R. Lakhani]] — Karim R. Lakhani is the Dorothy & Michael Hintze Professor of Business Administration at Harvard Business School. He is 
+- [[entities/karl-pearson|Karl Pearson]] — Karl Pearson was a disciple of Francis Galton who played a key role in the development of modern mathematical statistics
 - [[entities/karthik-hosanagar|Karthik Hosanagar]] — Karthik Hosanagar is the John C. Hower Professor at the Wharton School, Faculty Co-Director of Wharton Human-AI Research
 - [[entities/kartik-hosanagar|Kartik Hosanagar]] — Kartik Hosanagar is a professor at the Wharton School and the host of the podcast "Creative Intelligence." His work focu
+- [[entities/kelly-et-al-2021|Kelly et al. (2021)]] — Kelly et al. (2021) is an academic paper cited as the source for the study's measure of breakthrough innovations. This w
+- [[entities/kenneth-craik|Kenneth Craik]] — Kenneth Craik was a student and successor to Frederic Bartlett at Cambridge's Applied Psychology Unit. His work was inst
+- [[entities/keras|Keras]] — Keras is a high-level API specifically designed for Deep Learning. Its main goal is to make it very simple to train and 
 - [[entities/khan-academy|Khan Academy]] — Khan Academy is a nonprofit organization founded on the principle that in sectors like education, the decision-makers, p
 - [[entities/khanmigo|Khanmigo]] — For students, Khanmigo acts as a personal tutor that engages them in a "Socratic conversation" when they have a question
+- [[entities/kindred|Kindred]] — Kindred is a Vancouver-based startup co-founded by Suzanne Gildert and Geordie Rose. The company focuses on solving the 
+- [[entities/kroger-co|Kroger Co.]] — The Kroger Co. is a retail company that clearly depends on Artificial Intelligence for the execution of its business str
 - [[entities/kurt-delbene|Kurt DelBene]] — Kurt DelBene, an executive with extensive product experience, was convinced by Satya Nadella to return to Microsoft in 2
+- [[entities/kurt-goedel|Kurt Gödel]] — Kurt Gödel is the logician and mathematician identified in the text as the creator of the incompleteness theorem, a foun
+- [[entities/lapgan|LAPGAN]] — The LAPGAN model (Denton et al., 2015) is a generative model for images that is capable of producing high-quality result
 - [[entities/large-language-models|Large Language Models]] — Large Language Models (LLMs) are described as the most popular and well-studied class of generative AI models. Their pri
+- [[entities/levenberg-marquardt-algorithm|Levenberg-Marquardt Algorithm]] — The Levenberg-Marquardt algorithm is a specific optimization algorithm that serves as a regularized approximation to New
 - [[entities/linux|Linux]] — Linux is cited as a major success story of the open source software movement. It is an operating system that has gained 
+- [[entities/literary-digest|Literary Digest]] — The *Literary Digest* was a magazine that conducted a very large-scale poll during the 1936 US presidential election bet
 - [[entities/luddite-movement|Luddite Movement]] — The Luddite movement is described as an early response to the technological changes of the Industrial Revolution. It eme
 - [[entities/marco-iansiti|Marco Iansiti]] — Marco Iansiti is the David Sarnoff Professor of Business Administration at Harvard Business School. At the school, he al
+- [[entities/marilyn-vos-savant|Marilyn vos Savant]] — Marilyn vos Savant is an American columnist who, in her "Ask Marilyn" column, addressed the famous probability puzzle kn
+- [[entities/marvin-minsky|Marvin Minsky]] — The bibliography cites Marvin L. Minsky as the author of seminal works in artificial intelligence. His publications list
+- [[entities/mcculloch-pitts-neuron|McCulloch-Pitts Neuron]] — The McCulloch-Pitts Neuron, developed by Warren McCulloch and Walter Pitts in 1943, was an early and influential model o
+- [[entities/meta-dendral|Meta-DENDRAL]] — Meta-DENDRAL was a pioneering artificial intelligence system designed to learn predictive rules in the domain of analyti
 - [[entities/microsoft|Microsoft]] — Before the transformation led by CEO Satya Nadella, Microsoft was considered a 'tired company' whose growth had stalled.
+- [[entities/minority-business-development-agency|Minority Business Development Agency]] — The Minority Business Development Agency (MBDA) is an agency focused on the growth and competitiveness of minority-owned
+- [[entities/mnist-dataset|MNIST Dataset]] — The MNIST dataset is a set of 70,000 small images of digits handwritten by high school students and employees of the US 
+- [[entities/mnist|MNIST]] — The MNIST dataset is a benchmark dataset in the field of machine learning and computer vision. The index indicates it is
+- [[entities/mobileye|Mobileye]] — Mobileye is an Israeli technology company specializing in data-collection technology for autonomous vehicles. It was acq
+- [[entities/mogo|MOGO]] — MOGO, developed by Gelly and Silver, was considered the strongest Go program as of 2009. It represented the state-of-the
+- [[entities/moneyball|Moneyball]] — "Moneyball" refers to the story of the Oakland Athletics (A's) baseball team and its general manager, Billy Beane, as do
+- [[entities/morgan-stanley|Morgan Stanley]] — Morgan Stanley is presented as a company that has successfully deployed AI to support its core business operations. The 
+- [[entities/mycin|MYCIN]] — Developed by Feigenbaum, Buchanan, and Dr. Edward Shortliffe as part of the Heuristic Programming Project, MYCIN was a m
 - [[entities/napster|Napster]] — Napster was a service that emerged roughly 25 years ago which made the sharing and discovery of music highly convenient 
+- [[entities/nathan-rosenberg|Nathan Rosenberg]] — Nathan Rosenberg is an economic historian credited in the text with coining the term 'learning-by-using.'
+- [[entities/ncses|NCSES]] — NCSES is an organization involved in the collection and analysis of data related to science and engineering.
+- [[entities/nelson-goodman|Nelson Goodman]] — Nelson Goodman was an American philosopher whose work is cited in the context of knowledge representation and mereology.
+- [[entities/nesterov|Nesterov]] — Nesterov is a researcher known for his foundational work on accelerated gradient methods in convex optimization, with ke
 - [[entities/netflix|Netflix]] — Netflix uses extensive behavioral data to personalize the user experience. By tracking actions like when viewers pause, 
+- [[entities/netherlands-forensic-institute|Netherlands Forensic Institute]] — The Netherlands Forensic Institute (NFI) is an institution that handles forensic investigations in the Netherlands. The 
+- [[entities/neural-autoregressive-density-estimator|Neural Autoregressive Density Estimator (NADE)]] — The Neural Autoregressive Density Estimator (NADE) is a specific architecture for a neural autoregressive network. It is
+- [[entities/new-frontiers-the-origins-and-content-of-new-work-1940-2018|New Frontiers: The Origins and Content of New Work, 1940-2018]] — This paper addresses three central questions about the role of newly emerging job categories, termed 'new work,' in the 
+- [[entities/next-best-action-system|Next Best Action system]] — The Next Best Action system is an AI-based platform used within Morgan Stanley's Wealth Management business, which is de
+- [[entities/nice|Nonlinear Independent Components Estimation (NICE)]] — Nonlinear Independent Components Estimation, or NICE, is a nonlinear extension of the ICA approach proposed by Dinh et a
 - [[entities/nils-nilsson|Nils Nilsson]] — Nils Nilsson was an influential figure in the field of artificial intelligence who contributed to the vision of general-
 - [[entities/nilsson|Nilsson]] — Nilsson is an AI researcher whose vision for the future of artificial intelligence is centered on practical, real-world 
+- [[entities/nist|National Institute of Science and Technology (NIST)]] — The text identifies the National Institute of Science and Technology (NIST) as a United States government agency. Its ro
 - [[entities/nokia|Nokia]] — Nokia was a leading mobile phone manufacturer that operated as a great product company, optimized to produce laser-focus
+- [[entities/novartis|Novartis]] — Novartis is a pharmaceutical company that is notably public about its various AI initiatives. A key component of its str
+- [[entities/o-net|O*NET]] — O*NET is a comprehensive database that serves as a primary source of occupational information in the United States. It c
 - [[entities/ocado|Ocado]] — Ocado's core technological journey has been the continuous automation of its operating processes, particularly within it
+- [[entities/omnia|Omnia]] — Omnia is the global AI platform developed and used by Deloitte to support its audit business in member firms around the 
+- [[entities/open-ai-energy-initiative|Open AI Energy Initiative (OAEI)]] — The Open AI Energy Initiative (OAEI) is an AI-driven ecosystem created for the energy sector. Its founding partners incl
+- [[entities/open-subsurface-data-universe-osdu|Open Subsurface Data Universe (OSDU)]] — The Open Subsurface Data Universe (OSDU) is a collaborative ecosystem created by Shell and its business partners. It was
 - [[entities/openai|OpenAI]] — OpenAI is the company behind the generative AI product ChatGPT. It has been developing its series of large language mode
+- [[entities/opencyc|OpenCyc]] — The OPENCYC project, developed by researchers including Lenat and Guha, represents a significant effort in the creation 
+- [[entities/ops5|OPS5]] — OPS5 is a production system language, part of a family of rule-based systems developed at Carnegie Mellon University. A 
+- [[entities/oreilly-media|O'Reilly Media, Inc.]] — O'Reilly Media, Inc. is the publisher of Aurélien Géron's book "Hands-on Machine Learning with Scikit-Learn, Keras & Ten
+- [[entities/organizational-capital|Organizational Capital]] — Organizational capital is a type of intangible asset that captures the value of a firm's unique combination of business 
+- [[entities/otto|Otto]] — Otto is a German e-commerce venture presented as a real-world example of a business grappling with the consequences of u
+- [[entities/oz-ataman|Oz Ataman]] — Oz Ataman holds the position of chief technology officer at the health technology company Well. In this role, he is resp
+- [[entities/partnership-on-ai|Partnership on AI]] — The Partnership on AI, formed in 2016, is a consortium that brings together a diverse group of stakeholders to guide the
+- [[entities/pddl|PDDL (Planning Domain Definition Language)]] — PDDL, the Planning Domain Definition Language, is a language used by planning researchers to express planning problems. 
+- [[entities/pegasus-algorithm|PEGASUS Algorithm]] — PEGASUS is a policy-search algorithm introduced by Ng and Jordan (2000). Its key innovation is the use of correlated sam
 - [[entities/peloton|Peloton]] — Peloton is a fitness company that provides a high-end stationary bike featuring a large HD touchscreen. This screen allo
+- [[entities/peng-et-al-github-copilot-study|Peng et al. GitHub Copilot Study]] — The study by Peng et al. is presented as a proof-of-concept investigation into the productivity benefits of generative A
+- [[entities/pengi|PENGI]] — PENGI was a system developed by Philip Agre and David Chapman in 1987 as an example of a reactive planning system. It wa
+- [[entities/penn-treebank|Penn Treebank]] — The Penn Treebank is a specific, widely-used treebank, which is a corpus of text where sentences are annotated with thei
+- [[entities/perceptron|Perceptron]] — The perceptron, developed by Frank Rosenblatt in the 1950s and 1960s, was a landmark model in the first wave of neural n
+- [[entities/peter-bickel|Peter Bickel]] — Peter Bickel is a statistician who was asked in 1973 to analyze graduate admissions data from the University of Californ
+- [[entities/peter-norvig|Peter Norvig]] — Peter Norvig is the co-author of "Artificial Intelligence: A Modern Approach" and serves as the Director of Research at 
+- [[entities/pfizer|Pfizer]] — Pfizer is a pharmaceutical company that leverages its strengths in sales and marketing by applying AI to support those f
+- [[entities/philip-wright|Philip Wright]] — Philip Wright was an economist who, in a 1928 monograph, conducted an analysis of the elasticity of supply for flaxseed 
+- [[entities/pierre-simon-laplace|Pierre-Simon Laplace]] — Pierre-Simon Laplace was an 18th-century scholar who made foundational contributions to mathematics and probability theo
+- [[entities/ping-an|Ping An]] — Ping An is a company based in China that was founded in 1988 as an insurance provider. It has since transformed into an 
+- [[entities/piyush-gupta|Piyush Gupta]] — Piyush Gupta is the Group CEO of DBS Bank and a veteran of the conservative banking industry with almost forty years of 
+- [[entities/planex|PLANEX]] — PLANEX was a pioneering system developed by Fikes et al. in 1972. It is recognized as the first online planner that inco
+- [[entities/probcut|PROBCUT]] — PROBCUT, short for probabilistic cut, is a forward-pruning version of the alpha-beta search algorithm. Unlike standard a
+- [[entities/progol|PROGOL]] — PROGOL is an Inductive Logic Programming (ILP) system developed by Stephen Muggleton. It is notable for its application 
+- [[entities/prolog|Prolog]] — Prolog is the most widely used logic programming language. A Prolog program consists of a set of definite clauses. It is
+- [[entities/r-a-fisher|R. A. Fisher]] — R. A. Fisher was a highly influential statistician who played the role of a prominent skeptic during the debate over the
+- [[entities/r-d-capital|R&D Capital]] — R&D capital represents the stock of knowledge derived from past investments in research and development. In this study, 
 - [[entities/r3ciprocity-project|R3ciprocity Project]] — The R3ciprocity Project is a software platform developed by Dr. David Maslach. It was born from the idea that there was 
 - [[entities/rahul-kapoor|Rahul Kapoor]] — Rahul Kapoor is the chairperson of the management department at Wharton. He contributes to the AI discussion by drawing 
 - [[entities/rakuten|Rakuten]] — Rakuten is a company mentioned in the context of organizational adaptation and change management. The discussion highlig
+- [[entities/ray-kurzweil|Ray Kurzweil]] — Ray Kurzweil is currently the most visible advocate for the view that a technological Singularity is approaching. He has
+- [[entities/ray-solomonoff|Ray Solomonoff]] — Ray Solomonoff was a pioneering American researcher in machine learning and a founder of algorithmic information theory.
+- [[entities/reinforce-algorithm|REINFORCE Algorithm]] — REINFORCE is a policy search algorithm developed by Williams (1992). It is designed to find a good set of parameters $\t
 - [[entities/rene-descartes|René Descartes]] — René Descartes was a French scientist and philosopher mentioned as a key intellectual influence in the 'Creative Intelli
+- [[entities/rich-fairbank|Rich Fairbank]] — Rich Fairbank is the co-founder and long-time CEO of Capital One. He, along with Nigel Morris, established the company i
+- [[entities/richard-bellman|Richard Bellman]] — Richard Bellman was a mathematician whose work from 1957 is cited as foundational for the methods used in making complex
+- [[entities/richard-doll|Richard Doll]] — Richard Doll was a British epidemiologist who played a critical role in establishing the causal relationship between smo
+- [[entities/richard-korf|Richard Korf]] — Richard Korf is an AI researcher whose work is cited in the context of online and real-time search algorithms.
+- [[entities/rina-dechter|Rina Dechter]] — Rina Dechter is an author of numerous influential papers and a book in the field of artificial intelligence, with public
+- [[entities/rio-tinto|Rio Tinto]] — Rio Tinto is identified as a mining giant with highly capital-intensive iron ore operations in Australia's remote Pilbar
+- [[entities/robbins-algebra|Robbins Algebra]] — The Robbins algebra is a simple set of axioms proposed by Herbert Robbins in 1933. For over 60 years, it was an open mat
+- [[entities/robert-e-lucas|Robert E. Lucas]] — Robert E. Lucas is identified in the text through his seminal 1967 publication in the Journal of Political Economy, titl
+- [[entities/rodney-a-brooks|Rodney A. Brooks]] — Rodney A. Brooks is an author of several key papers in robotics and artificial intelligence published in the mid-1980s t
 - [[entities/rodney-brooks|Rodney Brooks]] — Rodney Brooks is an AI researcher known for his critique of the prevailing focus of AI development on symbolic games.
+- [[entities/ronald-fisher|Ronald Fisher]] — Ronald Fisher was a statistician whose ideas revolutionized the design of scientific experiments. He is presented as a k
+- [[entities/ross-shachter|Ross Shachter]] — Ross Shachter is a researcher from the influence diagram community credited with a foundational contribution to the fiel
+- [[entities/rudolf-kalman|Rudolf Kalman]] — Rudolf Kalman is the researcher for whom the Kalman filter is named. He published a paper in 1960 that described the fil
+- [[entities/sample-of-integrated-labour-market-biographies-siab|Sample of Integrated Labour Market Biographies (SIAB)]] — The Sample of Integrated Labour Market Biographies (SIAB) is a large-scale administrative dataset provided by the Instit
 - [[entities/sangeet-paul-choudary|Sangeet Paul Choudary]] — Sangeet Paul Choudary is an author featured on the Creative Intelligence podcast. His work focuses on the systemic impac
+- [[entities/sapir-whorf-hypothesis|Sapir-Whorf Hypothesis]] — The Sapir-Whorf hypothesis is a well-known claim from linguistics which posits that a person's understanding of the worl
+- [[entities/satplan|SATPLAN]] — SATPLAN is an approach to planning that transforms a bounded planning problem into a Boolean satisfiability (SAT) proble
 - [[entities/satya-nadella|Satya Nadella]] — When Satya Nadella took over as CEO, Microsoft was described as a 'tired company' that had stagnated after its period of
+- [[entities/scikit-learn|Scikit-Learn]] — Scikit-Learn is a production-ready Python framework for Machine Learning. It is presented as a primary tool for implemen
+- [[entities/scotiabank|Scotiabank]] — Scotiabank, officially the Bank of Nova Scotia, is one of Canada's 'big five' banks. Its experience serves as an example
+- [[entities/seagate-technologies|Seagate Technologies]] — Seagate Technologies is described as the world's largest manufacturer of disk drives. The company has made significant u
+- [[entities/sewall-wright|Sewall Wright]] — Sewall Wright was a geneticist whose early work at the USDA on the inheritance of coat color in guinea pigs became the s
+- [[entities/sgdclassifier|SGDClassifier]] — The `SGDClassifier` is a specific classifier model from the Scikit-Learn library that is used as a running example in th
+- [[entities/shakey-the-robot|Shakey the Robot]] — Shakey was a robot developed between 1966 and 1972 that is considered a major milestone in artificial intelligence and r
 - [[entities/shein|Shein]] — Shein is described as an AI-generated design company and a two-sided platform. On one side, it accumulates and engages c
+- [[entities/shell|Shell]] — Shell is an example of a company that both needs and has achieved AI at a large scale. The company is pursuing several d
 - [[entities/shishir-mehrotra|Shishir Mehrotra]] — Shishir Mehrotra is the CEO of Grammarly. His professional background includes founding and leading the business product
+- [[entities/siab|SIAB (Sample of Integrated Labour Market Biographies)]] — The SIAB (Sample of Integrated Labour Market Biographies) is a large-scale German administrative dataset that provides l
+- [[entities/siebert|SiEBERT]] — SiEBERT is a Large Language Model (LLM) that has been specifically adapted and fine-tuned for the task of sentiment anal
+- [[entities/sipe|SIPE (System for Interactive Planning and Execution monitoring)]] — SIPE, which stands for System for Interactive Planning and Execution monitoring, is a practical planner developed by Dav
+- [[entities/skywise|Skywise]] — Skywise is an open data platform launched by Airbus in 2017 in collaboration with Palantir Technologies. Its primary obj
+- [[entities/software-capital|Software Capital]] — Software capital is a variety of measured capital that has experienced faster growth than overall capital investment. Th
+- [[entities/stanislaw-lesniewski|Stanisław Leśniewski]] — Stanisław Leśniewski was a Polish logician active in the early 20th century. The text identifies him as the originator o
 - [[entities/stefano-puntoni|Stefano Puntoni]] — Stefano Puntoni is the Sebastian S. Kresge Professor of Marketing at The Wharton School, University of Pennsylvania. He 
+- [[entities/street-view-address-number-transcription-system|Street View Address Number Transcription System]] — The Street View address number transcription system is a real-world deep learning application developed to enhance the a
+- [[entities/street-view-transcription-system|Street View Transcription System]] — The Street View transcription system is a project that serves as a practical example of an iterative deep learning devel
+- [[entities/strips|STRIPS]] — STRIPS was a pioneering planning program developed in the early 1970s by Fikes et al. It was associated with the control
+- [[entities/stuart-russell|Stuart Russell]] — Stuart Russell is an author and researcher in the field of artificial intelligence, identified in the text as a co-autho
+- [[entities/suitability-for-machine-learning-sml|Suitability for Machine Learning (SML)]] — The Suitability for Machine Learning (SML) score is a metric developed in a previous study to assess the degree to which
+- [[entities/sundar-pichai|Sundar Pichai]] — Sundar Pichai is the Chief Executive Officer of Google. He is cited in the text as an influential industry leader whose 
 - [[entities/superhuman|Superhuman]] — Superhuman is an email application that is highlighted as a great example of a modern AI-powered tool. It is discussed i
+- [[entities/surgeon-generals-advisory-committee-on-smoking-and-health|Surgeon General's Advisory Committee on Smoking and Health]] — Following a 1962 report by the Royal College of Physicians in the UK, US Surgeon General Luther Terry announced the form
+- [[entities/survey-of-business-owners|Survey of Business Owners (SBOs)]] — The Survey of Business Owners (SBOs) was a data collection initiative focused on the characteristics of U.S. businesses 
+- [[entities/sussman-anomaly|Sussman Anomaly]] — The Sussman anomaly is a well-known benchmark problem in the blocks-world domain of AI planning. It involves a specific 
+- [[entities/sutskever-et-al-2013|Sutskever et al. (2013)]] — Sutskever et al. are the researchers credited in a 2013 publication with introducing a specific and influential variant 
+- [[entities/svanberg-et-al-2024-study|Svanberg et al. (2024) Study]] — The Svanberg et al. (2024) study provides a practical assessment of AI automation, focusing specifically on computer vis
 - [[entities/tay-chatbot|Tay (chatbot)]] — Tay was an AI-powered chatbot introduced by Microsoft on Twitter in 2016. It was designed to engage with users in a pers
+- [[entities/tay-microsoft-chatbot|Tay (Microsoft Chatbot)]] — Tay was an artificial intelligence-based chatbot launched by Microsoft on Twitter in March 2016. It was designed as an e
 - [[entities/tencent|Tencent]] — Founded in Shenzhen in 1998, Tencent is one of the companies behind the major "collisions" between digital technology an
+- [[entities/tensorboard|TensorBoard]] — TensorBoard is a tool for visualizing data generated during the training of machine learning models. It helps in underst
+- [[entities/tensorflow-data-api|TensorFlow Data API]] — The TensorFlow Data API, commonly referred to as `tf.data`, is a core TensorFlow library designed to handle the challeng
+- [[entities/tensorflow-datasets|TensorFlow Datasets (TFDS)]] — TensorFlow Datasets (TFDS) is a project that makes it trivial to download and use common datasets for machine learning. 
+- [[entities/tensorflow-feature-columns|TensorFlow Feature Columns]] — The TensorFlow Feature Column API is a set of functions that serve as a bridge between raw data (such as columns in a CS
+- [[entities/tensorflow-features-api|TensorFlow Features API]] — The TensorFlow Features API is a component of the TensorFlow ecosystem that helps manage and preprocess diverse types of
+- [[entities/tensorflow-playground|TensorFlow Playground]] — TensorFlow Playground is an educational, interactive web application that provides a visual interface for building, trai
 - [[entities/tensorflow|TensorFlow]] — TensorFlow is described as a "now almost ubiquitous machine learning framework." It is presented as a key product that i
 - [[entities/tesla-autopilot|Tesla Autopilot]] — Tesla Autopilot is an advanced driver-assistance system featured in the company's vehicles. The text discusses it in the
+- [[entities/textrunner|TEXTRUNNER]] — TEXTRUNNER is presented as a representative machine-reading system designed to extract relational information from text.
+- [[entities/the-eff-ai-progress-measurement|The EFF (AI Progress Measurement)]] — The EFF is an organization that, as one of its activities, collects and maintains statistics about the progress of AI ac
+- [[entities/the-kroger-co|The Kroger Co.]] — The Kroger Co. is presented as a prime example of a company using AI to transform its operations and make its existing s
 - [[entities/the-next-rembrandt|The Next Rembrandt]] — "The Next Rembrandt" was created approximately 350 years after the artist's death using artificial intelligence. Scienti
 - [[entities/the-wharton-school|The Wharton School]] — The Wharton School is the business school of the University of Pennsylvania. It is the academic home of Stefano Puntoni,
+- [[entities/thomas-bayes|Thomas Bayes]] — The Reverend Thomas Bayes is credited as the first person to discover a special case of the formula now known as Bayes' 
+- [[entities/thomas-verma|Thomas Verma]] — Thomas Verma was a highly talented student who began working with Judea Pearl at the age of sixteen. His father brought 
+- [[entities/thucydides|Thucydides]] — Thucydides was an ancient Greek historian, often described as a pioneer of a “scientific” approach to history due to his
+- [[entities/timothy-bresnahan|Timothy Bresnahan]] — Timothy Bresnahan is an economist affiliated with the Department of Economics at Stanford University. He is the author o
+- [[entities/torsten-wiesel|Torsten Wiesel]] — Torsten Wiesel is a neurophysiologist who shared the 1981 Nobel Prize in Physiology or Medicine with David H. Hubel for 
+- [[entities/toyota-research-institute|Toyota Research Institute (TRI)]] — The Toyota Research Institute (TRI) is described as having a mission to improve the quality of human life through advanc
+- [[entities/traveling-salesperson-problem-tsp|Traveling Salesperson Problem (TSP)]] — The Traveling Salesperson Problem (TSP) is a standard combinatorial problem in theoretical computer science and a subjec
+- [[entities/trygve-haavelmo|Trygve Haavelmo]] — Trygve Haavelmo was an economist whose work was crucial for introducing formal causal and probabilistic thinking into ec
+- [[entities/tt-entails|TT-ENTAILS?]] — `TT-ENTAILS?` is a specific algorithm presented for deciding entailment in propositional logic. It is a direct implement
 - [[entities/uber|Uber]] — Uber's platform exhibits indirect network effects, where riders value a large number of drivers and vice versa. However,
+- [[entities/unilever|Unilever]] — Unilever is a company that utilizes AI in its business operations and has developed a sophisticated governance framework
+- [[entities/us-census-bureau|U.S. Census Bureau]] — The U.S. Census Bureau is a federal agency responsible for a wide range of statistical data collection. Its work provide
+- [[entities/us-government|US Government]] — While the US government had a slow start in adopting AI outside of military and intelligence sectors, it has "come on st
+- [[entities/us-surgeon-generals-report-1964|US Surgeon General's Report on Smoking and Health (1964)]] — The 1964 report by the US Surgeon General was a pivotal moment in the history of public health and the culmination of ov
+- [[entities/variational-rnn|Variational RNN]] — The Variational RNN (Chung et al., 2015b) is a model that extends the Variational Autoencoder (VAE) framework to generat
+- [[entities/visicalc|VisiCalc]] — VisiCalc was the first electronic spreadsheet program, created by Dan Bricklin (141, 163, 164). Its introduction on pers
+- [[entities/vladimir-vapnik|Vladimir Vapnik]] — Vladimir Vapnik is a key figure in the development of modern machine learning theory and a primary developer of Support 
 - [[entities/walmart|Walmart]] — Founded by Sam Walton in 1962, Walmart has historically been a leader in leveraging technology within a traditional reta
+- [[entities/walter-pitts|Walter Pitts]] — Walter Pitts was a mathematician and logician who made seminal contributions to computational neuroscience and the nasce
+- [[entities/warren-abstract-machine|Warren Abstract Machine (WAM)]] — The Warren Abstract Machine, or WAM, is the most popular intermediate language used for compiling Prolog. It is named af
+- [[entities/warren-mcculloch-and-walter-pitts|Warren McCulloch and Walter Pitts]] — The 1943 work of Warren McCulloch and Walter Pitts is considered the first work in the field of Artificial Intelligence.
+- [[entities/warren-mcculloch|Warren McCulloch]] — Warren McCulloch was a neurophysiologist who made foundational contributions to the fields of artificial intelligence an
+- [[entities/warren-weaver|Warren Weaver]] — Warren Weaver was a pivotal figure in the early history of machine translation. In March 1947, while at the Rockefeller 
+- [[entities/webbs-ai-exposure-measures|Webb's AI Exposure Measures]] — Webb's AI Exposure Measures are a previously developed set of metrics that quantify the exposure of different occupation
 - [[entities/wechat|WeChat]] — WeChat is an app created by Tencent that allows users to transfer money instantly, digitally, and securely. Its use is w
+- [[entities/well|Well]] — Well is a startup company that had artificial intelligence at its core from its very beginning. It is presented as a cas
 - [[entities/wharton|The Wharton School]] — The Wharton School is a prominent business school where Stefano Puntoni is a professor. It serves as a setting for devel
+- [[entities/william-kruskal|William Kruskal]] — William Kruskal was a statistician at the University of Chicago who engaged in a critical discussion with Peter Bickel f
+- [[entities/wordnet|Wordnet]] — Wordnet is a publicly available dictionary resource for the English language. It contains a large vocabulary of approxim
+- [[entities/wumpus-world|Wumpus World]] — The wumpus world is a canonical environment used in AI to demonstrate the capabilities of knowledge-based agents. The wo
+- [[entities/xception|Xception]] — Xception is a specific deep convolutional neural network architecture. The text presents it as an example of a powerful 
+- [[entities/xgboost|XGBoost]] — XGBoost, which stands for Extreme Gradient Boosting, is a popular and highly optimized open-source library that provides
 - [[entities/yann-lecun|Yann LeCun]] — Yann LeCun is a significant figure in the AI field, identified as a good friend of Geoffrey Hinton going back decades. H
 - [[entities/yodle|Yodle]] — Yodle was a marketing platform designed to help small, hyperlocal businesses advertise on Google and other digital platf
+- [[entities/yolov3|YOLOv3]] — YOLOv3 ("You Only Look Once" version 3) is a well-known object detection system. It is presented as an example of a mode
+- [[entities/yoshua-bengio|Yoshua Bengio]] — Yoshua Bengio is identified as one of the three authors of the book "Deep Learning". His name is featured prominently on
+- [[entities/yurii-nesterov|Yurii Nesterov]] — Yurii Nesterov is a researcher whose work has had a significant impact on the field of optimization for machine learning
+- [[entities/zens-et-al-2020|Zens et al. (2020)]] — Zens, Böck, and Zörner (2020) is a paper published in the *Journal of Economic Dynamics and Control* that examines how m
+- [[entities/ziprecruiter|ZipRecruiter]] — ZipRecruiter is an online job board whose core product is a matching algorithm. This algorithm serves as a modern, scala
 
 ## Query-Synthesized Pages (3)
 
@@ -349,24 +1775,37 @@ Master catalog — 389 pages · last rebuilt 2026-05-09
 - [[synthesized/beginner-ai-video-learning-path|Beginner AI Video Learning Path: A Three-Tier Scaffolding]] — For a beginner trying to orient themselves in the AI landscape, the sheer volume of available video content can be paral
 - [[synthesized/genai-impact-on-hr-functions|GenAI's Impact on Human Resources: A Function-by-Function Framework]] — Generative AI is not simply automating discrete HR tasks — it is restructuring the entire logic of how human resources f
 
-## RAG Stubs (51)
+## RAG Stubs (72)
 
+- [[stubs/stub-1-s20-s0048733325001143-main|Artificial Intelligence, Tasks, Skills, and Wages: Worker-Level Evidence from Germany]] — This paper (Engberg, Koch, Lodefalk, & Schroeder, published in *Research Policy* 54, 2025) examines how artificial intel
+- [[stubs/stub-230206590v1|2302.06590V1]] — This paper presents results from a controlled experiment measuring the impact of GitHub Copilot, an AI pair programming 
+- [[stubs/stub-230310130v5|2303.10130V5]] — This paper by Eloundou, Manning, Mishkin, and Rock (OpenAI / University of Pennsylvania, 2023) investigates the potentia
+- [[stubs/stub-230411771v2|Generative AI at Work (2304.11771V2)]] — This paper by Erik Brynjolfsson, Danielle Li, and Lindsey Raymond (Stanford, MIT, NBER) studies the impact of a generati
 - [[stubs/stub-342-the-secrets-to-high-ai-adoption-with-stefano-puntoni-professor-at-wharton-ij|342 The Secrets To High Ai Adoption With Stefano Puntoni Professor At Wharton]] — This is an episode of DataCamp's Data Framed podcast (published 2026-01-19) featuring Stefano Puntoni, Sebastian S. Kres
 - [[stubs/stub-a-humans-guide-to-machine-intelligence-pdf|A Human's Guide to Machine Intelligence PDF]] — Written by Kartik Hosanagar, this book examines how algorithms are shaping human lives and decision-making, and how indi
+- [[stubs/stub-acss-newfrontiers-20220814|Acss Newfrontiers 20220814]] — This paper by David Autor, Caroline Chin, Anna Salomons, and Bryan Seegmiller (August 2022) investigates the role of new
 - [[stubs/stub-ai-and-the-new-rules-of-leadership-sneak-peek-with-karim-lakhani-ujgl5cw8vuw|AI and the New Rules of Leadership — Sneak Peek with Karim Lakhani]] — This is a short teaser video from the HBS Club of the GCC featuring Harvard Professor Karim Lakhani, previewing an upcom
 - [[stubs/stub-ai-needs-clinical-trials-harvards-findings-on-democratization-karim-r-lakhani-te|AI Needs Clinical Trials: Harvard's Findings on Democratization | Karim R. Lakhani | TEDxBoston]] — Harvard Business School professor Karim R. Lakhani presents research from Harvard's Digital Data Design Institute on con
 - [[stubs/stub-ai-wont-replace-humansbut-humans-with-ai-will-replace-humans-without-ai-kngr99lo|AI Won't Replace Humans—But Humans With AI Will Replace Humans Without AI]] — This is an interview from Harvard Business Review's "The New World of Work" video series (August 2023), in which HBR edi
 - [[stubs/stub-ai|AI]] — This source is a composite document covering two main areas: (1) a skills cluster guide for AI, Data & Analytics within 
+- [[stubs/stub-all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence-9781647824|All In on AI: How Smart Companies Win Big with Artificial Intelligence]] — Written by Thomas H. Davenport and Nitin Mittal and published by Harvard Business Review Press, this book examines organ
+- [[stubs/stub-artificial-intelligence-a-modern-approach-stuart-russel-peter-norvig-a-modern-ap|Artificial Intelligence: A Modern Approach (3rd Edition) — Stuart Russell & Peter Norvig]] — This is the third edition (2010) of the definitive textbook on artificial intelligence by Stuart Russell (UC Berkeley) a
+- [[stubs/stub-aurélien-géron-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-|Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition, 2019)]] — This is the second edition of Aurélien Géron's comprehensive, practice-oriented textbook covering machine learning from 
+- [[stubs/stub-automation-and-new-tasks-how-technology-displace|Automation and New Tasks: How Technology Displaces and Reinstates Labor]] — This paper by Daron Acemoglu and Pascual Restrepo (Journal of Economic Perspectives, Spring 2019) presents a task-based 
 - [[stubs/stub-being-human-in-age-of-ai|Being Human In Age Of Ai]] — This source is an introduction to a JACR (Journal of the Association for Consumer Research) special issue on the Automat
+- [[stubs/stub-bresnahan-2023-what-innovation-paths-for-ai-to-become-a-gpt|Bresnahan 2023 What Innovation Paths For Ai To Become A Gpt]] — Timothy Bresnahan (Stanford) examines the innovation paths through which artificial intelligence technologies (AITs) mig
 - [[stubs/stub-business-technology-and-innovation-with-ai-faculty-speak-vishal-karungulam-xdr-f|Business Technology And Innovation With Ai Faculty Speak Vishal Karungulam Xdr Fspx1U]] — This is a faculty speak video by Vishal Karungulam, published by ISB Online, introducing the Certificate Programme in Bu
 - [[stubs/stub-business-technology-innovation-with-ai-faculty-speak-vishal-karungulam-2lv9sxfyz|Business Technology Innovation With Ai Faculty Speak Vishal Karungulam 2Lv9Sxfyzgw]] — This video features Vishal Karungulam, Clinical Assistant Professor at ISB, discussing the Business Technology & Innovat
 - [[stubs/stub-can-ai-be-conscious-anil-seth-on-sentient-machines-86mpompfiwk|Can AI Be Conscious? Anil Seth on Sentient Machines]] — This episode of Creative Intelligence features a conversation between host Kartik Hosanagar (Wharton School professor an
+- [[stubs/stub-canariesinthecoalmine-nov25|Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence]] — This November 2025 paper by Erik Brynjolfsson, Bharat Chandar, and Ruyu Chen uses high-frequency administrative payroll 
 - [[stubs/stub-competing-in-the-age-of-ai-expert-karim-lakhani-from-d3-at-harvard-business-scho|Competing in the Age of AI — Karim Lakhani, D³ at Harvard Business School]] — Harvard Business School professor Karim Lakhani presents a talk on competing in the age of AI, drawing on his research t
 - [[stubs/stub-competing-in-the-age-of-ai-marco-iansiti-and-karim-r-lakhani-xhm5ckwig0|Competing In The Age Of Ai Marco Iansiti And Karim R Lakhani Xhm5Ckwig0]] — This is a presentation by Harvard Business School Professors Marco Iansiti and Karim R. Lakhani discussing their book "C
 - [[stubs/stub-competing-in-the-age-of-ai-strategy-and-leadership-when-algorithms-and-networks-|Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World]] — This book by Marco Iansiti and Karim R. Lakhani (Harvard Business Review Press, 2020) examines how artificial intelligen
 - [[stubs/stub-consumers-and-artificial-intelligence|Consumers And Artificial Intelligence]] — This is a 2021 article published in the *Journal of Marketing* (Vol. 85, Issue 1) by Stefano Puntoni, Rebecca Walker Rec
 - [[stubs/stub-creativity-in-ai-with-music-derek-ali-bas-karim-lakhani-leading-with-ai-session-|Creativity In Ai With Music Derek Ali Bas Karim Lakhani Leading With Ai Session Lcrw1Hktcfw]] — This is a recorded session from the Harvard Business School AI Institute's "Leading with AI" series (June 2024) featurin
+- [[stubs/stub-deeplearningiangoodfellow|Deep Learning — Ian Goodfellow, Yoshua Bengio, and Aaron Courville]] — This is the seminal textbook on deep learning authored by Ian Goodfellow, Yoshua Bengio, and Aaron Courville. The book p
 - [[stubs/stub-digital-transformation-strategy-become-an-ai-company-with-hbs-prof-karim-lakha-e|Digital Transformation Strategy Become An Ai Company With Hbs Prof Karim Lakha Exmnqbstf7Q]] — HBS Professor Karim Lakhani discusses how established organizations can develop enterprise AI and digital transformation
+- [[stubs/stub-economics-manag-strategy-2024-mcelheran-ai-adoption-in-america-who-what-and-wher|Economics Manag Strategy 2024 Mcelheran Ai Adoption In America Who What And Where]] — This paper by McElheran, Li, Brynjolfsson, Kroff, Dinlersoz, Foster, and Zolas (published in the Journal of Economics & 
 - [[stubs/stub-empowering-scientists-lottery-based-funding-system-karim-lakhani-harvard-busines|Empowering Scientists Lottery Based Funding System Karim Lakhani Harvard Busines Ez3Hqcfwu9E]] — A conversation between Dr. David Maslach (R3ciprocity Project) and Professor Karim Lakhani (Harvard Business School) exp
 - [[stubs/stub-from-fear-to-adoption-stefano-puntoni-on-fixing-ai-in-the-workplace-the-data-chi|From Fear To Adoption Stefano Puntoni On Fixing Ai In The Workplace The Data Chi 4Lsw V8Nf5K]] — Wharton Professor Stefano Puntoni joins Cindi Howson on The Data Chief to discuss why AI adoption in the workplace is fa
 - [[stubs/stub-how-ai-changes-the-entire-system-of-work-not-just-your-job-sangeet-paul-choudary|How AI Changes the Entire System of Work (Not Just Your Job) – Sangeet Paul Choudary]] — In this episode of the Creative Intelligence podcast, Sangeet Paul Choudary joins host Kartik Hosanagar to argue that AI
@@ -384,21 +1823,29 @@ Master catalog — 389 pages · last rebuilt 2026-05-09
 - [[stubs/stub-llms-and-alleviating-loneliness-with-dr-stefano-puntoni-ewohruzgsgo|LLMs and Alleviating Loneliness with Dr. Stefano Puntoni]] — This is a podcast episode from The Neural Network (published 2024-10-27) featuring Dr. Stefano Puntoni, a professor of m
 - [[stubs/stub-meet-your-professor-karim-lakhani-3fxd636yto8|Meet Your Professor Karim Lakhani 3Fxd636Yto8]] — This is a short introductory video from the Harvard Business Analytics Program featuring Professor Karim Lakhani discuss
 - [[stubs/stub-not-all-creativity-is-worth-saving-with-david-droga-kzs60wmlwwg|Not All Creativity Is Worth Saving With David Droga]] — This episode of Creative Intelligence features host Kartik Hosanagar (Wharton professor) in conversation with David Drog
+- [[stubs/stub-noy-zhang-1|Noy Zhang 1]] — This is a 2023 working paper by Shakked Noy and Whitney Zhang (MIT) presenting experimental evidence on the productivity
+- [[stubs/stub-occupational-industry-and-geographic-exposure-to-a|Occupational, Industry, and Geographic Exposure to Artificial Intelligence: A Novel Dataset and Its Potential Uses]] — This research article by Edward Felten (Princeton), Manav Raj, and Robert Seamans (NYU Stern), published in the Strategi
 - [[stubs/stub-playing-offense-and-defense-in-the-age-of-ai-with-shishir-mehrotra-4v8ipuv5age|Playing Offense And Defense In The Age Of Ai With Shishir Mehrotra 4V8Ipuv5Age]] — In this episode of Creative Intelligence, host Kartik Hosanagar (Wharton professor) interviews Shishir Mehrotra — CEO of
+- [[stubs/stub-prediction-machines-the-simple-economics-of-artificial-intelligence-by-ajay-agra|Prediction Machines: The Simple Economics Of Artificial Intelligence By Ajay Agrawal]] — This book reframes artificial intelligence through the lens of economics, arguing that AI is fundamentally a prediction 
 - [[stubs/stub-professor-stefano-puntoni-speaks-on-how-ai-is-changing-human-identity-mkpund-pfn|Professor Stefano Puntoni Speaks On How Ai Is Changing Human Identity]] — Professor Stefano Puntoni delivers a talk at Ahmedabad University exploring how rapid advances in artificial intelligenc
 - [[stubs/stub-reskilling-for-an-ai-era-with-keith-ferrazzi-and-gautam-tambay-wws-3jyihxu|Reskilling for an AI Era with Keith Ferrazzi and Gautam Tambay]] — This episode of the Creative Intelligence podcast, hosted by Wharton professor Kartik Hosanagar, features a conversation
 - [[stubs/stub-rethinking-the-ai-stack-data-agentic-ai-and-organizational-design-wharton-global|Rethinking the AI Stack: Data, Agentic AI, and Organizational Design – Wharton Global Forum]] — A panel discussion from the 2025 Wharton Global Forum in San Francisco, moderated by Kartik Hosanagar, featuring leaders
 - [[stubs/stub-rise-of-ai-how-ai-shapes-human-identity-wharton-prof-stefano-puntoni-ripple-effe|Rise of AI: How AI Shapes Human Identity — Wharton Prof. Stefano Puntoni (Ripple Effect Podcast)]] — This is a Knowledge at Wharton Ripple Effect podcast episode (May 2023) featuring Wharton marketing professor Stefano Pu
 - [[stubs/stub-rise-of-ai-how-do-we-coexist-with-algorithms-kartik-hosanagar-ripple-effect-podc|Rise of AI: How Do We Coexist with Algorithms? | Kartik Hosanagar — Ripple Effect Podcast]] — Wharton professor Kartik Hosanagar discusses the rapid acceleration of AI development and its transformative implication
 - [[stubs/stub-scaling-through-machine-intelligence-and-data-science-oqgqrco4we0|Scaling Through Machine Intelligence And Data Science Oqgqrco4We0]] — This is a Wharton Scale School event (the ninth in the series) hosted at the Wharton San Francisco campus, focused on ho
+- [[stubs/stub-ssrn-4573321|Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality]] — This paper, published in *Organization Science* (INFORMS), presents a large-scale field experiment with 758 Boston Consu
 - [[stubs/stub-stefano-puntoni-decision-driven-analytics-talks-at-google-mvee-jedth8|Stefano Puntoni | Decision-Driven Analytics | Talks at Google]] — Professor Stefano Puntoni of The Wharton School discusses his book "Decision-Driven Analytics: Leveraging Human Intellig
 - [[stubs/stub-stefano-puntoni-knowledge-base|Stefano Puntoni Knowledge Base]] — This knowledge base compiles articles, publications, and podcast appearances by Stefano Puntoni, a Wharton professor foc
+- [[stubs/stub-the-book-of-why-the-new-science-of-cause-and-effect-pdfdrive|The Book Of Why: The New Science Of Cause And Effect]] — Written by Turing Award winner Judea Pearl and Dana Mackenzie (2018), this book presents the "new science" of causal inf
 - [[stubs/stub-the-founding-fathers-of-modern-ai-with-cade-metz-lknojlnfsne|The Founding Fathers Of Modern Ai With Cade Metz Lknojlnfsne]] — This is a conversation between Wharton professor Kartik Hosanagar and New York Times reporter Cade Metz, author of *Geni
 - [[stubs/stub-the-rise-of-ai-an-alternative-to-human-replacement-spbtoslojk|The Rise Of Ai An Alternative To Human Replacement Spbtoslojk]] — This is a conversation with Stefano Puntoni, AI at Wharton faculty co-director, discussing how to reframe the dominant "
 - [[stubs/stub-the-rise-of-ai-creating-a-dominant-design-fke5fzr5fag|The Rise Of Ai Creating A Dominant Design Fke5Fzr5Fag]] — This is a conversation between Wharton professors Rahul Kapoor (management department chairperson) and Stefano Puntoni (
+- [[stubs/stub-the-simple-macroeconomics-of-ai|The Simple Macroeconomics Of Ai]] — This paper by Daron Acemoglu (MIT, 2024) evaluates claims about the large macroeconomic implications of advances in AI u
 - [[stubs/stub-this-is-what-ai-native-actually-looks-like-in-finance-feat-karim-lakhani-dfugiyp|This Is What AI-Native Actually Looks Like In Finance (Feat. Karim Lakhani)]] — This Brew Markets video explores what an "AI-native" financial firm looks like, featuring discussion with Karim Lakhani 
 - [[stubs/stub-understanding-ai-kartik-hosanagar-0ff9ni0kutu|Understanding AI | Kartik Hosanagar]] — This is a CGTN America interview (2024) with Kartik Hosanagar, Professor and Co-Director of AI at Wharton (University of
 - [[stubs/stub-vishal-karungulam-knowledge-base|Vishal Karungulam Knowledge Base]] — This knowledge base compiles articles, publications, podcast appearances, and LinkedIn posts by or about Vishal Karungul
+- [[stubs/stub-w25148|W25148 — The Productivity J-Curve: How Intangibles Complement General Purpose Technologies]] — This NBER working paper by Erik Brynjolfsson, Daniel Rock, and Chad Syverson (2018, revised 2020) proposes that the adop
+- [[stubs/stub-w32140|W32140]] — This is NBER Working Paper 32140 by David Autor (February 2024), titled "Applying AI to Rebuild Middle Class Jobs" (publ
 - [[stubs/stub-welcome-to-creative-intelligence-gkgbp4txoi8|Welcome To Creative Intelligence Gkgbp4Txoi8]] — This is a short trailer/teaser video for "Creative Intelligence," a new podcast hosted by Kartik Hosanagar, Faculty Co-D
 - [[stubs/stub-wharton-professor-stefano-puntoni-offers-insights-on-generative-ai-and-customer-|Wharton Professor Stefano Puntoni Offers Insights On Generative Ai And Customer Experience]] — Wharton marketing professor Stefano Puntoni discusses the impact of generative AI on business and customer experience (C
 - [[stubs/stub-what-happens-if-you-ignore-ai-adoption-in-your-organization-faculty-qa-cvfeedy2s|What Happens If You Ignore AI Adoption In Your Organization — Faculty Q&A]] — This is a faculty Q&A video from HBS Online featuring Harvard Business School Professor Karim Lakhani, exploring the con

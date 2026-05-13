@@ -3,6 +3,10 @@ type: concept
 aliases: [Human-AI Collaboration]
 summary: A strategic approach to AI adoption that frames AI as a complementary tool to enhance human expertise and productivity, rather than as a replacement for human workers.
 relationships:
+  - target: jagged-frontier-of-ai
+    type: is_challenged_by
+  - target: knowledge-work
+    type: is_applied_to
   - target: generative-ai
     type: is_application_of
   - target: generative-ai-in-market-research
@@ -35,3 +39,9 @@ A primary application of this principle is in the realm of creativity and ideati
 
 ---
 *Extracted from: 342 The Secrets To High Ai Adoption With Stefano Puntoni Professor At Wharton Ijm5K82Ma3G*
+
+---
+*Also referenced in: 2304.11771V2*
+
+---
+*Also referenced in: Ssrn 4573321*

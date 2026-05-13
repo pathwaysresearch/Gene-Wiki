@@ -3,6 +3,10 @@ type: entity
 aliases: [OpenAI]
 summary: The company that developed the GPT series of models and the widely adopted generative AI product, ChatGPT.
 relationships:
+  - target: artificial-general-intelligence
+    type: defines
+  - target: gpt-4
+    type: created
   - target: chatgpt
     type: created
 tags: [ai-company, research-lab]
@@ -23,3 +27,9 @@ OpenAI played a crucial role in bringing generative AI to the masses by creating
 
 ---
 *Extracted from: Ai*
+
+---
+*Also referenced in: 2303.10130V5*
+
+---
+*Also referenced in: W32140*

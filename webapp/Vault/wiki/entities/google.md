@@ -3,6 +3,12 @@ type: entity
 aliases: [Google]
 summary: A technology company whose ad-targeting algorithms are cited as an example of machine learning systems that can inadvertently reinforce existing social biases.
 relationships:
+  - target: peter-norvig
+    type: employs
+  - target: adversarial-machine-learning
+    type: pioneered
+  - target: tensorflow
+    type: created
   - target: machine-intelligence
     type: is_practitioner_of
   - target: ai-first-strategy
@@ -50,3 +56,9 @@ The bias in Google's algorithms underscores the potential for such systems to cr
 
 ---
 *Also referenced in: Scaling Through Machine Intelligence And Data Science Oqgqrco4We0*
+
+---
+*Also referenced in: Aurélien Géron Hands On Machine Learning With Scikit Learn Keras And Tensorflow  Concepts Tools And Techniques To Build Intelligent Systems O’Reilly Media 2019*
+
+---
+*Also referenced in: Prediction Machines The Simple Economics Of Artificial Intelligence By Ajay Agrawal *

@@ -3,6 +3,8 @@ type: entity
 aliases: [Deep Blue]
 summary: A chess-playing computer whose victory over world champion Garry Kasparov sparked debate about the nature of artificial intelligence and its real-world applicability.
 relationships:
+  - target: chess
+    type: plays
   - target: garry-kasparov
     type: competed_against
 tags: [ai-system, computer, chess]
@@ -26,3 +28,6 @@ Over time, the perception of Deep Blue's achievement shifted. Critics began to a
 
 ---
 *Extracted from: A Human'S Guide To Machine Intelligence Pdf*
+
+---
+*Also referenced in: Artificial Intelligence  A Modern Approach    Stuart Russel, Peter Norvig    A Modern Approach, 3, 2010    Prentice Hall    6Bb5C49523E9F607E191Eb2049B7770E    Anna’S Archive*

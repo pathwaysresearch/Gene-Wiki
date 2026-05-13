@@ -3,6 +3,12 @@ type: concept
 aliases: [Algorithmic Bias]
 summary: The tendency of algorithms to reflect and amplify existing societal prejudices, leading to unfair or harmful outcomes. The tendency of algorithms to produce systemically prejudiced results, often by inheriting biases present in their training data, which requires active mitigation. The tendency of machine learning systems to perpetuate and reinforce existing social biases and inequalities present in their training data.
 relationships:
+  - target: data-and-trust-alliance
+    type: addressed_by
+  - target: equal-ai
+    type: addressed_by
+  - target: partnership-on-ai
+    type: addressed_by
   - target: machine-intelligence
     type: is_limitation_of
   - target: amazon
