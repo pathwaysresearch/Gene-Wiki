@@ -1,6 +1,6 @@
 # Wiki Index
 
-Master catalog — 1836 pages · last rebuilt 2026-05-13
+Master catalog — 1836 pages · last rebuilt 2026-05-14
 
 ## Extracted Concepts (1347)
 

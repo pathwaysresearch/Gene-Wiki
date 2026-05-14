@@ -4,7 +4,7 @@ Ingest orchestrator for the Two-Tier LLM Wiki.
 Usage (from project root):
     python scripts/ingest.py --scan              # list new files + routing plan
     python scripts/ingest.py --process <path>    # chunk + embed a single RAG file
-    python scripts/ingest.py --process-all       # chunk + embed ALL RAG-routed files
+    python scripts/ingest.py --process-all       # chunk + embed ALL RAG-routed files (Not All which ever is new)
     python scripts/ingest.py --search "query"    # BM25 search over RAG chunks (quick lookup)
 
 After running --process or --process-all, use Claude Code to create wiki pages / stubs.

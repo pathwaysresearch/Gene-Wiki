@@ -1,0 +1,22 @@
+# Week 1 - Video 9 - Non-technical explanation of deep learning (Part 2, optional)
+
+**Channel:** M. Iftikhar Uddin Khan Sami   |   **Date:** 2020-05-15   |   **URL:** https://www.youtube.com/watch?v=Z8HXukjjNLY
+
+## Description
+
+AI is not only for engineers. If you want your organization to become better at using AI, this is the course to tell everyone--especially your non-technical colleagues--to take. 
+
+In this course, you will learn:
+
+- The meaning behind common AI terminology, including neural networks, machine learning, deep learning, and data science
+- What AI realistically can--and cannot--do
+- How to spot opportunities to apply AI to problems in your own organization
+- What it feels like to build machine learning and data science projects
+- How to work with an AI team and build an AI strategy in your company
+- How to navigate ethical and societal discussions surrounding AI
+
+Though this course is largely non-technical, engineers can also take this course to learn the business aspects of AI.
+
+## Transcript
+
+in the last video you saw how a neural network can be applied to demand prediction but how can a new network look at the picture and figure out what's in the picture or listen to an audio clip and understand what is said in an audio clip let's take a look at a more complex example of applying a neural network to face recognition say you want to build a system to recognize people from pictures how can a piece of software look at this picture and figure out the identity of the person in it let's zoom in to a little square like that to better understand how a computer sees pictures where you and I see a human eye a computer is that sees that it sees this grid of pixel brightness values that tells it for each of the pixels in the image how bright is that pixel if it were a black and white or a grayscale image then each pixel would correspond to a single number of telling you how bright is that pixel if is a color image then each pixel would actually have three numbers corresponding to how bright are the red green and blue elements of that pixel so the new network's job is to take us input a lot of numbers like these and tell you the name of the person in the picture in the last video you saw how a new network can take as input four numbers corresponding to the price shipping cost amount of marketing and cloth material of a t-shirt and output demand in this example the neural network just has to input a lot more numbers corresponding to all of the pixel brightness values of this picture if the resolution of this picture is 1000 pixels by 1000 pixels then that's a million pixels so if it were a black and white or grayscale image this neural network was take as input a million numbers corresponding to the brightness of all 1 million pixels in this image or it was a color image it would take as input 3 million number corresponding to the red green and blue values of each of these 1 million pixels in this image similar to before you will have many many of these artificial neurons computing various values and it's not your job to figure out what these neurons should compute the new network will figure it out by itself but typically when you give it an image the neurons in the earlier parts of the neural network will learn to detect edges in pictures and then a little bit later or learn to detect parts of objects so we learn to detect eyes and noses and the shape of cheeks in the shape of models and then the later neurons further to the right will learn to detect different shapes of faces and it will finally put all this together to output the identity of the person in the image and again part of the magic of neural networks is that you don't really need to worry about what it is doing in the middle all you need to do is given a lot of data of pictures like this a as well as of the correct identity B and the learning algorithm will figure out by itself what each of these neurons in the middle should be computing congratulations on finishing all the videos for this week you now know how machine learning and data science work I look forward to seeing you in next week's videos as well where you learn how to build your own machine learning or data science project see you next week
