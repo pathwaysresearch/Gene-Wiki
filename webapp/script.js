@@ -343,7 +343,7 @@ function showWikiPropose(messageEl, metadata, originalQuery) {
     proposeDiv.className = "wiki-propose-area";
     proposeDiv.innerHTML = `
         <div class="wiki-propose-header">
-            <span>💡 Prof. Gene suggests updating the Wiki with this synthesis.</span>
+            <span>💡 Prof. Aimee suggests updating the Wiki with this synthesis.</span>
         </div>
         <div class="wiki-synthesis-preview">${metadata.new_synthesis}</div>
         <div class="wiki-actions">
