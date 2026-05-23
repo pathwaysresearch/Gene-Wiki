@@ -99,6 +99,8 @@ def query_streaming(
     ):
         if event_type == "text":
             yield ("text", data)
+        elif event_type == "keepalive":
+            yield ("keepalive", None)
         elif event_type == "metadata":
             metadata = data
 

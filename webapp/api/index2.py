@@ -153,6 +153,8 @@ def chat():
             for event_type, data in query_streaming(user_message, kb, wiki_client, main_client, bloom_level=bloom_level, use_wiki=use_wiki):
                 if event_type == "text":
                     yield f"data: {json.dumps({'text': data})}\n\n"
+                elif event_type == "keepalive":
+                    yield "data: {}\n\n"
                 elif event_type == "done":
                     # Capture the metadata when the stream finishes
                     metadata = data

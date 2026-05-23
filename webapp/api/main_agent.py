@@ -190,7 +190,7 @@ def run_main_llm_streaming(
             system=system,
             messages=messages,
             tools=current_tool_list,
-            max_tokens=4096,
+            max_tokens=8192,
         ):
             if event == "text":
                 text_chunk     = payload
@@ -236,6 +236,10 @@ def run_main_llm_streaming(
         for tc in final_response.tool_calls:
             if tc.name == "rag_search":
                 print(f"[MainLLM] rag_search({tc.input.get('query')!r})")
+                # Keepalive before each Gemini embedding call (3-5 s each).
+                # When the model returns multiple tool_use blocks in one response,
+                # all fire back-to-back — without this, silence = n_calls × 5 s.
+                yield ("keepalive", None)
                 rag_results = do_rag_search(
                     query=tc.input.get("query", user_query),
                     chunks=chunks,
@@ -251,6 +255,10 @@ def run_main_llm_streaming(
                     rag_chunks_collected.append(r)
                 tool_calls_to_run.append(tc)
                 results.append(json.dumps(rag_results, ensure_ascii=False))
+
+        # Keepalive: RAG embedding call can take 3-5 s with no SSE data sent.
+        # Yield a no-op event so the connection doesn't stall/time out.
+        yield ("keepalive", None)
 
         safe_len = max(0, len(tail_buffer) - len(_METADATA_MARKER))
         if safe_len > 0:
