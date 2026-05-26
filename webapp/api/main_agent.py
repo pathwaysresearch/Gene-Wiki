@@ -6,9 +6,15 @@ generator run_main_llm_streaming (the Gene persona / answer synthesiser).
 """
 
 import json
+import time
+import concurrent.futures
 
 from rag import _extract_json, do_rag_search
 from llm_client import LLMClient
+
+# One shared executor — RAG embedding calls run here so the generator thread
+# can keep yielding keepalives while Gemini is in flight.
+_executor = concurrent.futures.ThreadPoolExecutor(max_workers=4)
 
 # ---------------------------------------------------------------------------
 # MAIN_LLM tool definition
@@ -230,34 +236,41 @@ def run_main_llm_streaming(
                 tail_buffer = ""
             break
 
-        # Execute rag_search tool call(s), then resume streaming
+        # Execute rag_search tool call(s), then resume streaming.
+        # Each call hits the Gemini embedding API (3-5 s, up to ~30 s on slow
+        # networks). We run each call in a thread and poll every second so the
+        # generator can keep yielding keepalives — preventing SSE idle timeouts
+        # regardless of how long the network takes.
         tool_calls_to_run = []
         results           = []
         for tc in final_response.tool_calls:
-            if tc.name == "rag_search":
-                print(f"[MainLLM] rag_search({tc.input.get('query')!r})")
-                # Keepalive before each Gemini embedding call (3-5 s each).
-                # When the model returns multiple tool_use blocks in one response,
-                # all fire back-to-back — without this, silence = n_calls × 5 s.
+            if tc.name != "rag_search":
+                continue
+            print(f"[MainLLM] rag_search({tc.input.get('query')!r})")
+            future = _executor.submit(
+                do_rag_search,
+                query=tc.input.get("query", user_query),
+                chunks=chunks,
+                faiss_index=faiss_index,
+                top_k=tc.input.get("top_k", 4),
+                bloom_level=bloom_level,
+            )
+            while not future.done():
                 yield ("keepalive", None)
-                rag_results = do_rag_search(
-                    query=tc.input.get("query", user_query),
-                    chunks=chunks,
-                    faiss_index=faiss_index,
-                    top_k=tc.input.get("top_k", 4),
-                    bloom_level=bloom_level,
-                )
-                _rag_calls_made += 1
-                for r in rag_results:
-                    src = r.get("source", "")
-                    if src and src not in rag_sources_used:
-                        rag_sources_used.append(src)
-                    rag_chunks_collected.append(r)
-                tool_calls_to_run.append(tc)
-                results.append(json.dumps(rag_results, ensure_ascii=False))
+                time.sleep(1)
+            rag_results = future.result()
 
-        # Keepalive: RAG embedding call can take 3-5 s with no SSE data sent.
-        # Yield a no-op event so the connection doesn't stall/time out.
+            _rag_calls_made += 1
+            for r in rag_results:
+                src = r.get("source", "")
+                if src and src not in rag_sources_used:
+                    rag_sources_used.append(src)
+                rag_chunks_collected.append(r)
+            tool_calls_to_run.append(tc)
+            results.append(json.dumps(rag_results, ensure_ascii=False))
+
+        # One final keepalive before handing control back to the LLM.
+        # Covers the Claude API latency-to-first-token gap (~2-5 s).
         yield ("keepalive", None)
 
         safe_len = max(0, len(tail_buffer) - len(_METADATA_MARKER))
